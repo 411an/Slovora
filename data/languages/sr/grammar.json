@@ -1,0 +1,51 @@
+{
+  "tables": {
+    "sr.biti.short.present": {
+      "title": { "ru": "Краткая форма biti (настоящее время)", "en": "Short form of biti (present tense)" },
+      "rows": [
+        { "pronoun_cyr": "ја", "pronoun_lat": "ja", "form_cyr": "сам", "form_lat": "sam" },
+        { "pronoun_cyr": "ти", "pronoun_lat": "ti", "form_cyr": "си", "form_lat": "si" },
+        { "pronoun_cyr": "он", "pronoun_lat": "on", "form_cyr": "је", "form_lat": "je" },
+        { "pronoun_cyr": "она", "pronoun_lat": "ona", "form_cyr": "је", "form_lat": "je" },
+        { "pronoun_cyr": "оно", "pronoun_lat": "ono", "form_cyr": "је", "form_lat": "je" },
+        { "pronoun_cyr": "ми", "pronoun_lat": "mi", "form_cyr": "смо", "form_lat": "smo" },
+        { "pronoun_cyr": "ви", "pronoun_lat": "vi", "form_cyr": "сте", "form_lat": "ste" },
+        { "pronoun_cyr": "они", "pronoun_lat": "oni", "form_cyr": "су", "form_lat": "su" },
+        { "pronoun_cyr": "оне", "pronoun_lat": "one", "form_cyr": "су", "form_lat": "su" },
+        { "pronoun_cyr": "она (мн.)", "pronoun_lat": "ona (pl.)", "form_cyr": "су", "form_lat": "su" }
+      ]
+    },
+    "sr.biti.full.present": {
+      "title": { "ru": "Полная форма biti (настоящее время)", "en": "Full form of biti (present tense)" },
+      "rows": [
+        { "pronoun_cyr": "ја", "pronoun_lat": "ja", "form_cyr": "јесам", "form_lat": "jesam" },
+        { "pronoun_cyr": "ти", "pronoun_lat": "ti", "form_cyr": "јеси", "form_lat": "jesi" },
+        { "pronoun_cyr": "он/она/оно", "pronoun_lat": "on/ona/ono", "form_cyr": "јесте", "form_lat": "jeste" },
+        { "pronoun_cyr": "ми", "pronoun_lat": "mi", "form_cyr": "јесмо", "form_lat": "jesmo" },
+        { "pronoun_cyr": "ви", "pronoun_lat": "vi", "form_cyr": "јесте", "form_lat": "jeste" },
+        { "pronoun_cyr": "они/оне/она", "pronoun_lat": "oni/one/ona", "form_cyr": "јесу", "form_lat": "jesu" }
+      ]
+    },
+    "sr.demonstratives.basic": {
+      "title": { "ru": "Ово", "en": "Ovo" },
+      "rows": [
+        { "word_cyr": "ово", "word_lat": "ovo", "meaning_ru": "это", "meaning_en": "this" }
+      ]
+    },
+    "sr.pronouns.basic": {
+      "title": { "ru": "Личные местоимения", "en": "Personal pronouns" },
+      "rows": [
+        { "pronoun_cyr": "ја", "pronoun_lat": "ja", "meaning_ru": "я", "meaning_en": "I" },
+        { "pronoun_cyr": "ти", "pronoun_lat": "ti", "meaning_ru": "ты", "meaning_en": "you (sg)" },
+        { "pronoun_cyr": "он", "pronoun_lat": "on", "meaning_ru": "он", "meaning_en": "he" },
+        { "pronoun_cyr": "она", "pronoun_lat": "ona", "meaning_ru": "она", "meaning_en": "she" },
+        { "pronoun_cyr": "оно", "pronoun_lat": "ono", "meaning_ru": "оно", "meaning_en": "it" },
+        { "pronoun_cyr": "ми", "pronoun_lat": "mi", "meaning_ru": "мы", "meaning_en": "we" },
+        { "pronoun_cyr": "ви", "pronoun_lat": "vi", "meaning_ru": "вы", "meaning_en": "you (pl)" },
+        { "pronoun_cyr": "они", "pronoun_lat": "oni", "meaning_ru": "они (м)", "meaning_en": "they (m)" },
+        { "pronoun_cyr": "оне", "pronoun_lat": "one", "meaning_ru": "они (ж)", "meaning_en": "they (f)" },
+        { "pronoun_cyr": "она", "pronoun_lat": "ona", "meaning_ru": "они (ср)", "meaning_en": "they (n)" }
+      ]
+    }
+  }
+}

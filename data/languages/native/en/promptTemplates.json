@@ -1,0 +1,41 @@
+{
+  "biti-short-basic": {
+    "1sg": "{subject} am {predicate_sg}.",
+    "2sg": "{subject} are {predicate_sg}.",
+    "3sg": "{subject} is {predicate_sg}.",
+    "1pl": "{subject} are {predicate_pl}.",
+    "2pl": "{subject} are {predicate_pl}.",
+    "3pl": "{subject} are {predicate_pl}.",
+    "default": "{subject} is {predicate_sg}."
+  },
+  "demonstrative-basic": {
+    "3sg": "{subject} is {predicate_sg}.",
+    "3pl": "{subject} are {predicate_pl}.",
+    "default": "{subject} is {predicate_sg}."
+  },
+  "da-li-question": {
+    "1sg": "Am {subject} {predicate_sg}?",
+    "2sg": "Are {subject} {predicate_sg}?",
+    "3sg": "Is {subject} {predicate_sg}?",
+    "1pl": "Are {subject} {predicate_pl}?",
+    "2pl": "Are {subject} {predicate_pl}?",
+    "3pl": "Are {subject} {predicate_pl}?",
+    "default": "Is {subject} {predicate_sg}?"
+  },
+  "short-answer": {
+    "1sg": "Am {subject} {predicate_sg}? (short answer: Yes, {subject} am)",
+    "2sg": "Are {subject} {predicate_sg}? (short answer: Yes, {subject} are)",
+    "3sg": "Is {subject} {predicate_sg}? (short answer: Yes, {subject} is)",
+    "1pl": "Are {subject} {predicate_pl}? (short answer: Yes, {subject} are)",
+    "2pl": "Are {subject} {predicate_pl}? (short answer: Yes, {subject} are)",
+    "3pl": "Are {subject} {predicate_pl}? (short answer: Yes, {subject} are)"
+  },
+  "full-answer": {
+    "1sg": "Am {subject} {predicate_sg}? (full answer: Yes, {subject} am {predicate_sg})",
+    "2sg": "Are {subject} {predicate_sg}? (full answer: Yes, {subject} are {predicate_sg})",
+    "3sg": "Is {subject} {predicate_sg}? (full answer: Yes, {subject} is {predicate_sg})",
+    "1pl": "Are {subject} {predicate_pl}? (full answer: Yes, {subject} are {predicate_pl})",
+    "2pl": "Are {subject} {predicate_pl}? (full answer: Yes, {subject} are {predicate_pl})",
+    "3pl": "Are {subject} {predicate_pl}? (full answer: Yes, {subject} are {predicate_pl})"
+  }
+}

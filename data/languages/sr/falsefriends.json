@@ -1,0 +1,8234 @@
+[
+  {
+    "id": "ff_0000",
+    "sr_trap": {
+      "text": "преправити",
+      "meaning_id": "m_0000"
+    },
+    "ru_correct": {
+      "text": "переделать",
+      "meaning_id": "m_0000"
+    },
+    "ru_false": {
+      "text": "переправить",
+      "meaning_id": "m_0001"
+    },
+    "sr_for_ru_false": {
+      "text": "превести",
+      "meaning_id": "m_0001"
+    },
+    "collision_groups": [
+      "cg_m_0000_m_0001"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0001",
+    "sr_trap": {
+      "text": "поспешити",
+      "meaning_id": "m_0002"
+    },
+    "ru_correct": {
+      "text": "ускорить",
+      "meaning_id": "m_0002"
+    },
+    "ru_false": {
+      "text": "поспешить",
+      "meaning_id": "m_0003"
+    },
+    "sr_for_ru_false": {
+      "text": "пожурити",
+      "meaning_id": "m_0003"
+    },
+    "collision_groups": [
+      "cg_m_0002_m_0003"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0003",
+    "sr_trap": {
+      "text": "банка",
+      "meaning_id": "m_0004"
+    },
+    "ru_correct": {
+      "text": "банк",
+      "meaning_id": "m_0004"
+    },
+    "ru_false": {
+      "text": "банка",
+      "meaning_id": "m_0005"
+    },
+    "sr_for_ru_false": {
+      "text": "тегла",
+      "meaning_id": "m_0005"
+    },
+    "collision_groups": [
+      "cg_m_0004_m_0005"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0004",
+    "sr_trap": {
+      "text": "безбедност",
+      "meaning_id": "m_0006"
+    },
+    "ru_correct": {
+      "text": "безопасность",
+      "meaning_id": "m_0006"
+    },
+    "ru_false": {
+      "text": "безбедность",
+      "meaning_id": "m_0007"
+    },
+    "sr_for_ru_false": {
+      "text": "имућност",
+      "meaning_id": "m_0007"
+    },
+    "collision_groups": [
+      "cg_m_0006_m_0007"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0005",
+    "sr_trap": {
+      "text": "безвредан",
+      "meaning_id": "m_0008"
+    },
+    "ru_correct": {
+      "text": "ничтожный",
+      "meaning_id": "m_0008"
+    },
+    "ru_false": {
+      "text": "безвредный",
+      "meaning_id": "m_0009"
+    },
+    "sr_for_ru_false": {
+      "text": "нешкодљив",
+      "meaning_id": "m_0009"
+    },
+    "collision_groups": [
+      "cg_m_0008_m_0009"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0006",
+    "sr_trap": {
+      "text": "безобразан",
+      "meaning_id": "m_0010"
+    },
+    "ru_correct": {
+      "text": "бесстыдный",
+      "meaning_id": "m_0010"
+    },
+    "ru_false": {
+      "text": "безобразный",
+      "meaning_id": "m_0011"
+    },
+    "sr_for_ru_false": {
+      "text": "ружан",
+      "meaning_id": "m_0011"
+    },
+    "collision_groups": [
+      "cg_m_0010_m_0011"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0007",
+    "sr_trap": {
+      "text": "бес",
+      "meaning_id": "m_0012"
+    },
+    "ru_correct": {
+      "text": "ярость",
+      "meaning_id": "m_0012"
+    },
+    "ru_false": {
+      "text": "бес",
+      "meaning_id": "m_0013"
+    },
+    "sr_for_ru_false": {
+      "text": "ђаво",
+      "meaning_id": "m_0013"
+    },
+    "collision_groups": [
+      "cg_m_0012_m_0013"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0008",
+    "sr_trap": {
+      "text": "беседа",
+      "meaning_id": "m_0014"
+    },
+    "ru_correct": {
+      "text": "речь",
+      "meaning_id": "m_0014"
+    },
+    "ru_false": {
+      "text": "беседа",
+      "meaning_id": "m_0015"
+    },
+    "sr_for_ru_false": {
+      "text": "разговор",
+      "meaning_id": "m_0015"
+    },
+    "collision_groups": [
+      "cg_m_0014_m_0015"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0009",
+    "sr_trap": {
+      "text": "бескорисно",
+      "meaning_id": "m_0016"
+    },
+    "ru_correct": {
+      "text": "бесполезно",
+      "meaning_id": "m_0016"
+    },
+    "ru_false": {
+      "text": "бескорыстно",
+      "meaning_id": "m_0017"
+    },
+    "sr_for_ru_false": {
+      "text": "несебично",
+      "meaning_id": "m_0017"
+    },
+    "collision_groups": [
+      "cg_m_0016_m_0017"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0011",
+    "sr_trap": {
+      "text": "благо",
+      "meaning_id": "m_0018"
+    },
+    "ru_correct": {
+      "text": "богатство",
+      "meaning_id": "m_0018"
+    },
+    "ru_false": {
+      "text": "благо",
+      "meaning_id": "m_0019"
+    },
+    "sr_for_ru_false": {
+      "text": "добро",
+      "meaning_id": "m_0019"
+    },
+    "collision_groups": [
+      "cg_m_0018_m_0019"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0013",
+    "sr_trap": {
+      "text": "богиње",
+      "meaning_id": "m_0020"
+    },
+    "ru_correct": {
+      "text": "оспа",
+      "meaning_id": "m_0020"
+    },
+    "ru_false": {
+      "text": "богиня",
+      "meaning_id": "m_0021"
+    },
+    "sr_for_ru_false": {
+      "text": "богиња",
+      "meaning_id": "m_0021"
+    },
+    "collision_groups": [
+      "cg_m_0020_m_0021"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0014",
+    "sr_trap": {
+      "text": "боље",
+      "meaning_id": "m_0022"
+    },
+    "ru_correct": {
+      "text": "лучше",
+      "meaning_id": "m_0022"
+    },
+    "ru_false": {
+      "text": "более",
+      "meaning_id": "m_0023"
+    },
+    "sr_for_ru_false": {
+      "text": "више",
+      "meaning_id": "m_0023"
+    },
+    "collision_groups": [
+      "cg_m_0022_m_0023"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0015",
+    "sr_trap": {
+      "text": "бор",
+      "meaning_id": "m_0024"
+    },
+    "ru_correct": {
+      "text": "сосна",
+      "meaning_id": "m_0024"
+    },
+    "ru_false": {
+      "text": "бор",
+      "meaning_id": "m_0025"
+    },
+    "sr_for_ru_false": {
+      "text": "шума",
+      "meaning_id": "m_0025"
+    },
+    "collision_groups": [
+      "cg_m_0024_m_0025"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0016",
+    "sr_trap": {
+      "text": "боров",
+      "meaning_id": "m_0026"
+    },
+    "ru_correct": {
+      "text": "сосновый",
+      "meaning_id": "m_0026"
+    },
+    "ru_false": {
+      "text": "боров",
+      "meaning_id": "m_0027"
+    },
+    "sr_for_ru_false": {
+      "text": "нераст",
+      "meaning_id": "m_0027"
+    },
+    "collision_groups": [
+      "cg_m_0026_m_0027"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0017",
+    "sr_trap": {
+      "text": "брег",
+      "meaning_id": "m_0028"
+    },
+    "ru_correct": {
+      "text": "холм",
+      "meaning_id": "m_0028"
+    },
+    "ru_false": {
+      "text": "берег",
+      "meaning_id": "m_0029"
+    },
+    "sr_for_ru_false": {
+      "text": "обала",
+      "meaning_id": "m_0029"
+    },
+    "collision_groups": [
+      "cg_m_0028_m_0029"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0018",
+    "sr_trap": {
+      "text": "брод",
+      "meaning_id": "m_0030"
+    },
+    "ru_correct": {
+      "text": "корабль",
+      "meaning_id": "m_0030"
+    },
+    "ru_false": {
+      "text": "брод",
+      "meaning_id": "m_0031"
+    },
+    "sr_for_ru_false": {
+      "text": "прелаз",
+      "meaning_id": "m_0031"
+    },
+    "collision_groups": [
+      "cg_m_0030_m_0031"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0019",
+    "sr_trap": {
+      "text": "бука",
+      "meaning_id": "m_0032"
+    },
+    "ru_correct": {
+      "text": "рёв",
+      "meaning_id": "m_0032"
+    },
+    "ru_false": {
+      "text": "бука",
+      "meaning_id": "m_0033"
+    },
+    "sr_for_ru_false": {
+      "text": "страшило",
+      "meaning_id": "m_0033"
+    },
+    "collision_groups": [
+      "cg_m_0032_m_0033"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0020",
+    "sr_trap": {
+      "text": "буква",
+      "meaning_id": "m_0034"
+    },
+    "ru_correct": {
+      "text": "бук",
+      "meaning_id": "m_0034"
+    },
+    "ru_false": {
+      "text": "буква",
+      "meaning_id": "m_0035"
+    },
+    "sr_for_ru_false": {
+      "text": "слово",
+      "meaning_id": "m_0035"
+    },
+    "collision_groups": [
+      "cg_m_0034_m_0035"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0021",
+    "sr_trap": {
+      "text": "булка",
+      "meaning_id": "m_0036"
+    },
+    "ru_correct": {
+      "text": "мак полевой",
+      "meaning_id": "m_0036"
+    },
+    "ru_false": {
+      "text": "булка",
+      "meaning_id": "m_0037"
+    },
+    "sr_for_ru_false": {
+      "text": "векница",
+      "meaning_id": "m_0037"
+    },
+    "collision_groups": [
+      "cg_m_0036_m_0037"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0022",
+    "sr_trap": {
+      "text": "вал",
+      "meaning_id": "m_0038"
+    },
+    "ru_correct": {
+      "text": "волна",
+      "meaning_id": "m_0038"
+    },
+    "ru_false": {
+      "text": "вал",
+      "meaning_id": "m_0039"
+    },
+    "sr_for_ru_false": {
+      "text": "бедем",
+      "meaning_id": "m_0039"
+    },
+    "collision_groups": [
+      "cg_m_0038_m_0039"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0023",
+    "sr_trap": {
+      "text": "вереница",
+      "meaning_id": "m_0040"
+    },
+    "ru_correct": {
+      "text": "невеста",
+      "meaning_id": "m_0040"
+    },
+    "ru_false": {
+      "text": "вереница",
+      "meaning_id": "m_0041"
+    },
+    "sr_for_ru_false": {
+      "text": "поворка",
+      "meaning_id": "m_0041"
+    },
+    "collision_groups": [
+      "cg_m_0040_m_0041"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0024",
+    "sr_trap": {
+      "text": "вести",
+      "meaning_id": "m_0042"
+    },
+    "ru_correct": {
+      "text": "вышивать",
+      "meaning_id": "m_0042"
+    },
+    "ru_false": {
+      "text": "вести",
+      "meaning_id": "m_0043"
+    },
+    "sr_for_ru_false": {
+      "text": "водити",
+      "meaning_id": "m_0043"
+    },
+    "collision_groups": [
+      "cg_m_0042_m_0043"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0025",
+    "sr_trap": {
+      "text": "већ",
+      "meaning_id": "m_0044"
+    },
+    "ru_correct": {
+      "text": "уже.",
+      "meaning_id": "m_0044"
+    },
+    "ru_false": {
+      "text": "вещь",
+      "meaning_id": "m_0045"
+    },
+    "sr_for_ru_false": {
+      "text": "ствар",
+      "meaning_id": "m_0045"
+    },
+    "collision_groups": [
+      "cg_m_0044_m_0045"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0026",
+    "sr_trap": {
+      "text": "вече",
+      "meaning_id": "m_0046"
+    },
+    "ru_correct": {
+      "text": "вечер",
+      "meaning_id": "m_0046"
+    },
+    "ru_false": {
+      "text": "вече",
+      "meaning_id": "m_0047"
+    },
+    "sr_for_ru_false": {
+      "text": "веће",
+      "meaning_id": "m_0047"
+    },
+    "collision_groups": [
+      "cg_m_0046_m_0047"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0027",
+    "sr_trap": {
+      "text": "вешт",
+      "meaning_id": "m_0048"
+    },
+    "ru_correct": {
+      "text": "искусный",
+      "meaning_id": "m_0048"
+    },
+    "ru_false": {
+      "text": "вещь",
+      "meaning_id": "m_0045"
+    },
+    "sr_for_ru_false": {
+      "text": "ствар",
+      "meaning_id": "m_0045"
+    },
+    "collision_groups": [
+      "cg_m_0048_m_0045"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0028",
+    "sr_trap": {
+      "text": "вештица",
+      "meaning_id": "m_0049"
+    },
+    "ru_correct": {
+      "text": "колдунья",
+      "meaning_id": "m_0049"
+    },
+    "ru_false": {
+      "text": "вещица",
+      "meaning_id": "m_0050"
+    },
+    "sr_for_ru_false": {
+      "text": "стварчица",
+      "meaning_id": "m_0050"
+    },
+    "collision_groups": [
+      "cg_m_0049_m_0050"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0029",
+    "sr_trap": {
+      "text": "вила",
+      "meaning_id": "m_0051"
+    },
+    "ru_correct": {
+      "text": "фея",
+      "meaning_id": "m_0051"
+    },
+    "ru_false": {
+      "text": "вилы",
+      "meaning_id": "m_0052"
+    },
+    "sr_for_ru_false": {
+      "text": "виле",
+      "meaning_id": "m_0052"
+    },
+    "collision_groups": [
+      "cg_m_0051_m_0052"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0030",
+    "sr_trap": {
+      "text": "више",
+      "meaning_id": "m_0053"
+    },
+    "ru_correct": {
+      "text": "более",
+      "meaning_id": "m_0053"
+    },
+    "ru_false": {
+      "text": "выше",
+      "meaning_id": "m_0054"
+    },
+    "sr_for_ru_false": {
+      "text": "изнад",
+      "meaning_id": "m_0054"
+    },
+    "collision_groups": [
+      "cg_m_0053_m_0054"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0031",
+    "sr_trap": {
+      "text": "воз",
+      "meaning_id": "m_0055"
+    },
+    "ru_correct": {
+      "text": "поезд",
+      "meaning_id": "m_0055"
+    },
+    "ru_false": {
+      "text": "воз",
+      "meaning_id": "m_0056"
+    },
+    "sr_for_ru_false": {
+      "text": "кола",
+      "meaning_id": "m_0056"
+    },
+    "collision_groups": [
+      "cg_m_0055_m_0056"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0032",
+    "sr_trap": {
+      "text": "враг",
+      "meaning_id": "m_0057"
+    },
+    "ru_correct": {
+      "text": "чёрт",
+      "meaning_id": "m_0057"
+    },
+    "ru_false": {
+      "text": "враг",
+      "meaning_id": "m_0058"
+    },
+    "sr_for_ru_false": {
+      "text": "непријатељ",
+      "meaning_id": "m_0058"
+    },
+    "collision_groups": [
+      "cg_m_0057_m_0058"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0033",
+    "sr_trap": {
+      "text": "врач",
+      "meaning_id": "m_0059"
+    },
+    "ru_correct": {
+      "text": "знахарь",
+      "meaning_id": "m_0059"
+    },
+    "ru_false": {
+      "text": "врач",
+      "meaning_id": "m_0060"
+    },
+    "sr_for_ru_false": {
+      "text": "лекар",
+      "meaning_id": "m_0060"
+    },
+    "collision_groups": [
+      "cg_m_0059_m_0060"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0034",
+    "sr_trap": {
+      "text": "вредан",
+      "meaning_id": "m_0061"
+    },
+    "ru_correct": {
+      "text": "достойный",
+      "meaning_id": "m_0061"
+    },
+    "ru_false": {
+      "text": "вредный",
+      "meaning_id": "m_0062"
+    },
+    "sr_for_ru_false": {
+      "text": "штетан",
+      "meaning_id": "m_0062"
+    },
+    "collision_groups": [
+      "cg_m_0061_m_0062"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0035",
+    "sr_trap": {
+      "text": "вредети",
+      "meaning_id": "m_0063"
+    },
+    "ru_correct": {
+      "text": "стоить",
+      "meaning_id": "m_0063"
+    },
+    "ru_false": {
+      "text": "вредить",
+      "meaning_id": "m_0064"
+    },
+    "sr_for_ru_false": {
+      "text": "штетити",
+      "meaning_id": "m_0064"
+    },
+    "collision_groups": [
+      "cg_m_0063_m_0064"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0036",
+    "sr_trap": {
+      "text": "вредно",
+      "meaning_id": "m_0065"
+    },
+    "ru_correct": {
+      "text": "полезно",
+      "meaning_id": "m_0065"
+    },
+    "ru_false": {
+      "text": "вредно",
+      "meaning_id": "m_0066"
+    },
+    "sr_for_ru_false": {
+      "text": "штетно",
+      "meaning_id": "m_0066"
+    },
+    "collision_groups": [
+      "cg_m_0065_m_0066"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0037",
+    "sr_trap": {
+      "text": "вредност",
+      "meaning_id": "m_0067"
+    },
+    "ru_correct": {
+      "text": "ценность",
+      "meaning_id": "m_0067"
+    },
+    "ru_false": {
+      "text": "вредность",
+      "meaning_id": "m_0068"
+    },
+    "sr_for_ru_false": {
+      "text": "штетност",
+      "meaning_id": "m_0068"
+    },
+    "collision_groups": [
+      "cg_m_0067_m_0068"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0039",
+    "sr_trap": {
+      "text": "гвожђе",
+      "meaning_id": "m_0069"
+    },
+    "ru_correct": {
+      "text": "железо",
+      "meaning_id": "m_0069"
+    },
+    "ru_false": {
+      "text": "гвоздь",
+      "meaning_id": "m_0070"
+    },
+    "sr_for_ru_false": {
+      "text": "ексер",
+      "meaning_id": "m_0070"
+    },
+    "collision_groups": [
+      "cg_m_0069_m_0070"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0040",
+    "sr_trap": {
+      "text": "глумити",
+      "meaning_id": "m_0071"
+    },
+    "ru_correct": {
+      "text": "играть роль на сцене",
+      "meaning_id": "m_0071"
+    },
+    "ru_false": {
+      "text": "глумиться",
+      "meaning_id": "m_0072"
+    },
+    "sr_for_ru_false": {
+      "text": "исмејавати",
+      "meaning_id": "m_0072"
+    },
+    "collision_groups": [
+      "cg_m_0071_m_0072"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0042",
+    "sr_trap": {
+      "text": "год",
+      "meaning_id": "m_0073"
+    },
+    "ru_correct": {
+      "text": "-либо",
+      "meaning_id": "m_0073"
+    },
+    "ru_false": {
+      "text": "год",
+      "meaning_id": "m_0074"
+    },
+    "sr_for_ru_false": {
+      "text": "година",
+      "meaning_id": "m_0074"
+    },
+    "collision_groups": [
+      "cg_m_0073_m_0074"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0043",
+    "sr_trap": {
+      "text": "година",
+      "meaning_id": "m_0075"
+    },
+    "ru_correct": {
+      "text": "год",
+      "meaning_id": "m_0075"
+    },
+    "ru_false": {
+      "text": "година",
+      "meaning_id": "m_0076"
+    },
+    "sr_for_ru_false": {
+      "text": "доба",
+      "meaning_id": "m_0076"
+    },
+    "collision_groups": [
+      "cg_m_0075_m_0076"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0045",
+    "sr_trap": {
+      "text": "горе",
+      "meaning_id": "m_0077"
+    },
+    "ru_correct": {
+      "text": "наверху",
+      "meaning_id": "m_0077"
+    },
+    "ru_false": {
+      "text": "горе",
+      "meaning_id": "m_0078"
+    },
+    "sr_for_ru_false": {
+      "text": "жалост",
+      "meaning_id": "m_0078"
+    },
+    "collision_groups": [
+      "cg_m_0077_m_0078"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0047",
+    "sr_trap": {
+      "text": "грабити",
+      "meaning_id": "m_0079"
+    },
+    "ru_correct": {
+      "text": "хватать",
+      "meaning_id": "m_0079"
+    },
+    "ru_false": {
+      "text": "грабить",
+      "meaning_id": "m_0080"
+    },
+    "sr_for_ru_false": {
+      "text": "пљачкати",
+      "meaning_id": "m_0080"
+    },
+    "collision_groups": [
+      "cg_m_0079_m_0080"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0049",
+    "sr_trap": {
+      "text": "грм",
+      "meaning_id": "m_0081"
+    },
+    "ru_correct": {
+      "text": "куст",
+      "meaning_id": "m_0081"
+    },
+    "ru_false": {
+      "text": "гром",
+      "meaning_id": "m_0082"
+    },
+    "sr_for_ru_false": {
+      "text": "грмљавина",
+      "meaning_id": "m_0082"
+    },
+    "collision_groups": [
+      "cg_m_0081_m_0082"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0050",
+    "sr_trap": {
+      "text": "гроб",
+      "meaning_id": "m_0083"
+    },
+    "ru_correct": {
+      "text": "могила",
+      "meaning_id": "m_0083"
+    },
+    "ru_false": {
+      "text": "гроб",
+      "meaning_id": "m_0084"
+    },
+    "sr_for_ru_false": {
+      "text": "мртвачки сандук",
+      "meaning_id": "m_0084"
+    },
+    "collision_groups": [
+      "cg_m_0083_m_0084"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0051",
+    "sr_trap": {
+      "text": "грудаст",
+      "meaning_id": "m_0085"
+    },
+    "ru_correct": {
+      "text": "комковатый",
+      "meaning_id": "m_0085"
+    },
+    "ru_false": {
+      "text": "грудастая",
+      "meaning_id": "m_0086"
+    },
+    "sr_for_ru_false": {
+      "text": "грудата",
+      "meaning_id": "m_0086"
+    },
+    "collision_groups": [
+      "cg_m_0085_m_0086"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0052",
+    "sr_trap": {
+      "text": "губити",
+      "meaning_id": "m_0087"
+    },
+    "ru_correct": {
+      "text": "терять",
+      "meaning_id": "m_0087"
+    },
+    "ru_false": {
+      "text": "губить",
+      "meaning_id": "m_0088"
+    },
+    "sr_for_ru_false": {
+      "text": "уништавати",
+      "meaning_id": "m_0088"
+    },
+    "collision_groups": [
+      "cg_m_0087_m_0088"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0053",
+    "sr_trap": {
+      "text": "гусар",
+      "meaning_id": "m_0089"
+    },
+    "ru_correct": {
+      "text": "пират",
+      "meaning_id": "m_0089"
+    },
+    "ru_false": {
+      "text": "гусар",
+      "meaning_id": "m_0090"
+    },
+    "sr_for_ru_false": {
+      "text": "хусар",
+      "meaning_id": "m_0090"
+    },
+    "collision_groups": [
+      "cg_m_0089_m_0090"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0054",
+    "sr_trap": {
+      "text": "давити се",
+      "meaning_id": "m_0091"
+    },
+    "ru_correct": {
+      "text": "задыхаться",
+      "meaning_id": "m_0091"
+    },
+    "ru_false": {
+      "text": "давиться",
+      "meaning_id": "m_0092"
+    },
+    "sr_for_ru_false": {
+      "text": "гушити се",
+      "meaning_id": "m_0092"
+    },
+    "collision_groups": [
+      "cg_m_0091_m_0092"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0055",
+    "sr_trap": {
+      "text": "дела",
+      "meaning_id": "m_0093"
+    },
+    "ru_correct": {
+      "text": "ну",
+      "meaning_id": "m_0093"
+    },
+    "ru_false": {
+      "text": "дело",
+      "meaning_id": "m_0094"
+    },
+    "sr_for_ru_false": {
+      "text": "дело",
+      "meaning_id": "m_0094"
+    },
+    "collision_groups": [
+      "cg_m_0093_m_0094"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0057",
+    "sr_trap": {
+      "text": "део",
+      "meaning_id": "m_0095"
+    },
+    "ru_correct": {
+      "text": "часть",
+      "meaning_id": "m_0095"
+    },
+    "ru_false": {
+      "text": "дело",
+      "meaning_id": "m_0094"
+    },
+    "sr_for_ru_false": {
+      "text": "дело",
+      "meaning_id": "m_0094"
+    },
+    "collision_groups": [
+      "cg_m_0095_m_0094"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0058",
+    "sr_trap": {
+      "text": "дирка",
+      "meaning_id": "m_0096"
+    },
+    "ru_correct": {
+      "text": "клавиша",
+      "meaning_id": "m_0096"
+    },
+    "ru_false": {
+      "text": "дырка",
+      "meaning_id": "m_0097"
+    },
+    "sr_for_ru_false": {
+      "text": "рупа",
+      "meaning_id": "m_0097"
+    },
+    "collision_groups": [
+      "cg_m_0096_m_0097"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0060",
+    "sr_trap": {
+      "text": "добити",
+      "meaning_id": "m_0099"
+    },
+    "ru_correct": {
+      "text": "получить",
+      "meaning_id": "m_0099"
+    },
+    "ru_false": {
+      "text": "добить",
+      "meaning_id": "m_0100"
+    },
+    "sr_for_ru_false": {
+      "text": "дотући",
+      "meaning_id": "m_0100"
+    },
+    "collision_groups": [
+      "cg_m_0099_m_0100"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0061",
+    "sr_trap": {
+      "text": "довољан",
+      "meaning_id": "m_0101"
+    },
+    "ru_correct": {
+      "text": "достаточный",
+      "meaning_id": "m_0101"
+    },
+    "ru_false": {
+      "text": "довольный",
+      "meaning_id": "m_0102"
+    },
+    "sr_for_ru_false": {
+      "text": "задовољан",
+      "meaning_id": "m_0102"
+    },
+    "collision_groups": [
+      "cg_m_0101_m_0102"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0063",
+    "sr_trap": {
+      "text": "дојити",
+      "meaning_id": "m_0103"
+    },
+    "ru_correct": {
+      "text": "кормить грудью",
+      "meaning_id": "m_0103"
+    },
+    "ru_false": {
+      "text": "доить",
+      "meaning_id": "m_0104"
+    },
+    "sr_for_ru_false": {
+      "text": "мусти",
+      "meaning_id": "m_0104"
+    },
+    "collision_groups": [
+      "cg_m_0103_m_0104"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0064",
+    "sr_trap": {
+      "text": "досада",
+      "meaning_id": "m_0105"
+    },
+    "ru_correct": {
+      "text": "скука",
+      "meaning_id": "m_0105"
+    },
+    "ru_false": {
+      "text": "досада",
+      "meaning_id": "m_0106"
+    },
+    "sr_for_ru_false": {
+      "text": "бес",
+      "meaning_id": "m_0106"
+    },
+    "collision_groups": [
+      "cg_m_0105_m_0106"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0065",
+    "sr_trap": {
+      "text": "досадни",
+      "meaning_id": "m_0107"
+    },
+    "ru_correct": {
+      "text": "скучный",
+      "meaning_id": "m_0107"
+    },
+    "ru_false": {
+      "text": "досадный",
+      "meaning_id": "m_0108"
+    },
+    "sr_for_ru_false": {
+      "text": "непријатан",
+      "meaning_id": "m_0108"
+    },
+    "collision_groups": [
+      "cg_m_0107_m_0108"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0066",
+    "sr_trap": {
+      "text": "дубина",
+      "meaning_id": "m_0109"
+    },
+    "ru_correct": {
+      "text": "глубина",
+      "meaning_id": "m_0109"
+    },
+    "ru_false": {
+      "text": "дубина",
+      "meaning_id": "m_0110"
+    },
+    "sr_for_ru_false": {
+      "text": "тољага",
+      "meaning_id": "m_0110"
+    },
+    "collision_groups": [
+      "cg_m_0109_m_0110"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0068",
+    "sr_trap": {
+      "text": "дуга",
+      "meaning_id": "m_0111"
+    },
+    "ru_correct": {
+      "text": "радуга",
+      "meaning_id": "m_0111"
+    },
+    "ru_false": {
+      "text": "дуга",
+      "meaning_id": "m_0112"
+    },
+    "sr_for_ru_false": {
+      "text": "јарам",
+      "meaning_id": "m_0112"
+    },
+    "collision_groups": [
+      "cg_m_0111_m_0112"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0070",
+    "sr_trap": {
+      "text": "жесток",
+      "meaning_id": "m_0115"
+    },
+    "ru_correct": {
+      "text": "крепкий",
+      "meaning_id": "m_0115"
+    },
+    "ru_false": {
+      "text": "жестокий",
+      "meaning_id": "m_0116"
+    },
+    "sr_for_ru_false": {
+      "text": "окрутан",
+      "meaning_id": "m_0116"
+    },
+    "collision_groups": [
+      "cg_m_0115_m_0116"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0071",
+    "sr_trap": {
+      "text": "живот",
+      "meaning_id": "m_0117"
+    },
+    "ru_correct": {
+      "text": "жизнь",
+      "meaning_id": "m_0117"
+    },
+    "ru_false": {
+      "text": "живот",
+      "meaning_id": "m_0118"
+    },
+    "sr_for_ru_false": {
+      "text": "стомак",
+      "meaning_id": "m_0118"
+    },
+    "collision_groups": [
+      "cg_m_0117_m_0118"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0072",
+    "sr_trap": {
+      "text": "жижа",
+      "meaning_id": "m_0119"
+    },
+    "ru_correct": {
+      "text": "фокус",
+      "meaning_id": "m_0119"
+    },
+    "ru_false": {
+      "text": "жижа",
+      "meaning_id": "m_0120"
+    },
+    "sr_for_ru_false": {
+      "text": "густиш",
+      "meaning_id": "m_0120"
+    },
+    "collision_groups": [
+      "cg_m_0119_m_0120"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0073",
+    "sr_trap": {
+      "text": "жилет",
+      "meaning_id": "m_0121"
+    },
+    "ru_correct": {
+      "text": "безопасная бритва",
+      "meaning_id": "m_0121"
+    },
+    "ru_false": {
+      "text": "жилет",
+      "meaning_id": "m_0122"
+    },
+    "sr_for_ru_false": {
+      "text": "прслук",
+      "meaning_id": "m_0122"
+    },
+    "collision_groups": [
+      "cg_m_0121_m_0122"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0074",
+    "sr_trap": {
+      "text": "завести",
+      "meaning_id": "m_0123"
+    },
+    "ru_correct": {
+      "text": "внести книгу",
+      "meaning_id": "m_0123"
+    },
+    "ru_false": {
+      "text": "завести",
+      "meaning_id": "m_0124"
+    },
+    "sr_for_ru_false": {
+      "text": "навити",
+      "meaning_id": "m_0124"
+    },
+    "collision_groups": [
+      "cg_m_0123_m_0124"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0075",
+    "sr_trap": {
+      "text": "завод",
+      "meaning_id": "m_0125"
+    },
+    "ru_correct": {
+      "text": "заведение",
+      "meaning_id": "m_0125"
+    },
+    "ru_false": {
+      "text": "завод",
+      "meaning_id": "m_0126"
+    },
+    "sr_for_ru_false": {
+      "text": "фабрика",
+      "meaning_id": "m_0126"
+    },
+    "collision_groups": [
+      "cg_m_0125_m_0126"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0076",
+    "sr_trap": {
+      "text": "заговорник",
+      "meaning_id": "m_0127"
+    },
+    "ru_correct": {
+      "text": "сторонник",
+      "meaning_id": "m_0127"
+    },
+    "ru_false": {
+      "text": "заговорщик",
+      "meaning_id": "m_0128"
+    },
+    "sr_for_ru_false": {
+      "text": "завереник",
+      "meaning_id": "m_0128"
+    },
+    "collision_groups": [
+      "cg_m_0127_m_0128"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0077",
+    "sr_trap": {
+      "text": "занос",
+      "meaning_id": "m_0129"
+    },
+    "ru_correct": {
+      "text": "восторг",
+      "meaning_id": "m_0129"
+    },
+    "ru_false": {
+      "text": "занос",
+      "meaning_id": "m_0130"
+    },
+    "sr_for_ru_false": {
+      "text": "скретање",
+      "meaning_id": "m_0130"
+    },
+    "collision_groups": [
+      "cg_m_0129_m_0130"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0078",
+    "sr_trap": {
+      "text": "запретити",
+      "meaning_id": "m_0131"
+    },
+    "ru_correct": {
+      "text": "пригрозить",
+      "meaning_id": "m_0131"
+    },
+    "ru_false": {
+      "text": "запретить",
+      "meaning_id": "m_0132"
+    },
+    "sr_for_ru_false": {
+      "text": "забранити",
+      "meaning_id": "m_0132"
+    },
+    "collision_groups": [
+      "cg_m_0131_m_0132"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0079",
+    "sr_trap": {
+      "text": "зарђати",
+      "meaning_id": "m_0133"
+    },
+    "ru_correct": {
+      "text": "заржаветь",
+      "meaning_id": "m_0133"
+    },
+    "ru_false": {
+      "text": "заржать",
+      "meaning_id": "m_0134"
+    },
+    "sr_for_ru_false": {
+      "text": "зарзати",
+      "meaning_id": "m_0134"
+    },
+    "collision_groups": [
+      "cg_m_0133_m_0134"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0080",
+    "sr_trap": {
+      "text": "застава",
+      "meaning_id": "m_0135"
+    },
+    "ru_correct": {
+      "text": "знамя",
+      "meaning_id": "m_0135"
+    },
+    "ru_false": {
+      "text": "застава",
+      "meaning_id": "m_0136"
+    },
+    "sr_for_ru_false": {
+      "text": "караула",
+      "meaning_id": "m_0136"
+    },
+    "collision_groups": [
+      "cg_m_0135_m_0136"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0081",
+    "sr_trap": {
+      "text": "затвор",
+      "meaning_id": "m_0137"
+    },
+    "ru_correct": {
+      "text": "тюрьма",
+      "meaning_id": "m_0137"
+    },
+    "ru_false": {
+      "text": "затвор",
+      "meaning_id": "m_0138"
+    },
+    "sr_for_ru_false": {
+      "text": "брана",
+      "meaning_id": "m_0138"
+    },
+    "collision_groups": [
+      "cg_m_0137_m_0138"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0082",
+    "sr_trap": {
+      "text": "зато",
+      "meaning_id": "m_0139"
+    },
+    "ru_correct": {
+      "text": "потому",
+      "meaning_id": "m_0139"
+    },
+    "ru_false": {
+      "text": "зато",
+      "meaning_id": "m_0140"
+    },
+    "sr_for_ru_false": {
+      "text": "али",
+      "meaning_id": "m_0140"
+    },
+    "collision_groups": [
+      "cg_m_0139_m_0140"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0083",
+    "sr_trap": {
+      "text": "захвалити",
+      "meaning_id": "m_0141"
+    },
+    "ru_correct": {
+      "text": "поблагодарить",
+      "meaning_id": "m_0141"
+    },
+    "ru_false": {
+      "text": "захвалить",
+      "meaning_id": "m_0142"
+    },
+    "sr_for_ru_false": {
+      "text": "обасути похвалама",
+      "meaning_id": "m_0142"
+    },
+    "collision_groups": [
+      "cg_m_0141_m_0142"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0084",
+    "sr_trap": {
+      "text": "заход",
+      "meaning_id": "m_0143"
+    },
+    "ru_correct": {
+      "text": "обход",
+      "meaning_id": "m_0143"
+    },
+    "ru_false": {
+      "text": "заход",
+      "meaning_id": "m_0144"
+    },
+    "sr_for_ru_false": {
+      "text": "залазак",
+      "meaning_id": "m_0144"
+    },
+    "collision_groups": [
+      "cg_m_0143_m_0144"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0089",
+    "sr_trap": {
+      "text": "идући",
+      "meaning_id": "m_0147"
+    },
+    "ru_correct": {
+      "text": "следующий",
+      "meaning_id": "m_0147"
+    },
+    "ru_false": {
+      "text": "идущий",
+      "meaning_id": "m_0148"
+    },
+    "sr_for_ru_false": {
+      "text": "онај који иде",
+      "meaning_id": "m_0148"
+    },
+    "collision_groups": [
+      "cg_m_0147_m_0148"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0090",
+    "sr_trap": {
+      "text": "издахнути",
+      "meaning_id": "m_0149"
+    },
+    "ru_correct": {
+      "text": "выдохнуть",
+      "meaning_id": "m_0149"
+    },
+    "ru_false": {
+      "text": "издохнуть",
+      "meaning_id": "m_0150"
+    },
+    "sr_for_ru_false": {
+      "text": "липсати",
+      "meaning_id": "m_0150"
+    },
+    "collision_groups": [
+      "cg_m_0149_m_0150"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0091",
+    "sr_trap": {
+      "text": "измена",
+      "meaning_id": "m_0151"
+    },
+    "ru_correct": {
+      "text": "обмен",
+      "meaning_id": "m_0151"
+    },
+    "ru_false": {
+      "text": "измена",
+      "meaning_id": "m_0152"
+    },
+    "sr_for_ru_false": {
+      "text": "издаја",
+      "meaning_id": "m_0152"
+    },
+    "collision_groups": [
+      "cg_m_0151_m_0152"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0093",
+    "sr_trap": {
+      "text": "искуство",
+      "meaning_id": "m_0155"
+    },
+    "ru_correct": {
+      "text": "опыт",
+      "meaning_id": "m_0155"
+    },
+    "ru_false": {
+      "text": "искусство",
+      "meaning_id": "m_0156"
+    },
+    "sr_for_ru_false": {
+      "text": "уметност",
+      "meaning_id": "m_0156"
+    },
+    "collision_groups": [
+      "cg_m_0155_m_0156"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0094",
+    "sr_trap": {
+      "text": "јаблан",
+      "meaning_id": "m_0157"
+    },
+    "ru_correct": {
+      "text": "тополь",
+      "meaning_id": "m_0157"
+    },
+    "ru_false": {
+      "text": "яблоня",
+      "meaning_id": "m_0158"
+    },
+    "sr_for_ru_false": {
+      "text": "јабука",
+      "meaning_id": "m_0158"
+    },
+    "collision_groups": [
+      "cg_m_0157_m_0158"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0095",
+    "sr_trap": {
+      "text": "јагода",
+      "meaning_id": "m_0159"
+    },
+    "ru_correct": {
+      "text": "клубника",
+      "meaning_id": "m_0159"
+    },
+    "ru_false": {
+      "text": "ягода",
+      "meaning_id": "m_0160"
+    },
+    "sr_for_ru_false": {
+      "text": "јагодаст плод",
+      "meaning_id": "m_0160"
+    },
+    "collision_groups": [
+      "cg_m_0159_m_0160"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0096",
+    "sr_trap": {
+      "text": "јад",
+      "meaning_id": "m_0161"
+    },
+    "ru_correct": {
+      "text": "горе",
+      "meaning_id": "m_0161"
+    },
+    "ru_false": {
+      "text": "яд",
+      "meaning_id": "m_0162"
+    },
+    "sr_for_ru_false": {
+      "text": "отров",
+      "meaning_id": "m_0162"
+    },
+    "collision_groups": [
+      "cg_m_0161_m_0162"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0097",
+    "sr_trap": {
+      "text": "једро",
+      "meaning_id": "m_0163"
+    },
+    "ru_correct": {
+      "text": "парус",
+      "meaning_id": "m_0163"
+    },
+    "ru_false": {
+      "text": "ядро",
+      "meaning_id": "m_0164"
+    },
+    "sr_for_ru_false": {
+      "text": "језгро",
+      "meaning_id": "m_0164"
+    },
+    "collision_groups": [
+      "cg_m_0163_m_0164"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0098",
+    "sr_trap": {
+      "text": "казна",
+      "meaning_id": "m_0165"
+    },
+    "ru_correct": {
+      "text": "наказание",
+      "meaning_id": "m_0165"
+    },
+    "ru_false": {
+      "text": "казна",
+      "meaning_id": "m_0166"
+    },
+    "sr_for_ru_false": {
+      "text": "државна благајна",
+      "meaning_id": "m_0166"
+    },
+    "collision_groups": [
+      "cg_m_0165_m_0166"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0099",
+    "sr_trap": {
+      "text": "казнени",
+      "meaning_id": "m_0167"
+    },
+    "ru_correct": {
+      "text": "карательный",
+      "meaning_id": "m_0167"
+    },
+    "ru_false": {
+      "text": "казнённый",
+      "meaning_id": "m_0168"
+    },
+    "sr_for_ru_false": {
+      "text": "погубљен",
+      "meaning_id": "m_0168"
+    },
+    "collision_groups": [
+      "cg_m_0167_m_0168"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0100",
+    "sr_trap": {
+      "text": "казнити",
+      "meaning_id": "m_0169"
+    },
+    "ru_correct": {
+      "text": "наказать",
+      "meaning_id": "m_0169"
+    },
+    "ru_false": {
+      "text": "казнить",
+      "meaning_id": "m_0170"
+    },
+    "sr_for_ru_false": {
+      "text": "погубити",
+      "meaning_id": "m_0170"
+    },
+    "collision_groups": [
+      "cg_m_0169_m_0170"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0101",
+    "sr_trap": {
+      "text": "као",
+      "meaning_id": "m_0171"
+    },
+    "ru_correct": {
+      "text": "грязь",
+      "meaning_id": "m_0171"
+    },
+    "ru_false": {
+      "text": "кал",
+      "meaning_id": "m_0172"
+    },
+    "sr_for_ru_false": {
+      "text": "измет",
+      "meaning_id": "m_0172"
+    },
+    "collision_groups": [
+      "cg_m_0171_m_0172"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0102",
+    "sr_trap": {
+      "text": "капут",
+      "meaning_id": "m_0173"
+    },
+    "ru_correct": {
+      "text": "пальто",
+      "meaning_id": "m_0173"
+    },
+    "ru_false": {
+      "text": "капут",
+      "meaning_id": "m_0174"
+    },
+    "sr_for_ru_false": {
+      "text": "крај",
+      "meaning_id": "m_0174"
+    },
+    "collision_groups": [
+      "cg_m_0173_m_0174"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0104",
+    "sr_trap": {
+      "text": "кинути",
+      "meaning_id": "m_0175"
+    },
+    "ru_correct": {
+      "text": "чихнуть",
+      "meaning_id": "m_0175"
+    },
+    "ru_false": {
+      "text": "кинуть",
+      "meaning_id": "m_0176"
+    },
+    "sr_for_ru_false": {
+      "text": "бацити",
+      "meaning_id": "m_0176"
+    },
+    "collision_groups": [
+      "cg_m_0175_m_0176"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0105",
+    "sr_trap": {
+      "text": "клас",
+      "meaning_id": "m_0177"
+    },
+    "ru_correct": {
+      "text": "колос",
+      "meaning_id": "m_0177"
+    },
+    "ru_false": {
+      "text": "класс",
+      "meaning_id": "m_0178"
+    },
+    "sr_for_ru_false": {
+      "text": "класа",
+      "meaning_id": "m_0178"
+    },
+    "collision_groups": [
+      "cg_m_0177_m_0178"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0107",
+    "sr_trap": {
+      "text": "коначно",
+      "meaning_id": "m_0181"
+    },
+    "ru_correct": {
+      "text": "наконец",
+      "meaning_id": "m_0181"
+    },
+    "ru_false": {
+      "text": "конечно",
+      "meaning_id": "m_0182"
+    },
+    "sr_for_ru_false": {
+      "text": "сигурно",
+      "meaning_id": "m_0182"
+    },
+    "collision_groups": [
+      "cg_m_0181_m_0182"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0108",
+    "sr_trap": {
+      "text": "корице",
+      "meaning_id": "m_0183"
+    },
+    "ru_correct": {
+      "text": "переплёт книги",
+      "meaning_id": "m_0183"
+    },
+    "ru_false": {
+      "text": "корица",
+      "meaning_id": "m_0184"
+    },
+    "sr_for_ru_false": {
+      "text": "цимет",
+      "meaning_id": "m_0184"
+    },
+    "collision_groups": [
+      "cg_m_0183_m_0184"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0109",
+    "sr_trap": {
+      "text": "коса",
+      "meaning_id": "m_0185"
+    },
+    "ru_correct": {
+      "text": "волосы",
+      "meaning_id": "m_0185"
+    },
+    "ru_false": {
+      "text": "коса",
+      "meaning_id": "m_0186"
+    },
+    "sr_for_ru_false": {
+      "text": "плетеница",
+      "meaning_id": "m_0186"
+    },
+    "collision_groups": [
+      "cg_m_0185_m_0186"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0110",
+    "sr_trap": {
+      "text": "кревет",
+      "meaning_id": "m_0187"
+    },
+    "ru_correct": {
+      "text": "кровать",
+      "meaning_id": "m_0187"
+    },
+    "ru_false": {
+      "text": "креветка",
+      "meaning_id": "m_0188"
+    },
+    "sr_for_ru_false": {
+      "text": "шкампа",
+      "meaning_id": "m_0188"
+    },
+    "collision_groups": [
+      "cg_m_0187_m_0188"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0111",
+    "sr_trap": {
+      "text": "кувати",
+      "meaning_id": "m_0189"
+    },
+    "ru_correct": {
+      "text": "варить",
+      "meaning_id": "m_0189"
+    },
+    "ru_false": {
+      "text": "ковать",
+      "meaning_id": "m_0190"
+    },
+    "sr_for_ru_false": {
+      "text": "ковати",
+      "meaning_id": "m_0190"
+    },
+    "collision_groups": [
+      "cg_m_0189_m_0190"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0112",
+    "sr_trap": {
+      "text": "куница",
+      "meaning_id": "m_0191"
+    },
+    "ru_correct": {
+      "text": "крольчиха",
+      "meaning_id": "m_0191"
+    },
+    "ru_false": {
+      "text": "куница",
+      "meaning_id": "m_0192"
+    },
+    "sr_for_ru_false": {
+      "text": "куна",
+      "meaning_id": "m_0192"
+    },
+    "collision_groups": [
+      "cg_m_0191_m_0192"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0113",
+    "sr_trap": {
+      "text": "купити",
+      "meaning_id": "m_0193"
+    },
+    "ru_correct": {
+      "text": "собирать",
+      "meaning_id": "m_0193"
+    },
+    "ru_false": {
+      "text": "купить",
+      "meaning_id": "m_0194"
+    },
+    "sr_for_ru_false": {
+      "text": "купити",
+      "meaning_id": "m_0194"
+    },
+    "collision_groups": [
+      "cg_m_0193_m_0194"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0114",
+    "sr_trap": {
+      "text": "кућа",
+      "meaning_id": "m_0195"
+    },
+    "ru_correct": {
+      "text": "дом",
+      "meaning_id": "m_0195"
+    },
+    "ru_false": {
+      "text": "куча",
+      "meaning_id": "m_0196"
+    },
+    "sr_for_ru_false": {
+      "text": "гомила",
+      "meaning_id": "m_0196"
+    },
+    "collision_groups": [
+      "cg_m_0195_m_0196"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0115",
+    "sr_trap": {
+      "text": "лекарство",
+      "meaning_id": "m_0197"
+    },
+    "ru_correct": {
+      "text": "медицина",
+      "meaning_id": "m_0197"
+    },
+    "ru_false": {
+      "text": "лекарство",
+      "meaning_id": "m_0198"
+    },
+    "sr_for_ru_false": {
+      "text": "лек",
+      "meaning_id": "m_0198"
+    },
+    "collision_groups": [
+      "cg_m_0197_m_0198"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0117",
+    "sr_trap": {
+      "text": "лисице",
+      "meaning_id": "m_0201"
+    },
+    "ru_correct": {
+      "text": "наручники",
+      "meaning_id": "m_0201"
+    },
+    "ru_false": {
+      "text": "лисица",
+      "meaning_id": "m_0202"
+    },
+    "sr_for_ru_false": {
+      "text": "лисица",
+      "meaning_id": "m_0202"
+    },
+    "collision_groups": [
+      "cg_m_0201_m_0202"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0120",
+    "sr_trap": {
+      "text": "лозинка",
+      "meaning_id": "m_0206"
+    },
+    "ru_correct": {
+      "text": "лозунг",
+      "meaning_id": "m_0206"
+    },
+    "ru_false": {
+      "text": "лоза",
+      "meaning_id": "m_0207"
+    },
+    "sr_for_ru_false": {
+      "text": "шиба",
+      "meaning_id": "m_0207"
+    },
+    "collision_groups": [
+      "cg_m_0206_m_0207"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0123",
+    "sr_trap": {
+      "text": "магазин",
+      "meaning_id": "m_0212"
+    },
+    "ru_correct": {
+      "text": "журнал",
+      "meaning_id": "m_0212"
+    },
+    "ru_false": {
+      "text": "магазин",
+      "meaning_id": "m_0213"
+    },
+    "sr_for_ru_false": {
+      "text": "продавница",
+      "meaning_id": "m_0213"
+    },
+    "collision_groups": [
+      "cg_m_0212_m_0213"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0125",
+    "sr_trap": {
+      "text": "мајка",
+      "meaning_id": "m_0214"
+    },
+    "ru_correct": {
+      "text": "мать",
+      "meaning_id": "m_0214"
+    },
+    "ru_false": {
+      "text": "майка",
+      "meaning_id": "m_0215"
+    },
+    "sr_for_ru_false": {
+      "text": "мајица",
+      "meaning_id": "m_0215"
+    },
+    "collision_groups": [
+      "cg_m_0214_m_0215"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0126",
+    "sr_trap": {
+      "text": "макнути",
+      "meaning_id": "m_0216"
+    },
+    "ru_correct": {
+      "text": "двинуть",
+      "meaning_id": "m_0216"
+    },
+    "ru_false": {
+      "text": "макнуть",
+      "meaning_id": "m_0217"
+    },
+    "sr_for_ru_false": {
+      "text": "умочити",
+      "meaning_id": "m_0217"
+    },
+    "collision_groups": [
+      "cg_m_0216_m_0217"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0127",
+    "sr_trap": {
+      "text": "маст",
+      "meaning_id": "m_0218"
+    },
+    "ru_correct": {
+      "text": "жир",
+      "meaning_id": "m_0218"
+    },
+    "ru_false": {
+      "text": "масть",
+      "meaning_id": "m_0219"
+    },
+    "sr_for_ru_false": {
+      "text": "боја",
+      "meaning_id": "m_0219"
+    },
+    "collision_groups": [
+      "cg_m_0218_m_0219"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0128",
+    "sr_trap": {
+      "text": "машна",
+      "meaning_id": "m_0220"
+    },
+    "ru_correct": {
+      "text": "галстук",
+      "meaning_id": "m_0220"
+    },
+    "ru_false": {
+      "text": "мошна",
+      "meaning_id": "m_0221"
+    },
+    "sr_for_ru_false": {
+      "text": "нар. кеса за новац",
+      "meaning_id": "m_0221"
+    },
+    "collision_groups": [
+      "cg_m_0220_m_0221"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0130",
+    "sr_trap": {
+      "text": "меч",
+      "meaning_id": "m_0222"
+    },
+    "ru_correct": {
+      "text": "матч",
+      "meaning_id": "m_0222"
+    },
+    "ru_false": {
+      "text": "меч",
+      "meaning_id": "m_0223"
+    },
+    "sr_for_ru_false": {
+      "text": "мач",
+      "meaning_id": "m_0223"
+    },
+    "collision_groups": [
+      "cg_m_0222_m_0223"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0132",
+    "sr_trap": {
+      "text": "мишјак",
+      "meaning_id": "m_0226"
+    },
+    "ru_correct": {
+      "text": "мышиный помёт",
+      "meaning_id": "m_0226"
+    },
+    "ru_false": {
+      "text": "мышьяк",
+      "meaning_id": "m_0227"
+    },
+    "sr_for_ru_false": {
+      "text": "арсеник",
+      "meaning_id": "m_0227"
+    },
+    "collision_groups": [
+      "cg_m_0226_m_0227"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0133",
+    "sr_trap": {
+      "text": "мишка",
+      "meaning_id": "m_0228"
+    },
+    "ru_correct": {
+      "text": "плечо",
+      "meaning_id": "m_0228"
+    },
+    "ru_false": {
+      "text": "мишка",
+      "meaning_id": "m_0229"
+    },
+    "sr_for_ru_false": {
+      "text": "меда",
+      "meaning_id": "m_0229"
+    },
+    "collision_groups": [
+      "cg_m_0228_m_0229"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0134",
+    "sr_trap": {
+      "text": "младенци",
+      "meaning_id": "m_0230"
+    },
+    "ru_correct": {
+      "text": "молодожёны",
+      "meaning_id": "m_0230"
+    },
+    "ru_false": {
+      "text": "младенец",
+      "meaning_id": "m_0231"
+    },
+    "sr_for_ru_false": {
+      "text": "новорођенче",
+      "meaning_id": "m_0231"
+    },
+    "collision_groups": [
+      "cg_m_0230_m_0231"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0135",
+    "sr_trap": {
+      "text": "могућ",
+      "meaning_id": "m_0232"
+    },
+    "ru_correct": {
+      "text": "возможный",
+      "meaning_id": "m_0232"
+    },
+    "ru_false": {
+      "text": "могучий",
+      "meaning_id": "m_0233"
+    },
+    "sr_for_ru_false": {
+      "text": "моћан",
+      "meaning_id": "m_0233"
+    },
+    "collision_groups": [
+      "cg_m_0232_m_0233"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0137",
+    "sr_trap": {
+      "text": "мраз",
+      "meaning_id": "m_0234"
+    },
+    "ru_correct": {
+      "text": "мороз",
+      "meaning_id": "m_0234"
+    },
+    "ru_false": {
+      "text": "мразь",
+      "meaning_id": "m_0235"
+    },
+    "sr_for_ru_false": {
+      "text": "презр. ђубре",
+      "meaning_id": "m_0235"
+    },
+    "collision_groups": [
+      "cg_m_0234_m_0235"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0138",
+    "sr_trap": {
+      "text": "нагао",
+      "meaning_id": "m_0236"
+    },
+    "ru_correct": {
+      "text": "спешный",
+      "meaning_id": "m_0236"
+    },
+    "ru_false": {
+      "text": "наглый",
+      "meaning_id": "m_0237"
+    },
+    "sr_for_ru_false": {
+      "text": "безобзиран",
+      "meaning_id": "m_0237"
+    },
+    "collision_groups": [
+      "cg_m_0236_m_0237"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0139",
+    "sr_trap": {
+      "text": "назначити",
+      "meaning_id": "m_0238"
+    },
+    "ru_correct": {
+      "text": "обозначить",
+      "meaning_id": "m_0238"
+    },
+    "ru_false": {
+      "text": "назначить",
+      "meaning_id": "m_0239"
+    },
+    "sr_for_ru_false": {
+      "text": "одредити",
+      "meaning_id": "m_0239"
+    },
+    "collision_groups": [
+      "cg_m_0238_m_0239"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0140",
+    "sr_trap": {
+      "text": "најезда",
+      "meaning_id": "m_0240"
+    },
+    "ru_correct": {
+      "text": "нашествие",
+      "meaning_id": "m_0240"
+    },
+    "ru_false": {
+      "text": "наезд",
+      "meaning_id": "m_0241"
+    },
+    "sr_for_ru_false": {
+      "text": "најезда",
+      "meaning_id": "m_0241"
+    },
+    "collision_groups": [
+      "cg_m_0240_m_0241"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0141",
+    "sr_trap": {
+      "text": "наличје",
+      "meaning_id": "m_0242"
+    },
+    "ru_correct": {
+      "text": "изнанка",
+      "meaning_id": "m_0242"
+    },
+    "ru_false": {
+      "text": "наличие",
+      "meaning_id": "m_0243"
+    },
+    "sr_for_ru_false": {
+      "text": "постојање",
+      "meaning_id": "m_0243"
+    },
+    "collision_groups": [
+      "cg_m_0242_m_0243"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0142",
+    "sr_trap": {
+      "text": "налог",
+      "meaning_id": "m_0244"
+    },
+    "ru_correct": {
+      "text": "распоряжение",
+      "meaning_id": "m_0244"
+    },
+    "ru_false": {
+      "text": "налог",
+      "meaning_id": "m_0245"
+    },
+    "sr_for_ru_false": {
+      "text": "порез",
+      "meaning_id": "m_0245"
+    },
+    "collision_groups": [
+      "cg_m_0244_m_0245"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0143",
+    "sr_trap": {
+      "text": "напрасан",
+      "meaning_id": "m_0246"
+    },
+    "ru_correct": {
+      "text": "внезапный",
+      "meaning_id": "m_0246"
+    },
+    "ru_false": {
+      "text": "напрасный",
+      "meaning_id": "m_0247"
+    },
+    "sr_for_ru_false": {
+      "text": "узалудан",
+      "meaning_id": "m_0247"
+    },
+    "collision_groups": [
+      "cg_m_0246_m_0247"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0144",
+    "sr_trap": {
+      "text": "нарочит",
+      "meaning_id": "m_0248"
+    },
+    "ru_correct": {
+      "text": "особый",
+      "meaning_id": "m_0248"
+    },
+    "ru_false": {
+      "text": "нарочитый",
+      "meaning_id": "m_0249"
+    },
+    "sr_for_ru_false": {
+      "text": "намеран",
+      "meaning_id": "m_0249"
+    },
+    "collision_groups": [
+      "cg_m_0248_m_0249"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0145",
+    "sr_trap": {
+      "text": "настављати",
+      "meaning_id": "m_0250"
+    },
+    "ru_correct": {
+      "text": "продолжать",
+      "meaning_id": "m_0250"
+    },
+    "ru_false": {
+      "text": "наставлять",
+      "meaning_id": "m_0251"
+    },
+    "sr_for_ru_false": {
+      "text": "настављати",
+      "meaning_id": "m_0251"
+    },
+    "collision_groups": [
+      "cg_m_0250_m_0251"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0146",
+    "sr_trap": {
+      "text": "начисто",
+      "meaning_id": "m_0252"
+    },
+    "ru_correct": {
+      "text": "ясно",
+      "meaning_id": "m_0252"
+    },
+    "ru_false": {
+      "text": "начисто",
+      "meaning_id": "m_0253"
+    },
+    "sr_for_ru_false": {
+      "text": "потпуно",
+      "meaning_id": "m_0253"
+    },
+    "collision_groups": [
+      "cg_m_0252_m_0253"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0147",
+    "sr_trap": {
+      "text": "невоља",
+      "meaning_id": "m_0254"
+    },
+    "ru_correct": {
+      "text": "беда",
+      "meaning_id": "m_0254"
+    },
+    "ru_false": {
+      "text": "неволя",
+      "meaning_id": "m_0255"
+    },
+    "sr_for_ru_false": {
+      "text": "ропство",
+      "meaning_id": "m_0255"
+    },
+    "collision_groups": [
+      "cg_m_0254_m_0255"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0148",
+    "sr_trap": {
+      "text": "нега",
+      "meaning_id": "m_0256"
+    },
+    "ru_correct": {
+      "text": "уход",
+      "meaning_id": "m_0256"
+    },
+    "ru_false": {
+      "text": "нега",
+      "meaning_id": "m_0257"
+    },
+    "sr_for_ru_false": {
+      "text": "благостање",
+      "meaning_id": "m_0257"
+    },
+    "collision_groups": [
+      "cg_m_0256_m_0257"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0149",
+    "sr_trap": {
+      "text": "негде",
+      "meaning_id": "m_0258"
+    },
+    "ru_correct": {
+      "text": "где-то",
+      "meaning_id": "m_0258"
+    },
+    "ru_false": {
+      "text": "негде",
+      "meaning_id": "m_0259"
+    },
+    "sr_for_ru_false": {
+      "text": "нема где",
+      "meaning_id": "m_0259"
+    },
+    "collision_groups": [
+      "cg_m_0258_m_0259"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0151",
+    "sr_trap": {
+      "text": "недеља",
+      "meaning_id": "m_0260"
+    },
+    "ru_correct": {
+      "text": "воскресенье",
+      "meaning_id": "m_0260"
+    },
+    "ru_false": {
+      "text": "неделя",
+      "meaning_id": "m_0261"
+    },
+    "sr_for_ru_false": {
+      "text": "недеља",
+      "meaning_id": "m_0261"
+    },
+    "collision_groups": [
+      "cg_m_0260_m_0261"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0152",
+    "sr_trap": {
+      "text": "некуда",
+      "meaning_id": "m_0262"
+    },
+    "ru_correct": {
+      "text": "куда-то",
+      "meaning_id": "m_0262"
+    },
+    "ru_false": {
+      "text": "некуда",
+      "meaning_id": "m_0259"
+    },
+    "sr_for_ru_false": {
+      "text": "нема где",
+      "meaning_id": "m_0259"
+    },
+    "collision_groups": [
+      "cg_m_0262_m_0259"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0153",
+    "sr_trap": {
+      "text": "низ",
+      "meaning_id": "m_0263"
+    },
+    "ru_correct": {
+      "text": "ряд",
+      "meaning_id": "m_0263"
+    },
+    "ru_false": {
+      "text": "низ",
+      "meaning_id": "m_0264"
+    },
+    "sr_for_ru_false": {
+      "text": "доњи део",
+      "meaning_id": "m_0264"
+    },
+    "collision_groups": [
+      "cg_m_0263_m_0264"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0156",
+    "sr_trap": {
+      "text": "образ",
+      "meaning_id": "m_0267"
+    },
+    "ru_correct": {
+      "text": "щека",
+      "meaning_id": "m_0267"
+    },
+    "ru_false": {
+      "text": "образ",
+      "meaning_id": "m_0268"
+    },
+    "sr_for_ru_false": {
+      "text": "лик",
+      "meaning_id": "m_0268"
+    },
+    "collision_groups": [
+      "cg_m_0267_m_0268"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0158",
+    "sr_trap": {
+      "text": "оброк",
+      "meaning_id": "m_0271"
+    },
+    "ru_correct": {
+      "text": "порция",
+      "meaning_id": "m_0271"
+    },
+    "ru_false": {
+      "text": "оброк",
+      "meaning_id": "m_0272"
+    },
+    "sr_for_ru_false": {
+      "text": "данак",
+      "meaning_id": "m_0272"
+    },
+    "collision_groups": [
+      "cg_m_0271_m_0272"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0159",
+    "sr_trap": {
+      "text": "обући",
+      "meaning_id": "m_0273"
+    },
+    "ru_correct": {
+      "text": "надеть одежду",
+      "meaning_id": "m_0273"
+    },
+    "ru_false": {
+      "text": "обуть",
+      "meaning_id": "m_0274"
+    },
+    "sr_for_ru_false": {
+      "text": "обути",
+      "meaning_id": "m_0274"
+    },
+    "collision_groups": [
+      "cg_m_0273_m_0274"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0160",
+    "sr_trap": {
+      "text": "огорчен",
+      "meaning_id": "m_0275"
+    },
+    "ru_correct": {
+      "text": "ожесточённый",
+      "meaning_id": "m_0275"
+    },
+    "ru_false": {
+      "text": "огорчённый",
+      "meaning_id": "m_0276"
+    },
+    "sr_for_ru_false": {
+      "text": "растужен",
+      "meaning_id": "m_0276"
+    },
+    "collision_groups": [
+      "cg_m_0275_m_0276"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0161",
+    "sr_trap": {
+      "text": "огорчење",
+      "meaning_id": "m_0277"
+    },
+    "ru_correct": {
+      "text": "озлобление",
+      "meaning_id": "m_0277"
+    },
+    "ru_false": {
+      "text": "огорчение",
+      "meaning_id": "m_0078"
+    },
+    "sr_for_ru_false": {
+      "text": "жалост",
+      "meaning_id": "m_0078"
+    },
+    "collision_groups": [
+      "cg_m_0277_m_0078"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0162",
+    "sr_trap": {
+      "text": "огрепсти",
+      "meaning_id": "m_0278"
+    },
+    "ru_correct": {
+      "text": "поцарапать",
+      "meaning_id": "m_0278"
+    },
+    "ru_false": {
+      "text": "огрести",
+      "meaning_id": "m_0279"
+    },
+    "sr_for_ru_false": {
+      "text": "згрнути",
+      "meaning_id": "m_0279"
+    },
+    "collision_groups": [
+      "cg_m_0278_m_0279"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0163",
+    "sr_trap": {
+      "text": "одбити",
+      "meaning_id": "m_0280"
+    },
+    "ru_correct": {
+      "text": "отбить",
+      "meaning_id": "m_0280"
+    },
+    "ru_false": {
+      "text": "отбить",
+      "meaning_id": "m_0281"
+    },
+    "sr_for_ru_false": {
+      "text": "одломити",
+      "meaning_id": "m_0281"
+    },
+    "collision_groups": [
+      "cg_m_0280_m_0281"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0164",
+    "sr_trap": {
+      "text": "одвојити",
+      "meaning_id": "m_0282"
+    },
+    "ru_correct": {
+      "text": "отделить",
+      "meaning_id": "m_0282"
+    },
+    "ru_false": {
+      "text": "удвоиться",
+      "meaning_id": "m_0283"
+    },
+    "sr_for_ru_false": {
+      "text": "удвојити се",
+      "meaning_id": "m_0283"
+    },
+    "collision_groups": [
+      "cg_m_0282_m_0283"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0165",
+    "sr_trap": {
+      "text": "одрешити",
+      "meaning_id": "m_0284"
+    },
+    "ru_correct": {
+      "text": "развязать",
+      "meaning_id": "m_0284"
+    },
+    "ru_false": {
+      "text": "отрешить",
+      "meaning_id": "m_0285"
+    },
+    "sr_for_ru_false": {
+      "text": "разрешити",
+      "meaning_id": "m_0285"
+    },
+    "collision_groups": [
+      "cg_m_0284_m_0285"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0166",
+    "sr_trap": {
+      "text": "одрицати",
+      "meaning_id": "m_0286"
+    },
+    "ru_correct": {
+      "text": "отказывать",
+      "meaning_id": "m_0286"
+    },
+    "ru_false": {
+      "text": "отрицать",
+      "meaning_id": "m_0287"
+    },
+    "sr_for_ru_false": {
+      "text": "порицати",
+      "meaning_id": "m_0287"
+    },
+    "collision_groups": [
+      "cg_m_0286_m_0287"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0168",
+    "sr_trap": {
+      "text": "около",
+      "meaning_id": "m_0288"
+    },
+    "ru_correct": {
+      "text": "вокруг",
+      "meaning_id": "m_0288"
+    },
+    "ru_false": {
+      "text": "около",
+      "meaning_id": "m_0289"
+    },
+    "sr_for_ru_false": {
+      "text": "око",
+      "meaning_id": "m_0289"
+    },
+    "collision_groups": [
+      "cg_m_0288_m_0289"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0169",
+    "sr_trap": {
+      "text": "олово",
+      "meaning_id": "m_0290"
+    },
+    "ru_correct": {
+      "text": "свинец",
+      "meaning_id": "m_0290"
+    },
+    "ru_false": {
+      "text": "олово",
+      "meaning_id": "m_0291"
+    },
+    "sr_for_ru_false": {
+      "text": "калај",
+      "meaning_id": "m_0291"
+    },
+    "collision_groups": [
+      "cg_m_0290_m_0291"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0171",
+    "sr_trap": {
+      "text": "осветити",
+      "meaning_id": "m_0292"
+    },
+    "ru_correct": {
+      "text": "отомстить",
+      "meaning_id": "m_0292"
+    },
+    "ru_false": {
+      "text": "осветить",
+      "meaning_id": "m_0293"
+    },
+    "sr_for_ru_false": {
+      "text": "осветлити",
+      "meaning_id": "m_0293"
+    },
+    "collision_groups": [
+      "cg_m_0292_m_0293"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0172",
+    "sr_trap": {
+      "text": "откључати",
+      "meaning_id": "m_0294"
+    },
+    "ru_correct": {
+      "text": "отпереть",
+      "meaning_id": "m_0294"
+    },
+    "ru_false": {
+      "text": "отключать",
+      "meaning_id": "m_0295"
+    },
+    "sr_for_ru_false": {
+      "text": "искључивати",
+      "meaning_id": "m_0295"
+    },
+    "collision_groups": [
+      "cg_m_0294_m_0295"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0173",
+    "sr_trap": {
+      "text": "отплатити",
+      "meaning_id": "m_0296"
+    },
+    "ru_correct": {
+      "text": "выплатить рассрочку",
+      "meaning_id": "m_0296"
+    },
+    "ru_false": {
+      "text": "отплатить",
+      "meaning_id": "m_0297"
+    },
+    "sr_for_ru_false": {
+      "text": "отплатити",
+      "meaning_id": "m_0297"
+    },
+    "collision_groups": [
+      "cg_m_0296_m_0297"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0174",
+    "sr_trap": {
+      "text": "пазар",
+      "meaning_id": "m_0298"
+    },
+    "ru_correct": {
+      "text": "торг",
+      "meaning_id": "m_0298"
+    },
+    "ru_false": {
+      "text": "базар",
+      "meaning_id": "m_0299"
+    },
+    "sr_for_ru_false": {
+      "text": "пијаца",
+      "meaning_id": "m_0299"
+    },
+    "collision_groups": [
+      "cg_m_0298_m_0299"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0175",
+    "sr_trap": {
+      "text": "палац",
+      "meaning_id": "m_0300"
+    },
+    "ru_correct": {
+      "text": "большой палец",
+      "meaning_id": "m_0300"
+    },
+    "ru_false": {
+      "text": "палец",
+      "meaning_id": "m_0301"
+    },
+    "sr_for_ru_false": {
+      "text": "прст",
+      "meaning_id": "m_0301"
+    },
+    "collision_groups": [
+      "cg_m_0300_m_0301"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0176",
+    "sr_trap": {
+      "text": "палица",
+      "meaning_id": "m_0302"
+    },
+    "ru_correct": {
+      "text": "палка",
+      "meaning_id": "m_0302"
+    },
+    "ru_false": {
+      "text": "палица",
+      "meaning_id": "m_0303"
+    },
+    "sr_for_ru_false": {
+      "text": "топуз",
+      "meaning_id": "m_0303"
+    },
+    "collision_groups": [
+      "cg_m_0302_m_0303"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0177",
+    "sr_trap": {
+      "text": "памет",
+      "meaning_id": "m_0304"
+    },
+    "ru_correct": {
+      "text": "разум",
+      "meaning_id": "m_0304"
+    },
+    "ru_false": {
+      "text": "память",
+      "meaning_id": "m_0305"
+    },
+    "sr_for_ru_false": {
+      "text": "памћење",
+      "meaning_id": "m_0305"
+    },
+    "collision_groups": [
+      "cg_m_0304_m_0305"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0178",
+    "sr_trap": {
+      "text": "панталоне",
+      "meaning_id": "m_0306"
+    },
+    "ru_correct": {
+      "text": "брюки",
+      "meaning_id": "m_0306"
+    },
+    "ru_false": {
+      "text": "панталоны",
+      "meaning_id": "m_0307"
+    },
+    "sr_for_ru_false": {
+      "text": "чакшире",
+      "meaning_id": "m_0307"
+    },
+    "collision_groups": [
+      "cg_m_0306_m_0307"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0180",
+    "sr_trap": {
+      "text": "пара",
+      "meaning_id": "m_0309"
+    },
+    "ru_correct": {
+      "text": "пар",
+      "meaning_id": "m_0309"
+    },
+    "ru_false": {
+      "text": "пара",
+      "meaning_id": "m_0310"
+    },
+    "sr_for_ru_false": {
+      "text": "пар",
+      "meaning_id": "m_0310"
+    },
+    "collision_groups": [
+      "cg_m_0309_m_0310"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0181",
+    "sr_trap": {
+      "text": "парни",
+      "meaning_id": "m_0311"
+    },
+    "ru_correct": {
+      "text": "паровой",
+      "meaning_id": "m_0311"
+    },
+    "ru_false": {
+      "text": "парный",
+      "meaning_id": "m_0312"
+    },
+    "sr_for_ru_false": {
+      "text": "паран",
+      "meaning_id": "m_0312"
+    },
+    "collision_groups": [
+      "cg_m_0311_m_0312"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0182",
+    "sr_trap": {
+      "text": "пастух",
+      "meaning_id": "m_0313"
+    },
+    "ru_correct": {
+      "text": "жеребец",
+      "meaning_id": "m_0313"
+    },
+    "ru_false": {
+      "text": "пастух",
+      "meaning_id": "m_0314"
+    },
+    "sr_for_ru_false": {
+      "text": "пастир",
+      "meaning_id": "m_0314"
+    },
+    "collision_groups": [
+      "cg_m_0313_m_0314"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0183",
+    "sr_trap": {
+      "text": "переца",
+      "meaning_id": "m_0315"
+    },
+    "ru_correct": {
+      "text": "крендель",
+      "meaning_id": "m_0315"
+    },
+    "ru_false": {
+      "text": "перец",
+      "meaning_id": "m_0316"
+    },
+    "sr_for_ru_false": {
+      "text": "паприка",
+      "meaning_id": "m_0316"
+    },
+    "collision_groups": [
+      "cg_m_0315_m_0316"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0184",
+    "sr_trap": {
+      "text": "песник",
+      "meaning_id": "m_0317"
+    },
+    "ru_correct": {
+      "text": "поэт",
+      "meaning_id": "m_0317"
+    },
+    "ru_false": {
+      "text": "песенник",
+      "meaning_id": "m_0318"
+    },
+    "sr_for_ru_false": {
+      "text": "песмарица",
+      "meaning_id": "m_0318"
+    },
+    "collision_groups": [
+      "cg_m_0317_m_0318"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0185",
+    "sr_trap": {
+      "text": "печенка",
+      "meaning_id": "m_0319"
+    },
+    "ru_correct": {
+      "text": "жаркое",
+      "meaning_id": "m_0319"
+    },
+    "ru_false": {
+      "text": "печёнка",
+      "meaning_id": "m_0320"
+    },
+    "sr_for_ru_false": {
+      "text": "јетра",
+      "meaning_id": "m_0320"
+    },
+    "collision_groups": [
+      "cg_m_0319_m_0320"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0186",
+    "sr_trap": {
+      "text": "печење",
+      "meaning_id": "m_0319"
+    },
+    "ru_correct": {
+      "text": "жаркое",
+      "meaning_id": "m_0319"
+    },
+    "ru_false": {
+      "text": "печенье",
+      "meaning_id": "m_0321"
+    },
+    "sr_for_ru_false": {
+      "text": "бисквит",
+      "meaning_id": "m_0321"
+    },
+    "collision_groups": [
+      "cg_m_0319_m_0321"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0190",
+    "sr_trap": {
+      "text": "плен",
+      "meaning_id": "m_0328"
+    },
+    "ru_correct": {
+      "text": "добыча",
+      "meaning_id": "m_0328"
+    },
+    "ru_false": {
+      "text": "плен",
+      "meaning_id": "m_0329"
+    },
+    "sr_for_ru_false": {
+      "text": "заробљеништво",
+      "meaning_id": "m_0329"
+    },
+    "collision_groups": [
+      "cg_m_0328_m_0329"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0191",
+    "sr_trap": {
+      "text": "плот",
+      "meaning_id": "m_0330"
+    },
+    "ru_correct": {
+      "text": "забор",
+      "meaning_id": "m_0330"
+    },
+    "ru_false": {
+      "text": "плот",
+      "meaning_id": "m_0331"
+    },
+    "sr_for_ru_false": {
+      "text": "сплав",
+      "meaning_id": "m_0331"
+    },
+    "collision_groups": [
+      "cg_m_0330_m_0331"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0192",
+    "sr_trap": {
+      "text": "поган",
+      "meaning_id": "m_0332"
+    },
+    "ru_correct": {
+      "text": "мерзость",
+      "meaning_id": "m_0332"
+    },
+    "ru_false": {
+      "text": "поганый",
+      "meaning_id": "m_0333"
+    },
+    "sr_for_ru_false": {
+      "text": "отрован",
+      "meaning_id": "m_0333"
+    },
+    "collision_groups": [
+      "cg_m_0332_m_0333"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0193",
+    "sr_trap": {
+      "text": "погодити",
+      "meaning_id": "m_0334"
+    },
+    "ru_correct": {
+      "text": "попасть",
+      "meaning_id": "m_0334"
+    },
+    "ru_false": {
+      "text": "погодить",
+      "meaning_id": "m_0335"
+    },
+    "sr_for_ru_false": {
+      "text": "причекати",
+      "meaning_id": "m_0335"
+    },
+    "collision_groups": [
+      "cg_m_0334_m_0335"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0194",
+    "sr_trap": {
+      "text": "погон",
+      "meaning_id": "m_0336"
+    },
+    "ru_correct": {
+      "text": "цех",
+      "meaning_id": "m_0336"
+    },
+    "ru_false": {
+      "text": "погон",
+      "meaning_id": "m_0337"
+    },
+    "sr_for_ru_false": {
+      "text": "еполета",
+      "meaning_id": "m_0337"
+    },
+    "collision_groups": [
+      "cg_m_0336_m_0337"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0195",
+    "sr_trap": {
+      "text": "погреб",
+      "meaning_id": "m_0338"
+    },
+    "ru_correct": {
+      "text": "похороны",
+      "meaning_id": "m_0338"
+    },
+    "ru_false": {
+      "text": "погреб",
+      "meaning_id": "m_0339"
+    },
+    "sr_for_ru_false": {
+      "text": "подрум",
+      "meaning_id": "m_0339"
+    },
+    "collision_groups": [
+      "cg_m_0338_m_0339"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0197",
+    "sr_trap": {
+      "text": "подвала",
+      "meaning_id": "m_0342"
+    },
+    "ru_correct": {
+      "text": "обман",
+      "meaning_id": "m_0342"
+    },
+    "ru_false": {
+      "text": "подвал",
+      "meaning_id": "m_0339"
+    },
+    "sr_for_ru_false": {
+      "text": "подрум",
+      "meaning_id": "m_0339"
+    },
+    "collision_groups": [
+      "cg_m_0342_m_0339"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0198",
+    "sr_trap": {
+      "text": "подлога",
+      "meaning_id": "m_0343"
+    },
+    "ru_correct": {
+      "text": "подстилка",
+      "meaning_id": "m_0343"
+    },
+    "ru_false": {
+      "text": "подлог",
+      "meaning_id": "m_0344"
+    },
+    "sr_for_ru_false": {
+      "text": "фалсификат",
+      "meaning_id": "m_0344"
+    },
+    "collision_groups": [
+      "cg_m_0343_m_0344"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0199",
+    "sr_trap": {
+      "text": "пожурити",
+      "meaning_id": "m_0345"
+    },
+    "ru_correct": {
+      "text": "поспешить",
+      "meaning_id": "m_0345"
+    },
+    "ru_false": {
+      "text": "пожурить",
+      "meaning_id": "m_0346"
+    },
+    "sr_for_ru_false": {
+      "text": "укорити",
+      "meaning_id": "m_0346"
+    },
+    "collision_groups": [
+      "cg_m_0345_m_0346"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0200",
+    "sr_trap": {
+      "text": "поздравити",
+      "meaning_id": "m_0347"
+    },
+    "ru_correct": {
+      "text": "передать привет",
+      "meaning_id": "m_0347"
+    },
+    "ru_false": {
+      "text": "поздравить",
+      "meaning_id": "m_0348"
+    },
+    "sr_for_ru_false": {
+      "text": "честитати",
+      "meaning_id": "m_0348"
+    },
+    "collision_groups": [
+      "cg_m_0347_m_0348"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0201",
+    "sr_trap": {
+      "text": "позив",
+      "meaning_id": "m_0349"
+    },
+    "ru_correct": {
+      "text": "звонок",
+      "meaning_id": "m_0349"
+    },
+    "ru_false": {
+      "text": "позыв",
+      "meaning_id": "m_0350"
+    },
+    "sr_for_ru_false": {
+      "text": "потреба",
+      "meaning_id": "m_0350"
+    },
+    "collision_groups": [
+      "cg_m_0349_m_0350"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0202",
+    "sr_trap": {
+      "text": "позор",
+      "meaning_id": "m_0351"
+    },
+    "ru_correct": {
+      "text": "внимание",
+      "meaning_id": "m_0351"
+    },
+    "ru_false": {
+      "text": "позор",
+      "meaning_id": "m_0352"
+    },
+    "sr_for_ru_false": {
+      "text": "срамота",
+      "meaning_id": "m_0352"
+    },
+    "collision_groups": [
+      "cg_m_0351_m_0352"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0203",
+    "sr_trap": {
+      "text": "позориште",
+      "meaning_id": "m_0353"
+    },
+    "ru_correct": {
+      "text": "театр",
+      "meaning_id": "m_0353"
+    },
+    "ru_false": {
+      "text": "позорище",
+      "meaning_id": "m_0354"
+    },
+    "sr_for_ru_false": {
+      "text": "срамотно дело",
+      "meaning_id": "m_0354"
+    },
+    "collision_groups": [
+      "cg_m_0353_m_0354"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0204",
+    "sr_trap": {
+      "text": "позорно",
+      "meaning_id": "m_0355"
+    },
+    "ru_correct": {
+      "text": "внимательно",
+      "meaning_id": "m_0355"
+    },
+    "ru_false": {
+      "text": "позорно",
+      "meaning_id": "m_0356"
+    },
+    "sr_for_ru_false": {
+      "text": "срамно",
+      "meaning_id": "m_0356"
+    },
+    "collision_groups": [
+      "cg_m_0355_m_0356"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0205",
+    "sr_trap": {
+      "text": "поклон",
+      "meaning_id": "m_0357"
+    },
+    "ru_correct": {
+      "text": "подарок",
+      "meaning_id": "m_0357"
+    },
+    "ru_false": {
+      "text": "поклон",
+      "meaning_id": "m_0358"
+    },
+    "sr_for_ru_false": {
+      "text": "наклон",
+      "meaning_id": "m_0358"
+    },
+    "collision_groups": [
+      "cg_m_0357_m_0358"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0206",
+    "sr_trap": {
+      "text": "полетати",
+      "meaning_id": "m_0359"
+    },
+    "ru_correct": {
+      "text": "взлетать",
+      "meaning_id": "m_0359"
+    },
+    "ru_false": {
+      "text": "полетать",
+      "meaning_id": "m_0360"
+    },
+    "sr_for_ru_false": {
+      "text": "летети",
+      "meaning_id": "m_0360"
+    },
+    "collision_groups": [
+      "cg_m_0359_m_0360"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0207",
+    "sr_trap": {
+      "text": "полни",
+      "meaning_id": "m_0361"
+    },
+    "ru_correct": {
+      "text": "половой",
+      "meaning_id": "m_0361"
+    },
+    "ru_false": {
+      "text": "полный",
+      "meaning_id": "m_0362"
+    },
+    "sr_for_ru_false": {
+      "text": "пун",
+      "meaning_id": "m_0362"
+    },
+    "collision_groups": [
+      "cg_m_0361_m_0362"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0208",
+    "sr_trap": {
+      "text": "пољски",
+      "meaning_id": "m_0363"
+    },
+    "ru_correct": {
+      "text": "полевой",
+      "meaning_id": "m_0363"
+    },
+    "ru_false": {
+      "text": "польский",
+      "meaning_id": "m_0364"
+    },
+    "sr_for_ru_false": {
+      "text": "пољски",
+      "meaning_id": "m_0364"
+    },
+    "collision_groups": [
+      "cg_m_0363_m_0364"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0209",
+    "sr_trap": {
+      "text": "пољубити",
+      "meaning_id": "m_0365"
+    },
+    "ru_correct": {
+      "text": "поцеловаться",
+      "meaning_id": "m_0365"
+    },
+    "ru_false": {
+      "text": "полюбить",
+      "meaning_id": "m_0366"
+    },
+    "sr_for_ru_false": {
+      "text": "заволети",
+      "meaning_id": "m_0366"
+    },
+    "collision_groups": [
+      "cg_m_0365_m_0366"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0210",
+    "sr_trap": {
+      "text": "помолити",
+      "meaning_id": "m_0367"
+    },
+    "ru_correct": {
+      "text": "высунуться",
+      "meaning_id": "m_0367"
+    },
+    "ru_false": {
+      "text": "помолить",
+      "meaning_id": "m_0368"
+    },
+    "sr_for_ru_false": {
+      "text": "помолити",
+      "meaning_id": "m_0368"
+    },
+    "collision_groups": [
+      "cg_m_0367_m_0368"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0211",
+    "sr_trap": {
+      "text": "понос",
+      "meaning_id": "m_0369"
+    },
+    "ru_correct": {
+      "text": "гордость",
+      "meaning_id": "m_0369"
+    },
+    "ru_false": {
+      "text": "понос",
+      "meaning_id": "m_0370"
+    },
+    "sr_for_ru_false": {
+      "text": "пролив",
+      "meaning_id": "m_0370"
+    },
+    "collision_groups": [
+      "cg_m_0369_m_0370"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0212",
+    "sr_trap": {
+      "text": "порез",
+      "meaning_id": "m_0371"
+    },
+    "ru_correct": {
+      "text": "налог",
+      "meaning_id": "m_0371"
+    },
+    "ru_false": {
+      "text": "порез",
+      "meaning_id": "m_0372"
+    },
+    "sr_for_ru_false": {
+      "text": "засецање",
+      "meaning_id": "m_0372"
+    },
+    "collision_groups": [
+      "cg_m_0371_m_0372"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0213",
+    "sr_trap": {
+      "text": "посао",
+      "meaning_id": "m_0373"
+    },
+    "ru_correct": {
+      "text": "работа",
+      "meaning_id": "m_0373"
+    },
+    "ru_false": {
+      "text": "посол",
+      "meaning_id": "m_0374"
+    },
+    "sr_for_ru_false": {
+      "text": "амбасадор",
+      "meaning_id": "m_0374"
+    },
+    "collision_groups": [
+      "cg_m_0373_m_0374"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0216",
+    "sr_trap": {
+      "text": "поставка",
+      "meaning_id": "m_0375"
+    },
+    "ru_correct": {
+      "text": "предположение",
+      "meaning_id": "m_0375"
+    },
+    "ru_false": {
+      "text": "поставка",
+      "meaning_id": "m_0376"
+    },
+    "sr_for_ru_false": {
+      "text": "испорука",
+      "meaning_id": "m_0376"
+    },
+    "collision_groups": [
+      "cg_m_0375_m_0376"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0217",
+    "sr_trap": {
+      "text": "постигнути",
+      "meaning_id": "m_0377"
+    },
+    "ru_correct": {
+      "text": "достигнуть",
+      "meaning_id": "m_0377"
+    },
+    "ru_false": {
+      "text": "постигнуть",
+      "meaning_id": "m_0378"
+    },
+    "sr_for_ru_false": {
+      "text": "схватити",
+      "meaning_id": "m_0378"
+    },
+    "collision_groups": [
+      "cg_m_0377_m_0378"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0218",
+    "sr_trap": {
+      "text": "потера",
+      "meaning_id": "m_0379"
+    },
+    "ru_correct": {
+      "text": "погоня",
+      "meaning_id": "m_0379"
+    },
+    "ru_false": {
+      "text": "потеря",
+      "meaning_id": "m_0380"
+    },
+    "sr_for_ru_false": {
+      "text": "губитак",
+      "meaning_id": "m_0380"
+    },
+    "collision_groups": [
+      "cg_m_0379_m_0380"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0219",
+    "sr_trap": {
+      "text": "потрошач",
+      "meaning_id": "m_0381"
+    },
+    "ru_correct": {
+      "text": "потребитель",
+      "meaning_id": "m_0381"
+    },
+    "ru_false": {
+      "text": "потрошитель",
+      "meaning_id": "m_0382"
+    },
+    "sr_for_ru_false": {
+      "text": "трбосек",
+      "meaning_id": "m_0382"
+    },
+    "collision_groups": [
+      "cg_m_0381_m_0382"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0220",
+    "sr_trap": {
+      "text": "потрошити",
+      "meaning_id": "m_0383"
+    },
+    "ru_correct": {
+      "text": "израсходовать",
+      "meaning_id": "m_0383"
+    },
+    "ru_false": {
+      "text": "потрошить",
+      "meaning_id": "m_0384"
+    },
+    "sr_for_ru_false": {
+      "text": "вадити изнутрицу",
+      "meaning_id": "m_0384"
+    },
+    "collision_groups": [
+      "cg_m_0383_m_0384"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0221",
+    "sr_trap": {
+      "text": "почетни",
+      "meaning_id": "m_0385"
+    },
+    "ru_correct": {
+      "text": "начальный",
+      "meaning_id": "m_0385"
+    },
+    "ru_false": {
+      "text": "почётный",
+      "meaning_id": "m_0386"
+    },
+    "sr_for_ru_false": {
+      "text": "цењен",
+      "meaning_id": "m_0386"
+    },
+    "collision_groups": [
+      "cg_m_0385_m_0386"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0222",
+    "sr_trap": {
+      "text": "поштење",
+      "meaning_id": "m_0387"
+    },
+    "ru_correct": {
+      "text": "честность",
+      "meaning_id": "m_0387"
+    },
+    "ru_false": {
+      "text": "почтение",
+      "meaning_id": "m_0388"
+    },
+    "sr_for_ru_false": {
+      "text": "поштовање",
+      "meaning_id": "m_0388"
+    },
+    "collision_groups": [
+      "cg_m_0387_m_0388"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0225",
+    "sr_trap": {
+      "text": "превасходно",
+      "meaning_id": "m_0391"
+    },
+    "ru_correct": {
+      "text": "преимущественно",
+      "meaning_id": "m_0391"
+    },
+    "ru_false": {
+      "text": "превосходно",
+      "meaning_id": "m_0392"
+    },
+    "sr_for_ru_false": {
+      "text": "одлично",
+      "meaning_id": "m_0392"
+    },
+    "collision_groups": [
+      "cg_m_0391_m_0392"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0226",
+    "sr_trap": {
+      "text": "превише",
+      "meaning_id": "m_0393"
+    },
+    "ru_correct": {
+      "text": "слишком",
+      "meaning_id": "m_0393"
+    },
+    "ru_false": {
+      "text": "превыше",
+      "meaning_id": "m_0394"
+    },
+    "sr_for_ru_false": {
+      "text": "изнад свега",
+      "meaning_id": "m_0394"
+    },
+    "collision_groups": [
+      "cg_m_0393_m_0394"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0227",
+    "sr_trap": {
+      "text": "предавати",
+      "meaning_id": "m_0395"
+    },
+    "ru_correct": {
+      "text": "передавать",
+      "meaning_id": "m_0395"
+    },
+    "ru_false": {
+      "text": "предавать",
+      "meaning_id": "m_0396"
+    },
+    "sr_for_ru_false": {
+      "text": "предавати",
+      "meaning_id": "m_0396"
+    },
+    "collision_groups": [
+      "cg_m_0395_m_0396"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0228",
+    "sr_trap": {
+      "text": "предео",
+      "meaning_id": "m_0397"
+    },
+    "ru_correct": {
+      "text": "местность",
+      "meaning_id": "m_0397"
+    },
+    "ru_false": {
+      "text": "предел",
+      "meaning_id": "m_0398"
+    },
+    "sr_for_ru_false": {
+      "text": "граница",
+      "meaning_id": "m_0398"
+    },
+    "collision_groups": [
+      "cg_m_0397_m_0398"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0229",
+    "sr_trap": {
+      "text": "предлог",
+      "meaning_id": "m_0399"
+    },
+    "ru_correct": {
+      "text": "предложение",
+      "meaning_id": "m_0399"
+    },
+    "ru_false": {
+      "text": "предлог",
+      "meaning_id": "m_0400"
+    },
+    "sr_for_ru_false": {
+      "text": "изговор",
+      "meaning_id": "m_0400"
+    },
+    "collision_groups": [
+      "cg_m_0399_m_0400"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0230",
+    "sr_trap": {
+      "text": "преправити",
+      "meaning_id": "m_0000"
+    },
+    "ru_correct": {
+      "text": "переделать",
+      "meaning_id": "m_0000"
+    },
+    "ru_false": {
+      "text": "приправить",
+      "meaning_id": "m_0401"
+    },
+    "sr_for_ru_false": {
+      "text": "зачинити",
+      "meaning_id": "m_0401"
+    },
+    "collision_groups": [
+      "cg_m_0000_m_0401"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0231",
+    "sr_trap": {
+      "text": "препустити",
+      "meaning_id": "m_0402"
+    },
+    "ru_correct": {
+      "text": "предоставить",
+      "meaning_id": "m_0402"
+    },
+    "ru_false": {
+      "text": "пропустить",
+      "meaning_id": "m_0403"
+    },
+    "sr_for_ru_false": {
+      "text": "пропустити",
+      "meaning_id": "m_0403"
+    },
+    "collision_groups": [
+      "cg_m_0402_m_0403"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0232",
+    "sr_trap": {
+      "text": "пресан",
+      "meaning_id": "m_0404"
+    },
+    "ru_correct": {
+      "text": "сырой",
+      "meaning_id": "m_0404"
+    },
+    "ru_false": {
+      "text": "пресный",
+      "meaning_id": "m_0405"
+    },
+    "sr_for_ru_false": {
+      "text": "бљутав",
+      "meaning_id": "m_0405"
+    },
+    "collision_groups": [
+      "cg_m_0404_m_0405"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0233",
+    "sr_trap": {
+      "text": "пресвиснути",
+      "meaning_id": "m_0406"
+    },
+    "ru_correct": {
+      "text": "умереть",
+      "meaning_id": "m_0406"
+    },
+    "ru_false": {
+      "text": "присвистнуть",
+      "meaning_id": "m_0407"
+    },
+    "sr_for_ru_false": {
+      "text": "звизнути",
+      "meaning_id": "m_0407"
+    },
+    "collision_groups": [
+      "cg_m_0406_m_0407"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0234",
+    "sr_trap": {
+      "text": "преступни",
+      "meaning_id": "m_0408"
+    },
+    "ru_correct": {
+      "text": "високосный",
+      "meaning_id": "m_0408"
+    },
+    "ru_false": {
+      "text": "преступный",
+      "meaning_id": "m_0409"
+    },
+    "sr_for_ru_false": {
+      "text": "злочиначки",
+      "meaning_id": "m_0409"
+    },
+    "collision_groups": [
+      "cg_m_0408_m_0409"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0235",
+    "sr_trap": {
+      "text": "претрести",
+      "meaning_id": "m_0410"
+    },
+    "ru_correct": {
+      "text": "перетрясти",
+      "meaning_id": "m_0410"
+    },
+    "ru_false": {
+      "text": "перетрясти",
+      "meaning_id": "m_0411"
+    },
+    "sr_for_ru_false": {
+      "text": "протрести",
+      "meaning_id": "m_0411"
+    },
+    "collision_groups": [
+      "cg_m_0410_m_0411"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0236",
+    "sr_trap": {
+      "text": "приказ",
+      "meaning_id": "m_0412"
+    },
+    "ru_correct": {
+      "text": "показ",
+      "meaning_id": "m_0412"
+    },
+    "ru_false": {
+      "text": "приказ",
+      "meaning_id": "m_0413"
+    },
+    "sr_for_ru_false": {
+      "text": "наређење",
+      "meaning_id": "m_0413"
+    },
+    "collision_groups": [
+      "cg_m_0412_m_0413"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0237",
+    "sr_trap": {
+      "text": "приказати",
+      "meaning_id": "m_0414"
+    },
+    "ru_correct": {
+      "text": "показать",
+      "meaning_id": "m_0414"
+    },
+    "ru_false": {
+      "text": "приказать",
+      "meaning_id": "m_0415"
+    },
+    "sr_for_ru_false": {
+      "text": "наредити",
+      "meaning_id": "m_0415"
+    },
+    "collision_groups": [
+      "cg_m_0414_m_0415"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0238",
+    "sr_trap": {
+      "text": "прикладан",
+      "meaning_id": "m_0416"
+    },
+    "ru_correct": {
+      "text": "пригожий",
+      "meaning_id": "m_0416"
+    },
+    "ru_false": {
+      "text": "прикладной",
+      "meaning_id": "m_0417"
+    },
+    "sr_for_ru_false": {
+      "text": "примењен",
+      "meaning_id": "m_0417"
+    },
+    "collision_groups": [
+      "cg_m_0416_m_0417"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0239",
+    "sr_trap": {
+      "text": "прикључити",
+      "meaning_id": "m_0418"
+    },
+    "ru_correct": {
+      "text": "включить",
+      "meaning_id": "m_0418"
+    },
+    "ru_false": {
+      "text": "приключиться",
+      "meaning_id": "m_0419"
+    },
+    "sr_for_ru_false": {
+      "text": "десити се",
+      "meaning_id": "m_0419"
+    },
+    "collision_groups": [
+      "cg_m_0418_m_0419"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0240",
+    "sr_trap": {
+      "text": "прилично",
+      "meaning_id": "m_0420"
+    },
+    "ru_correct": {
+      "text": "изрядно",
+      "meaning_id": "m_0420"
+    },
+    "ru_false": {
+      "text": "прилично",
+      "meaning_id": "m_0421"
+    },
+    "sr_for_ru_false": {
+      "text": "пристојно",
+      "meaning_id": "m_0421"
+    },
+    "collision_groups": [
+      "cg_m_0420_m_0421"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0241",
+    "sr_trap": {
+      "text": "припадати",
+      "meaning_id": "m_0422"
+    },
+    "ru_correct": {
+      "text": "принадлежать",
+      "meaning_id": "m_0422"
+    },
+    "ru_false": {
+      "text": "припадать",
+      "meaning_id": "m_0423"
+    },
+    "sr_for_ru_false": {
+      "text": "наслањати се",
+      "meaning_id": "m_0423"
+    },
+    "collision_groups": [
+      "cg_m_0422_m_0423"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0242",
+    "sr_trap": {
+      "text": "пристати",
+      "meaning_id": "m_0424"
+    },
+    "ru_correct": {
+      "text": "согласиться",
+      "meaning_id": "m_0424"
+    },
+    "ru_false": {
+      "text": "пристать",
+      "meaning_id": "m_0425"
+    },
+    "sr_for_ru_false": {
+      "text": "прилепити се",
+      "meaning_id": "m_0425"
+    },
+    "collision_groups": [
+      "cg_m_0424_m_0425"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0243",
+    "sr_trap": {
+      "text": "приступ",
+      "meaning_id": "m_0426"
+    },
+    "ru_correct": {
+      "text": "приступ",
+      "meaning_id": "m_0426"
+    },
+    "ru_false": {
+      "text": "приступ",
+      "meaning_id": "m_0427"
+    },
+    "sr_for_ru_false": {
+      "text": "наступ",
+      "meaning_id": "m_0427"
+    },
+    "collision_groups": [
+      "cg_m_0426_m_0427"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0244",
+    "sr_trap": {
+      "text": "прихватити",
+      "meaning_id": "m_0428"
+    },
+    "ru_correct": {
+      "text": "принять",
+      "meaning_id": "m_0428"
+    },
+    "ru_false": {
+      "text": "прихватить",
+      "meaning_id": "m_0429"
+    },
+    "sr_for_ru_false": {
+      "text": "стиснути",
+      "meaning_id": "m_0429"
+    },
+    "collision_groups": [
+      "cg_m_0428_m_0429"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0245",
+    "sr_trap": {
+      "text": "прича",
+      "meaning_id": "m_0430"
+    },
+    "ru_correct": {
+      "text": "рассказ",
+      "meaning_id": "m_0430"
+    },
+    "ru_false": {
+      "text": "притча",
+      "meaning_id": "m_0431"
+    },
+    "sr_for_ru_false": {
+      "text": "поучна прича",
+      "meaning_id": "m_0431"
+    },
+    "collision_groups": [
+      "cg_m_0430_m_0431"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0246",
+    "sr_trap": {
+      "text": "провала",
+      "meaning_id": "m_0432"
+    },
+    "ru_correct": {
+      "text": "взлом",
+      "meaning_id": "m_0432"
+    },
+    "ru_false": {
+      "text": "провал",
+      "meaning_id": "m_0433"
+    },
+    "sr_for_ru_false": {
+      "text": "падање",
+      "meaning_id": "m_0433"
+    },
+    "collision_groups": [
+      "cg_m_0432_m_0433"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0247",
+    "sr_trap": {
+      "text": "провалити",
+      "meaning_id": "m_0434"
+    },
+    "ru_correct": {
+      "text": "пробить",
+      "meaning_id": "m_0434"
+    },
+    "ru_false": {
+      "text": "провалить",
+      "meaning_id": "m_0435"
+    },
+    "sr_for_ru_false": {
+      "text": "срушити",
+      "meaning_id": "m_0435"
+    },
+    "collision_groups": [
+      "cg_m_0434_m_0435"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0248",
+    "sr_trap": {
+      "text": "провод",
+      "meaning_id": "m_0436"
+    },
+    "ru_correct": {
+      "text": "проводы",
+      "meaning_id": "m_0436"
+    },
+    "ru_false": {
+      "text": "провод",
+      "meaning_id": "m_0437"
+    },
+    "sr_for_ru_false": {
+      "text": "вод",
+      "meaning_id": "m_0437"
+    },
+    "collision_groups": [
+      "cg_m_0436_m_0437"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0249",
+    "sr_trap": {
+      "text": "пролазити",
+      "meaning_id": "m_0438"
+    },
+    "ru_correct": {
+      "text": "проходить",
+      "meaning_id": "m_0438"
+    },
+    "ru_false": {
+      "text": "пролезть",
+      "meaning_id": "m_0439"
+    },
+    "sr_for_ru_false": {
+      "text": "увући се",
+      "meaning_id": "m_0439"
+    },
+    "collision_groups": [
+      "cg_m_0438_m_0439"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0250",
+    "sr_trap": {
+      "text": "пролив",
+      "meaning_id": "m_0440"
+    },
+    "ru_correct": {
+      "text": "понос",
+      "meaning_id": "m_0440"
+    },
+    "ru_false": {
+      "text": "пролив",
+      "meaning_id": "m_0441"
+    },
+    "sr_for_ru_false": {
+      "text": "мореуз",
+      "meaning_id": "m_0441"
+    },
+    "collision_groups": [
+      "cg_m_0440_m_0441"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0251",
+    "sr_trap": {
+      "text": "промишљати",
+      "meaning_id": "m_0442"
+    },
+    "ru_correct": {
+      "text": "обдумывать",
+      "meaning_id": "m_0442"
+    },
+    "ru_false": {
+      "text": "промышлять",
+      "meaning_id": "m_0443"
+    },
+    "sr_for_ru_false": {
+      "text": "добијати",
+      "meaning_id": "m_0443"
+    },
+    "collision_groups": [
+      "cg_m_0442_m_0443"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0252",
+    "sr_trap": {
+      "text": "пропис",
+      "meaning_id": "m_0444"
+    },
+    "ru_correct": {
+      "text": "правило",
+      "meaning_id": "m_0444"
+    },
+    "ru_false": {
+      "text": "пропись",
+      "meaning_id": "m_0445"
+    },
+    "sr_for_ru_false": {
+      "text": "пропис",
+      "meaning_id": "m_0445"
+    },
+    "collision_groups": [
+      "cg_m_0444_m_0445"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0253",
+    "sr_trap": {
+      "text": "просек",
+      "meaning_id": "m_0446"
+    },
+    "ru_correct": {
+      "text": "средний уровень",
+      "meaning_id": "m_0446"
+    },
+    "ru_false": {
+      "text": "просека",
+      "meaning_id": "m_0447"
+    },
+    "sr_for_ru_false": {
+      "text": "просека",
+      "meaning_id": "m_0447"
+    },
+    "collision_groups": [
+      "cg_m_0446_m_0447"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0254",
+    "sr_trap": {
+      "text": "просити",
+      "meaning_id": "m_0448"
+    },
+    "ru_correct": {
+      "text": "свататься",
+      "meaning_id": "m_0448"
+    },
+    "ru_false": {
+      "text": "просить",
+      "meaning_id": "m_0449"
+    },
+    "sr_for_ru_false": {
+      "text": "молити",
+      "meaning_id": "m_0449"
+    },
+    "collision_groups": [
+      "cg_m_0448_m_0449"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0255",
+    "sr_trap": {
+      "text": "простак",
+      "meaning_id": "m_0450"
+    },
+    "ru_correct": {
+      "text": "грубый",
+      "meaning_id": "m_0450"
+    },
+    "ru_false": {
+      "text": "простак",
+      "meaning_id": "m_0451"
+    },
+    "sr_for_ru_false": {
+      "text": "простодушан човек",
+      "meaning_id": "m_0451"
+    },
+    "collision_groups": [
+      "cg_m_0450_m_0451"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0257",
+    "sr_trap": {
+      "text": "проучити",
+      "meaning_id": "m_0454"
+    },
+    "ru_correct": {
+      "text": "изучить",
+      "meaning_id": "m_0454"
+    },
+    "ru_false": {
+      "text": "проучить",
+      "meaning_id": "m_0455"
+    },
+    "sr_for_ru_false": {
+      "text": "научити памети",
+      "meaning_id": "m_0455"
+    },
+    "collision_groups": [
+      "cg_m_0454_m_0455"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0259",
+    "sr_trap": {
+      "text": "пукнути",
+      "meaning_id": "m_0458"
+    },
+    "ru_correct": {
+      "text": "треснуть",
+      "meaning_id": "m_0458"
+    },
+    "ru_false": {
+      "text": "пукнуть",
+      "meaning_id": "m_0459"
+    },
+    "sr_for_ru_false": {
+      "text": "прднути",
+      "meaning_id": "m_0459"
+    },
+    "collision_groups": [
+      "cg_m_0458_m_0459"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0261",
+    "sr_trap": {
+      "text": "пучина",
+      "meaning_id": "m_0462"
+    },
+    "ru_correct": {
+      "text": "открытое море",
+      "meaning_id": "m_0462"
+    },
+    "ru_false": {
+      "text": "пучина",
+      "meaning_id": "m_0463"
+    },
+    "sr_for_ru_false": {
+      "text": "морска дубина",
+      "meaning_id": "m_0463"
+    },
+    "collision_groups": [
+      "cg_m_0462_m_0463"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0262",
+    "sr_trap": {
+      "text": "пушка",
+      "meaning_id": "m_0464"
+    },
+    "ru_correct": {
+      "text": "ружьё",
+      "meaning_id": "m_0464"
+    },
+    "ru_false": {
+      "text": "пушка",
+      "meaning_id": "m_0465"
+    },
+    "sr_for_ru_false": {
+      "text": "топ",
+      "meaning_id": "m_0465"
+    },
+    "collision_groups": [
+      "cg_m_0464_m_0465"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0263",
+    "sr_trap": {
+      "text": "раж",
+      "meaning_id": "m_0466"
+    },
+    "ru_correct": {
+      "text": "рожь",
+      "meaning_id": "m_0466"
+    },
+    "ru_false": {
+      "text": "раж",
+      "meaning_id": "m_0467"
+    },
+    "sr_for_ru_false": {
+      "text": "јарост",
+      "meaning_id": "m_0467"
+    },
+    "collision_groups": [
+      "cg_m_0466_m_0467"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0264",
+    "sr_trap": {
+      "text": "разбој",
+      "meaning_id": "m_0468"
+    },
+    "ru_correct": {
+      "text": "ткацкий станок",
+      "meaning_id": "m_0468"
+    },
+    "ru_false": {
+      "text": "разбой",
+      "meaning_id": "m_0469"
+    },
+    "sr_for_ru_false": {
+      "text": "разбојништво",
+      "meaning_id": "m_0469"
+    },
+    "collision_groups": [
+      "cg_m_0468_m_0469"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0266",
+    "sr_trap": {
+      "text": "размазити",
+      "meaning_id": "m_0472"
+    },
+    "ru_correct": {
+      "text": "избаловать",
+      "meaning_id": "m_0472"
+    },
+    "ru_false": {
+      "text": "размазать",
+      "meaning_id": "m_0473"
+    },
+    "sr_for_ru_false": {
+      "text": "размазати",
+      "meaning_id": "m_0473"
+    },
+    "collision_groups": [
+      "cg_m_0472_m_0473"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0268",
+    "sr_trap": {
+      "text": "разрадити",
+      "meaning_id": "m_0476"
+    },
+    "ru_correct": {
+      "text": "разработать",
+      "meaning_id": "m_0476"
+    },
+    "ru_false": {
+      "text": "разрядить",
+      "meaning_id": "m_0477"
+    },
+    "sr_for_ru_false": {
+      "text": "испразнити",
+      "meaning_id": "m_0477"
+    },
+    "collision_groups": [
+      "cg_m_0476_m_0477"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0269",
+    "sr_trap": {
+      "text": "разред",
+      "meaning_id": "m_0478"
+    },
+    "ru_correct": {
+      "text": "класс",
+      "meaning_id": "m_0478"
+    },
+    "ru_false": {
+      "text": "разряд",
+      "meaning_id": "m_0479"
+    },
+    "sr_for_ru_false": {
+      "text": "пражњење",
+      "meaning_id": "m_0479"
+    },
+    "collision_groups": [
+      "cg_m_0478_m_0479"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0270",
+    "sr_trap": {
+      "text": "разрешити",
+      "meaning_id": "m_0480"
+    },
+    "ru_correct": {
+      "text": "решить",
+      "meaning_id": "m_0480"
+    },
+    "ru_false": {
+      "text": "разрешить",
+      "meaning_id": "m_0481"
+    },
+    "sr_for_ru_false": {
+      "text": "дозволити",
+      "meaning_id": "m_0481"
+    },
+    "collision_groups": [
+      "cg_m_0480_m_0481"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0274",
+    "sr_trap": {
+      "text": "раскидати",
+      "meaning_id": "m_0487"
+    },
+    "ru_correct": {
+      "text": "разрывать",
+      "meaning_id": "m_0487"
+    },
+    "ru_false": {
+      "text": "раскидать",
+      "meaning_id": "m_0488"
+    },
+    "sr_for_ru_false": {
+      "text": "разбацати",
+      "meaning_id": "m_0488"
+    },
+    "collision_groups": [
+      "cg_m_0487_m_0488"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0275",
+    "sr_trap": {
+      "text": "расписати",
+      "meaning_id": "m_0489"
+    },
+    "ru_correct": {
+      "text": "выпустить циркуляр",
+      "meaning_id": "m_0489"
+    },
+    "ru_false": {
+      "text": "расписать",
+      "meaning_id": "m_0490"
+    },
+    "sr_for_ru_false": {
+      "text": "расписати",
+      "meaning_id": "m_0490"
+    },
+    "collision_groups": [
+      "cg_m_0489_m_0490"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0276",
+    "sr_trap": {
+      "text": "расположење",
+      "meaning_id": "m_0491"
+    },
+    "ru_correct": {
+      "text": "расположение",
+      "meaning_id": "m_0491"
+    },
+    "ru_false": {
+      "text": "расположение",
+      "meaning_id": "m_0492"
+    },
+    "sr_for_ru_false": {
+      "text": "размештај",
+      "meaning_id": "m_0492"
+    },
+    "collision_groups": [
+      "cg_m_0491_m_0492"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0277",
+    "sr_trap": {
+      "text": "расположити",
+      "meaning_id": "m_0493"
+    },
+    "ru_correct": {
+      "text": "привести кого-л. хорошее настроение",
+      "meaning_id": "m_0493"
+    },
+    "ru_false": {
+      "text": "расположить",
+      "meaning_id": "m_0494"
+    },
+    "sr_for_ru_false": {
+      "text": "привући",
+      "meaning_id": "m_0494"
+    },
+    "collision_groups": [
+      "cg_m_0493_m_0494"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0278",
+    "sr_trap": {
+      "text": "расправа",
+      "meaning_id": "m_0495"
+    },
+    "ru_correct": {
+      "text": "разбор",
+      "meaning_id": "m_0495"
+    },
+    "ru_false": {
+      "text": "расправа",
+      "meaning_id": "m_0496"
+    },
+    "sr_for_ru_false": {
+      "text": "окрутан обрачун",
+      "meaning_id": "m_0496"
+    },
+    "collision_groups": [
+      "cg_m_0495_m_0496"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0279",
+    "sr_trap": {
+      "text": "расправљати",
+      "meaning_id": "m_0497"
+    },
+    "ru_correct": {
+      "text": "разбирать",
+      "meaning_id": "m_0497"
+    },
+    "ru_false": {
+      "text": "расправлять",
+      "meaning_id": "m_0498"
+    },
+    "sr_for_ru_false": {
+      "text": "исправљати",
+      "meaning_id": "m_0498"
+    },
+    "collision_groups": [
+      "cg_m_0497_m_0498"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0280",
+    "sr_trap": {
+      "text": "раставити",
+      "meaning_id": "m_0499"
+    },
+    "ru_correct": {
+      "text": "разделить",
+      "meaning_id": "m_0499"
+    },
+    "ru_false": {
+      "text": "расставить",
+      "meaning_id": "m_0500"
+    },
+    "sr_for_ru_false": {
+      "text": "поставити",
+      "meaning_id": "m_0500"
+    },
+    "collision_groups": [
+      "cg_m_0499_m_0500"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0281",
+    "sr_trap": {
+      "text": "растегнути",
+      "meaning_id": "m_0501"
+    },
+    "ru_correct": {
+      "text": "растянуть",
+      "meaning_id": "m_0501"
+    },
+    "ru_false": {
+      "text": "расстегнуть",
+      "meaning_id": "m_0502"
+    },
+    "sr_for_ru_false": {
+      "text": "раскопчати",
+      "meaning_id": "m_0502"
+    },
+    "collision_groups": [
+      "cg_m_0501_m_0502"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0282",
+    "sr_trap": {
+      "text": "растргнути",
+      "meaning_id": "m_0503"
+    },
+    "ru_correct": {
+      "text": "разорвать",
+      "meaning_id": "m_0503"
+    },
+    "ru_false": {
+      "text": "расторгнуть",
+      "meaning_id": "m_0504"
+    },
+    "sr_for_ru_false": {
+      "text": "раскинути",
+      "meaning_id": "m_0504"
+    },
+    "collision_groups": [
+      "cg_m_0503_m_0504"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0283",
+    "sr_trap": {
+      "text": "рација",
+      "meaning_id": "m_0505"
+    },
+    "ru_correct": {
+      "text": "облава",
+      "meaning_id": "m_0505"
+    },
+    "ru_false": {
+      "text": "рация",
+      "meaning_id": "m_0506"
+    },
+    "sr_for_ru_false": {
+      "text": "радио-предајник",
+      "meaning_id": "m_0506"
+    },
+    "collision_groups": [
+      "cg_m_0505_m_0506"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0284",
+    "sr_trap": {
+      "text": "рвање",
+      "meaning_id": "m_0507"
+    },
+    "ru_correct": {
+      "text": "состязание борьбе",
+      "meaning_id": "m_0507"
+    },
+    "ru_false": {
+      "text": "рваньё",
+      "meaning_id": "m_0508"
+    },
+    "sr_for_ru_false": {
+      "text": "дроњци",
+      "meaning_id": "m_0508"
+    },
+    "collision_groups": [
+      "cg_m_0507_m_0508"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0285",
+    "sr_trap": {
+      "text": "рвати се",
+      "meaning_id": "m_0509"
+    },
+    "ru_correct": {
+      "text": "бороться",
+      "meaning_id": "m_0509"
+    },
+    "ru_false": {
+      "text": "рваться",
+      "meaning_id": "m_0510"
+    },
+    "sr_for_ru_false": {
+      "text": "кидати се",
+      "meaning_id": "m_0510"
+    },
+    "collision_groups": [
+      "cg_m_0509_m_0510"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0286",
+    "sr_trap": {
+      "text": "рвач",
+      "meaning_id": "m_0511"
+    },
+    "ru_correct": {
+      "text": "спорт. борец",
+      "meaning_id": "m_0511"
+    },
+    "ru_false": {
+      "text": "рвач",
+      "meaning_id": "m_0512"
+    },
+    "sr_for_ru_false": {
+      "text": "лакташ",
+      "meaning_id": "m_0512"
+    },
+    "collision_groups": [
+      "cg_m_0511_m_0512"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0287",
+    "sr_trap": {
+      "text": "рђав",
+      "meaning_id": "m_0513"
+    },
+    "ru_correct": {
+      "text": "плохой",
+      "meaning_id": "m_0513"
+    },
+    "ru_false": {
+      "text": "ржавый",
+      "meaning_id": "m_0514"
+    },
+    "sr_for_ru_false": {
+      "text": "зарђао",
+      "meaning_id": "m_0514"
+    },
+    "collision_groups": [
+      "cg_m_0513_m_0514"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0288",
+    "sr_trap": {
+      "text": "рђати",
+      "meaning_id": "m_0515"
+    },
+    "ru_correct": {
+      "text": "ржаветь",
+      "meaning_id": "m_0515"
+    },
+    "ru_false": {
+      "text": "ржать",
+      "meaning_id": "m_0516"
+    },
+    "sr_for_ru_false": {
+      "text": "рзати",
+      "meaning_id": "m_0516"
+    },
+    "collision_groups": [
+      "cg_m_0515_m_0516"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0292",
+    "sr_trap": {
+      "text": "реч",
+      "meaning_id": "m_0035"
+    },
+    "ru_correct": {
+      "text": "слово",
+      "meaning_id": "m_0035"
+    },
+    "ru_false": {
+      "text": "речь",
+      "meaning_id": "m_0520"
+    },
+    "sr_for_ru_false": {
+      "text": "говор",
+      "meaning_id": "m_0520"
+    },
+    "collision_groups": [
+      "cg_m_0035_m_0520"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0293",
+    "sr_trap": {
+      "text": "риболов",
+      "meaning_id": "m_0521"
+    },
+    "ru_correct": {
+      "text": "рыбная ловля",
+      "meaning_id": "m_0521"
+    },
+    "ru_false": {
+      "text": "рыболов",
+      "meaning_id": "m_0522"
+    },
+    "sr_for_ru_false": {
+      "text": "риболовац",
+      "meaning_id": "m_0522"
+    },
+    "collision_groups": [
+      "cg_m_0521_m_0522"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0294",
+    "sr_trap": {
+      "text": "роба",
+      "meaning_id": "m_0523"
+    },
+    "ru_correct": {
+      "text": "товар",
+      "meaning_id": "m_0523"
+    },
+    "ru_false": {
+      "text": "роба",
+      "meaning_id": "m_0524"
+    },
+    "sr_for_ru_false": {
+      "text": "одећа",
+      "meaning_id": "m_0524"
+    },
+    "collision_groups": [
+      "cg_m_0523_m_0524"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0296",
+    "sr_trap": {
+      "text": "рок",
+      "meaning_id": "m_0527"
+    },
+    "ru_correct": {
+      "text": "срок",
+      "meaning_id": "m_0527"
+    },
+    "ru_false": {
+      "text": "рок",
+      "meaning_id": "m_0528"
+    },
+    "sr_for_ru_false": {
+      "text": "судбина",
+      "meaning_id": "m_0528"
+    },
+    "collision_groups": [
+      "cg_m_0527_m_0528"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0297",
+    "sr_trap": {
+      "text": "рубље",
+      "meaning_id": "m_0529"
+    },
+    "ru_correct": {
+      "text": "белье",
+      "meaning_id": "m_0529"
+    },
+    "ru_false": {
+      "text": "рубль",
+      "meaning_id": "m_0530"
+    },
+    "sr_for_ru_false": {
+      "text": "рубља",
+      "meaning_id": "m_0530"
+    },
+    "collision_groups": [
+      "cg_m_0529_m_0530"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0298",
+    "sr_trap": {
+      "text": "ругати се",
+      "meaning_id": "m_0531"
+    },
+    "ru_correct": {
+      "text": "насмехаться",
+      "meaning_id": "m_0531"
+    },
+    "ru_false": {
+      "text": "ругаться",
+      "meaning_id": "m_0532"
+    },
+    "sr_for_ru_false": {
+      "text": "свађати се",
+      "meaning_id": "m_0532"
+    },
+    "collision_groups": [
+      "cg_m_0531_m_0532"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0299",
+    "sr_trap": {
+      "text": "рус",
+      "meaning_id": "m_0533"
+    },
+    "ru_correct": {
+      "text": "русский",
+      "meaning_id": "m_0533"
+    },
+    "ru_false": {
+      "text": "русый",
+      "meaning_id": "m_0534"
+    },
+    "sr_for_ru_false": {
+      "text": "светлосмеђ",
+      "meaning_id": "m_0534"
+    },
+    "collision_groups": [
+      "cg_m_0533_m_0534"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0301",
+    "sr_trap": {
+      "text": "сабор",
+      "meaning_id": "m_0537"
+    },
+    "ru_correct": {
+      "text": "собрание",
+      "meaning_id": "m_0537"
+    },
+    "ru_false": {
+      "text": "собор",
+      "meaning_id": "m_0538"
+    },
+    "sr_for_ru_false": {
+      "text": "саборна црква",
+      "meaning_id": "m_0538"
+    },
+    "collision_groups": [
+      "cg_m_0537_m_0538"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0302",
+    "sr_trap": {
+      "text": "сад",
+      "meaning_id": "m_0539"
+    },
+    "ru_correct": {
+      "text": "теперь",
+      "meaning_id": "m_0539"
+    },
+    "ru_false": {
+      "text": "сад",
+      "meaning_id": "m_0540"
+    },
+    "sr_for_ru_false": {
+      "text": "башта",
+      "meaning_id": "m_0540"
+    },
+    "collision_groups": [
+      "cg_m_0539_m_0540"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0303",
+    "sr_trap": {
+      "text": "сазнавати",
+      "meaning_id": "m_0541"
+    },
+    "ru_correct": {
+      "text": "узнавать",
+      "meaning_id": "m_0541"
+    },
+    "ru_false": {
+      "text": "сознавать",
+      "meaning_id": "m_0542"
+    },
+    "sr_for_ru_false": {
+      "text": "схватати",
+      "meaning_id": "m_0542"
+    },
+    "collision_groups": [
+      "cg_m_0541_m_0542"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0304",
+    "sr_trap": {
+      "text": "сазнање",
+      "meaning_id": "m_0543"
+    },
+    "ru_correct": {
+      "text": "узнавание",
+      "meaning_id": "m_0543"
+    },
+    "ru_false": {
+      "text": "сознание",
+      "meaning_id": "m_0544"
+    },
+    "sr_for_ru_false": {
+      "text": "схватање",
+      "meaning_id": "m_0544"
+    },
+    "collision_groups": [
+      "cg_m_0543_m_0544"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0305",
+    "sr_trap": {
+      "text": "самац",
+      "meaning_id": "m_0545"
+    },
+    "ru_correct": {
+      "text": "холостяк",
+      "meaning_id": "m_0545"
+    },
+    "ru_false": {
+      "text": "самец",
+      "meaning_id": "m_0546"
+    },
+    "sr_for_ru_false": {
+      "text": "мужјак",
+      "meaning_id": "m_0546"
+    },
+    "collision_groups": [
+      "cg_m_0545_m_0546"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0306",
+    "sr_trap": {
+      "text": "сан",
+      "meaning_id": "m_0547"
+    },
+    "ru_correct": {
+      "text": "сон",
+      "meaning_id": "m_0547"
+    },
+    "ru_false": {
+      "text": "сан",
+      "meaning_id": "m_0548"
+    },
+    "sr_for_ru_false": {
+      "text": "чин",
+      "meaning_id": "m_0548"
+    },
+    "collision_groups": [
+      "cg_m_0547_m_0548"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0307",
+    "sr_trap": {
+      "text": "сарделе",
+      "meaning_id": "m_0549"
+    },
+    "ru_correct": {
+      "text": "сардина",
+      "meaning_id": "m_0549"
+    },
+    "ru_false": {
+      "text": "сарделька",
+      "meaning_id": "m_0550"
+    },
+    "sr_for_ru_false": {
+      "text": "сафалада",
+      "meaning_id": "m_0550"
+    },
+    "collision_groups": [
+      "cg_m_0549_m_0550"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0309",
+    "sr_trap": {
+      "text": "сачинити",
+      "meaning_id": "m_0553"
+    },
+    "ru_correct": {
+      "text": "составить",
+      "meaning_id": "m_0553"
+    },
+    "ru_false": {
+      "text": "сочинить",
+      "meaning_id": "m_0554"
+    },
+    "sr_for_ru_false": {
+      "text": "саставити",
+      "meaning_id": "m_0554"
+    },
+    "collision_groups": [
+      "cg_m_0553_m_0554"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0310",
+    "sr_trap": {
+      "text": "свастика",
+      "meaning_id": "m_0555"
+    },
+    "ru_correct": {
+      "text": "свояченица",
+      "meaning_id": "m_0555"
+    },
+    "ru_false": {
+      "text": "свастика",
+      "meaning_id": "m_0556"
+    },
+    "sr_for_ru_false": {
+      "text": "свастика",
+      "meaning_id": "m_0556"
+    },
+    "collision_groups": [
+      "cg_m_0555_m_0556"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0311",
+    "sr_trap": {
+      "text": "свет",
+      "meaning_id": "m_0557"
+    },
+    "ru_correct": {
+      "text": "мир",
+      "meaning_id": "m_0557"
+    },
+    "ru_false": {
+      "text": "свет",
+      "meaning_id": "m_0558"
+    },
+    "sr_for_ru_false": {
+      "text": "светлост",
+      "meaning_id": "m_0558"
+    },
+    "collision_groups": [
+      "cg_m_0557_m_0558"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0312",
+    "sr_trap": {
+      "text": "светионик",
+      "meaning_id": "m_0559"
+    },
+    "ru_correct": {
+      "text": "маяк",
+      "meaning_id": "m_0559"
+    },
+    "ru_false": {
+      "text": "светильник",
+      "meaning_id": "m_0560"
+    },
+    "sr_for_ru_false": {
+      "text": "светиљка",
+      "meaning_id": "m_0560"
+    },
+    "collision_groups": [
+      "cg_m_0559_m_0560"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0313",
+    "sr_trap": {
+      "text": "светити",
+      "meaning_id": "m_0561"
+    },
+    "ru_correct": {
+      "text": "мстить",
+      "meaning_id": "m_0561"
+    },
+    "ru_false": {
+      "text": "светить",
+      "meaning_id": "m_0562"
+    },
+    "sr_for_ru_false": {
+      "text": "сијати",
+      "meaning_id": "m_0562"
+    },
+    "collision_groups": [
+      "cg_m_0561_m_0562"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0314",
+    "sr_trap": {
+      "text": "свидети се",
+      "meaning_id": "m_0563"
+    },
+    "ru_correct": {
+      "text": "понравиться",
+      "meaning_id": "m_0563"
+    },
+    "ru_false": {
+      "text": "свидеться",
+      "meaning_id": "m_0564"
+    },
+    "sr_for_ru_false": {
+      "text": "видети се",
+      "meaning_id": "m_0564"
+    },
+    "collision_groups": [
+      "cg_m_0563_m_0564"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0316",
+    "sr_trap": {
+      "text": "свратити",
+      "meaning_id": "m_0567"
+    },
+    "ru_correct": {
+      "text": "зайти",
+      "meaning_id": "m_0567"
+    },
+    "ru_false": {
+      "text": "совратить",
+      "meaning_id": "m_0568"
+    },
+    "sr_for_ru_false": {
+      "text": "завести",
+      "meaning_id": "m_0568"
+    },
+    "collision_groups": [
+      "cg_m_0567_m_0568"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0317",
+    "sr_trap": {
+      "text": "секира",
+      "meaning_id": "m_0569"
+    },
+    "ru_correct": {
+      "text": "топор",
+      "meaning_id": "m_0569"
+    },
+    "ru_false": {
+      "text": "секира",
+      "meaning_id": "m_0570"
+    },
+    "sr_for_ru_false": {
+      "text": "бојна секира",
+      "meaning_id": "m_0570"
+    },
+    "collision_groups": [
+      "cg_m_0569_m_0570"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0318",
+    "sr_trap": {
+      "text": "селити",
+      "meaning_id": "m_0571"
+    },
+    "ru_correct": {
+      "text": "переселяться",
+      "meaning_id": "m_0571"
+    },
+    "ru_false": {
+      "text": "селиться",
+      "meaning_id": "m_0572"
+    },
+    "sr_for_ru_false": {
+      "text": "насељавати се",
+      "meaning_id": "m_0572"
+    },
+    "collision_groups": [
+      "cg_m_0571_m_0572"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0319",
+    "sr_trap": {
+      "text": "сињи",
+      "meaning_id": "m_0573"
+    },
+    "ru_correct": {
+      "text": "сероватый",
+      "meaning_id": "m_0573"
+    },
+    "ru_false": {
+      "text": "синий",
+      "meaning_id": "m_0574"
+    },
+    "sr_for_ru_false": {
+      "text": "модроплав",
+      "meaning_id": "m_0574"
+    },
+    "collision_groups": [
+      "cg_m_0573_m_0574"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0321",
+    "sr_trap": {
+      "text": "скала",
+      "meaning_id": "m_0575"
+    },
+    "ru_correct": {
+      "text": "скала",
+      "meaning_id": "m_0575"
+    },
+    "ru_false": {
+      "text": "скала",
+      "meaning_id": "m_0576"
+    },
+    "sr_for_ru_false": {
+      "text": "стена",
+      "meaning_id": "m_0576"
+    },
+    "collision_groups": [
+      "cg_m_0575_m_0576"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0322",
+    "sr_trap": {
+      "text": "склад",
+      "meaning_id": "m_0577"
+    },
+    "ru_correct": {
+      "text": "согласованность",
+      "meaning_id": "m_0577"
+    },
+    "ru_false": {
+      "text": "склад",
+      "meaning_id": "m_0578"
+    },
+    "sr_for_ru_false": {
+      "text": "магацин",
+      "meaning_id": "m_0578"
+    },
+    "collision_groups": [
+      "cg_m_0577_m_0578"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0323",
+    "sr_trap": {
+      "text": "скоро",
+      "meaning_id": "m_0579"
+    },
+    "ru_correct": {
+      "text": "недавно",
+      "meaning_id": "m_0579"
+    },
+    "ru_false": {
+      "text": "скоро",
+      "meaning_id": "m_0580"
+    },
+    "sr_for_ru_false": {
+      "text": "убрзо",
+      "meaning_id": "m_0580"
+    },
+    "collision_groups": [
+      "cg_m_0579_m_0580"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0324",
+    "sr_trap": {
+      "text": "скровиште",
+      "meaning_id": "m_0581"
+    },
+    "ru_correct": {
+      "text": "убежище",
+      "meaning_id": "m_0581"
+    },
+    "ru_false": {
+      "text": "сокровище",
+      "meaning_id": "m_0582"
+    },
+    "sr_for_ru_false": {
+      "text": "благо",
+      "meaning_id": "m_0582"
+    },
+    "collision_groups": [
+      "cg_m_0581_m_0582"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0325",
+    "sr_trap": {
+      "text": "скуп",
+      "meaning_id": "m_0583"
+    },
+    "ru_correct": {
+      "text": "дорогой",
+      "meaning_id": "m_0583"
+    },
+    "ru_false": {
+      "text": "скуп",
+      "meaning_id": "m_0584"
+    },
+    "sr_for_ru_false": {
+      "text": "шкрто",
+      "meaning_id": "m_0584"
+    },
+    "collision_groups": [
+      "cg_m_0583_m_0584"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0326",
+    "sr_trap": {
+      "text": "скупити",
+      "meaning_id": "m_0585"
+    },
+    "ru_correct": {
+      "text": "собрать",
+      "meaning_id": "m_0585"
+    },
+    "ru_false": {
+      "text": "скупить",
+      "meaning_id": "m_0586"
+    },
+    "sr_for_ru_false": {
+      "text": "закупити",
+      "meaning_id": "m_0586"
+    },
+    "collision_groups": [
+      "cg_m_0585_m_0586"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0327",
+    "sr_trap": {
+      "text": "слабина",
+      "meaning_id": "m_0587"
+    },
+    "ru_correct": {
+      "text": "пах",
+      "meaning_id": "m_0587"
+    },
+    "ru_false": {
+      "text": "слабина",
+      "meaning_id": "m_0588"
+    },
+    "sr_for_ru_false": {
+      "text": "слабост",
+      "meaning_id": "m_0588"
+    },
+    "collision_groups": [
+      "cg_m_0587_m_0588"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0328",
+    "sr_trap": {
+      "text": "слагати",
+      "meaning_id": "m_0589"
+    },
+    "ru_correct": {
+      "text": "солгать",
+      "meaning_id": "m_0589"
+    },
+    "ru_false": {
+      "text": "слагать",
+      "meaning_id": "m_0590"
+    },
+    "sr_for_ru_false": {
+      "text": "састављати",
+      "meaning_id": "m_0590"
+    },
+    "collision_groups": [
+      "cg_m_0589_m_0590"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0329",
+    "sr_trap": {
+      "text": "слобода",
+      "meaning_id": "m_0591"
+    },
+    "ru_correct": {
+      "text": "свобода",
+      "meaning_id": "m_0591"
+    },
+    "ru_false": {
+      "text": "слобода",
+      "meaning_id": "m_0592"
+    },
+    "sr_for_ru_false": {
+      "text": "насеље",
+      "meaning_id": "m_0592"
+    },
+    "collision_groups": [
+      "cg_m_0591_m_0592"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0330",
+    "sr_trap": {
+      "text": "словенски",
+      "meaning_id": "m_0593"
+    },
+    "ru_correct": {
+      "text": "славянский",
+      "meaning_id": "m_0593"
+    },
+    "ru_false": {
+      "text": "словенский",
+      "meaning_id": "m_0594"
+    },
+    "sr_for_ru_false": {
+      "text": "словеначки",
+      "meaning_id": "m_0594"
+    },
+    "collision_groups": [
+      "cg_m_0593_m_0594"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0331",
+    "sr_trap": {
+      "text": "слово",
+      "meaning_id": "m_0595"
+    },
+    "ru_correct": {
+      "text": "буква",
+      "meaning_id": "m_0595"
+    },
+    "ru_false": {
+      "text": "слово",
+      "meaning_id": "m_0596"
+    },
+    "sr_for_ru_false": {
+      "text": "реч",
+      "meaning_id": "m_0596"
+    },
+    "collision_groups": [
+      "cg_m_0595_m_0596"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0333",
+    "sr_trap": {
+      "text": "смак",
+      "meaning_id": "m_0599"
+    },
+    "ru_correct": {
+      "text": "гибель",
+      "meaning_id": "m_0599"
+    },
+    "ru_false": {
+      "text": "смак",
+      "meaning_id": "m_0600"
+    },
+    "sr_for_ru_false": {
+      "text": "сласт",
+      "meaning_id": "m_0600"
+    },
+    "collision_groups": [
+      "cg_m_0599_m_0600"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0334",
+    "sr_trap": {
+      "text": "сместа",
+      "meaning_id": "m_0601"
+    },
+    "ru_correct": {
+      "text": "тотчас же",
+      "meaning_id": "m_0601"
+    },
+    "ru_false": {
+      "text": "с места",
+      "meaning_id": "m_0602"
+    },
+    "sr_for_ru_false": {
+      "text": "са места",
+      "meaning_id": "m_0602"
+    },
+    "collision_groups": [
+      "cg_m_0601_m_0602"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0335",
+    "sr_trap": {
+      "text": "сметати",
+      "meaning_id": "m_0603"
+    },
+    "ru_correct": {
+      "text": "мешать",
+      "meaning_id": "m_0603"
+    },
+    "ru_false": {
+      "text": "сметать",
+      "meaning_id": "m_0604"
+    },
+    "sr_for_ru_false": {
+      "text": "згрнути",
+      "meaning_id": "m_0604"
+    },
+    "collision_groups": [
+      "cg_m_0603_m_0604"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0337",
+    "sr_trap": {
+      "text": "спикер",
+      "meaning_id": "m_0607"
+    },
+    "ru_correct": {
+      "text": "диктор",
+      "meaning_id": "m_0607"
+    },
+    "ru_false": {
+      "text": "спикер",
+      "meaning_id": "m_0608"
+    },
+    "sr_for_ru_false": {
+      "text": "председник скупштине",
+      "meaning_id": "m_0608"
+    },
+    "collision_groups": [
+      "cg_m_0607_m_0608"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0338",
+    "sr_trap": {
+      "text": "сплав",
+      "meaning_id": "m_0609"
+    },
+    "ru_correct": {
+      "text": "плот",
+      "meaning_id": "m_0609"
+    },
+    "ru_false": {
+      "text": "сплав",
+      "meaning_id": "m_0610"
+    },
+    "sr_for_ru_false": {
+      "text": "легура",
+      "meaning_id": "m_0610"
+    },
+    "collision_groups": [
+      "cg_m_0609_m_0610"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0340",
+    "sr_trap": {
+      "text": "споро",
+      "meaning_id": "m_0613"
+    },
+    "ru_correct": {
+      "text": "медленно",
+      "meaning_id": "m_0613"
+    },
+    "ru_false": {
+      "text": "споро",
+      "meaning_id": "m_0614"
+    },
+    "sr_for_ru_false": {
+      "text": "брзо",
+      "meaning_id": "m_0614"
+    },
+    "collision_groups": [
+      "cg_m_0613_m_0614"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0342",
+    "sr_trap": {
+      "text": "срез",
+      "meaning_id": "m_0617"
+    },
+    "ru_correct": {
+      "text": "уезд",
+      "meaning_id": "m_0617"
+    },
+    "ru_false": {
+      "text": "срез",
+      "meaning_id": "m_0618"
+    },
+    "sr_for_ru_false": {
+      "text": "разрез",
+      "meaning_id": "m_0618"
+    },
+    "collision_groups": [
+      "cg_m_0617_m_0618"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0343",
+    "sr_trap": {
+      "text": "ставка",
+      "meaning_id": "m_0619"
+    },
+    "ru_correct": {
+      "text": "абзац",
+      "meaning_id": "m_0619"
+    },
+    "ru_false": {
+      "text": "ставка",
+      "meaning_id": "m_0620"
+    },
+    "sr_for_ru_false": {
+      "text": "војн. главни штаб",
+      "meaning_id": "m_0620"
+    },
+    "collision_groups": [
+      "cg_m_0619_m_0620"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0344",
+    "sr_trap": {
+      "text": "стаја",
+      "meaning_id": "m_0621"
+    },
+    "ru_correct": {
+      "text": "стойло",
+      "meaning_id": "m_0621"
+    },
+    "ru_false": {
+      "text": "стая",
+      "meaning_id": "m_0622"
+    },
+    "sr_for_ru_false": {
+      "text": "јато",
+      "meaning_id": "m_0622"
+    },
+    "collision_groups": [
+      "cg_m_0621_m_0622"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0345",
+    "sr_trap": {
+      "text": "станица",
+      "meaning_id": "m_0623"
+    },
+    "ru_correct": {
+      "text": "станция",
+      "meaning_id": "m_0623"
+    },
+    "ru_false": {
+      "text": "станица",
+      "meaning_id": "m_0624"
+    },
+    "sr_for_ru_false": {
+      "text": "станица",
+      "meaning_id": "m_0624"
+    },
+    "collision_groups": [
+      "cg_m_0623_m_0624"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0346",
+    "sr_trap": {
+      "text": "старатељ",
+      "meaning_id": "m_0625"
+    },
+    "ru_correct": {
+      "text": "опекун",
+      "meaning_id": "m_0625"
+    },
+    "ru_false": {
+      "text": "старатель",
+      "meaning_id": "m_0626"
+    },
+    "sr_for_ru_false": {
+      "text": "испирач златоносног песка",
+      "meaning_id": "m_0626"
+    },
+    "collision_groups": [
+      "cg_m_0625_m_0626"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0347",
+    "sr_trap": {
+      "text": "старешина",
+      "meaning_id": "m_0627"
+    },
+    "ru_correct": {
+      "text": "глава",
+      "meaning_id": "m_0627"
+    },
+    "ru_false": {
+      "text": "старшина",
+      "meaning_id": "m_0628"
+    },
+    "sr_for_ru_false": {
+      "text": "војн. старији водник",
+      "meaning_id": "m_0628"
+    },
+    "collision_groups": [
+      "cg_m_0627_m_0628"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0349",
+    "sr_trap": {
+      "text": "стена",
+      "meaning_id": "m_0575"
+    },
+    "ru_correct": {
+      "text": "скала",
+      "meaning_id": "m_0575"
+    },
+    "ru_false": {
+      "text": "стена",
+      "meaning_id": "m_0631"
+    },
+    "sr_for_ru_false": {
+      "text": "зид",
+      "meaning_id": "m_0631"
+    },
+    "collision_groups": [
+      "cg_m_0575_m_0631"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0350",
+    "sr_trap": {
+      "text": "сто",
+      "meaning_id": "m_0632"
+    },
+    "ru_correct": {
+      "text": "стол",
+      "meaning_id": "m_0632"
+    },
+    "ru_false": {
+      "text": "сто",
+      "meaning_id": "m_0633"
+    },
+    "sr_for_ru_false": {
+      "text": "сто",
+      "meaning_id": "m_0633"
+    },
+    "collision_groups": [
+      "cg_m_0632_m_0633"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0351",
+    "sr_trap": {
+      "text": "столица",
+      "meaning_id": "m_0634"
+    },
+    "ru_correct": {
+      "text": "стул",
+      "meaning_id": "m_0634"
+    },
+    "ru_false": {
+      "text": "столица",
+      "meaning_id": "m_0635"
+    },
+    "sr_for_ru_false": {
+      "text": "престоница",
+      "meaning_id": "m_0635"
+    },
+    "collision_groups": [
+      "cg_m_0634_m_0635"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0352",
+    "sr_trap": {
+      "text": "страна",
+      "meaning_id": "m_0636"
+    },
+    "ru_correct": {
+      "text": "сторона",
+      "meaning_id": "m_0636"
+    },
+    "ru_false": {
+      "text": "страна",
+      "meaning_id": "m_0637"
+    },
+    "sr_for_ru_false": {
+      "text": "земља",
+      "meaning_id": "m_0637"
+    },
+    "collision_groups": [
+      "cg_m_0636_m_0637"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0356",
+    "sr_trap": {
+      "text": "струја",
+      "meaning_id": "m_0644"
+    },
+    "ru_correct": {
+      "text": "струя",
+      "meaning_id": "m_0644"
+    },
+    "ru_false": {
+      "text": "струя",
+      "meaning_id": "m_0645"
+    },
+    "sr_for_ru_false": {
+      "text": "млаз",
+      "meaning_id": "m_0645"
+    },
+    "collision_groups": [
+      "cg_m_0644_m_0645"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0358",
+    "sr_trap": {
+      "text": "студија",
+      "meaning_id": "m_0648"
+    },
+    "ru_correct": {
+      "text": "изучение",
+      "meaning_id": "m_0648"
+    },
+    "ru_false": {
+      "text": "студия",
+      "meaning_id": "m_0649"
+    },
+    "sr_for_ru_false": {
+      "text": "студио",
+      "meaning_id": "m_0649"
+    },
+    "collision_groups": [
+      "cg_m_0648_m_0649"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0359",
+    "sr_trap": {
+      "text": "стукнути",
+      "meaning_id": "m_0650"
+    },
+    "ru_correct": {
+      "text": "попятить",
+      "meaning_id": "m_0650"
+    },
+    "ru_false": {
+      "text": "стукнуть",
+      "meaning_id": "m_0651"
+    },
+    "sr_for_ru_false": {
+      "text": "лупнути",
+      "meaning_id": "m_0651"
+    },
+    "collision_groups": [
+      "cg_m_0650_m_0651"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0362",
+    "sr_trap": {
+      "text": "ступица",
+      "meaning_id": "m_0656"
+    },
+    "ru_correct": {
+      "text": "мышеловка",
+      "meaning_id": "m_0656"
+    },
+    "ru_false": {
+      "text": "ступица",
+      "meaning_id": "m_0657"
+    },
+    "sr_for_ru_false": {
+      "text": "главчина на точку",
+      "meaning_id": "m_0657"
+    },
+    "collision_groups": [
+      "cg_m_0656_m_0657"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0364",
+    "sr_trap": {
+      "text": "сутра",
+      "meaning_id": "m_0659"
+    },
+    "ru_correct": {
+      "text": "завтра",
+      "meaning_id": "m_0659"
+    },
+    "ru_false": {
+      "text": "с утра",
+      "meaning_id": "m_0660"
+    },
+    "sr_for_ru_false": {
+      "text": "од ујутру",
+      "meaning_id": "m_0660"
+    },
+    "collision_groups": [
+      "cg_m_0659_m_0660"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0365",
+    "sr_trap": {
+      "text": "суша",
+      "meaning_id": "m_0661"
+    },
+    "ru_correct": {
+      "text": "засуха",
+      "meaning_id": "m_0661"
+    },
+    "ru_false": {
+      "text": "суша",
+      "meaning_id": "m_0662"
+    },
+    "sr_for_ru_false": {
+      "text": "копно",
+      "meaning_id": "m_0662"
+    },
+    "collision_groups": [
+      "cg_m_0661_m_0662"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0366",
+    "sr_trap": {
+      "text": "схватити",
+      "meaning_id": "m_0663"
+    },
+    "ru_correct": {
+      "text": "понять",
+      "meaning_id": "m_0663"
+    },
+    "ru_false": {
+      "text": "схватить",
+      "meaning_id": "m_0664"
+    },
+    "sr_for_ru_false": {
+      "text": "ухватити",
+      "meaning_id": "m_0664"
+    },
+    "collision_groups": [
+      "cg_m_0663_m_0664"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0367",
+    "sr_trap": {
+      "text": "сходно",
+      "meaning_id": "m_0665"
+    },
+    "ru_correct": {
+      "text": "подходяще",
+      "meaning_id": "m_0665"
+    },
+    "ru_false": {
+      "text": "сходно",
+      "meaning_id": "m_0666"
+    },
+    "sr_for_ru_false": {
+      "text": "слично",
+      "meaning_id": "m_0666"
+    },
+    "collision_groups": [
+      "cg_m_0665_m_0666"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0368",
+    "sr_trap": {
+      "text": "табак",
+      "meaning_id": "m_0203"
+    },
+    "ru_correct": {
+      "text": "лист",
+      "meaning_id": "m_0203"
+    },
+    "ru_false": {
+      "text": "табак",
+      "meaning_id": "m_0667"
+    },
+    "sr_for_ru_false": {
+      "text": "дуван",
+      "meaning_id": "m_0667"
+    },
+    "collision_groups": [
+      "cg_m_0203_m_0667"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0370",
+    "sr_trap": {
+      "text": "тачка",
+      "meaning_id": "m_0669"
+    },
+    "ru_correct": {
+      "text": "точка",
+      "meaning_id": "m_0669"
+    },
+    "ru_false": {
+      "text": "тачка",
+      "meaning_id": "m_0670"
+    },
+    "sr_for_ru_false": {
+      "text": "прошивање",
+      "meaning_id": "m_0670"
+    },
+    "collision_groups": [
+      "cg_m_0669_m_0670"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0373",
+    "sr_trap": {
+      "text": "тен",
+      "meaning_id": "m_0674"
+    },
+    "ru_correct": {
+      "text": "цвет лица",
+      "meaning_id": "m_0674"
+    },
+    "ru_false": {
+      "text": "тень",
+      "meaning_id": "m_0675"
+    },
+    "sr_for_ru_false": {
+      "text": "сенка",
+      "meaning_id": "m_0675"
+    },
+    "collision_groups": [
+      "cg_m_0674_m_0675"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0374",
+    "sr_trap": {
+      "text": "товар",
+      "meaning_id": "m_0676"
+    },
+    "ru_correct": {
+      "text": "груз",
+      "meaning_id": "m_0676"
+    },
+    "ru_false": {
+      "text": "товар",
+      "meaning_id": "m_0677"
+    },
+    "sr_for_ru_false": {
+      "text": "роба",
+      "meaning_id": "m_0677"
+    },
+    "collision_groups": [
+      "cg_m_0676_m_0677"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0375",
+    "sr_trap": {
+      "text": "ток",
+      "meaning_id": "m_0678"
+    },
+    "ru_correct": {
+      "text": "течение",
+      "meaning_id": "m_0678"
+    },
+    "ru_false": {
+      "text": "ток",
+      "meaning_id": "m_0679"
+    },
+    "sr_for_ru_false": {
+      "text": "струја",
+      "meaning_id": "m_0679"
+    },
+    "collision_groups": [
+      "cg_m_0678_m_0679"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0377",
+    "sr_trap": {
+      "text": "трап",
+      "meaning_id": "m_0682"
+    },
+    "ru_correct": {
+      "text": "ямя для хранения овощей зимой",
+      "meaning_id": "m_0682"
+    },
+    "ru_false": {
+      "text": "трап",
+      "meaning_id": "m_0683"
+    },
+    "sr_for_ru_false": {
+      "text": "бродске степенице",
+      "meaning_id": "m_0683"
+    },
+    "collision_groups": [
+      "cg_m_0682_m_0683"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0378",
+    "sr_trap": {
+      "text": "трапез",
+      "meaning_id": "m_0684"
+    },
+    "ru_correct": {
+      "text": "трапеция",
+      "meaning_id": "m_0684"
+    },
+    "ru_false": {
+      "text": "трапеза",
+      "meaning_id": "m_0685"
+    },
+    "sr_for_ru_false": {
+      "text": "трпеза",
+      "meaning_id": "m_0685"
+    },
+    "collision_groups": [
+      "cg_m_0684_m_0685"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0379",
+    "sr_trap": {
+      "text": "трбух",
+      "meaning_id": "m_0686"
+    },
+    "ru_correct": {
+      "text": "живот",
+      "meaning_id": "m_0686"
+    },
+    "ru_false": {
+      "text": "требуха",
+      "meaning_id": "m_0687"
+    },
+    "sr_for_ru_false": {
+      "text": "изнутрице",
+      "meaning_id": "m_0687"
+    },
+    "collision_groups": [
+      "cg_m_0686_m_0687"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0380",
+    "sr_trap": {
+      "text": "трг",
+      "meaning_id": "m_0688"
+    },
+    "ru_correct": {
+      "text": "площадь",
+      "meaning_id": "m_0688"
+    },
+    "ru_false": {
+      "text": "торг",
+      "meaning_id": "m_0689"
+    },
+    "sr_for_ru_false": {
+      "text": "трговина",
+      "meaning_id": "m_0689"
+    },
+    "collision_groups": [
+      "cg_m_0688_m_0689"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0381",
+    "sr_trap": {
+      "text": "требати",
+      "meaning_id": "m_0690"
+    },
+    "ru_correct": {
+      "text": "нуждаться",
+      "meaning_id": "m_0690"
+    },
+    "ru_false": {
+      "text": "требовать",
+      "meaning_id": "m_0691"
+    },
+    "sr_for_ru_false": {
+      "text": "захтевати",
+      "meaning_id": "m_0691"
+    },
+    "collision_groups": [
+      "cg_m_0690_m_0691"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0382",
+    "sr_trap": {
+      "text": "трудан",
+      "meaning_id": "m_0692"
+    },
+    "ru_correct": {
+      "text": "утомленный",
+      "meaning_id": "m_0692"
+    },
+    "ru_false": {
+      "text": "трудный",
+      "meaning_id": "m_0693"
+    },
+    "sr_for_ru_false": {
+      "text": "тежак",
+      "meaning_id": "m_0693"
+    },
+    "collision_groups": [
+      "cg_m_0692_m_0693"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0383",
+    "sr_trap": {
+      "text": "труп",
+      "meaning_id": "m_0694"
+    },
+    "ru_correct": {
+      "text": "туловище",
+      "meaning_id": "m_0694"
+    },
+    "ru_false": {
+      "text": "труп",
+      "meaning_id": "m_0695"
+    },
+    "sr_for_ru_false": {
+      "text": "леш",
+      "meaning_id": "m_0695"
+    },
+    "collision_groups": [
+      "cg_m_0694_m_0695"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0384",
+    "sr_trap": {
+      "text": "трут",
+      "meaning_id": "m_0696"
+    },
+    "ru_correct": {
+      "text": "трутень",
+      "meaning_id": "m_0696"
+    },
+    "ru_false": {
+      "text": "трут",
+      "meaning_id": "m_0697"
+    },
+    "sr_for_ru_false": {
+      "text": "труд",
+      "meaning_id": "m_0697"
+    },
+    "collision_groups": [
+      "cg_m_0696_m_0697"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0385",
+    "sr_trap": {
+      "text": "трчати",
+      "meaning_id": "m_0698"
+    },
+    "ru_correct": {
+      "text": "бегать",
+      "meaning_id": "m_0698"
+    },
+    "ru_false": {
+      "text": "торчать",
+      "meaning_id": "m_0699"
+    },
+    "sr_for_ru_false": {
+      "text": "вирити",
+      "meaning_id": "m_0699"
+    },
+    "collision_groups": [
+      "cg_m_0698_m_0699"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0386",
+    "sr_trap": {
+      "text": "тужити",
+      "meaning_id": "m_0700"
+    },
+    "ru_correct": {
+      "text": "подавать жалобу",
+      "meaning_id": "m_0700"
+    },
+    "ru_false": {
+      "text": "тужить",
+      "meaning_id": "m_0701"
+    },
+    "sr_for_ru_false": {
+      "text": "песн. туговати",
+      "meaning_id": "m_0701"
+    },
+    "collision_groups": [
+      "cg_m_0700_m_0701"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0387",
+    "sr_trap": {
+      "text": "ћурка",
+      "meaning_id": "m_0702"
+    },
+    "ru_correct": {
+      "text": "индюшка",
+      "meaning_id": "m_0702"
+    },
+    "ru_false": {
+      "text": "чурка",
+      "meaning_id": "m_0703"
+    },
+    "sr_for_ru_false": {
+      "text": "трупчић",
+      "meaning_id": "m_0703"
+    },
+    "collision_groups": [
+      "cg_m_0702_m_0703"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0388",
+    "sr_trap": {
+      "text": "увозити",
+      "meaning_id": "m_0704"
+    },
+    "ru_correct": {
+      "text": "ввозить",
+      "meaning_id": "m_0704"
+    },
+    "ru_false": {
+      "text": "увозить",
+      "meaning_id": "m_0705"
+    },
+    "sr_for_ru_false": {
+      "text": "одвозити",
+      "meaning_id": "m_0705"
+    },
+    "collision_groups": [
+      "cg_m_0704_m_0705"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0389",
+    "sr_trap": {
+      "text": "угар",
+      "meaning_id": "m_0706"
+    },
+    "ru_correct": {
+      "text": "черный пар",
+      "meaning_id": "m_0706"
+    },
+    "ru_false": {
+      "text": "угар",
+      "meaning_id": "m_0707"
+    },
+    "sr_for_ru_false": {
+      "text": "угљен-моноксид",
+      "meaning_id": "m_0707"
+    },
+    "collision_groups": [
+      "cg_m_0706_m_0707"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0390",
+    "sr_trap": {
+      "text": "удаљ",
+      "meaning_id": "m_0708"
+    },
+    "ru_correct": {
+      "text": "вдаль",
+      "meaning_id": "m_0708"
+    },
+    "ru_false": {
+      "text": "удаль",
+      "meaning_id": "m_0709"
+    },
+    "sr_for_ru_false": {
+      "text": "неустрашивост",
+      "meaning_id": "m_0709"
+    },
+    "collision_groups": [
+      "cg_m_0708_m_0709"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0391",
+    "sr_trap": {
+      "text": "ужинати",
+      "meaning_id": "m_0710"
+    },
+    "ru_correct": {
+      "text": "полдничать",
+      "meaning_id": "m_0710"
+    },
+    "ru_false": {
+      "text": "ужинать",
+      "meaning_id": "m_0711"
+    },
+    "sr_for_ru_false": {
+      "text": "вечерати",
+      "meaning_id": "m_0711"
+    },
+    "collision_groups": [
+      "cg_m_0710_m_0711"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0392",
+    "sr_trap": {
+      "text": "узор",
+      "meaning_id": "m_0712"
+    },
+    "ru_correct": {
+      "text": "образец",
+      "meaning_id": "m_0712"
+    },
+    "ru_false": {
+      "text": "узор",
+      "meaning_id": "m_0713"
+    },
+    "sr_for_ru_false": {
+      "text": "шара",
+      "meaning_id": "m_0713"
+    },
+    "collision_groups": [
+      "cg_m_0712_m_0713"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0393",
+    "sr_trap": {
+      "text": "узоран",
+      "meaning_id": "m_0714"
+    },
+    "ru_correct": {
+      "text": "образцовый",
+      "meaning_id": "m_0714"
+    },
+    "ru_false": {
+      "text": "узорный",
+      "meaning_id": "m_0715"
+    },
+    "sr_for_ru_false": {
+      "text": "украшен шарама",
+      "meaning_id": "m_0715"
+    },
+    "collision_groups": [
+      "cg_m_0714_m_0715"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0394",
+    "sr_trap": {
+      "text": "укус",
+      "meaning_id": "m_0716"
+    },
+    "ru_correct": {
+      "text": "вкус",
+      "meaning_id": "m_0716"
+    },
+    "ru_false": {
+      "text": "укус",
+      "meaning_id": "m_0717"
+    },
+    "sr_for_ru_false": {
+      "text": "ујед",
+      "meaning_id": "m_0717"
+    },
+    "collision_groups": [
+      "cg_m_0716_m_0717"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0395",
+    "sr_trap": {
+      "text": "умни",
+      "meaning_id": "m_0718"
+    },
+    "ru_correct": {
+      "text": "разумный",
+      "meaning_id": "m_0718"
+    },
+    "ru_false": {
+      "text": "умный",
+      "meaning_id": "m_0719"
+    },
+    "sr_for_ru_false": {
+      "text": "паметан",
+      "meaning_id": "m_0719"
+    },
+    "collision_groups": [
+      "cg_m_0718_m_0719"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0396",
+    "sr_trap": {
+      "text": "упасти",
+      "meaning_id": "m_0720"
+    },
+    "ru_correct": {
+      "text": "впасть",
+      "meaning_id": "m_0720"
+    },
+    "ru_false": {
+      "text": "упасть",
+      "meaning_id": "m_0721"
+    },
+    "sr_for_ru_false": {
+      "text": "пасти",
+      "meaning_id": "m_0721"
+    },
+    "collision_groups": [
+      "cg_m_0720_m_0721"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0397",
+    "sr_trap": {
+      "text": "устав",
+      "meaning_id": "m_0722"
+    },
+    "ru_correct": {
+      "text": "конституция",
+      "meaning_id": "m_0722"
+    },
+    "ru_false": {
+      "text": "устав",
+      "meaning_id": "m_0723"
+    },
+    "sr_for_ru_false": {
+      "text": "статут",
+      "meaning_id": "m_0723"
+    },
+    "collision_groups": [
+      "cg_m_0722_m_0723"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0398",
+    "sr_trap": {
+      "text": "уходити",
+      "meaning_id": "m_0724"
+    },
+    "ru_correct": {
+      "text": "выслежывать",
+      "meaning_id": "m_0724"
+    },
+    "ru_false": {
+      "text": "уходить",
+      "meaning_id": "m_0725"
+    },
+    "sr_for_ru_false": {
+      "text": "одлазити",
+      "meaning_id": "m_0725"
+    },
+    "collision_groups": [
+      "cg_m_0724_m_0725"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0399",
+    "sr_trap": {
+      "text": "хвоја",
+      "meaning_id": "m_0726"
+    },
+    "ru_correct": {
+      "text": "побег",
+      "meaning_id": "m_0726"
+    },
+    "ru_false": {
+      "text": "хвоя",
+      "meaning_id": "m_0727"
+    },
+    "sr_for_ru_false": {
+      "text": "иглица",
+      "meaning_id": "m_0727"
+    },
+    "collision_groups": [
+      "cg_m_0726_m_0727"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0400",
+    "sr_trap": {
+      "text": "хранити",
+      "meaning_id": "m_0728"
+    },
+    "ru_correct": {
+      "text": "кормить",
+      "meaning_id": "m_0728"
+    },
+    "ru_false": {
+      "text": "хранить",
+      "meaning_id": "m_0729"
+    },
+    "sr_for_ru_false": {
+      "text": "чувати",
+      "meaning_id": "m_0729"
+    },
+    "collision_groups": [
+      "cg_m_0728_m_0729"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0401",
+    "sr_trap": {
+      "text": "хранити се",
+      "meaning_id": "m_0730"
+    },
+    "ru_correct": {
+      "text": "кормиться",
+      "meaning_id": "m_0730"
+    },
+    "ru_false": {
+      "text": "храниться",
+      "meaning_id": "m_0731"
+    },
+    "sr_for_ru_false": {
+      "text": "чувати се",
+      "meaning_id": "m_0731"
+    },
+    "collision_groups": [
+      "cg_m_0730_m_0731"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0402",
+    "sr_trap": {
+      "text": "цвет",
+      "meaning_id": "m_0732"
+    },
+    "ru_correct": {
+      "text": "цветок",
+      "meaning_id": "m_0732"
+    },
+    "ru_false": {
+      "text": "цвет",
+      "meaning_id": "m_0733"
+    },
+    "sr_for_ru_false": {
+      "text": "боја",
+      "meaning_id": "m_0733"
+    },
+    "collision_groups": [
+      "cg_m_0732_m_0733"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0403",
+    "sr_trap": {
+      "text": "цех",
+      "meaning_id": "m_0734"
+    },
+    "ru_correct": {
+      "text": "корпорация",
+      "meaning_id": "m_0734"
+    },
+    "ru_false": {
+      "text": "цех",
+      "meaning_id": "m_0735"
+    },
+    "sr_for_ru_false": {
+      "text": "погон",
+      "meaning_id": "m_0735"
+    },
+    "collision_groups": [
+      "cg_m_0734_m_0735"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0404",
+    "sr_trap": {
+      "text": "црево",
+      "meaning_id": "m_0736"
+    },
+    "ru_correct": {
+      "text": "кишка",
+      "meaning_id": "m_0736"
+    },
+    "ru_false": {
+      "text": "чрево",
+      "meaning_id": "m_0737"
+    },
+    "sr_for_ru_false": {
+      "text": "утроба",
+      "meaning_id": "m_0737"
+    },
+    "collision_groups": [
+      "cg_m_0736_m_0737"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0405",
+    "sr_trap": {
+      "text": "част",
+      "meaning_id": "m_0738"
+    },
+    "ru_correct": {
+      "text": "честь",
+      "meaning_id": "m_0738"
+    },
+    "ru_false": {
+      "text": "часть",
+      "meaning_id": "m_0739"
+    },
+    "sr_for_ru_false": {
+      "text": "део",
+      "meaning_id": "m_0739"
+    },
+    "collision_groups": [
+      "cg_m_0738_m_0739"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0406",
+    "sr_trap": {
+      "text": "частан",
+      "meaning_id": "m_0740"
+    },
+    "ru_correct": {
+      "text": "честный",
+      "meaning_id": "m_0740"
+    },
+    "ru_false": {
+      "text": "частный",
+      "meaning_id": "m_0741"
+    },
+    "sr_for_ru_false": {
+      "text": "појединачан",
+      "meaning_id": "m_0741"
+    },
+    "collision_groups": [
+      "cg_m_0740_m_0741"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0407",
+    "sr_trap": {
+      "text": "чест",
+      "meaning_id": "m_0742"
+    },
+    "ru_correct": {
+      "text": "частый",
+      "meaning_id": "m_0742"
+    },
+    "ru_false": {
+      "text": "честь",
+      "meaning_id": "m_0743"
+    },
+    "sr_for_ru_false": {
+      "text": "част",
+      "meaning_id": "m_0743"
+    },
+    "collision_groups": [
+      "cg_m_0742_m_0743"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0408",
+    "sr_trap": {
+      "text": "четка",
+      "meaning_id": "m_0744"
+    },
+    "ru_correct": {
+      "text": "щетка",
+      "meaning_id": "m_0744"
+    },
+    "ru_false": {
+      "text": "чётки",
+      "meaning_id": "m_0745"
+    },
+    "sr_for_ru_false": {
+      "text": "бројанице",
+      "meaning_id": "m_0745"
+    },
+    "collision_groups": [
+      "cg_m_0744_m_0745"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0411",
+    "sr_trap": {
+      "text": "шина",
+      "meaning_id": "m_0750"
+    },
+    "ru_correct": {
+      "text": "рельс",
+      "meaning_id": "m_0750"
+    },
+    "ru_false": {
+      "text": "шина",
+      "meaning_id": "m_0751"
+    },
+    "sr_for_ru_false": {
+      "text": "шина",
+      "meaning_id": "m_0751"
+    },
+    "collision_groups": [
+      "cg_m_0750_m_0751"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0413",
+    "sr_trap": {
+      "text": "шишке",
+      "meaning_id": "m_0752"
+    },
+    "ru_correct": {
+      "text": "челка",
+      "meaning_id": "m_0752"
+    },
+    "ru_false": {
+      "text": "шишка",
+      "meaning_id": "m_0753"
+    },
+    "sr_for_ru_false": {
+      "text": "шишарка",
+      "meaning_id": "m_0753"
+    },
+    "collision_groups": [
+      "cg_m_0752_m_0753"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0414",
+    "sr_trap": {
+      "text": "шкаф",
+      "meaning_id": "m_0754"
+    },
+    "ru_correct": {
+      "text": "сосуд для воды",
+      "meaning_id": "m_0754"
+    },
+    "ru_false": {
+      "text": "шкаф",
+      "meaning_id": "m_0755"
+    },
+    "sr_for_ru_false": {
+      "text": "орман",
+      "meaning_id": "m_0755"
+    },
+    "collision_groups": [
+      "cg_m_0754_m_0755"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0415",
+    "sr_trap": {
+      "text": "штука",
+      "meaning_id": "m_0756"
+    },
+    "ru_correct": {
+      "text": "щука",
+      "meaning_id": "m_0756"
+    },
+    "ru_false": {
+      "text": "штука",
+      "meaning_id": "m_0757"
+    },
+    "sr_for_ru_false": {
+      "text": "комад",
+      "meaning_id": "m_0757"
+    },
+    "collision_groups": [
+      "cg_m_0756_m_0757"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0416",
+    "sr_trap": {
+      "text": "шума",
+      "meaning_id": "m_0758"
+    },
+    "ru_correct": {
+      "text": "лес",
+      "meaning_id": "m_0758"
+    },
+    "ru_false": {
+      "text": "шум",
+      "meaning_id": "m_0759"
+    },
+    "sr_for_ru_false": {
+      "text": "галама",
+      "meaning_id": "m_0759"
+    },
+    "collision_groups": [
+      "cg_m_0758_m_0759"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0417",
+    "sr_trap": {
+      "text": "шут",
+      "meaning_id": "m_0760"
+    },
+    "ru_correct": {
+      "text": "удар по мячу",
+      "meaning_id": "m_0760"
+    },
+    "ru_false": {
+      "text": "шут",
+      "meaning_id": "m_0761"
+    },
+    "sr_for_ru_false": {
+      "text": "дворска будала",
+      "meaning_id": "m_0761"
+    },
+    "collision_groups": [
+      "cg_m_0760_m_0761"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0418",
+    "sr_trap": {
+      "text": "виноград",
+      "meaning_id": "m_0762"
+    },
+    "ru_correct": {
+      "text": "виноградник",
+      "meaning_id": "m_0762"
+    },
+    "ru_false": {
+      "text": "виноград",
+      "meaning_id": "m_0763"
+    },
+    "sr_for_ru_false": {
+      "text": "грожђе",
+      "meaning_id": "m_0763"
+    },
+    "collision_groups": [
+      "cg_m_0762_m_0763"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0419",
+    "sr_trap": {
+      "text": "лука",
+      "meaning_id": "m_0764"
+    },
+    "ru_correct": {
+      "text": "порт",
+      "meaning_id": "m_0764"
+    },
+    "ru_false": {
+      "text": "лука",
+      "meaning_id": "m_0765"
+    },
+    "sr_for_ru_false": {
+      "text": "окука",
+      "meaning_id": "m_0765"
+    },
+    "collision_groups": [
+      "cg_m_0764_m_0765"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0420",
+    "sr_trap": {
+      "text": "фамилија",
+      "meaning_id": "m_0766"
+    },
+    "ru_correct": {
+      "text": "семья",
+      "meaning_id": "m_0766"
+    },
+    "ru_false": {
+      "text": "фамилия",
+      "meaning_id": "m_0767"
+    },
+    "sr_for_ru_false": {
+      "text": "презиме",
+      "meaning_id": "m_0767"
+    },
+    "collision_groups": [
+      "cg_m_0766_m_0767"
+    ],
+    "difficulty": 1,
+    "active": true
+  },
+  {
+    "id": "ff_0422",
+    "sr_trap": {
+      "text": "шуга",
+      "meaning_id": "m_0770"
+    },
+    "ru_correct": {
+      "text": "парша",
+      "meaning_id": "m_0770"
+    },
+    "ru_false": {
+      "text": "шуга",
+      "meaning_id": "m_0771"
+    },
+    "sr_for_ru_false": {
+      "text": "ситан здробљен лед",
+      "meaning_id": "m_0771"
+    },
+    "collision_groups": [
+      "cg_m_0770_m_0771"
+    ],
+    "difficulty": 1,
+    "active": true
+  }
+]

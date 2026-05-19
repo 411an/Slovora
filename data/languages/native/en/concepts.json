@@ -1,0 +1,890 @@
+{
+  "student_m": {
+    "conceptId": "student_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "student",
+      "pl": "students",
+      "subject": "student"
+    },
+    "labels": {
+      "default": "student"
+    }
+  },
+  "female_student_f": {
+    "conceptId": "female_student_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "female student",
+      "pl": "female students",
+      "subject": "female student"
+    },
+    "labels": {
+      "default": "female student"
+    }
+  },
+  "woman_f": {
+    "conceptId": "woman_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "woman",
+      "pl": "women",
+      "subject": "woman"
+    },
+    "labels": {
+      "default": "woman"
+    }
+  },
+  "school_f": {
+    "conceptId": "school_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "school",
+      "pl": "schools",
+      "subject": "school"
+    },
+    "labels": {
+      "default": "school"
+    }
+  },
+  "letter_n": {
+    "conceptId": "letter_n",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "letter",
+      "pl": "letters",
+      "subject": "letter"
+    },
+    "labels": {
+      "default": "letter"
+    }
+  },
+  "book_f": {
+    "conceptId": "book_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "book",
+      "pl": "books",
+      "subject": "book"
+    },
+    "labels": {
+      "default": "book"
+    }
+  },
+  "city_m": {
+    "conceptId": "city_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "city",
+      "pl": "cities",
+      "subject": "city"
+    },
+    "labels": {
+      "default": "city"
+    }
+  },
+  "serbia_f": {
+    "conceptId": "serbia_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Serbia",
+      "pl": "Serbia",
+      "subject": "Serbia"
+    },
+    "labels": {
+      "default": "Serbia"
+    }
+  },
+  "belgrade_m": {
+    "conceptId": "belgrade_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Belgrade",
+      "pl": "Belgrade",
+      "subject": "Belgrade"
+    },
+    "labels": {
+      "default": "Belgrade"
+    }
+  },
+  "table_m": {
+    "conceptId": "table_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "table",
+      "pl": "tables",
+      "subject": "table"
+    },
+    "labels": {
+      "default": "table"
+    }
+  },
+  "man_m": {
+    "conceptId": "man_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "man",
+      "pl": "men",
+      "subject": "man"
+    },
+    "labels": {
+      "default": "man"
+    }
+  },
+  "wallet_m": {
+    "conceptId": "wallet_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "wallet",
+      "pl": "wallets",
+      "subject": "wallet"
+    },
+    "labels": {
+      "default": "wallet"
+    }
+  },
+  "pen_pencil_f": {
+    "conceptId": "pen_pencil_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "pen (pencil)",
+      "pl": "pens (pencils)",
+      "subject": "pen (pencil)"
+    },
+    "labels": {
+      "default": "pen (pencil)"
+    }
+  },
+  "passport_m": {
+    "conceptId": "passport_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "passport",
+      "pl": "passports",
+      "subject": "passport"
+    },
+    "labels": {
+      "default": "passport"
+    }
+  },
+  "bag_f": {
+    "conceptId": "bag_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bag",
+      "pl": "bags",
+      "subject": "bag"
+    },
+    "labels": {
+      "default": "bag"
+    }
+  },
+  "computer_m": {
+    "conceptId": "computer_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "computer",
+      "pl": "computers",
+      "subject": "computer"
+    },
+    "labels": {
+      "default": "computer"
+    }
+  },
+  "chair_f": {
+    "conceptId": "chair_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "chair",
+      "pl": "chairs",
+      "subject": "chair"
+    },
+    "labels": {
+      "default": "chair"
+    }
+  },
+  "child_children_n": {
+    "conceptId": "child_children_n",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "child",
+      "pl": "children",
+      "subject": "child"
+    },
+    "labels": {
+      "default": "child"
+    }
+  },
+  "sister_f": {
+    "conceptId": "sister_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "sister",
+      "pl": "sisters",
+      "subject": "sister"
+    },
+    "labels": {
+      "default": "sister"
+    }
+  },
+  "brother_brothers_m": {
+    "conceptId": "brother_brothers_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "brother",
+      "pl": "brothers",
+      "subject": "brother"
+    },
+    "labels": {
+      "default": "brother"
+    }
+  },
+  "professor_m": {
+    "conceptId": "professor_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "professor",
+      "pl": "professors",
+      "subject": "professor"
+    },
+    "labels": {
+      "default": "professor"
+    }
+  },
+  "professor_f_f": {
+    "conceptId": "professor_f_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "professor (f)",
+      "pl": "professors (f)",
+      "subject": "professor (f)"
+    },
+    "labels": {
+      "default": "professor (f)"
+    }
+  },
+  "neighbor_m": {
+    "conceptId": "neighbor_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "neighbor",
+      "pl": "neighbors",
+      "subject": "neighbor"
+    },
+    "labels": {
+      "default": "neighbor"
+    }
+  },
+  "neighbor_f_f": {
+    "conceptId": "neighbor_f_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "neighbor (f)",
+      "pl": "neighbors (f)",
+      "subject": "neighbor (f)"
+    },
+    "labels": {
+      "default": "neighbor (f)"
+    }
+  },
+  "friend_m": {
+    "conceptId": "friend_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "friend",
+      "pl": "friends",
+      "subject": "friend"
+    },
+    "labels": {
+      "default": "friend"
+    }
+  },
+  "friend_f_f": {
+    "conceptId": "friend_f_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "friend (f)",
+      "pl": "friends (f)",
+      "subject": "friend (f)"
+    },
+    "labels": {
+      "default": "friend (f)"
+    }
+  },
+  "phone_m": {
+    "conceptId": "phone_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "phone",
+      "pl": "phones",
+      "subject": "phone"
+    },
+    "labels": {
+      "default": "phone"
+    }
+  },
+  "bus_m": {
+    "conceptId": "bus_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bus",
+      "pl": "buses",
+      "subject": "bus"
+    },
+    "labels": {
+      "default": "bus"
+    }
+  },
+  "bottle_f": {
+    "conceptId": "bottle_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bottle",
+      "pl": "bottles",
+      "subject": "bottle"
+    },
+    "labels": {
+      "default": "bottle"
+    }
+  },
+  "mug_cup_f": {
+    "conceptId": "mug_cup_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "mug (cup)",
+      "pl": "mugs (cups)",
+      "subject": "mug (cup)"
+    },
+    "labels": {
+      "default": "mug (cup)"
+    }
+  },
+  "key_m": {
+    "conceptId": "key_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "key",
+      "pl": "keys",
+      "subject": "key"
+    },
+    "labels": {
+      "default": "key"
+    }
+  },
+  "window_m": {
+    "conceptId": "window_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "window",
+      "pl": "windows",
+      "subject": "window"
+    },
+    "labels": {
+      "default": "window"
+    }
+  },
+  "apartment_m": {
+    "conceptId": "apartment_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "apartment",
+      "pl": "apartments",
+      "subject": "apartment"
+    },
+    "labels": {
+      "default": "apartment"
+    }
+  },
+  "bed_m": {
+    "conceptId": "bed_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bed",
+      "pl": "beds",
+      "subject": "bed"
+    },
+    "labels": {
+      "default": "bed"
+    }
+  },
+  "picture_photo_f": {
+    "conceptId": "picture_photo_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "picture (photo)",
+      "pl": "pictures (photos)",
+      "subject": "picture (photo)"
+    },
+    "labels": {
+      "default": "picture (photo)"
+    }
+  },
+  "water_f": {
+    "conceptId": "water_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "water",
+      "pl": "water",
+      "subject": "water"
+    },
+    "labels": {
+      "default": "water"
+    }
+  },
+  "i": {
+    "conceptId": "i",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "I",
+      "subject": "I"
+    },
+    "labels": {
+      "default": "I"
+    }
+  },
+  "you_sg": {
+    "conceptId": "you_sg",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "you (sg)",
+      "subject": "you (sg)"
+    },
+    "labels": {
+      "default": "you (sg)"
+    }
+  },
+  "he_m": {
+    "conceptId": "he_m",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "he",
+      "subject": "he"
+    },
+    "labels": {
+      "default": "he"
+    }
+  },
+  "she_f": {
+    "conceptId": "she_f",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "she",
+      "subject": "she"
+    },
+    "labels": {
+      "default": "she"
+    }
+  },
+  "it_n": {
+    "conceptId": "it_n",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "it",
+      "subject": "it"
+    },
+    "labels": {
+      "default": "it"
+    }
+  },
+  "we": {
+    "conceptId": "we",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "we",
+      "subject": "we"
+    },
+    "labels": {
+      "default": "we"
+    }
+  },
+  "you_pl": {
+    "conceptId": "you_pl",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "you (pl/formal)",
+      "subject": "you (pl/formal)"
+    },
+    "labels": {
+      "default": "you (pl/formal)"
+    }
+  },
+  "they_m": {
+    "conceptId": "they_m",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "they (m)",
+      "subject": "they (m)"
+    },
+    "labels": {
+      "default": "they (m)"
+    }
+  },
+  "they_f": {
+    "conceptId": "they_f",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "they (f)",
+      "subject": "they (f)"
+    },
+    "labels": {
+      "default": "they (f)"
+    }
+  },
+  "they_n": {
+    "conceptId": "they_n",
+    "language": "en",
+    "type": "pronoun",
+    "forms": {
+      "sg": "they (n)",
+      "subject": "they (n)"
+    },
+    "labels": {
+      "default": "they (n)"
+    }
+  },
+  "dem_this": {
+    "conceptId": "dem_this",
+    "language": "en",
+    "type": "demonstrative",
+    "forms": {
+      "sg": "this",
+      "subject": "this"
+    },
+    "labels": {
+      "default": "this"
+    }
+  },
+  "be_present_short_1sg": {
+    "conceptId": "be_present_short_1sg",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "I am",
+      "subject": "I am"
+    },
+    "labels": {
+      "default": "I am"
+    }
+  },
+  "be_present_short_2sg": {
+    "conceptId": "be_present_short_2sg",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "you are",
+      "subject": "you are"
+    },
+    "labels": {
+      "default": "you are"
+    }
+  },
+  "be_present_short_3sg": {
+    "conceptId": "be_present_short_3sg",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "he/she/it is",
+      "subject": "he/she/it is"
+    },
+    "labels": {
+      "default": "he/she/it is"
+    }
+  },
+  "be_present_short_1pl": {
+    "conceptId": "be_present_short_1pl",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "we are",
+      "subject": "we are"
+    },
+    "labels": {
+      "default": "we are"
+    }
+  },
+  "be_present_short_2pl": {
+    "conceptId": "be_present_short_2pl",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "you are",
+      "subject": "you are"
+    },
+    "labels": {
+      "default": "you are"
+    }
+  },
+  "be_present_short_3pl": {
+    "conceptId": "be_present_short_3pl",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "they are",
+      "subject": "they are"
+    },
+    "labels": {
+      "default": "they are"
+    }
+  },
+  "be_present_long_1sg": {
+    "conceptId": "be_present_long_1sg",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "I am",
+      "subject": "I am"
+    },
+    "labels": {
+      "default": "I am"
+    }
+  },
+  "be_present_long_2sg": {
+    "conceptId": "be_present_long_2sg",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "you are",
+      "subject": "you are"
+    },
+    "labels": {
+      "default": "you are"
+    }
+  },
+  "be_present_long_3sg": {
+    "conceptId": "be_present_long_3sg",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "he/she/it is",
+      "subject": "he/she/it is"
+    },
+    "labels": {
+      "default": "he/she/it is"
+    }
+  },
+  "be_present_long_1pl": {
+    "conceptId": "be_present_long_1pl",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "we are",
+      "subject": "we are"
+    },
+    "labels": {
+      "default": "we are"
+    }
+  },
+  "be_present_long_2pl": {
+    "conceptId": "be_present_long_2pl",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "you are",
+      "subject": "you are"
+    },
+    "labels": {
+      "default": "you are"
+    }
+  },
+  "be_present_long_3pl": {
+    "conceptId": "be_present_long_3pl",
+    "language": "en",
+    "type": "verb",
+    "forms": {
+      "sg": "they are",
+      "subject": "they are"
+    },
+    "labels": {
+      "default": "they are"
+    }
+  },
+  "particle_da_li": {
+    "conceptId": "particle_da_li",
+    "language": "en",
+    "type": "particle",
+    "forms": {
+      "sg": "whether / do",
+      "subject": "whether / do"
+    },
+    "labels": {
+      "default": "whether / do"
+    }
+  },
+  "particle_ne": {
+    "conceptId": "particle_ne",
+    "language": "en",
+    "type": "particle",
+    "forms": {
+      "sg": "not / no",
+      "subject": "not / no"
+    },
+    "labels": {
+      "default": "not / no"
+    }
+  },
+  "particle_da": {
+    "conceptId": "particle_da",
+    "language": "en",
+    "type": "particle",
+    "forms": {
+      "sg": "yes",
+      "subject": "yes"
+    },
+    "labels": {
+      "default": "yes"
+    }
+  },
+  "particle_nije": {
+    "conceptId": "particle_nije",
+    "language": "en",
+    "type": "particle",
+    "forms": {
+      "sg": "is not",
+      "subject": "is not"
+    },
+    "labels": {
+      "default": "is not"
+    }
+  },
+  "particle_zato_sto": {
+    "conceptId": "particle_zato_sto",
+    "language": "en",
+    "type": "particle",
+    "forms": {
+      "sg": "because",
+      "subject": "because"
+    },
+    "labels": {
+      "default": "because"
+    }
+  },
+  "preposition_iz": {
+    "conceptId": "preposition_iz",
+    "language": "en",
+    "type": "preposition",
+    "forms": {
+      "sg": "from",
+      "subject": "from"
+    },
+    "labels": {
+      "default": "from"
+    }
+  },
+  "preposition_u_loc": {
+    "conceptId": "preposition_u_loc",
+    "language": "en",
+    "type": "preposition",
+    "forms": {
+      "sg": "in",
+      "subject": "in"
+    },
+    "labels": {
+      "default": "in"
+    }
+  },
+  "preposition_u_acc": {
+    "conceptId": "preposition_u_acc",
+    "language": "en",
+    "type": "preposition",
+    "forms": {
+      "sg": "into/to",
+      "subject": "into/to"
+    },
+    "labels": {
+      "default": "into/to"
+    }
+  },
+  "preposition_na_loc": {
+    "conceptId": "preposition_na_loc",
+    "language": "en",
+    "type": "preposition",
+    "forms": {
+      "sg": "on",
+      "subject": "on"
+    },
+    "labels": {
+      "default": "on"
+    }
+  },
+  "preposition_na_acc": {
+    "conceptId": "preposition_na_acc",
+    "language": "en",
+    "type": "preposition",
+    "forms": {
+      "sg": "onto/to",
+      "subject": "onto/to"
+    },
+    "labels": {
+      "default": "onto/to"
+    }
+  },
+  "preposition_kod": {
+    "conceptId": "preposition_kod",
+    "language": "en",
+    "type": "preposition",
+    "forms": {
+      "sg": "at/by",
+      "subject": "at/by"
+    },
+    "labels": {
+      "default": "at/by"
+    }
+  },
+  "preposition_za": {
+    "conceptId": "preposition_za",
+    "language": "en",
+    "type": "preposition",
+    "forms": {
+      "sg": "for",
+      "subject": "for"
+    },
+    "labels": {
+      "default": "for"
+    }
+  }
+}

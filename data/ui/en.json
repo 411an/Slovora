@@ -1,0 +1,62 @@
+{
+  "app_name": "Slovora",
+  "menu": {
+    "title": "Choose an exercise",
+    "settings": "Settings",
+    "stats": "Statistics",
+    "readme": { "title": "README", "desc": "Project guide and data notes" }
+  },
+  "exercises": {
+    "biti-short-basic": { "title": "Short form of biti", "desc": "Build a statement: ja sam student" },
+    "demonstrative-basic": { "title": "Ovo sentences", "desc": "Ovo + je + noun" },
+    "da-li-question": { "title": "Questions with \"da li\"", "desc": "Da li si student?" },
+    "short-answer": { "title": "Short answer", "desc": "Jesam. / Jeste. / Jesu." },
+    "full-answer": { "title": "Full answer", "desc": "Ja jesam student." },
+    "false-friends": { "title": "False friends", "desc": "Words that mislead" }
+  },
+  "exercise_ui": {
+    "check": "Check",
+    "next": "Next",
+    "correct": "Correct!",
+    "incorrect": "Incorrect",
+    "difficulty": "Difficulty",
+    "easy": "Easy",
+    "hard": "Hard",
+    "back": "Back",
+    "help": "Help",
+    "help_missing": "No help is available for this exercise.",
+    "available_cards": "Available cards",
+    "your_answer": "Your answer",
+    "place_cards": "Place cards here"
+  },
+  "readme_ui": {
+    "title": "README",
+    "load_error": "The README could not be loaded."
+  },
+  "settings_ui": {
+    "title": "Settings",
+    "native_lang": "Native language",
+    "script": "Serbian script",
+    "script_cyr": "Cyrillic",
+    "script_lat": "Latin",
+    "script_mixed": "Mixed",
+    "difficulty": "Difficulty",
+    "reset_settings": "Reset settings"
+  },
+  "stats_ui": {
+    "title": "Statistics",
+    "total_correct": "Correct (total)",
+    "total_attempts": "Attempts (total)",
+    "recent_correct": "Correct (last 25)",
+    "recent_attempts": "Attempts (last 25)",
+    "reset": "Reset statistics",
+    "reset_confirm": "Are you sure you want to reset?"
+  },
+  "errors": {
+    "wrong_order": "Wrong word order.",
+    "wrong_form": "A different verb form is needed here.",
+    "wrong_card": "This card doesn't belong here.",
+    "extra_card": "Extra word selected.",
+    "missing_card": "A word is missing."
+  }
+}

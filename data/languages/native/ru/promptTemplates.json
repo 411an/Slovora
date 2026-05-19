@@ -1,0 +1,41 @@
+{
+  "biti-short-basic": {
+    "1sg": "{subject} — {predicate_sg}.",
+    "2sg": "{subject} — {predicate_sg}.",
+    "3sg": "{subject} — {predicate_sg}.",
+    "1pl": "{subject} — {predicate_pl}.",
+    "2pl": "{subject} — {predicate_pl}.",
+    "3pl": "{subject} — {predicate_pl}.",
+    "default": "{subject} — {predicate_sg}."
+  },
+  "demonstrative-basic": {
+    "3sg": "{subject} — {predicate_sg}.",
+    "3pl": "{subject} — {predicate_pl}.",
+    "default": "{subject} — {predicate_sg}."
+  },
+  "da-li-question": {
+    "1sg": "{subject} — {predicate_sg}?",
+    "2sg": "{subject} — {predicate_sg}?",
+    "3sg": "{subject} — {predicate_sg}?",
+    "1pl": "{subject} — {predicate_pl}?",
+    "2pl": "{subject} — {predicate_pl}?",
+    "3pl": "{subject} — {predicate_pl}?",
+    "default": "{subject} — {predicate_sg}?"
+  },
+  "short-answer": {
+    "1sg": "{subject} — {predicate_sg}? (краткий ответ: Да)",
+    "2sg": "{subject} — {predicate_sg}? (краткий ответ: Да)",
+    "3sg": "{subject} — {predicate_sg}? (краткий ответ: Да)",
+    "1pl": "{subject} — {predicate_pl}? (краткий ответ: Да)",
+    "2pl": "{subject} — {predicate_pl}? (краткий ответ: Да)",
+    "3pl": "{subject} — {predicate_pl}? (краткий ответ: Да)"
+  },
+  "full-answer": {
+    "1sg": "{subject} — {predicate_sg}? (полный ответ: Да, {subject} — {predicate_sg}.)",
+    "2sg": "{subject} — {predicate_sg}? (полный ответ: Да, {subject} — {predicate_sg}.)",
+    "3sg": "{subject} — {predicate_sg}? (полный ответ: Да, {subject} — {predicate_sg}.)",
+    "1pl": "{subject} — {predicate_pl}? (полный ответ: Да, {subject} — {predicate_pl}.)",
+    "2pl": "{subject} — {predicate_pl}? (полный ответ: Да, {subject} — {predicate_pl}.)",
+    "3pl": "{subject} — {predicate_pl}? (полный ответ: Да, {subject} — {predicate_pl}.)"
+  }
+}

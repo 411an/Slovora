@@ -1,0 +1,819 @@
+{
+  "student_m": {
+    "conceptId": "student_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "студент",
+      "pl": "студенты"
+    },
+    "labels": {
+      "default": "студент"
+    }
+  },
+  "female_student_f": {
+    "conceptId": "female_student_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "студентка",
+      "pl": "студентки"
+    },
+    "labels": {
+      "default": "студентка"
+    }
+  },
+  "woman_f": {
+    "conceptId": "woman_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "женщина",
+      "pl": "женщины"
+    },
+    "labels": {
+      "default": "женщина"
+    }
+  },
+  "school_f": {
+    "conceptId": "school_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "школа",
+      "pl": "школы"
+    },
+    "labels": {
+      "default": "школа"
+    }
+  },
+  "letter_n": {
+    "conceptId": "letter_n",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "письмо",
+      "pl": "письма"
+    },
+    "labels": {
+      "default": "письмо"
+    }
+  },
+  "book_f": {
+    "conceptId": "book_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "книга",
+      "pl": "книги"
+    },
+    "labels": {
+      "default": "книга"
+    }
+  },
+  "city_m": {
+    "conceptId": "city_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "город",
+      "pl": "города"
+    },
+    "labels": {
+      "default": "город"
+    }
+  },
+  "serbia_f": {
+    "conceptId": "serbia_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "Сербия",
+      "pl": "Сербия"
+    },
+    "labels": {
+      "default": "Сербия"
+    }
+  },
+  "belgrade_m": {
+    "conceptId": "belgrade_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "Белград",
+      "pl": "Белград"
+    },
+    "labels": {
+      "default": "Белград"
+    }
+  },
+  "table_m": {
+    "conceptId": "table_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "стол",
+      "pl": "столы"
+    },
+    "labels": {
+      "default": "стол"
+    }
+  },
+  "man_m": {
+    "conceptId": "man_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "человек",
+      "pl": "люди"
+    },
+    "labels": {
+      "default": "человек"
+    }
+  },
+  "wallet_m": {
+    "conceptId": "wallet_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "бумажник",
+      "pl": "бумажники"
+    },
+    "labels": {
+      "default": "бумажник"
+    }
+  },
+  "pen_pencil_f": {
+    "conceptId": "pen_pencil_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ручка (карандаш)",
+      "pl": "ручки (карандаши)"
+    },
+    "labels": {
+      "default": "ручка (карандаш)"
+    }
+  },
+  "passport_m": {
+    "conceptId": "passport_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "паспорт",
+      "pl": "паспорта"
+    },
+    "labels": {
+      "default": "паспорт"
+    }
+  },
+  "bag_f": {
+    "conceptId": "bag_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "сумка",
+      "pl": "сумки"
+    },
+    "labels": {
+      "default": "сумка"
+    }
+  },
+  "computer_m": {
+    "conceptId": "computer_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "компьютер",
+      "pl": "компьютеры"
+    },
+    "labels": {
+      "default": "компьютер"
+    }
+  },
+  "chair_f": {
+    "conceptId": "chair_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "стул",
+      "pl": "стулья"
+    },
+    "labels": {
+      "default": "стул"
+    }
+  },
+  "child_children_n": {
+    "conceptId": "child_children_n",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ребенок",
+      "pl": "дети"
+    },
+    "labels": {
+      "default": "ребенок"
+    }
+  },
+  "sister_f": {
+    "conceptId": "sister_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "сестра",
+      "pl": "сестры"
+    },
+    "labels": {
+      "default": "сестра"
+    }
+  },
+  "brother_brothers_m": {
+    "conceptId": "brother_brothers_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "брат",
+      "pl": "братья"
+    },
+    "labels": {
+      "default": "брат"
+    }
+  },
+  "professor_m": {
+    "conceptId": "professor_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "профессор",
+      "pl": "профессоры"
+    },
+    "labels": {
+      "default": "профессор"
+    }
+  },
+  "professor_f_f": {
+    "conceptId": "professor_f_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "профессор (ж)",
+      "pl": "профессоры (ж)"
+    },
+    "labels": {
+      "default": "профессор (ж)"
+    }
+  },
+  "neighbor_m": {
+    "conceptId": "neighbor_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "сосед",
+      "pl": "соседи"
+    },
+    "labels": {
+      "default": "сосед"
+    }
+  },
+  "neighbor_f_f": {
+    "conceptId": "neighbor_f_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "соседка",
+      "pl": "соседки"
+    },
+    "labels": {
+      "default": "соседка"
+    }
+  },
+  "friend_m": {
+    "conceptId": "friend_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "друг",
+      "pl": "друзья"
+    },
+    "labels": {
+      "default": "друг"
+    }
+  },
+  "friend_f_f": {
+    "conceptId": "friend_f_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "подруга",
+      "pl": "подруги"
+    },
+    "labels": {
+      "default": "подруга"
+    }
+  },
+  "phone_m": {
+    "conceptId": "phone_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "телефон",
+      "pl": "телефоны"
+    },
+    "labels": {
+      "default": "телефон"
+    }
+  },
+  "bus_m": {
+    "conceptId": "bus_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "автобус",
+      "pl": "автобусы"
+    },
+    "labels": {
+      "default": "автобус"
+    }
+  },
+  "bottle_f": {
+    "conceptId": "bottle_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "бутылка",
+      "pl": "бутылки"
+    },
+    "labels": {
+      "default": "бутылка"
+    }
+  },
+  "mug_cup_f": {
+    "conceptId": "mug_cup_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "кружка (чашка)",
+      "pl": "кружки (чашки)"
+    },
+    "labels": {
+      "default": "кружка (чашка)"
+    }
+  },
+  "key_m": {
+    "conceptId": "key_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ключ",
+      "pl": "ключи"
+    },
+    "labels": {
+      "default": "ключ"
+    }
+  },
+  "window_m": {
+    "conceptId": "window_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "окно",
+      "pl": "окна"
+    },
+    "labels": {
+      "default": "окно"
+    }
+  },
+  "apartment_m": {
+    "conceptId": "apartment_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "квартира",
+      "pl": "квартиры"
+    },
+    "labels": {
+      "default": "квартира"
+    }
+  },
+  "bed_m": {
+    "conceptId": "bed_m",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "кровать",
+      "pl": "кровати"
+    },
+    "labels": {
+      "default": "кровать"
+    }
+  },
+  "picture_photo_f": {
+    "conceptId": "picture_photo_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "картинка (фото)",
+      "pl": "картинки (фото)"
+    },
+    "labels": {
+      "default": "картинка (фото)"
+    }
+  },
+  "water_f": {
+    "conceptId": "water_f",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "вода",
+      "pl": "вода"
+    },
+    "labels": {
+      "default": "вода"
+    }
+  },
+  "i": {
+    "conceptId": "i",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "я"
+    },
+    "labels": {
+      "default": "я"
+    }
+  },
+  "you_sg": {
+    "conceptId": "you_sg",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "ты"
+    },
+    "labels": {
+      "default": "ты"
+    }
+  },
+  "he_m": {
+    "conceptId": "he_m",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "он"
+    },
+    "labels": {
+      "default": "он"
+    }
+  },
+  "she_f": {
+    "conceptId": "she_f",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "она"
+    },
+    "labels": {
+      "default": "она"
+    }
+  },
+  "it_n": {
+    "conceptId": "it_n",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "оно"
+    },
+    "labels": {
+      "default": "оно"
+    }
+  },
+  "we": {
+    "conceptId": "we",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "мы"
+    },
+    "labels": {
+      "default": "мы"
+    }
+  },
+  "you_pl": {
+    "conceptId": "you_pl",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "вы"
+    },
+    "labels": {
+      "default": "вы"
+    }
+  },
+  "they_m": {
+    "conceptId": "they_m",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "они"
+    },
+    "labels": {
+      "default": "они"
+    }
+  },
+  "they_f": {
+    "conceptId": "they_f",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "они"
+    },
+    "labels": {
+      "default": "они"
+    }
+  },
+  "they_n": {
+    "conceptId": "they_n",
+    "language": "ru",
+    "type": "pronoun",
+    "forms": {
+      "subject": "они"
+    },
+    "labels": {
+      "default": "они"
+    }
+  },
+  "dem_this": {
+    "conceptId": "dem_this",
+    "language": "ru",
+    "type": "demonstrative",
+    "forms": {
+      "sg": "это"
+    },
+    "labels": {
+      "default": "это"
+    }
+  },
+  "be_present_short_1sg": {
+    "conceptId": "be_present_short_1sg",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "я есть"
+    },
+    "labels": {
+      "default": "я есть"
+    }
+  },
+  "be_present_short_2sg": {
+    "conceptId": "be_present_short_2sg",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "ты есть"
+    },
+    "labels": {
+      "default": "ты есть"
+    }
+  },
+  "be_present_short_3sg": {
+    "conceptId": "be_present_short_3sg",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "он/она/оно есть"
+    },
+    "labels": {
+      "default": "он/она/оно есть"
+    }
+  },
+  "be_present_short_1pl": {
+    "conceptId": "be_present_short_1pl",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "мы есть"
+    },
+    "labels": {
+      "default": "мы есть"
+    }
+  },
+  "be_present_short_2pl": {
+    "conceptId": "be_present_short_2pl",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "вы есть"
+    },
+    "labels": {
+      "default": "вы есть"
+    }
+  },
+  "be_present_short_3pl": {
+    "conceptId": "be_present_short_3pl",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "они есть"
+    },
+    "labels": {
+      "default": "они есть"
+    }
+  },
+  "be_present_long_1sg": {
+    "conceptId": "be_present_long_1sg",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "я есть"
+    },
+    "labels": {
+      "default": "я есть"
+    }
+  },
+  "be_present_long_2sg": {
+    "conceptId": "be_present_long_2sg",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "ты есть"
+    },
+    "labels": {
+      "default": "ты есть"
+    }
+  },
+  "be_present_long_3sg": {
+    "conceptId": "be_present_long_3sg",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "он/она/оно есть"
+    },
+    "labels": {
+      "default": "он/она/оно есть"
+    }
+  },
+  "be_present_long_1pl": {
+    "conceptId": "be_present_long_1pl",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "мы есть"
+    },
+    "labels": {
+      "default": "мы есть"
+    }
+  },
+  "be_present_long_2pl": {
+    "conceptId": "be_present_long_2pl",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "вы есть"
+    },
+    "labels": {
+      "default": "вы есть"
+    }
+  },
+  "be_present_long_3pl": {
+    "conceptId": "be_present_long_3pl",
+    "language": "ru",
+    "type": "verb",
+    "forms": {
+      "sg": "они есть"
+    },
+    "labels": {
+      "default": "они есть"
+    }
+  },
+  "particle_da_li": {
+    "conceptId": "particle_da_li",
+    "language": "ru",
+    "type": "particle",
+    "forms": {
+      "sg": "ли / разве"
+    },
+    "labels": {
+      "default": "ли / разве"
+    }
+  },
+  "particle_ne": {
+    "conceptId": "particle_ne",
+    "language": "ru",
+    "type": "particle",
+    "forms": {
+      "sg": "не"
+    },
+    "labels": {
+      "default": "не"
+    }
+  },
+  "particle_da": {
+    "conceptId": "particle_da",
+    "language": "ru",
+    "type": "particle",
+    "forms": {
+      "sg": "да"
+    },
+    "labels": {
+      "default": "да"
+    }
+  },
+  "particle_nije": {
+    "conceptId": "particle_nije",
+    "language": "ru",
+    "type": "particle",
+    "forms": {
+      "sg": "не есть"
+    },
+    "labels": {
+      "default": "не есть"
+    }
+  },
+  "particle_zato_sto": {
+    "conceptId": "particle_zato_sto",
+    "language": "ru",
+    "type": "particle",
+    "forms": {
+      "sg": "потому что"
+    },
+    "labels": {
+      "default": "потому что"
+    }
+  },
+  "preposition_iz": {
+    "conceptId": "preposition_iz",
+    "language": "ru",
+    "type": "preposition",
+    "forms": {
+      "sg": "из"
+    },
+    "labels": {
+      "default": "из"
+    }
+  },
+  "preposition_u_loc": {
+    "conceptId": "preposition_u_loc",
+    "language": "ru",
+    "type": "preposition",
+    "forms": {
+      "sg": "в"
+    },
+    "labels": {
+      "default": "в"
+    }
+  },
+  "preposition_u_acc": {
+    "conceptId": "preposition_u_acc",
+    "language": "ru",
+    "type": "preposition",
+    "forms": {
+      "sg": "в (куда)"
+    },
+    "labels": {
+      "default": "в (куда)"
+    }
+  },
+  "preposition_na_loc": {
+    "conceptId": "preposition_na_loc",
+    "language": "ru",
+    "type": "preposition",
+    "forms": {
+      "sg": "на"
+    },
+    "labels": {
+      "default": "на"
+    }
+  },
+  "preposition_na_acc": {
+    "conceptId": "preposition_na_acc",
+    "language": "ru",
+    "type": "preposition",
+    "forms": {
+      "sg": "на (куда)"
+    },
+    "labels": {
+      "default": "на (куда)"
+    }
+  },
+  "preposition_kod": {
+    "conceptId": "preposition_kod",
+    "language": "ru",
+    "type": "preposition",
+    "forms": {
+      "sg": "у/около"
+    },
+    "labels": {
+      "default": "у/около"
+    }
+  },
+  "preposition_za": {
+    "conceptId": "preposition_za",
+    "language": "ru",
+    "type": "preposition",
+    "forms": {
+      "sg": "для/за"
+    },
+    "labels": {
+      "default": "для/за"
+    }
+  }
+}

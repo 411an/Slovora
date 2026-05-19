@@ -1,0 +1,62 @@
+{
+  "app_name": "Slovora",
+  "menu": {
+    "title": "Выберите упражнение",
+    "settings": "Настройки",
+    "stats": "Статистика",
+    "readme": { "title": "README", "desc": "Справка проекта на выбранном языке" }
+  },
+  "exercises": {
+    "biti-short-basic": { "title": "Краткая форма biti", "desc": "Собери утверждение: ја сам студент" },
+    "demonstrative-basic": { "title": "Конструкции с ово", "desc": "Ово + је + предмет" },
+    "da-li-question": { "title": "Вопрос с «да ли»", "desc": "Да ли си студент?" },
+    "short-answer": { "title": "Краткий ответ", "desc": "Јесам. / Јесте. / Јесу." },
+    "full-answer": { "title": "Полный ответ", "desc": "Ја јесам студент." },
+    "false-friends": { "title": "Ложные друзья переводчика", "desc": "Слова, которые обманывают" }
+  },
+  "exercise_ui": {
+    "check": "Проверить",
+    "next": "Дальше",
+    "correct": "Правильно!",
+    "incorrect": "Неверно",
+    "difficulty": "Сложность",
+    "easy": "Легко",
+    "hard": "Сложно",
+    "back": "Назад",
+    "help": "Справка",
+    "help_missing": "Справка для этого упражнения не найдена.",
+    "available_cards": "Доступные карточки",
+    "your_answer": "Ваш ответ",
+    "place_cards": "Перетащи карточки сюда"
+  },
+  "readme_ui": {
+    "title": "README",
+    "load_error": "Не удалось загрузить README."
+  },
+  "settings_ui": {
+    "title": "Настройки",
+    "native_lang": "Родной язык",
+    "script": "Письменность сербского",
+    "script_cyr": "Кириллица",
+    "script_lat": "Латиница",
+    "script_mixed": "Смешанный",
+    "difficulty": "Сложность",
+    "reset_settings": "Сбросить настройки"
+  },
+  "stats_ui": {
+    "title": "Статистика",
+    "total_correct": "Правильных (всего)",
+    "total_attempts": "Попыток (всего)",
+    "recent_correct": "Правильных (последние 25)",
+    "recent_attempts": "Попыток (последние 25)",
+    "reset": "Сбросить статистику",
+    "reset_confirm": "Точно сбросить статистику?"
+  },
+  "errors": {
+    "wrong_order": "Неверный порядок слов.",
+    "wrong_form": "Здесь нужна другая форма глагола.",
+    "wrong_card": "Эта карточка не подходит для этого места.",
+    "extra_card": "Выбрано лишнее слово.",
+    "missing_card": "Не хватает слова."
+  }
+}

@@ -1,0 +1,19 @@
+# Obsolete CSV source pipeline
+words/
+
+# Generated inspection artifacts
+tools/noise_output.txt
+
+# Logs and Python files
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dependencies
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
