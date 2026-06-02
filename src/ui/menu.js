@@ -9,6 +9,7 @@ const ICONS = {
   "short-answer": "💬",
   "full-answer": "📝",
   "false-friends": "🎭",
+  "shorts": "⏳",
   "readme": "📖",
 };
 
@@ -79,6 +80,22 @@ export function renderMenu(container) {
     });
     grid.appendChild(ffCard);
   }
+
+  // Shorts (short words of place and time) — available for both languages
+  const shortsCard = document.createElement("div");
+  shortsCard.className = "menu-card";
+  const shortsData = t("exercises.shorts") || {};
+  shortsCard.innerHTML = `
+      <div class="menu-card-icon">${ICONS.shorts}</div>
+      <div class="menu-card-text">
+        <h3>${shortsData.title || "Shorts"}</h3>
+        <p>${shortsData.desc || ""}</p>
+      </div>
+    `;
+  shortsCard.addEventListener("click", () => {
+    location.hash = "#shorts";
+  });
+  grid.appendChild(shortsCard);
 
   const readmeCard = document.createElement("div");
   readmeCard.className = "menu-card";

@@ -11,6 +11,7 @@ import { renderExercise } from "./ui/exercise.js";
 import { renderSettings } from "./ui/settings.js";
 import { renderStats } from "./ui/stats.js";
 import { renderFalseFriends } from "./ui/false_friends.js";
+import { renderShorts } from "./ui/shorts.js";
 import { renderReadme } from "./ui/readme.js";
 import { PromptBuilder } from "./engine/prompt_builder.js";
 
@@ -44,6 +45,8 @@ function route() {
     renderExercise(app, lexicon, promptBuilder, templateId);
   } else if (hash === "#false-friends") {
     renderFalseFriends(app);
+  } else if (hash === "#shorts") {
+    renderShorts(app);
   } else if (hash === "#settings") {
     renderSettings(app);
   } else if (hash === "#stats") {

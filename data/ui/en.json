@@ -12,7 +12,8 @@
     "da-li-question": { "title": "Questions with \"da li\"", "desc": "Da li si student?" },
     "short-answer": { "title": "Short answer", "desc": "Jesam. / Jeste. / Jesu." },
     "full-answer": { "title": "Full answer", "desc": "Ja jesam student." },
-    "false-friends": { "title": "False friends", "desc": "Words that mislead" }
+    "false-friends": { "title": "False friends", "desc": "Words that mislead" },
+    "shorts": { "title": "Short words", "desc": "Words of place and time: Serbian equivalents" }
   },
   "exercise_ui": {
     "check": "Check",
@@ -42,6 +43,11 @@
     "script_mixed": "Mixed",
     "difficulty": "Difficulty",
     "reset_settings": "Reset settings"
+  },
+  "shorts_ui": {
+    "instruction": "Choose the correct Serbian translation for the highlighted word:",
+    "continue": "Next",
+    "examples_title": "Usage examples:"
   },
   "stats_ui": {
     "title": "Statistics",

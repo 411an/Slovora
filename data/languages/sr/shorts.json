@@ -1,0 +1,466 @@
+[
+  {
+    "id": "i",
+    "native": { "ru": "и", "en": "and" },
+    "sr": { "lat": "i", "cyr": "и" },
+    "example": { "ru": "Я и ты.", "en": "I and you." },
+    "example_sr": { "lat": "Ja i ti.", "cyr": "Ја и ти." },
+    "highlight": { "ru": "и", "en": "and" }
+  },
+  {
+    "id": "a",
+    "native": { "ru": "а", "en": "and/but" },
+    "sr": { "lat": "a", "cyr": "а" },
+    "example": { "ru": "Я люблю кофе, а ты чай.", "en": "I love coffee and you love tea." },
+    "example_sr": { "lat": "Ja volim kafu, a ti čaj.", "cyr": "Ја волим кафу, а ти чај." },
+    "highlight": { "ru": "а", "en": "and" }
+  },
+  {
+    "id": "no",
+    "native": { "ru": "но", "en": "but" },
+    "sr": { "lat": "ali", "cyr": "али" },
+    "example": { "ru": "Хочу, но не могу.", "en": "I want to but I can't." },
+    "example_sr": { "lat": "Hoću, ali ne mogu.", "cyr": "Хоћу, али не могу." },
+    "highlight": { "ru": "но", "en": "but" }
+  },
+  {
+    "id": "ili",
+    "native": { "ru": "или", "en": "or" },
+    "sr": { "lat": "ili", "cyr": "или" },
+    "example": { "ru": "Кофе или чай?", "en": "Coffee or tea?" },
+    "example_sr": { "lat": "Kafa ili čaj?", "cyr": "Кафа или чај?" },
+    "highlight": { "ru": "или", "en": "or" }
+  },
+  {
+    "id": "potomu_chto",
+    "native": { "ru": "потому что", "en": "because" },
+    "sr": { "lat": "zato što", "cyr": "зато што" },
+    "example": { "ru": "Я люблю Белград, потому что он красивый.", "en": "I love Belgrade because it is beautiful." },
+    "example_sr": { "lat": "Volim Beograd zato što je lep.", "cyr": "Волим Београд зато што је леп." },
+    "highlight": { "ru": "потому что", "en": "because" }
+  },
+  {
+    "id": "poetomu",
+    "native": { "ru": "поэтому", "en": "therefore" },
+    "sr": { "lat": "zato", "cyr": "зато" },
+    "example": { "ru": "Я устал, поэтому иду домой.", "en": "I'm tired, so I'm going home." },
+    "example_sr": { "lat": "Umoran sam, zato idem kući.", "cyr": "Уморан сам, зато идем кући." },
+    "highlight": { "ru": "поэтому", "en": "so" }
+  },
+  {
+    "id": "esli",
+    "native": { "ru": "если", "en": "if" },
+    "sr": { "lat": "ako", "cyr": "ако" },
+    "example": { "ru": "Если можешь, приходи.", "en": "If you can, come over." },
+    "example_sr": { "lat": "Ako možeš, dođi.", "cyr": "Ако можеш, дођи." },
+    "highlight": { "ru": "если", "en": "if" }
+  },
+  {
+    "id": "kogda",
+    "native": { "ru": "когда", "en": "when" },
+    "sr": { "lat": "kad", "cyr": "кад" },
+    "example": { "ru": "Когда у тебя урок сербского?", "en": "When do you have your Serbian class?" },
+    "example_sr": { "lat": "Kad imaš čas srpskog?", "cyr": "Кад имаш час српског?" },
+    "highlight": { "ru": "когда", "en": "when" }
+  },
+  {
+    "id": "tozhe",
+    "native": { "ru": "тоже", "en": "also" },
+    "sr": { "lat": "isto", "cyr": "исто" },
+    "example": { "ru": "Я тоже.", "en": "Me too." },
+    "example_sr": { "lat": "Ja isto.", "cyr": "Ја исто." },
+    "highlight": { "ru": "тоже", "en": "too" }
+  },
+  {
+    "id": "eshche",
+    "native": { "ru": "ещё", "en": "more" },
+    "sr": { "lat": "još", "cyr": "још" },
+    "example": { "ru": "Хочу ещё кофе.", "en": "I want more coffee." },
+    "example_sr": { "lat": "Hoću još kafe.", "cyr": "Хоћу још кафе." },
+    "highlight": { "ru": "ещё", "en": "more" }
+  },
+  {
+    "id": "vse_eshche",
+    "native": { "ru": "всё ещё", "en": "still" },
+    "sr": { "lat": "još uvek", "cyr": "још увек" },
+    "example": { "ru": "Я всё ещё живу здесь.", "en": "I still live here." },
+    "example_sr": { "lat": "Još uvek živim ovde.", "cyr": "Још увек живим овде." },
+    "highlight": { "ru": "всё ещё", "en": "still" }
+  },
+  {
+    "id": "uzhe",
+    "native": { "ru": "уже", "en": "already" },
+    "sr": { "lat": "već", "cyr": "већ" },
+    "example": { "ru": "Я уже здесь.", "en": "I'm already here." },
+    "example_sr": { "lat": "Već sam ovde.", "cyr": "Већ сам овде." },
+    "highlight": { "ru": "уже", "en": "already" }
+  },
+  {
+    "id": "poka",
+    "native": { "ru": "пока", "en": "for now" },
+    "sr": { "lat": "za sada", "cyr": "за сада" },
+    "example": { "ru": "Пока хорошо.", "en": "It's fine for now." },
+    "example_sr": { "lat": "Za sada je dobro.", "cyr": "За сада је добро." },
+    "highlight": { "ru": "пока", "en": "for now" }
+  },
+  {
+    "id": "tolko",
+    "native": { "ru": "только", "en": "only" },
+    "sr": { "lat": "samo", "cyr": "само" },
+    "example": { "ru": "У меня только один день.", "en": "I have only one day." },
+    "example_sr": { "lat": "Imam samo jedan dan.", "cyr": "Имам само један дан." },
+    "highlight": { "ru": "только", "en": "only" }
+  },
+  {
+    "id": "tolko_chto",
+    "native": { "ru": "только что", "en": "just" },
+    "sr": { "lat": "tek", "cyr": "тек" },
+    "example": { "ru": "Я только что пришёл.", "en": "I just arrived." },
+    "example_sr": { "lat": "Tek sam došao.", "cyr": "Тек сам дошао." },
+    "highlight": { "ru": "только что", "en": "just" }
+  },
+  {
+    "id": "gde",
+    "native": { "ru": "где", "en": "where" },
+    "sr": { "lat": "gde", "cyr": "где" },
+    "example": { "ru": "Где ты?", "en": "Where are you?" },
+    "example_sr": { "lat": "Gde si?", "cyr": "Где си?" },
+    "highlight": { "ru": "где", "en": "where" }
+  },
+  {
+    "id": "kuda",
+    "native": { "ru": "куда", "en": "where to" },
+    "sr": { "lat": "kuda", "cyr": "куда" },
+    "example": { "ru": "Куда ты идёшь?", "en": "Where are you going?" },
+    "example_sr": { "lat": "Kuda ideš?", "cyr": "Куда идеш?" },
+    "highlight": { "ru": "куда", "en": "where" }
+  },
+  {
+    "id": "otkuda",
+    "native": { "ru": "откуда", "en": "where from" },
+    "sr": { "lat": "odakle", "cyr": "одакле" },
+    "example": { "ru": "Откуда ты?", "en": "Where are you from?" },
+    "example_sr": { "lat": "Odakle si?", "cyr": "Одакле си?" },
+    "highlight": { "ru": "откуда", "en": "where" }
+  },
+  {
+    "id": "zdes",
+    "native": { "ru": "здесь", "en": "here" },
+    "sr": { "lat": "ovde", "cyr": "овде" },
+    "example": { "ru": "Я здесь.", "en": "I'm here." },
+    "example_sr": { "lat": "Ovde sam.", "cyr": "Овде сам." },
+    "highlight": { "ru": "здесь", "en": "here" }
+  },
+  {
+    "id": "tut",
+    "native": { "ru": "тут", "en": "right here" },
+    "sr": { "lat": "tu", "cyr": "ту" },
+    "example": { "ru": "Я тут.", "en": "I'm right here." },
+    "example_sr": { "lat": "Tu sam.", "cyr": "Ту сам." },
+    "highlight": { "ru": "тут", "en": "here" }
+  },
+  {
+    "id": "tam",
+    "native": { "ru": "там", "en": "there" },
+    "sr": { "lat": "tamo", "cyr": "тамо" },
+    "example": { "ru": "Он там.", "en": "He is there." },
+    "example_sr": { "lat": "On je tamo.", "cyr": "Он је тамо." },
+    "highlight": { "ru": "там", "en": "there" }
+  },
+  {
+    "id": "syuda",
+    "native": { "ru": "сюда", "en": "over here" },
+    "sr": { "lat": "ovamo", "cyr": "овамо" },
+    "example": { "ru": "Иди сюда.", "en": "Come over here." },
+    "example_sr": { "lat": "Dođi ovamo.", "cyr": "Дођи овамо." },
+    "highlight": { "ru": "сюда", "en": "here" }
+  },
+  {
+    "id": "otsyuda",
+    "native": { "ru": "отсюда", "en": "from here" },
+    "sr": { "lat": "odavde", "cyr": "одавде" },
+    "example": { "ru": "Я ухожу отсюда.", "en": "I'm leaving from here." },
+    "example_sr": { "lat": "Idem odavde.", "cyr": "Идем одавде." },
+    "highlight": { "ru": "отсюда", "en": "from here" }
+  },
+  {
+    "id": "ottuda",
+    "native": { "ru": "оттуда", "en": "from there" },
+    "sr": { "lat": "odatle", "cyr": "одатле" },
+    "example": { "ru": "Он пришёл оттуда.", "en": "He came from there." },
+    "example_sr": { "lat": "On je došao odatle.", "cyr": "Он је дошао одатле." },
+    "highlight": { "ru": "оттуда", "en": "from there" }
+  },
+  {
+    "id": "tak",
+    "native": { "ru": "так", "en": "so" },
+    "sr": { "lat": "tako", "cyr": "тако" },
+    "example": { "ru": "Так и есть.", "en": "That's how it is." },
+    "example_sr": { "lat": "Tako je.", "cyr": "Тако је." },
+    "highlight": { "ru": "так", "en": "so" }
+  },
+  {
+    "id": "vot_tak",
+    "native": { "ru": "вот так", "en": "like this" },
+    "sr": { "lat": "ovako", "cyr": "овако" },
+    "example": { "ru": "Сделай вот так.", "en": "Do it like this." },
+    "example_sr": { "lat": "Uradi ovako.", "cyr": "Уради овако." },
+    "highlight": { "ru": "вот так", "en": "like this" }
+  },
+  {
+    "id": "togda",
+    "native": { "ru": "тогда", "en": "then" },
+    "sr": { "lat": "onda", "cyr": "онда" },
+    "example": { "ru": "Тогда я иду домой.", "en": "Then I'm going home." },
+    "example_sr": { "lat": "Onda idem kući.", "cyr": "Онда идем кући." },
+    "highlight": { "ru": "тогда", "en": "then" }
+  },
+  {
+    "id": "seichas",
+    "native": { "ru": "сейчас", "en": "now" },
+    "sr": { "lat": "sad", "cyr": "сад" },
+    "example": { "ru": "Сейчас у меня нет времени.", "en": "I don't have time now." },
+    "example_sr": { "lat": "Sad nemam vremena.", "cyr": "Сад немам времена." },
+    "highlight": { "ru": "сейчас", "en": "now" }
+  },
+  {
+    "id": "pozzhe",
+    "native": { "ru": "позже", "en": "later" },
+    "sr": { "lat": "kasnije", "cyr": "касније" },
+    "example": { "ru": "Увидимся позже.", "en": "See you later." },
+    "example_sr": { "lat": "Vidimo se kasnije.", "cyr": "Видимо се касније." },
+    "highlight": { "ru": "позже", "en": "later" }
+  },
+  {
+    "id": "ranshe",
+    "native": { "ru": "раньше", "en": "before" },
+    "sr": { "lat": "pre", "cyr": "пре" },
+    "example": { "ru": "Я был здесь раньше.", "en": "I was here before." },
+    "example_sr": { "lat": "Bio sam ovde pre.", "cyr": "Био сам овде пре." },
+    "highlight": { "ru": "раньше", "en": "before" }
+  },
+  {
+    "id": "posle",
+    "native": { "ru": "потом", "en": "afterwards" },
+    "sr": { "lat": "posle", "cyr": "после" },
+    "example": { "ru": "Потом иду домой.", "en": "After that I'm going home." },
+    "example_sr": { "lat": "Posle idem kući.", "cyr": "После идем кући." },
+    "highlight": { "ru": "потом", "en": "after" }
+  },
+  {
+    "id": "vchera",
+    "native": { "ru": "вчера", "en": "yesterday" },
+    "sr": { "lat": "juče", "cyr": "јуче" },
+    "example": { "ru": "Вчера я работал.", "en": "Yesterday I worked." },
+    "example_sr": { "lat": "Juče sam radio.", "cyr": "Јуче сам радио." },
+    "highlight": { "ru": "вчера", "en": "yesterday" }
+  },
+  {
+    "id": "segodnya",
+    "native": { "ru": "сегодня", "en": "today" },
+    "sr": { "lat": "danas", "cyr": "данас" },
+    "example": { "ru": "Сегодня хорошая погода.", "en": "Today the weather is nice." },
+    "example_sr": { "lat": "Danas je lepo vreme.", "cyr": "Данас је лепо време." },
+    "highlight": { "ru": "сегодня", "en": "today" }
+  },
+  {
+    "id": "zavtra",
+    "native": { "ru": "завтра", "en": "tomorrow" },
+    "sr": { "lat": "sutra", "cyr": "сутра" },
+    "example": { "ru": "Завтра еду в Белград.", "en": "Tomorrow I'm going to Belgrade." },
+    "example_sr": { "lat": "Sutra idem u Beograd.", "cyr": "Сутра идем у Београд." },
+    "highlight": { "ru": "завтра", "en": "tomorrow" }
+  },
+  {
+    "id": "poslezavtra",
+    "native": { "ru": "послезавтра", "en": "the day after tomorrow" },
+    "sr": { "lat": "prekosutra", "cyr": "прекосутра" },
+    "example": { "ru": "Приеду послезавтра.", "en": "I'll arrive the day after tomorrow." },
+    "example_sr": { "lat": "Dolazim prekosutra.", "cyr": "Долазим прекосутра." },
+    "highlight": { "ru": "послезавтра", "en": "day after tomorrow" }
+  },
+  {
+    "id": "pozavchera",
+    "native": { "ru": "позавчера", "en": "the day before yesterday" },
+    "sr": { "lat": "prekjuče", "cyr": "прекјуче" },
+    "example": { "ru": "Я видел его позавчера.", "en": "I saw him the day before yesterday." },
+    "example_sr": { "lat": "Video sam ga prekjuče.", "cyr": "Видео сам га прекјуче." },
+    "highlight": { "ru": "позавчера", "en": "day before yesterday" }
+  },
+  {
+    "id": "skoro",
+    "native": { "ru": "скоро", "en": "soon" },
+    "sr": { "lat": "uskoro", "cyr": "ускоро" },
+    "example": { "ru": "Скоро приду.", "en": "I'll be there soon." },
+    "example_sr": { "lat": "Uskoro dolazim.", "cyr": "Ускоро долазим." },
+    "highlight": { "ru": "скоро", "en": "soon" }
+  },
+  {
+    "id": "davno",
+    "native": { "ru": "давно", "en": "long ago" },
+    "sr": { "lat": "davno", "cyr": "давно" },
+    "example": { "ru": "Я давно был там.", "en": "I was there a long time ago." },
+    "example_sr": { "lat": "Davno sam bio tamo.", "cyr": "Давно сам био тамо." },
+    "highlight": { "ru": "давно", "en": "long ago" }
+  },
+  {
+    "id": "nedavno",
+    "native": { "ru": "недавно", "en": "recently" },
+    "sr": { "lat": "nedavno", "cyr": "недавно" },
+    "example": { "ru": "Я недавно приехал.", "en": "I arrived recently." },
+    "example_sr": { "lat": "Nedavno sam došao.", "cyr": "Недавно сам дошао." },
+    "highlight": { "ru": "недавно", "en": "recently" }
+  },
+  {
+    "id": "rano",
+    "native": { "ru": "рано", "en": "early" },
+    "sr": { "lat": "rano", "cyr": "рано" },
+    "example": { "ru": "Я встаю рано.", "en": "I wake up early." },
+    "example_sr": { "lat": "Ustajem rano.", "cyr": "Устајем рано." },
+    "highlight": { "ru": "рано", "en": "early" }
+  },
+  {
+    "id": "pozdno",
+    "native": { "ru": "поздно", "en": "late" },
+    "sr": { "lat": "kasno", "cyr": "касно" },
+    "example": { "ru": "Поздно.", "en": "It's late." },
+    "example_sr": { "lat": "Kasno je.", "cyr": "Касно је." },
+    "highlight": { "ru": "поздно", "en": "late" }
+  },
+  {
+    "id": "vsegda",
+    "native": { "ru": "всегда", "en": "always" },
+    "sr": { "lat": "uvek", "cyr": "увек" },
+    "example": { "ru": "Я всегда пью кофе.", "en": "I always drink coffee." },
+    "example_sr": { "lat": "Uvek pijem kafu.", "cyr": "Увек пијем кафу." },
+    "highlight": { "ru": "всегда", "en": "always" }
+  },
+  {
+    "id": "nikogda",
+    "native": { "ru": "никогда", "en": "never" },
+    "sr": { "lat": "nikad", "cyr": "никад" },
+    "example": { "ru": "Я никогда не пью кофе.", "en": "I never drink coffee." },
+    "example_sr": { "lat": "Nikad ne pijem kafu.", "cyr": "Никад не пијем кафу." },
+    "highlight": { "ru": "никогда", "en": "never" }
+  },
+  {
+    "id": "chasto",
+    "native": { "ru": "часто", "en": "often" },
+    "sr": { "lat": "često", "cyr": "често" },
+    "example": { "ru": "Я часто туда хожу.", "en": "I often go there." },
+    "example_sr": { "lat": "Često idem tamo.", "cyr": "Често идем тамо." },
+    "highlight": { "ru": "часто", "en": "often" }
+  },
+  {
+    "id": "redko",
+    "native": { "ru": "редко", "en": "rarely" },
+    "sr": { "lat": "retko", "cyr": "ретко" },
+    "example": { "ru": "Я редко смотрю телевизор.", "en": "I rarely watch TV." },
+    "example_sr": { "lat": "Retko gledam TV.", "cyr": "Ретко гледам ТВ." },
+    "highlight": { "ru": "редко", "en": "rarely" }
+  },
+  {
+    "id": "inogda",
+    "native": { "ru": "иногда", "en": "sometimes" },
+    "sr": { "lat": "ponekad", "cyr": "понекад" },
+    "example": { "ru": "Иногда готовлю.", "en": "Sometimes I cook." },
+    "example_sr": { "lat": "Ponekad kuvam.", "cyr": "Понекад кувам." },
+    "highlight": { "ru": "иногда", "en": "sometimes" }
+  },
+  {
+    "id": "obychno",
+    "native": { "ru": "обычно", "en": "usually" },
+    "sr": { "lat": "obično", "cyr": "обично" },
+    "example": { "ru": "Обычно работаю из дома.", "en": "I usually work from home." },
+    "example_sr": { "lat": "Obično radim od kuće.", "cyr": "Обично радим од куће." },
+    "highlight": { "ru": "обычно", "en": "usually" }
+  },
+  {
+    "id": "vezde",
+    "native": { "ru": "везде", "en": "everywhere" },
+    "sr": { "lat": "svuda", "cyr": "свуда" },
+    "example": { "ru": "Везде продают кофе.", "en": "They sell coffee everywhere." },
+    "example_sr": { "lat": "Svuda prodaju kafu.", "cyr": "Свуда продају кафу." },
+    "highlight": { "ru": "везде", "en": "everywhere" }
+  },
+  {
+    "id": "nigde",
+    "native": { "ru": "нигде", "en": "nowhere" },
+    "sr": { "lat": "nigde", "cyr": "нигде" },
+    "example": { "ru": "Нигде не продают чай.", "en": "They sell tea nowhere." },
+    "example_sr": { "lat": "Nigde ne prodaju čaj.", "cyr": "Нигде не продају чај." },
+    "highlight": { "ru": "нигде", "en": "nowhere" }
+  },
+  {
+    "id": "svaki_den",
+    "native": { "ru": "каждый", "en": "every" },
+    "sr": { "lat": "svaki", "cyr": "сваки" },
+    "example": { "ru": "Он учится каждый день.", "en": "He studies every day." },
+    "example_sr": { "lat": "On uči svaki dan.", "cyr": "Он учи сваки дан." },
+    "highlight": { "ru": "каждый", "en": "every" }
+  },
+  {
+    "id": "svaka_nedelya",
+    "native": { "ru": "каждый", "en": "every" },
+    "sr": { "lat": "svaka", "cyr": "свака" },
+    "example": { "ru": "Каждую неделю она звонит домой.", "en": "Every week she calls home." },
+    "example_sr": { "lat": "Svake nedelje ona zove kući.", "cyr": "Сваке недеље она зове кући." },
+    "highlight": { "ru": "каждую", "en": "every" }
+  },
+  {
+    "id": "svako_utro",
+    "native": { "ru": "каждый", "en": "every" },
+    "sr": { "lat": "svako", "cyr": "свако" },
+    "example": { "ru": "Каждое утро я пью кофе.", "en": "Every morning I drink coffee." },
+    "example_sr": { "lat": "Svako jutro pijem kafu.", "cyr": "Свако јутро пијем кафу." },
+    "highlight": { "ru": "каждое", "en": "every" }
+  },
+  {
+    "id": "svi",
+    "native": { "ru": "все", "en": "all" },
+    "sr": { "lat": "svi", "cyr": "сви" },
+    "example": { "ru": "Все мужчины здесь.", "en": "All the men are here." },
+    "example_sr": { "lat": "Svi muškarci su ovde.", "cyr": "Сви мушкарци су овде." },
+    "highlight": { "ru": "все", "en": "all" }
+  },
+  {
+    "id": "sve",
+    "native": { "ru": "все", "en": "all" },
+    "sr": { "lat": "sve", "cyr": "све" },
+    "example": { "ru": "Все женщины пришли.", "en": "All the women came." },
+    "example_sr": { "lat": "Sve žene su došle.", "cyr": "Све жене су дошле." },
+    "highlight": { "ru": "все", "en": "all" }
+  },
+  {
+    "id": "sva",
+    "native": { "ru": "все", "en": "all" },
+    "sr": { "lat": "sva", "cyr": "сва" },
+    "example": { "ru": "Все дети здесь.", "en": "All the children are here." },
+    "example_sr": { "lat": "Sva deca su ovde.", "cyr": "Сва деца су овде." },
+    "highlight": { "ru": "все", "en": "all" }
+  },
+  {
+    "id": "ceo_den",
+    "native": { "ru": "весь", "en": "whole" },
+    "sr": { "lat": "ceo", "cyr": "цео" },
+    "example": { "ru": "Он работал весь день.", "en": "He worked the whole day." },
+    "example_sr": { "lat": "On je radio ceo dan.", "cyr": "Он је радио цео дан." },
+    "highlight": { "ru": "весь", "en": "whole" }
+  },
+  {
+    "id": "cela_nedelya",
+    "native": { "ru": "весь", "en": "whole" },
+    "sr": { "lat": "cela", "cyr": "цела" },
+    "example": { "ru": "Она читала всю неделю.", "en": "She read all week." },
+    "example_sr": { "lat": "Ona je čitala celu nedelju.", "cyr": "Она је читала целу недељу." },
+    "highlight": { "ru": "всю", "en": "whole" }
+  },
+  {
+    "id": "sve_vremya",
+    "native": { "ru": "весь", "en": "all" },
+    "sr": { "lat": "sve", "cyr": "све" },
+    "example": { "ru": "Я всё время думаю об этом.", "en": "I think about it all the time." },
+    "example_sr": { "lat": "Sve vreme mislim o tome.", "cyr": "Све време мислим о томе." },
+    "highlight": { "ru": "всё", "en": "all" }
+  }
+]

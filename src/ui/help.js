@@ -5,7 +5,7 @@ let grammarData = null;
 async function loadGrammar() {
   if (grammarData) return grammarData;
   try {
-    const resp = await fetch("data/languages/sr/grammar.json");
+    const resp = await fetch("data/languages/sr/grammar.json", { cache: "no-store" });
     grammarData = await resp.json();
     return grammarData;
   } catch (e) {
@@ -91,20 +91,29 @@ export async function renderHelp(exercise) {
     if (tableData.rows.length === 0) return;
     const firstRow = tableData.rows[0];
     const keys = Object.keys(firstRow);
+    const columns = tableData.columns || {};
 
     const thead = document.createElement("thead");
     const trHead = document.createElement("tr");
     keys.forEach(k => {
+      // Language-filtered columns: skip if suffix doesn't match current lang
+      if ((k.endsWith("_ru") || k.endsWith("_en")) && !k.endsWith(`_${lang}`)) return;
+
       const th = document.createElement("th");
-      // Basic formatting of keys (e.g. "pronoun_cyr" -> "Pronoun (cyr)")
-      let prettyKey = k.replace(/_/g, " ");
-      if (prettyKey.endsWith(" cyr")) prettyKey = prettyKey.replace(" cyr", " (Cyr)");
-      if (prettyKey.endsWith(" lat")) prettyKey = prettyKey.replace(" lat", " (Lat)");
-      if (prettyKey.endsWith(" ru") || prettyKey.endsWith(" en")) {
-        // filter out columns that don't match current language
-        if (!k.endsWith(`_${lang}`)) return;
+
+      // Use localized column name from table definition if available
+      if (columns[k] && columns[k][lang]) {
+        th.textContent = columns[k][lang];
+      } else if (columns[k] && columns[k].ru) {
+        th.textContent = columns[k].ru;
+      } else {
+        // Fallback: format key name
+        let prettyKey = k.replace(/_/g, " ");
+        if (prettyKey.endsWith(" cyr")) prettyKey = prettyKey.replace(" cyr", " (Cyr)");
+        if (prettyKey.endsWith(" lat")) prettyKey = prettyKey.replace(" lat", " (Lat)");
+        th.textContent = prettyKey;
       }
-      th.textContent = prettyKey;
+
       trHead.appendChild(th);
     });
     thead.appendChild(trHead);

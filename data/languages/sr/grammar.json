@@ -2,6 +2,12 @@
   "tables": {
     "sr.biti.short.present": {
       "title": { "ru": "Краткая форма biti (настоящее время)", "en": "Short form of biti (present tense)" },
+      "columns": {
+        "pronoun_cyr": { "ru": "Местоимение (кир)", "en": "Pronoun (Cyr)" },
+        "pronoun_lat": { "ru": "Местоимение (лат)", "en": "Pronoun (Lat)" },
+        "form_cyr": { "ru": "Форма (кир)", "en": "Form (Cyr)" },
+        "form_lat": { "ru": "Форма (лат)", "en": "Form (Lat)" }
+      },
       "rows": [
         { "pronoun_cyr": "ја", "pronoun_lat": "ja", "form_cyr": "сам", "form_lat": "sam" },
         { "pronoun_cyr": "ти", "pronoun_lat": "ti", "form_cyr": "си", "form_lat": "si" },
@@ -17,6 +23,12 @@
     },
     "sr.biti.full.present": {
       "title": { "ru": "Полная форма biti (настоящее время)", "en": "Full form of biti (present tense)" },
+      "columns": {
+        "pronoun_cyr": { "ru": "Местоимение (кир)", "en": "Pronoun (Cyr)" },
+        "pronoun_lat": { "ru": "Местоимение (лат)", "en": "Pronoun (Lat)" },
+        "form_cyr": { "ru": "Форма (кир)", "en": "Form (Cyr)" },
+        "form_lat": { "ru": "Форма (лат)", "en": "Form (Lat)" }
+      },
       "rows": [
         { "pronoun_cyr": "ја", "pronoun_lat": "ja", "form_cyr": "јесам", "form_lat": "jesam" },
         { "pronoun_cyr": "ти", "pronoun_lat": "ti", "form_cyr": "јеси", "form_lat": "jesi" },
@@ -28,12 +40,24 @@
     },
     "sr.demonstratives.basic": {
       "title": { "ru": "Ово", "en": "Ovo" },
+      "columns": {
+        "word_cyr": { "ru": "Слово (кир)", "en": "Word (Cyr)" },
+        "word_lat": { "ru": "Слово (лат)", "en": "Word (Lat)" },
+        "meaning_ru": { "ru": "Значение", "en": "Meaning" },
+        "meaning_en": { "ru": "Значение", "en": "Meaning" }
+      },
       "rows": [
         { "word_cyr": "ово", "word_lat": "ovo", "meaning_ru": "это", "meaning_en": "this" }
       ]
     },
     "sr.pronouns.basic": {
       "title": { "ru": "Личные местоимения", "en": "Personal pronouns" },
+      "columns": {
+        "pronoun_cyr": { "ru": "Местоимение (кир)", "en": "Pronoun (Cyr)" },
+        "pronoun_lat": { "ru": "Местоимение (лат)", "en": "Pronoun (Lat)" },
+        "meaning_ru": { "ru": "Значение", "en": "Meaning" },
+        "meaning_en": { "ru": "Значение", "en": "Meaning" }
+      },
       "rows": [
         { "pronoun_cyr": "ја", "pronoun_lat": "ja", "meaning_ru": "я", "meaning_en": "I" },
         { "pronoun_cyr": "ти", "pronoun_lat": "ti", "meaning_ru": "ты", "meaning_en": "you (sg)" },
@@ -45,6 +69,39 @@
         { "pronoun_cyr": "они", "pronoun_lat": "oni", "meaning_ru": "они (м)", "meaning_en": "they (m)" },
         { "pronoun_cyr": "оне", "pronoun_lat": "one", "meaning_ru": "они (ж)", "meaning_en": "they (f)" },
         { "pronoun_cyr": "она", "pronoun_lat": "ona", "meaning_ru": "они (ср)", "meaning_en": "they (n)" }
+      ]
+    },
+    "sr.spatial.where": {
+      "title": { "ru": "Где? Куда? Откуда?", "en": "Where? Where to? Where from?" },
+      "columns": {
+        "desc_ru": { "ru": "Ситуация", "en": "Context" },
+        "desc_en": { "ru": "Ситуация", "en": "Context" },
+        "where": { "ru": "Где?", "en": "Where?" },
+        "where_to": { "ru": "Куда?", "en": "Where to?" },
+        "where_from": { "ru": "Откуда?", "en": "Where from?" }
+      },
+      "rows": [
+        {
+          "desc_ru": "близко ко мне",
+          "desc_en": "near me",
+          "where": "ovde / овде",
+          "where_to": "ovamo / овамо",
+          "where_from": "odavde / одавде"
+        },
+        {
+          "desc_ru": "близко к тебе",
+          "desc_en": "near you / mentioned",
+          "where": "tu / ту",
+          "where_to": "tuda / туда",
+          "where_from": "odatle / одатле"
+        },
+        {
+          "desc_ru": "далеко от нас",
+          "desc_en": "far from us",
+          "where": "tamo / тамо",
+          "where_to": "tamo / тамо",
+          "where_from": "odatle / одатле"
+        }
       ]
     }
   }
