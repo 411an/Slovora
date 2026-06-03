@@ -90,19 +90,6 @@
       "default": "city"
     }
   },
-  "serbia_f": {
-    "conceptId": "serbia_f",
-    "language": "en",
-    "type": "noun",
-    "forms": {
-      "sg": "Serbia",
-      "pl": "Serbia",
-      "subject": "Serbia"
-    },
-    "labels": {
-      "default": "Serbia"
-    }
-  },
   "belgrade_m": {
     "conceptId": "belgrade_m",
     "language": "en",
@@ -755,136 +742,1720 @@
       "default": "whether / do"
     }
   },
-  "particle_ne": {
-    "conceptId": "particle_ne",
+  "pl_jelen": {
+    "conceptId": "pl_jelen",
     "language": "en",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "not / no",
-      "subject": "not / no"
+      "sg": "deer",
+      "pl": "deer"
     },
     "labels": {
-      "default": "not / no"
+      "default": "deer"
     }
   },
-  "particle_da": {
-    "conceptId": "particle_da",
+  "pl_izbor": {
+    "conceptId": "pl_izbor",
     "language": "en",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "yes",
-      "subject": "yes"
+      "sg": "choice",
+      "pl": "choice"
     },
     "labels": {
-      "default": "yes"
+      "default": "choice"
     }
   },
-  "particle_nije": {
-    "conceptId": "particle_nije",
+  "pl_obraz": {
+    "conceptId": "pl_obraz",
     "language": "en",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "is not",
-      "subject": "is not"
+      "sg": "cheek",
+      "pl": "cheek"
     },
     "labels": {
-      "default": "is not"
+      "default": "cheek"
     }
   },
-  "particle_zato_sto": {
-    "conceptId": "particle_zato_sto",
+  "pl_poklon": {
+    "conceptId": "pl_poklon",
     "language": "en",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "because",
-      "subject": "because"
+      "sg": "gift",
+      "pl": "gift"
     },
     "labels": {
-      "default": "because"
+      "default": "gift"
     }
   },
-  "preposition_iz": {
-    "conceptId": "preposition_iz",
+  "pl_izvor": {
+    "conceptId": "pl_izvor",
     "language": "en",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "from",
-      "subject": "from"
+      "sg": "source",
+      "pl": "source"
     },
     "labels": {
-      "default": "from"
+      "default": "source"
     }
   },
-  "preposition_u_loc": {
-    "conceptId": "preposition_u_loc",
+  "pl_pogled": {
+    "conceptId": "pl_pogled",
     "language": "en",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "in",
-      "subject": "in"
+      "sg": "look",
+      "pl": "look"
     },
     "labels": {
-      "default": "in"
+      "default": "look"
     }
   },
-  "preposition_u_acc": {
-    "conceptId": "preposition_u_acc",
+  "pl_savet": {
+    "conceptId": "pl_savet",
     "language": "en",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "into/to",
-      "subject": "into/to"
+      "sg": "advice",
+      "pl": "advice"
     },
     "labels": {
-      "default": "into/to"
+      "default": "advice"
     }
   },
-  "preposition_na_loc": {
-    "conceptId": "preposition_na_loc",
+  "pl_prijatelj": {
+    "conceptId": "pl_prijatelj",
     "language": "en",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "on",
-      "subject": "on"
+      "sg": "friend",
+      "pl": "friend"
     },
     "labels": {
-      "default": "on"
+      "default": "friend"
     }
   },
-  "preposition_na_acc": {
-    "conceptId": "preposition_na_acc",
+  "pl_mesec": {
+    "conceptId": "pl_mesec",
     "language": "en",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "onto/to",
-      "subject": "onto/to"
+      "sg": "month",
+      "pl": "month"
     },
     "labels": {
-      "default": "onto/to"
+      "default": "month"
     }
   },
-  "preposition_kod": {
-    "conceptId": "preposition_kod",
+  "pl_dinar": {
+    "conceptId": "pl_dinar",
     "language": "en",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "at/by",
-      "subject": "at/by"
+      "sg": "dinar",
+      "pl": "dinar"
     },
     "labels": {
-      "default": "at/by"
+      "default": "dinar"
     }
   },
-  "preposition_za": {
-    "conceptId": "preposition_za",
+  "pl_hirurg": {
+    "conceptId": "pl_hirurg",
     "language": "en",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "for",
-      "subject": "for"
+      "sg": "surgeon",
+      "pl": "surgeon"
     },
     "labels": {
-      "default": "for"
+      "default": "surgeon"
+    }
+  },
+  "pl_stomatolog": {
+    "conceptId": "pl_stomatolog",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "dentist",
+      "pl": "dentist"
+    },
+    "labels": {
+      "default": "dentist"
+    }
+  },
+  "pl_bubreg": {
+    "conceptId": "pl_bubreg",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "kidney",
+      "pl": "kidney"
+    },
+    "labels": {
+      "default": "kidney"
+    }
+  },
+  "pl_predlog": {
+    "conceptId": "pl_predlog",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "proposal",
+      "pl": "proposal"
+    },
+    "labels": {
+      "default": "proposal"
+    }
+  },
+  "pl_poljak": {
+    "conceptId": "pl_poljak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Pole",
+      "pl": "Pole"
+    },
+    "labels": {
+      "default": "Pole"
+    }
+  },
+  "pl_poznanik": {
+    "conceptId": "pl_poznanik",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "acquaintance",
+      "pl": "acquaintance"
+    },
+    "labels": {
+      "default": "acquaintance"
+    }
+  },
+  "pl_radnik": {
+    "conceptId": "pl_radnik",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "worker",
+      "pl": "worker"
+    },
+    "labels": {
+      "default": "worker"
+    }
+  },
+  "pl_vojnik": {
+    "conceptId": "pl_vojnik",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "soldier",
+      "pl": "soldier"
+    },
+    "labels": {
+      "default": "soldier"
+    }
+  },
+  "pl_korak": {
+    "conceptId": "pl_korak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "step",
+      "pl": "step"
+    },
+    "labels": {
+      "default": "step"
+    }
+  },
+  "pl_oblak": {
+    "conceptId": "pl_oblak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "cloud",
+      "pl": "cloud"
+    },
+    "labels": {
+      "default": "cloud"
+    }
+  },
+  "pl_dečak": {
+    "conceptId": "pl_dečak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "boy",
+      "pl": "boy"
+    },
+    "labels": {
+      "default": "boy"
+    }
+  },
+  "pl_monah": {
+    "conceptId": "pl_monah",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "monk",
+      "pl": "monk"
+    },
+    "labels": {
+      "default": "monk"
+    }
+  },
+  "pl_siromah": {
+    "conceptId": "pl_siromah",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "poor person",
+      "pl": "poor person"
+    },
+    "labels": {
+      "default": "poor person"
+    }
+  },
+  "pl_orah": {
+    "conceptId": "pl_orah",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "walnut",
+      "pl": "walnut"
+    },
+    "labels": {
+      "default": "walnut"
+    }
+  },
+  "pl_nokat": {
+    "conceptId": "pl_nokat",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "nail",
+      "pl": "nail"
+    },
+    "labels": {
+      "default": "nail"
+    }
+  },
+  "pl_lakat": {
+    "conceptId": "pl_lakat",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "elbow",
+      "pl": "elbow"
+    },
+    "labels": {
+      "default": "elbow"
+    }
+  },
+  "pl_momenat": {
+    "conceptId": "pl_momenat",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "moment",
+      "pl": "moment"
+    },
+    "labels": {
+      "default": "moment"
+    }
+  },
+  "pl_dokumenat": {
+    "conceptId": "pl_dokumenat",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "document",
+      "pl": "document"
+    },
+    "labels": {
+      "default": "document"
+    }
+  },
+  "pl_starac": {
+    "conceptId": "pl_starac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "old man",
+      "pl": "old man"
+    },
+    "labels": {
+      "default": "old man"
+    }
+  },
+  "pl_glumac": {
+    "conceptId": "pl_glumac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "actor",
+      "pl": "actor"
+    },
+    "labels": {
+      "default": "actor"
+    }
+  },
+  "pl_čamac": {
+    "conceptId": "pl_čamac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "boat",
+      "pl": "boat"
+    },
+    "labels": {
+      "default": "boat"
+    }
+  },
+  "pl_prodavac": {
+    "conceptId": "pl_prodavac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "seller",
+      "pl": "seller"
+    },
+    "labels": {
+      "default": "seller"
+    }
+  },
+  "pl_kupac": {
+    "conceptId": "pl_kupac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "buyer",
+      "pl": "buyer"
+    },
+    "labels": {
+      "default": "buyer"
+    }
+  },
+  "pl_poklopac": {
+    "conceptId": "pl_poklopac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "lid",
+      "pl": "lid"
+    },
+    "labels": {
+      "default": "lid"
+    }
+  },
+  "pl_živac": {
+    "conceptId": "pl_živac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "nerve",
+      "pl": "nerve"
+    },
+    "labels": {
+      "default": "nerve"
+    }
+  },
+  "pl_zaselak": {
+    "conceptId": "pl_zaselak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "hamlet",
+      "pl": "hamlet"
+    },
+    "labels": {
+      "default": "hamlet"
+    }
+  },
+  "pl_čitalac": {
+    "conceptId": "pl_čitalac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "reader",
+      "pl": "reader"
+    },
+    "labels": {
+      "default": "reader"
+    }
+  },
+  "pl_branilac": {
+    "conceptId": "pl_branilac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "defender",
+      "pl": "defender"
+    },
+    "labels": {
+      "default": "defender"
+    }
+  },
+  "pl_starosedelac": {
+    "conceptId": "pl_starosedelac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "native inhabitant",
+      "pl": "native inhabitant"
+    },
+    "labels": {
+      "default": "native inhabitant"
+    }
+  },
+  "pl_srbin": {
+    "conceptId": "pl_srbin",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Serb",
+      "pl": "Serb"
+    },
+    "labels": {
+      "default": "Serb"
+    }
+  },
+  "pl_arapin": {
+    "conceptId": "pl_arapin",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Arab",
+      "pl": "Arab"
+    },
+    "labels": {
+      "default": "Arab"
+    }
+  },
+  "pl_državljanin": {
+    "conceptId": "pl_državljanin",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "citizen",
+      "pl": "citizen"
+    },
+    "labels": {
+      "default": "citizen"
+    }
+  },
+  "pl_beograđanin": {
+    "conceptId": "pl_beograđanin",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Belgrader",
+      "pl": "Belgrader"
+    },
+    "labels": {
+      "default": "Belgrader"
+    }
+  },
+  "pl_kotao": {
+    "conceptId": "pl_kotao",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "cauldron",
+      "pl": "cauldron"
+    },
+    "labels": {
+      "default": "cauldron"
+    }
+  },
+  "pl_posao": {
+    "conceptId": "pl_posao",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "job",
+      "pl": "job"
+    },
+    "labels": {
+      "default": "job"
+    }
+  },
+  "pl_kabao": {
+    "conceptId": "pl_kabao",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bucket",
+      "pl": "bucket"
+    },
+    "labels": {
+      "default": "bucket"
+    }
+  },
+  "pl_sin": {
+    "conceptId": "pl_sin",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "son",
+      "pl": "son"
+    },
+    "labels": {
+      "default": "son"
+    }
+  },
+  "pl_plod": {
+    "conceptId": "pl_plod",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "fruit",
+      "pl": "fruit"
+    },
+    "labels": {
+      "default": "fruit"
+    }
+  },
+  "pl_čas": {
+    "conceptId": "pl_čas",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "hour",
+      "pl": "hour"
+    },
+    "labels": {
+      "default": "hour"
+    }
+  },
+  "pl_deo": {
+    "conceptId": "pl_deo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "part",
+      "pl": "part"
+    },
+    "labels": {
+      "default": "part"
+    }
+  },
+  "pl_list": {
+    "conceptId": "pl_list",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "sheet",
+      "pl": "sheet"
+    },
+    "labels": {
+      "default": "sheet"
+    }
+  },
+  "pl_list_2": {
+    "conceptId": "pl_list_2",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "foliage",
+      "pl": "foliage"
+    },
+    "labels": {
+      "default": "foliage"
+    }
+  },
+  "pl_krst": {
+    "conceptId": "pl_krst",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "cross",
+      "pl": "cross"
+    },
+    "labels": {
+      "default": "cross"
+    }
+  },
+  "pl_stub": {
+    "conceptId": "pl_stub",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "pillar",
+      "pl": "pillar"
+    },
+    "labels": {
+      "default": "pillar"
+    }
+  },
+  "pl_voz": {
+    "conceptId": "pl_voz",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "train",
+      "pl": "train"
+    },
+    "labels": {
+      "default": "train"
+    }
+  },
+  "pl_brod": {
+    "conceptId": "pl_brod",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "ship",
+      "pl": "ship"
+    },
+    "labels": {
+      "default": "ship"
+    }
+  },
+  "pl_prsten": {
+    "conceptId": "pl_prsten",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "ring",
+      "pl": "ring"
+    },
+    "labels": {
+      "default": "ring"
+    }
+  },
+  "pl_golub": {
+    "conceptId": "pl_golub",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "pigeon",
+      "pl": "pigeon"
+    },
+    "labels": {
+      "default": "pigeon"
+    }
+  },
+  "pl_vetar": {
+    "conceptId": "pl_vetar",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "wind",
+      "pl": "wind"
+    },
+    "labels": {
+      "default": "wind"
+    }
+  },
+  "pl_zmaj": {
+    "conceptId": "pl_zmaj",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "dragon",
+      "pl": "dragon"
+    },
+    "labels": {
+      "default": "dragon"
+    }
+  },
+  "pl_muž": {
+    "conceptId": "pl_muž",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "husband",
+      "pl": "husband"
+    },
+    "labels": {
+      "default": "husband"
+    }
+  },
+  "pl_puž": {
+    "conceptId": "pl_puž",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "snail",
+      "pl": "snail"
+    },
+    "labels": {
+      "default": "snail"
+    }
+  },
+  "pl_nož": {
+    "conceptId": "pl_nož",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "knife",
+      "pl": "knife"
+    },
+    "labels": {
+      "default": "knife"
+    }
+  },
+  "pl_kraj": {
+    "conceptId": "pl_kraj",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "end",
+      "pl": "end"
+    },
+    "labels": {
+      "default": "end"
+    }
+  },
+  "pl_miš": {
+    "conceptId": "pl_miš",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "mouse",
+      "pl": "mouse"
+    },
+    "labels": {
+      "default": "mouse"
+    }
+  },
+  "pl_put": {
+    "conceptId": "pl_put",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "road",
+      "pl": "road"
+    },
+    "labels": {
+      "default": "road"
+    }
+  },
+  "pl_kurs": {
+    "conceptId": "pl_kurs",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "course",
+      "pl": "course"
+    },
+    "labels": {
+      "default": "course"
+    }
+  },
+  "pl_zec": {
+    "conceptId": "pl_zec",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "hare",
+      "pl": "hare"
+    },
+    "labels": {
+      "default": "hare"
+    }
+  },
+  "pl_otac": {
+    "conceptId": "pl_otac",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "father",
+      "pl": "father"
+    },
+    "labels": {
+      "default": "father"
+    }
+  },
+  "pl_zub": {
+    "conceptId": "pl_zub",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "tooth",
+      "pl": "tooth"
+    },
+    "labels": {
+      "default": "tooth"
+    }
+  },
+  "pl_sat": {
+    "conceptId": "pl_sat",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "hour",
+      "pl": "hour"
+    },
+    "labels": {
+      "default": "hour"
+    }
+  },
+  "pl_konj": {
+    "conceptId": "pl_konj",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "horse",
+      "pl": "horse"
+    },
+    "labels": {
+      "default": "horse"
+    }
+  },
+  "pl_prst": {
+    "conceptId": "pl_prst",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "finger",
+      "pl": "finger"
+    },
+    "labels": {
+      "default": "finger"
+    }
+  },
+  "pl_gost": {
+    "conceptId": "pl_gost",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "guest",
+      "pl": "guest"
+    },
+    "labels": {
+      "default": "guest"
+    }
+  },
+  "pl_dan": {
+    "conceptId": "pl_dan",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "day",
+      "pl": "day"
+    },
+    "labels": {
+      "default": "day"
+    }
+  },
+  "pl_rus": {
+    "conceptId": "pl_rus",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Russian person",
+      "pl": "Russian person"
+    },
+    "labels": {
+      "default": "Russian person"
+    }
+  },
+  "pl_znak": {
+    "conceptId": "pl_znak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "sign",
+      "pl": "sign"
+    },
+    "labels": {
+      "default": "sign"
+    }
+  },
+  "pl_đak": {
+    "conceptId": "pl_đak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "pupil",
+      "pl": "pupil"
+    },
+    "labels": {
+      "default": "pupil"
+    }
+  },
+  "pl_grk": {
+    "conceptId": "pl_grk",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Greek person",
+      "pl": "Greek person"
+    },
+    "labels": {
+      "default": "Greek person"
+    }
+  },
+  "pl_zrak": {
+    "conceptId": "pl_zrak",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "ray",
+      "pl": "ray"
+    },
+    "labels": {
+      "default": "ray"
+    }
+  },
+  "pl_čeh": {
+    "conceptId": "pl_čeh",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Czech person",
+      "pl": "Czech person"
+    },
+    "labels": {
+      "default": "Czech person"
+    }
+  },
+  "pl_vlah": {
+    "conceptId": "pl_vlah",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "Vlach",
+      "pl": "Vlach"
+    },
+    "labels": {
+      "default": "Vlach"
+    }
+  },
+  "pl_gospodin": {
+    "conceptId": "pl_gospodin",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "gentleman",
+      "pl": "gentleman"
+    },
+    "labels": {
+      "default": "gentleman"
+    }
+  },
+  "pl_selo": {
+    "conceptId": "pl_selo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "village",
+      "pl": "village"
+    },
+    "labels": {
+      "default": "village"
+    }
+  },
+  "pl_slovo": {
+    "conceptId": "pl_slovo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "letter",
+      "pl": "letter"
+    },
+    "labels": {
+      "default": "letter"
+    }
+  },
+  "pl_ostrvo": {
+    "conceptId": "pl_ostrvo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "island",
+      "pl": "island"
+    },
+    "labels": {
+      "default": "island"
+    }
+  },
+  "pl_zvono": {
+    "conceptId": "pl_zvono",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bell",
+      "pl": "bell"
+    },
+    "labels": {
+      "default": "bell"
+    }
+  },
+  "pl_krilo": {
+    "conceptId": "pl_krilo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "wing",
+      "pl": "wing"
+    },
+    "labels": {
+      "default": "wing"
+    }
+  },
+  "pl_koleno": {
+    "conceptId": "pl_koleno",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "knee",
+      "pl": "knee"
+    },
+    "labels": {
+      "default": "knee"
+    }
+  },
+  "pl_mesto": {
+    "conceptId": "pl_mesto",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "place",
+      "pl": "place"
+    },
+    "labels": {
+      "default": "place"
+    }
+  },
+  "pl_jezero": {
+    "conceptId": "pl_jezero",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "lake",
+      "pl": "lake"
+    },
+    "labels": {
+      "default": "lake"
+    }
+  },
+  "pl_more": {
+    "conceptId": "pl_more",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "sea",
+      "pl": "sea"
+    },
+    "labels": {
+      "default": "sea"
+    }
+  },
+  "pl_polje": {
+    "conceptId": "pl_polje",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "field",
+      "pl": "field"
+    },
+    "labels": {
+      "default": "field"
+    }
+  },
+  "pl_šetalište": {
+    "conceptId": "pl_šetalište",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "promenade",
+      "pl": "promenade"
+    },
+    "labels": {
+      "default": "promenade"
+    }
+  },
+  "pl_igralište": {
+    "conceptId": "pl_igralište",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "playground",
+      "pl": "playground"
+    },
+    "labels": {
+      "default": "playground"
+    }
+  },
+  "pl_lice": {
+    "conceptId": "pl_lice",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "face",
+      "pl": "face"
+    },
+    "labels": {
+      "default": "face"
+    }
+  },
+  "pl_jaje": {
+    "conceptId": "pl_jaje",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "egg",
+      "pl": "egg"
+    },
+    "labels": {
+      "default": "egg"
+    }
+  },
+  "pl_drvo": {
+    "conceptId": "pl_drvo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "firewood",
+      "pl": "firewood"
+    },
+    "labels": {
+      "default": "firewood"
+    }
+  },
+  "pl_drvo_2": {
+    "conceptId": "pl_drvo_2",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "trees as vegetation",
+      "pl": "trees as vegetation"
+    },
+    "labels": {
+      "default": "trees as vegetation"
+    }
+  },
+  "pl_drvo_3": {
+    "conceptId": "pl_drvo_3",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "individual trees",
+      "pl": "individual trees"
+    },
+    "labels": {
+      "default": "individual trees"
+    }
+  },
+  "pl_oko": {
+    "conceptId": "pl_oko",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "eye",
+      "pl": "eye"
+    },
+    "labels": {
+      "default": "eye"
+    }
+  },
+  "pl_uho": {
+    "conceptId": "pl_uho",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "ear",
+      "pl": "ear"
+    },
+    "labels": {
+      "default": "ear"
+    }
+  },
+  "pl_vreme": {
+    "conceptId": "pl_vreme",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "time",
+      "pl": "time"
+    },
+    "labels": {
+      "default": "time"
+    }
+  },
+  "pl_ime": {
+    "conceptId": "pl_ime",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "name",
+      "pl": "name"
+    },
+    "labels": {
+      "default": "name"
+    }
+  },
+  "pl_rame": {
+    "conceptId": "pl_rame",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "shoulder",
+      "pl": "shoulder"
+    },
+    "labels": {
+      "default": "shoulder"
+    }
+  },
+  "pl_pleme": {
+    "conceptId": "pl_pleme",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "tribe",
+      "pl": "tribe"
+    },
+    "labels": {
+      "default": "tribe"
+    }
+  },
+  "pl_dugme": {
+    "conceptId": "pl_dugme",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "button",
+      "pl": "button"
+    },
+    "labels": {
+      "default": "button"
+    }
+  },
+  "pl_ćebe": {
+    "conceptId": "pl_ćebe",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "blanket",
+      "pl": "blanket"
+    },
+    "labels": {
+      "default": "blanket"
+    }
+  },
+  "pl_uže": {
+    "conceptId": "pl_uže",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "rope",
+      "pl": "rope"
+    },
+    "labels": {
+      "default": "rope"
+    }
+  },
+  "pl_parče": {
+    "conceptId": "pl_parče",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "piece",
+      "pl": "piece"
+    },
+    "labels": {
+      "default": "piece"
+    }
+  },
+  "pl_kuče": {
+    "conceptId": "pl_kuče",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "puppy",
+      "pl": "puppy"
+    },
+    "labels": {
+      "default": "puppy"
+    }
+  },
+  "pl_pile": {
+    "conceptId": "pl_pile",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "chick",
+      "pl": "chick"
+    },
+    "labels": {
+      "default": "chick"
+    }
+  },
+  "pl_jare": {
+    "conceptId": "pl_jare",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "kid (young goat)",
+      "pl": "kid (young goat)"
+    },
+    "labels": {
+      "default": "kid (young goat)"
+    }
+  },
+  "pl_mače": {
+    "conceptId": "pl_mače",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "kitten",
+      "pl": "kitten"
+    },
+    "labels": {
+      "default": "kitten"
+    }
+  },
+  "pl_vrapče": {
+    "conceptId": "pl_vrapče",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "little sparrow",
+      "pl": "little sparrow"
+    },
+    "labels": {
+      "default": "little sparrow"
+    }
+  },
+  "pl_pače": {
+    "conceptId": "pl_pače",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "duckling",
+      "pl": "duckling"
+    },
+    "labels": {
+      "default": "duckling"
+    }
+  },
+  "pl_unuče": {
+    "conceptId": "pl_unuče",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "grandchild",
+      "pl": "grandchild"
+    },
+    "labels": {
+      "default": "grandchild"
+    }
+  },
+  "pl_nebo": {
+    "conceptId": "pl_nebo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "sky",
+      "pl": "sky"
+    },
+    "labels": {
+      "default": "sky"
+    }
+  },
+  "pl_čudo": {
+    "conceptId": "pl_čudo",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "miracle",
+      "pl": "miracle"
+    },
+    "labels": {
+      "default": "miracle"
+    }
+  },
+  "pl_kuća": {
+    "conceptId": "pl_kuća",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "house",
+      "pl": "house"
+    },
+    "labels": {
+      "default": "house"
+    }
+  },
+  "pl_lutka": {
+    "conceptId": "pl_lutka",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "doll",
+      "pl": "doll"
+    },
+    "labels": {
+      "default": "doll"
+    }
+  },
+  "pl_majka": {
+    "conceptId": "pl_majka",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "mother",
+      "pl": "mother"
+    },
+    "labels": {
+      "default": "mother"
+    }
+  },
+  "pl_molba": {
+    "conceptId": "pl_molba",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "request",
+      "pl": "request"
+    },
+    "labels": {
+      "default": "request"
+    }
+  },
+  "pl_trešnja": {
+    "conceptId": "pl_trešnja",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "cherry",
+      "pl": "cherry"
+    },
+    "labels": {
+      "default": "cherry"
+    }
+  },
+  "pl_torta": {
+    "conceptId": "pl_torta",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "cake",
+      "pl": "cake"
+    },
+    "labels": {
+      "default": "cake"
+    }
+  },
+  "pl_ćerka": {
+    "conceptId": "pl_ćerka",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "daughter",
+      "pl": "daughter"
+    },
+    "labels": {
+      "default": "daughter"
+    }
+  },
+  "pl_ćurka": {
+    "conceptId": "pl_ćurka",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "turkey",
+      "pl": "turkey"
+    },
+    "labels": {
+      "default": "turkey"
+    }
+  },
+  "pl_radnja": {
+    "conceptId": "pl_radnja",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "shop",
+      "pl": "shop"
+    },
+    "labels": {
+      "default": "shop"
+    }
+  },
+  "pl_stvar": {
+    "conceptId": "pl_stvar",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "thing",
+      "pl": "thing"
+    },
+    "labels": {
+      "default": "thing"
+    }
+  },
+  "pl_kost": {
+    "conceptId": "pl_kost",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bone",
+      "pl": "bone"
+    },
+    "labels": {
+      "default": "bone"
+    }
+  },
+  "pl_vlast": {
+    "conceptId": "pl_vlast",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "authority",
+      "pl": "authority"
+    },
+    "labels": {
+      "default": "authority"
+    }
+  },
+  "pl_reč": {
+    "conceptId": "pl_reč",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "word",
+      "pl": "word"
+    },
+    "labels": {
+      "default": "word"
+    }
+  },
+  "pl_noć": {
+    "conceptId": "pl_noć",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "night",
+      "pl": "night"
+    },
+    "labels": {
+      "default": "night"
+    }
+  },
+  "pl_misao": {
+    "conceptId": "pl_misao",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "thought",
+      "pl": "thought"
+    },
+    "labels": {
+      "default": "thought"
+    }
+  },
+  "pl_so": {
+    "conceptId": "pl_so",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "salt",
+      "pl": "salt"
+    },
+    "labels": {
+      "default": "salt"
+    }
+  },
+  "pl_čitalac_2": {
+    "conceptId": "pl_čitalac_2",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "reader",
+      "pl": "reader"
+    },
+    "labels": {
+      "default": "reader"
+    }
+  },
+  "pl_pantalone": {
+    "conceptId": "pl_pantalone",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "trousers",
+      "pl": "trousers"
+    },
+    "labels": {
+      "default": "trousers"
+    }
+  },
+  "pl_makaze": {
+    "conceptId": "pl_makaze",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "scissors",
+      "pl": "scissors"
+    },
+    "labels": {
+      "default": "scissors"
+    }
+  },
+  "pl_naočare": {
+    "conceptId": "pl_naočare",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "glasses",
+      "pl": "glasses"
+    },
+    "labels": {
+      "default": "glasses"
+    }
+  },
+  "pl_sanke": {
+    "conceptId": "pl_sanke",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "sled",
+      "pl": "sled"
+    },
+    "labels": {
+      "default": "sled"
+    }
+  },
+  "pl_merdevine": {
+    "conceptId": "pl_merdevine",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "ladder",
+      "pl": "ladder"
+    },
+    "labels": {
+      "default": "ladder"
+    }
+  },
+  "pl_vrata": {
+    "conceptId": "pl_vrata",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "door",
+      "pl": "door"
+    },
+    "labels": {
+      "default": "door"
+    }
+  },
+  "pl_usta": {
+    "conceptId": "pl_usta",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "mouth",
+      "pl": "mouth"
+    },
+    "labels": {
+      "default": "mouth"
     }
   }
 }

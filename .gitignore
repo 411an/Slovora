@@ -14,6 +14,15 @@ venv/
 # Dependencies
 node_modules/
 
+# Dictionary (1GB, too large for git)
+srLexv13
+
+# Tool outputs (generated reports, corrections)
+tools/dict_verify_report.txt
+tools/dict_corrections.json
+tools/verify_corrections.json
+tools/verify_declensions_log.txt
+
 # OS generated files
 .DS_Store
 Thumbs.db

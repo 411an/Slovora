@@ -13,6 +13,7 @@ import { renderStats } from "./ui/stats.js";
 import { renderFalseFriends } from "./ui/false_friends.js";
 import { renderShorts } from "./ui/shorts.js";
 import { renderReadme } from "./ui/readme.js";
+import { renderPlural } from "./ui/plural.js";
 import { PromptBuilder } from "./engine/prompt_builder.js";
 
 const app = document.getElementById("app");
@@ -47,6 +48,8 @@ function route() {
     renderFalseFriends(app);
   } else if (hash === "#shorts") {
     renderShorts(app);
+  } else if (hash === "#plural") {
+    renderPlural(app, lexicon, promptBuilder);
   } else if (hash === "#settings") {
     renderSettings(app);
   } else if (hash === "#stats") {

@@ -97,6 +97,22 @@ export function renderMenu(container) {
   });
   grid.appendChild(shortsCard);
 
+  // Plural — available for both languages
+  const pluralCard = document.createElement("div");
+  pluralCard.className = "menu-card";
+  const pluralData = t("exercises.plural") || {};
+  pluralCard.innerHTML = `
+      <div class="menu-card-icon">🔄</div>
+      <div class="menu-card-text">
+        <h3>${pluralData.title || "Plural"}</h3>
+        <p>${pluralData.desc || ""}</p>
+      </div>
+    `;
+  pluralCard.addEventListener("click", () => {
+    location.hash = "#plural";
+  });
+  grid.appendChild(pluralCard);
+
   const readmeCard = document.createElement("div");
   readmeCard.className = "menu-card";
   const readmeData = t("menu.readme");

@@ -838,3 +838,231 @@ body {
   margin-top: 4px;
   padding-top: 10px;
 }
+
+/* ── Plural Exercise ──────────────────────────────────────────── */
+
+.plural-prompt {
+  text-align: center;
+  margin-bottom: 24px;
+  padding: 18px 20px;
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+}
+
+.plural-native-word {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+  font-family: var(--font-ui);
+}
+
+.plural-sr-word {
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--accent-light);
+  margin-bottom: 10px;
+  font-family: var(--font-content);
+}
+
+.plural-instruction {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+.plural-options-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.plural-option {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 10px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-content);
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  cursor: pointer;
+  user-select: none;
+  transition: all var(--transition);
+  -webkit-tap-highlight-color: transparent;
+  min-height: 48px;
+  text-align: center;
+  word-break: break-word;
+}
+
+.plural-option:hover:not(:disabled) {
+  background: var(--bg-card-hover);
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.plural-option:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.plural-option.selected {
+  border-color: var(--accent);
+  background: linear-gradient(135deg, rgba(108, 92, 231, 0.18), rgba(108, 92, 231, 0.06));
+  box-shadow: 0 0 12px var(--accent-glow);
+}
+
+.plural-option.correct {
+  border-color: var(--success) !important;
+  background: rgba(0, 206, 201, 0.12) !important;
+  box-shadow: 0 0 14px var(--success-glow);
+  color: var(--success);
+  font-weight: 700;
+}
+
+.plural-option.incorrect {
+  border-color: var(--error) !important;
+  background: rgba(255, 107, 107, 0.1) !important;
+  box-shadow: 0 0 14px var(--error-glow);
+  color: var(--error);
+  animation: shake 0.4s ease-in-out;
+}
+
+.plural-option:disabled {
+  cursor: default;
+  opacity: 0.7;
+}
+
+.plural-correct-form {
+  margin-top: 12px;
+  padding: 14px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  font-family: var(--font-content);
+  font-size: 1.1rem;
+}
+
+.plural-arrow {
+  color: var(--success);
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.plural-form {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* ── Wide Help Modal ──────────────────────────────────────────── */
+
+.modal-content-wide {
+  max-width: 720px !important;
+  max-height: 85vh;
+}
+
+/* ── Plural Help (Markdown rendered) ──────────────────────────── */
+
+.plural-help-content {
+  font-family: var(--font-content);
+  color: var(--text-primary);
+  line-height: 1.65;
+}
+
+.plural-help-content h1 {
+  font-family: var(--font-ui);
+  font-size: 1.5rem;
+  margin: 0 0 16px;
+  color: var(--accent-light);
+}
+
+.plural-help-content h2 {
+  font-family: var(--font-ui);
+  font-size: 1.2rem;
+  margin: 20px 0 10px;
+  color: var(--text-primary);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 6px;
+}
+
+.plural-help-content h3 {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  margin: 16px 0 8px;
+  color: var(--text-secondary);
+}
+
+.plural-help-content h4 {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  margin: 12px 0 6px;
+  color: var(--text-dim);
+}
+
+.plural-help-content p {
+  margin-bottom: 10px;
+  font-size: 0.92rem;
+}
+
+.plural-help-content ul,
+.plural-help-content ol {
+  margin-bottom: 12px;
+  padding-left: 22px;
+}
+
+.plural-help-content li {
+  margin-bottom: 4px;
+  font-size: 0.9rem;
+}
+
+.plural-help-content code {
+  font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 0.9em;
+}
+
+.plural-help-content pre {
+  overflow-x: auto;
+  background: var(--bg-answer-zone);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px;
+  margin: 12px 0;
+}
+
+.plural-help-content pre code {
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+
+.plural-help-content a {
+  color: var(--accent-light);
+}
+
+.plural-help-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 20px 0;
+}
+
+.plural-help-content strong {
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.plural-help-content em {
+  font-style: italic;
+  color: var(--accent-light);
+}

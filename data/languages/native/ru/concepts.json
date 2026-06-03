@@ -83,18 +83,6 @@
       "default": "город"
     }
   },
-  "serbia_f": {
-    "conceptId": "serbia_f",
-    "language": "ru",
-    "type": "noun",
-    "forms": {
-      "sg": "Сербия",
-      "pl": "Сербия"
-    },
-    "labels": {
-      "default": "Сербия"
-    }
-  },
   "belgrade_m": {
     "conceptId": "belgrade_m",
     "language": "ru",
@@ -695,125 +683,1720 @@
       "default": "ли / разве"
     }
   },
-  "particle_ne": {
-    "conceptId": "particle_ne",
+  "pl_jelen": {
+    "conceptId": "pl_jelen",
     "language": "ru",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "не"
+      "sg": "олень",
+      "pl": "олень"
     },
     "labels": {
-      "default": "не"
+      "default": "олень"
     }
   },
-  "particle_da": {
-    "conceptId": "particle_da",
+  "pl_izbor": {
+    "conceptId": "pl_izbor",
     "language": "ru",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "да"
+      "sg": "выбор",
+      "pl": "выбор"
     },
     "labels": {
-      "default": "да"
+      "default": "выбор"
     }
   },
-  "particle_nije": {
-    "conceptId": "particle_nije",
+  "pl_obraz": {
+    "conceptId": "pl_obraz",
     "language": "ru",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "не есть"
+      "sg": "щека",
+      "pl": "щека"
     },
     "labels": {
-      "default": "не есть"
+      "default": "щека"
     }
   },
-  "particle_zato_sto": {
-    "conceptId": "particle_zato_sto",
+  "pl_poklon": {
+    "conceptId": "pl_poklon",
     "language": "ru",
-    "type": "particle",
+    "type": "noun",
     "forms": {
-      "sg": "потому что"
+      "sg": "подарок",
+      "pl": "подарок"
     },
     "labels": {
-      "default": "потому что"
+      "default": "подарок"
     }
   },
-  "preposition_iz": {
-    "conceptId": "preposition_iz",
+  "pl_izvor": {
+    "conceptId": "pl_izvor",
     "language": "ru",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "из"
+      "sg": "источник",
+      "pl": "источник"
     },
     "labels": {
-      "default": "из"
+      "default": "источник"
     }
   },
-  "preposition_u_loc": {
-    "conceptId": "preposition_u_loc",
+  "pl_pogled": {
+    "conceptId": "pl_pogled",
     "language": "ru",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "в"
+      "sg": "взгляд",
+      "pl": "взгляд"
     },
     "labels": {
-      "default": "в"
+      "default": "взгляд"
     }
   },
-  "preposition_u_acc": {
-    "conceptId": "preposition_u_acc",
+  "pl_savet": {
+    "conceptId": "pl_savet",
     "language": "ru",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "в (куда)"
+      "sg": "совет",
+      "pl": "совет"
     },
     "labels": {
-      "default": "в (куда)"
+      "default": "совет"
     }
   },
-  "preposition_na_loc": {
-    "conceptId": "preposition_na_loc",
+  "pl_prijatelj": {
+    "conceptId": "pl_prijatelj",
     "language": "ru",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "на"
+      "sg": "друг",
+      "pl": "друг"
     },
     "labels": {
-      "default": "на"
+      "default": "друг"
     }
   },
-  "preposition_na_acc": {
-    "conceptId": "preposition_na_acc",
+  "pl_mesec": {
+    "conceptId": "pl_mesec",
     "language": "ru",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "на (куда)"
+      "sg": "месяц",
+      "pl": "месяц"
     },
     "labels": {
-      "default": "на (куда)"
+      "default": "месяц"
     }
   },
-  "preposition_kod": {
-    "conceptId": "preposition_kod",
+  "pl_dinar": {
+    "conceptId": "pl_dinar",
     "language": "ru",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "у/около"
+      "sg": "динар",
+      "pl": "динар"
     },
     "labels": {
-      "default": "у/около"
+      "default": "динар"
     }
   },
-  "preposition_za": {
-    "conceptId": "preposition_za",
+  "pl_hirurg": {
+    "conceptId": "pl_hirurg",
     "language": "ru",
-    "type": "preposition",
+    "type": "noun",
     "forms": {
-      "sg": "для/за"
+      "sg": "хирург",
+      "pl": "хирург"
     },
     "labels": {
-      "default": "для/за"
+      "default": "хирург"
+    }
+  },
+  "pl_stomatolog": {
+    "conceptId": "pl_stomatolog",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "стоматолог",
+      "pl": "стоматолог"
+    },
+    "labels": {
+      "default": "стоматолог"
+    }
+  },
+  "pl_bubreg": {
+    "conceptId": "pl_bubreg",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "почка",
+      "pl": "почка"
+    },
+    "labels": {
+      "default": "почка"
+    }
+  },
+  "pl_predlog": {
+    "conceptId": "pl_predlog",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "предложение",
+      "pl": "предложение"
+    },
+    "labels": {
+      "default": "предложение"
+    }
+  },
+  "pl_poljak": {
+    "conceptId": "pl_poljak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "поляк",
+      "pl": "поляк"
+    },
+    "labels": {
+      "default": "поляк"
+    }
+  },
+  "pl_poznanik": {
+    "conceptId": "pl_poznanik",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "знакомый",
+      "pl": "знакомый"
+    },
+    "labels": {
+      "default": "знакомый"
+    }
+  },
+  "pl_radnik": {
+    "conceptId": "pl_radnik",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "рабочий",
+      "pl": "рабочий"
+    },
+    "labels": {
+      "default": "рабочий"
+    }
+  },
+  "pl_vojnik": {
+    "conceptId": "pl_vojnik",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "солдат",
+      "pl": "солдат"
+    },
+    "labels": {
+      "default": "солдат"
+    }
+  },
+  "pl_korak": {
+    "conceptId": "pl_korak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "шаг",
+      "pl": "шаг"
+    },
+    "labels": {
+      "default": "шаг"
+    }
+  },
+  "pl_oblak": {
+    "conceptId": "pl_oblak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "облако",
+      "pl": "облако"
+    },
+    "labels": {
+      "default": "облако"
+    }
+  },
+  "pl_dečak": {
+    "conceptId": "pl_dečak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "мальчик",
+      "pl": "мальчик"
+    },
+    "labels": {
+      "default": "мальчик"
+    }
+  },
+  "pl_monah": {
+    "conceptId": "pl_monah",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "монах",
+      "pl": "монах"
+    },
+    "labels": {
+      "default": "монах"
+    }
+  },
+  "pl_siromah": {
+    "conceptId": "pl_siromah",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "бедняк",
+      "pl": "бедняк"
+    },
+    "labels": {
+      "default": "бедняк"
+    }
+  },
+  "pl_orah": {
+    "conceptId": "pl_orah",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "грецкий орех",
+      "pl": "грецкий орех"
+    },
+    "labels": {
+      "default": "грецкий орех"
+    }
+  },
+  "pl_nokat": {
+    "conceptId": "pl_nokat",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ноготь",
+      "pl": "ноготь"
+    },
+    "labels": {
+      "default": "ноготь"
+    }
+  },
+  "pl_lakat": {
+    "conceptId": "pl_lakat",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "локоть",
+      "pl": "локоть"
+    },
+    "labels": {
+      "default": "локоть"
+    }
+  },
+  "pl_momenat": {
+    "conceptId": "pl_momenat",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "момент",
+      "pl": "момент"
+    },
+    "labels": {
+      "default": "момент"
+    }
+  },
+  "pl_dokumenat": {
+    "conceptId": "pl_dokumenat",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "документ",
+      "pl": "документ"
+    },
+    "labels": {
+      "default": "документ"
+    }
+  },
+  "pl_starac": {
+    "conceptId": "pl_starac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "старик",
+      "pl": "старик"
+    },
+    "labels": {
+      "default": "старик"
+    }
+  },
+  "pl_glumac": {
+    "conceptId": "pl_glumac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "актёр",
+      "pl": "актёр"
+    },
+    "labels": {
+      "default": "актёр"
+    }
+  },
+  "pl_čamac": {
+    "conceptId": "pl_čamac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "лодка",
+      "pl": "лодка"
+    },
+    "labels": {
+      "default": "лодка"
+    }
+  },
+  "pl_prodavac": {
+    "conceptId": "pl_prodavac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "продавец",
+      "pl": "продавец"
+    },
+    "labels": {
+      "default": "продавец"
+    }
+  },
+  "pl_kupac": {
+    "conceptId": "pl_kupac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "покупатель",
+      "pl": "покупатель"
+    },
+    "labels": {
+      "default": "покупатель"
+    }
+  },
+  "pl_poklopac": {
+    "conceptId": "pl_poklopac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "крышка",
+      "pl": "крышка"
+    },
+    "labels": {
+      "default": "крышка"
+    }
+  },
+  "pl_živac": {
+    "conceptId": "pl_živac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "нерв",
+      "pl": "нерв"
+    },
+    "labels": {
+      "default": "нерв"
+    }
+  },
+  "pl_zaselak": {
+    "conceptId": "pl_zaselak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "посёлок",
+      "pl": "посёлок"
+    },
+    "labels": {
+      "default": "посёлок"
+    }
+  },
+  "pl_čitalac": {
+    "conceptId": "pl_čitalac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "читатель",
+      "pl": "читатель"
+    },
+    "labels": {
+      "default": "читатель"
+    }
+  },
+  "pl_branilac": {
+    "conceptId": "pl_branilac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "защитник",
+      "pl": "защитник"
+    },
+    "labels": {
+      "default": "защитник"
+    }
+  },
+  "pl_starosedelac": {
+    "conceptId": "pl_starosedelac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "коренной житель",
+      "pl": "коренной житель"
+    },
+    "labels": {
+      "default": "коренной житель"
+    }
+  },
+  "pl_srbin": {
+    "conceptId": "pl_srbin",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "серб",
+      "pl": "серб"
+    },
+    "labels": {
+      "default": "серб"
+    }
+  },
+  "pl_arapin": {
+    "conceptId": "pl_arapin",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "араб",
+      "pl": "араб"
+    },
+    "labels": {
+      "default": "араб"
+    }
+  },
+  "pl_državljanin": {
+    "conceptId": "pl_državljanin",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "гражданин",
+      "pl": "гражданин"
+    },
+    "labels": {
+      "default": "гражданин"
+    }
+  },
+  "pl_beograđanin": {
+    "conceptId": "pl_beograđanin",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "белградец",
+      "pl": "белградец"
+    },
+    "labels": {
+      "default": "белградец"
+    }
+  },
+  "pl_kotao": {
+    "conceptId": "pl_kotao",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "котёл",
+      "pl": "котёл"
+    },
+    "labels": {
+      "default": "котёл"
+    }
+  },
+  "pl_posao": {
+    "conceptId": "pl_posao",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "работа",
+      "pl": "работа"
+    },
+    "labels": {
+      "default": "работа"
+    }
+  },
+  "pl_kabao": {
+    "conceptId": "pl_kabao",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ведро",
+      "pl": "ведро"
+    },
+    "labels": {
+      "default": "ведро"
+    }
+  },
+  "pl_sin": {
+    "conceptId": "pl_sin",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "сын",
+      "pl": "сын"
+    },
+    "labels": {
+      "default": "сын"
+    }
+  },
+  "pl_plod": {
+    "conceptId": "pl_plod",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "плод",
+      "pl": "плод"
+    },
+    "labels": {
+      "default": "плод"
+    }
+  },
+  "pl_čas": {
+    "conceptId": "pl_čas",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "час",
+      "pl": "час"
+    },
+    "labels": {
+      "default": "час"
+    }
+  },
+  "pl_deo": {
+    "conceptId": "pl_deo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "часть",
+      "pl": "часть"
+    },
+    "labels": {
+      "default": "часть"
+    }
+  },
+  "pl_list": {
+    "conceptId": "pl_list",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "листы,страницы,отдельные листья",
+      "pl": "листы,страницы,отдельные листья"
+    },
+    "labels": {
+      "default": "листы,страницы,отдельные листья"
+    }
+  },
+  "pl_list_2": {
+    "conceptId": "pl_list_2",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "листва",
+      "pl": "листва"
+    },
+    "labels": {
+      "default": "листва"
+    }
+  },
+  "pl_krst": {
+    "conceptId": "pl_krst",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "крест",
+      "pl": "крест"
+    },
+    "labels": {
+      "default": "крест"
+    }
+  },
+  "pl_stub": {
+    "conceptId": "pl_stub",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "столб",
+      "pl": "столб"
+    },
+    "labels": {
+      "default": "столб"
+    }
+  },
+  "pl_voz": {
+    "conceptId": "pl_voz",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "поезд",
+      "pl": "поезд"
+    },
+    "labels": {
+      "default": "поезд"
+    }
+  },
+  "pl_brod": {
+    "conceptId": "pl_brod",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "корабль",
+      "pl": "корабль"
+    },
+    "labels": {
+      "default": "корабль"
+    }
+  },
+  "pl_prsten": {
+    "conceptId": "pl_prsten",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "кольцо",
+      "pl": "кольцо"
+    },
+    "labels": {
+      "default": "кольцо"
+    }
+  },
+  "pl_golub": {
+    "conceptId": "pl_golub",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "голубь",
+      "pl": "голубь"
+    },
+    "labels": {
+      "default": "голубь"
+    }
+  },
+  "pl_vetar": {
+    "conceptId": "pl_vetar",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ветер",
+      "pl": "ветер"
+    },
+    "labels": {
+      "default": "ветер"
+    }
+  },
+  "pl_zmaj": {
+    "conceptId": "pl_zmaj",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "дракон",
+      "pl": "дракон"
+    },
+    "labels": {
+      "default": "дракон"
+    }
+  },
+  "pl_muž": {
+    "conceptId": "pl_muž",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "муж",
+      "pl": "муж"
+    },
+    "labels": {
+      "default": "муж"
+    }
+  },
+  "pl_puž": {
+    "conceptId": "pl_puž",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "улитка",
+      "pl": "улитка"
+    },
+    "labels": {
+      "default": "улитка"
+    }
+  },
+  "pl_nož": {
+    "conceptId": "pl_nož",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "нож",
+      "pl": "нож"
+    },
+    "labels": {
+      "default": "нож"
+    }
+  },
+  "pl_kraj": {
+    "conceptId": "pl_kraj",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "конец",
+      "pl": "конец"
+    },
+    "labels": {
+      "default": "конец"
+    }
+  },
+  "pl_miš": {
+    "conceptId": "pl_miš",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "мышь",
+      "pl": "мышь"
+    },
+    "labels": {
+      "default": "мышь"
+    }
+  },
+  "pl_put": {
+    "conceptId": "pl_put",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "путь",
+      "pl": "путь"
+    },
+    "labels": {
+      "default": "путь"
+    }
+  },
+  "pl_kurs": {
+    "conceptId": "pl_kurs",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "курс",
+      "pl": "курс"
+    },
+    "labels": {
+      "default": "курс"
+    }
+  },
+  "pl_zec": {
+    "conceptId": "pl_zec",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "заяц",
+      "pl": "заяц"
+    },
+    "labels": {
+      "default": "заяц"
+    }
+  },
+  "pl_otac": {
+    "conceptId": "pl_otac",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "отец",
+      "pl": "отец"
+    },
+    "labels": {
+      "default": "отец"
+    }
+  },
+  "pl_zub": {
+    "conceptId": "pl_zub",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "зуб",
+      "pl": "зуб"
+    },
+    "labels": {
+      "default": "зуб"
+    }
+  },
+  "pl_sat": {
+    "conceptId": "pl_sat",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "час",
+      "pl": "час"
+    },
+    "labels": {
+      "default": "час"
+    }
+  },
+  "pl_konj": {
+    "conceptId": "pl_konj",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "конь",
+      "pl": "конь"
+    },
+    "labels": {
+      "default": "конь"
+    }
+  },
+  "pl_prst": {
+    "conceptId": "pl_prst",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "палец",
+      "pl": "палец"
+    },
+    "labels": {
+      "default": "палец"
+    }
+  },
+  "pl_gost": {
+    "conceptId": "pl_gost",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "гость",
+      "pl": "гость"
+    },
+    "labels": {
+      "default": "гость"
+    }
+  },
+  "pl_dan": {
+    "conceptId": "pl_dan",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "день",
+      "pl": "день"
+    },
+    "labels": {
+      "default": "день"
+    }
+  },
+  "pl_rus": {
+    "conceptId": "pl_rus",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "русский",
+      "pl": "русский"
+    },
+    "labels": {
+      "default": "русский"
+    }
+  },
+  "pl_znak": {
+    "conceptId": "pl_znak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "знак",
+      "pl": "знак"
+    },
+    "labels": {
+      "default": "знак"
+    }
+  },
+  "pl_đak": {
+    "conceptId": "pl_đak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ученик",
+      "pl": "ученик"
+    },
+    "labels": {
+      "default": "ученик"
+    }
+  },
+  "pl_grk": {
+    "conceptId": "pl_grk",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "грек",
+      "pl": "грек"
+    },
+    "labels": {
+      "default": "грек"
+    }
+  },
+  "pl_zrak": {
+    "conceptId": "pl_zrak",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "луч",
+      "pl": "луч"
+    },
+    "labels": {
+      "default": "луч"
+    }
+  },
+  "pl_čeh": {
+    "conceptId": "pl_čeh",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "чех",
+      "pl": "чех"
+    },
+    "labels": {
+      "default": "чех"
+    }
+  },
+  "pl_vlah": {
+    "conceptId": "pl_vlah",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "влах",
+      "pl": "влах"
+    },
+    "labels": {
+      "default": "влах"
+    }
+  },
+  "pl_gospodin": {
+    "conceptId": "pl_gospodin",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "господин",
+      "pl": "господин"
+    },
+    "labels": {
+      "default": "господин"
+    }
+  },
+  "pl_selo": {
+    "conceptId": "pl_selo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "село",
+      "pl": "село"
+    },
+    "labels": {
+      "default": "село"
+    }
+  },
+  "pl_slovo": {
+    "conceptId": "pl_slovo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "буква",
+      "pl": "буква"
+    },
+    "labels": {
+      "default": "буква"
+    }
+  },
+  "pl_ostrvo": {
+    "conceptId": "pl_ostrvo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "остров",
+      "pl": "остров"
+    },
+    "labels": {
+      "default": "остров"
+    }
+  },
+  "pl_zvono": {
+    "conceptId": "pl_zvono",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "колокол",
+      "pl": "колокол"
+    },
+    "labels": {
+      "default": "колокол"
+    }
+  },
+  "pl_krilo": {
+    "conceptId": "pl_krilo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "крыло",
+      "pl": "крыло"
+    },
+    "labels": {
+      "default": "крыло"
+    }
+  },
+  "pl_koleno": {
+    "conceptId": "pl_koleno",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "колено",
+      "pl": "колено"
+    },
+    "labels": {
+      "default": "колено"
+    }
+  },
+  "pl_mesto": {
+    "conceptId": "pl_mesto",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "место",
+      "pl": "место"
+    },
+    "labels": {
+      "default": "место"
+    }
+  },
+  "pl_jezero": {
+    "conceptId": "pl_jezero",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "озеро",
+      "pl": "озеро"
+    },
+    "labels": {
+      "default": "озеро"
+    }
+  },
+  "pl_more": {
+    "conceptId": "pl_more",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "море",
+      "pl": "море"
+    },
+    "labels": {
+      "default": "море"
+    }
+  },
+  "pl_polje": {
+    "conceptId": "pl_polje",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "поле",
+      "pl": "поле"
+    },
+    "labels": {
+      "default": "поле"
+    }
+  },
+  "pl_šetalište": {
+    "conceptId": "pl_šetalište",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "набережная",
+      "pl": "набережная"
+    },
+    "labels": {
+      "default": "набережная"
+    }
+  },
+  "pl_igralište": {
+    "conceptId": "pl_igralište",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "площадка для игр",
+      "pl": "площадка для игр"
+    },
+    "labels": {
+      "default": "площадка для игр"
+    }
+  },
+  "pl_lice": {
+    "conceptId": "pl_lice",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "лицо",
+      "pl": "лицо"
+    },
+    "labels": {
+      "default": "лицо"
+    }
+  },
+  "pl_jaje": {
+    "conceptId": "pl_jaje",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "яйцо",
+      "pl": "яйцо"
+    },
+    "labels": {
+      "default": "яйцо"
+    }
+  },
+  "pl_drvo": {
+    "conceptId": "pl_drvo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "дрова, куски дерева",
+      "pl": "дрова, куски дерева"
+    },
+    "labels": {
+      "default": "дрова, куски дерева"
+    }
+  },
+  "pl_drvo_2": {
+    "conceptId": "pl_drvo_2",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "деревья как растительность",
+      "pl": "деревья как растительность"
+    },
+    "labels": {
+      "default": "деревья как растительность"
+    }
+  },
+  "pl_drvo_3": {
+    "conceptId": "pl_drvo_3",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "отдельные деревья,стволы",
+      "pl": "отдельные деревья,стволы"
+    },
+    "labels": {
+      "default": "отдельные деревья,стволы"
+    }
+  },
+  "pl_oko": {
+    "conceptId": "pl_oko",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "глаз",
+      "pl": "глаз"
+    },
+    "labels": {
+      "default": "глаз"
+    }
+  },
+  "pl_uho": {
+    "conceptId": "pl_uho",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ухо",
+      "pl": "ухо"
+    },
+    "labels": {
+      "default": "ухо"
+    }
+  },
+  "pl_vreme": {
+    "conceptId": "pl_vreme",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "время",
+      "pl": "время"
+    },
+    "labels": {
+      "default": "время"
+    }
+  },
+  "pl_ime": {
+    "conceptId": "pl_ime",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "имя",
+      "pl": "имя"
+    },
+    "labels": {
+      "default": "имя"
+    }
+  },
+  "pl_rame": {
+    "conceptId": "pl_rame",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "плечо",
+      "pl": "плечо"
+    },
+    "labels": {
+      "default": "плечо"
+    }
+  },
+  "pl_pleme": {
+    "conceptId": "pl_pleme",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "племя",
+      "pl": "племя"
+    },
+    "labels": {
+      "default": "племя"
+    }
+  },
+  "pl_dugme": {
+    "conceptId": "pl_dugme",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "пуговица",
+      "pl": "пуговица"
+    },
+    "labels": {
+      "default": "пуговица"
+    }
+  },
+  "pl_ćebe": {
+    "conceptId": "pl_ćebe",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "одеяло",
+      "pl": "одеяло"
+    },
+    "labels": {
+      "default": "одеяло"
+    }
+  },
+  "pl_uže": {
+    "conceptId": "pl_uže",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "верёвка",
+      "pl": "верёвка"
+    },
+    "labels": {
+      "default": "верёвка"
+    }
+  },
+  "pl_parče": {
+    "conceptId": "pl_parče",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "кусок",
+      "pl": "кусок"
+    },
+    "labels": {
+      "default": "кусок"
+    }
+  },
+  "pl_kuče": {
+    "conceptId": "pl_kuče",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "щенок",
+      "pl": "щенок"
+    },
+    "labels": {
+      "default": "щенок"
+    }
+  },
+  "pl_pile": {
+    "conceptId": "pl_pile",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "цыплёнок",
+      "pl": "цыплёнок"
+    },
+    "labels": {
+      "default": "цыплёнок"
+    }
+  },
+  "pl_jare": {
+    "conceptId": "pl_jare",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "козлёнок",
+      "pl": "козлёнок"
+    },
+    "labels": {
+      "default": "козлёнок"
+    }
+  },
+  "pl_mače": {
+    "conceptId": "pl_mače",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "котёнок",
+      "pl": "котёнок"
+    },
+    "labels": {
+      "default": "котёнок"
+    }
+  },
+  "pl_vrapče": {
+    "conceptId": "pl_vrapče",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "воробушек",
+      "pl": "воробушек"
+    },
+    "labels": {
+      "default": "воробушек"
+    }
+  },
+  "pl_pače": {
+    "conceptId": "pl_pače",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "утёнок",
+      "pl": "утёнок"
+    },
+    "labels": {
+      "default": "утёнок"
+    }
+  },
+  "pl_unuče": {
+    "conceptId": "pl_unuče",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "внучонок",
+      "pl": "внучонок"
+    },
+    "labels": {
+      "default": "внучонок"
+    }
+  },
+  "pl_nebo": {
+    "conceptId": "pl_nebo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "небо",
+      "pl": "небо"
+    },
+    "labels": {
+      "default": "небо"
+    }
+  },
+  "pl_čudo": {
+    "conceptId": "pl_čudo",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "чудо",
+      "pl": "чудо"
+    },
+    "labels": {
+      "default": "чудо"
+    }
+  },
+  "pl_kuća": {
+    "conceptId": "pl_kuća",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "дом",
+      "pl": "дом"
+    },
+    "labels": {
+      "default": "дом"
+    }
+  },
+  "pl_lutka": {
+    "conceptId": "pl_lutka",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "кукла",
+      "pl": "кукла"
+    },
+    "labels": {
+      "default": "кукла"
+    }
+  },
+  "pl_majka": {
+    "conceptId": "pl_majka",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "мать",
+      "pl": "мать"
+    },
+    "labels": {
+      "default": "мать"
+    }
+  },
+  "pl_molba": {
+    "conceptId": "pl_molba",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "просьба",
+      "pl": "просьба"
+    },
+    "labels": {
+      "default": "просьба"
+    }
+  },
+  "pl_trešnja": {
+    "conceptId": "pl_trešnja",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "черешня",
+      "pl": "черешня"
+    },
+    "labels": {
+      "default": "черешня"
+    }
+  },
+  "pl_torta": {
+    "conceptId": "pl_torta",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "торт",
+      "pl": "торт"
+    },
+    "labels": {
+      "default": "торт"
+    }
+  },
+  "pl_ćerka": {
+    "conceptId": "pl_ćerka",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "дочь",
+      "pl": "дочь"
+    },
+    "labels": {
+      "default": "дочь"
+    }
+  },
+  "pl_ćurka": {
+    "conceptId": "pl_ćurka",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "индейка",
+      "pl": "индейка"
+    },
+    "labels": {
+      "default": "индейка"
+    }
+  },
+  "pl_radnja": {
+    "conceptId": "pl_radnja",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "магазин",
+      "pl": "магазин"
+    },
+    "labels": {
+      "default": "магазин"
+    }
+  },
+  "pl_stvar": {
+    "conceptId": "pl_stvar",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "вещь",
+      "pl": "вещь"
+    },
+    "labels": {
+      "default": "вещь"
+    }
+  },
+  "pl_kost": {
+    "conceptId": "pl_kost",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "кость",
+      "pl": "кость"
+    },
+    "labels": {
+      "default": "кость"
+    }
+  },
+  "pl_vlast": {
+    "conceptId": "pl_vlast",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "власть",
+      "pl": "власть"
+    },
+    "labels": {
+      "default": "власть"
+    }
+  },
+  "pl_reč": {
+    "conceptId": "pl_reč",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "слово",
+      "pl": "слово"
+    },
+    "labels": {
+      "default": "слово"
+    }
+  },
+  "pl_noć": {
+    "conceptId": "pl_noć",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ночь",
+      "pl": "ночь"
+    },
+    "labels": {
+      "default": "ночь"
+    }
+  },
+  "pl_misao": {
+    "conceptId": "pl_misao",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "мысль",
+      "pl": "мысль"
+    },
+    "labels": {
+      "default": "мысль"
+    }
+  },
+  "pl_so": {
+    "conceptId": "pl_so",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "соль",
+      "pl": "соль"
+    },
+    "labels": {
+      "default": "соль"
+    }
+  },
+  "pl_čitalac_2": {
+    "conceptId": "pl_čitalac_2",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "читатель",
+      "pl": "читатель"
+    },
+    "labels": {
+      "default": "читатель"
+    }
+  },
+  "pl_pantalone": {
+    "conceptId": "pl_pantalone",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "брюки, штаны",
+      "pl": "брюки, штаны"
+    },
+    "labels": {
+      "default": "брюки, штаны"
+    }
+  },
+  "pl_makaze": {
+    "conceptId": "pl_makaze",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "ножницы",
+      "pl": "ножницы"
+    },
+    "labels": {
+      "default": "ножницы"
+    }
+  },
+  "pl_naočare": {
+    "conceptId": "pl_naočare",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "очки",
+      "pl": "очки"
+    },
+    "labels": {
+      "default": "очки"
+    }
+  },
+  "pl_sanke": {
+    "conceptId": "pl_sanke",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "санки",
+      "pl": "санки"
+    },
+    "labels": {
+      "default": "санки"
+    }
+  },
+  "pl_merdevine": {
+    "conceptId": "pl_merdevine",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "стремянка, лестница",
+      "pl": "стремянка, лестница"
+    },
+    "labels": {
+      "default": "стремянка, лестница"
+    }
+  },
+  "pl_vrata": {
+    "conceptId": "pl_vrata",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "дверь, двери",
+      "pl": "дверь, двери"
+    },
+    "labels": {
+      "default": "дверь, двери"
+    }
+  },
+  "pl_usta": {
+    "conceptId": "pl_usta",
+    "language": "ru",
+    "type": "noun",
+    "forms": {
+      "sg": "рот",
+      "pl": "рот"
+    },
+    "labels": {
+      "default": "рот"
     }
   }
 }
