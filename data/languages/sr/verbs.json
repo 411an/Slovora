@@ -1,0 +1,7781 @@
+{
+  "language": "sr",
+  "source": "srLexv13",
+  "notes": [
+    "Contains selected ordinary verbs for future trainer sections.",
+    "Forms are extracted only from rows where column 5 is VERB.",
+    "Forms are keyed by grammatical features, not by surface text.",
+    "Se-construction verbs are kept in a separate seVerbs section for a future dedicated exercise."
+  ],
+  "conjugationKeys": {
+    "finite": [
+      "1sg",
+      "2sg",
+      "3sg",
+      "1pl",
+      "2pl",
+      "3pl"
+    ],
+    "imperative": [
+      "2sg",
+      "1pl",
+      "2pl"
+    ],
+    "participle": [
+      "sg_m",
+      "sg_f",
+      "sg_n",
+      "pl_m",
+      "pl_f",
+      "pl_n"
+    ]
+  },
+  "verbs": [
+    {
+      "id": "voleti",
+      "lemma": "voleti",
+      "source": "любить",
+      "labels": {
+        "ru": "любить",
+        "en": "love"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "emotion",
+        "da_locative_intro",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "emotion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "volim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "волети",
+            "lat": "voleti",
+            "tag": "Vmn",
+            "count": 3486
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "волим",
+            "lat": "volim",
+            "tag": "Vmr1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "волиш",
+            "lat": "voliš",
+            "tag": "Vmr2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "воли",
+            "lat": "voli",
+            "tag": "Vmr3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "волимо",
+            "lat": "volimo",
+            "tag": "Vmr1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "волите",
+            "lat": "volite",
+            "tag": "Vmr2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "воле",
+            "lat": "vole",
+            "tag": "Vmr3p",
+            "count": 0
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "волећу",
+            "lat": "voleću",
+            "tag": "Vmf1s",
+            "count": 17
+          },
+          "2sg": {
+            "cyr": "волећеш",
+            "lat": "volećeš",
+            "tag": "Vmf2s",
+            "count": 2
+          },
+          "3sg": {
+            "cyr": "волеће",
+            "lat": "voleće",
+            "tag": "Vmf3s",
+            "count": 25
+          },
+          "1pl": {
+            "cyr": "волећемо",
+            "lat": "volećemo",
+            "tag": "Vmf1p",
+            "count": 18
+          },
+          "2pl": {
+            "cyr": "волећете",
+            "lat": "volećete",
+            "tag": "Vmf2p",
+            "count": 37
+          },
+          "3pl": {
+            "cyr": "волеће",
+            "lat": "voleće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "воли",
+            "lat": "voli",
+            "tag": "Vmm2s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "волимо",
+            "lat": "volimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "волите",
+            "lat": "volite",
+            "tag": "Vmm2p",
+            "count": 0
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "волео",
+            "lat": "voleo",
+            "tag": "Vmp-sm",
+            "count": 16934
+          },
+          "sg_f": {
+            "cyr": "волела",
+            "lat": "volela",
+            "tag": "Vmp-sf",
+            "count": 10011,
+            "alternatives": [
+              {
+                "cyr": "вољела",
+                "lat": "voljela",
+                "tag": "Vmp-sf",
+                "count": 601
+              }
+            ]
+          },
+          "sg_n": {
+            "cyr": "волело",
+            "lat": "volelo",
+            "tag": "Vmp-sn",
+            "count": 195,
+            "alternatives": [
+              {
+                "cyr": "вољело",
+                "lat": "voljelo",
+                "tag": "Vmp-sn",
+                "count": 11
+              }
+            ]
+          },
+          "pl_m": {
+            "cyr": "волели",
+            "lat": "voleli",
+            "tag": "Vmp-pm",
+            "count": 6879,
+            "alternatives": [
+              {
+                "cyr": "вољели",
+                "lat": "voljeli",
+                "tag": "Vmp-pm",
+                "count": 502
+              }
+            ]
+          },
+          "pl_f": {
+            "cyr": "волеле",
+            "lat": "volele",
+            "tag": "Vmp-pf",
+            "count": 331,
+            "alternatives": [
+              {
+                "cyr": "вољеле",
+                "lat": "voljele",
+                "tag": "Vmp-pf",
+                "count": 17
+              }
+            ]
+          },
+          "pl_n": {
+            "cyr": "волела",
+            "lat": "volela",
+            "tag": "Vmp-pn",
+            "count": 1
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 35,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "želeti",
+      "lemma": "želeti",
+      "source": "желать",
+      "labels": {
+        "ru": "желать",
+        "en": "want/wish"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "emotion",
+        "da_locative_intro",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "emotion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "želim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "желети",
+            "lat": "želeti",
+            "tag": "Vmn",
+            "count": 2282
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "желим",
+            "lat": "želim",
+            "tag": "Vmr1s",
+            "count": 51561
+          },
+          "2sg": {
+            "cyr": "желиш",
+            "lat": "želiš",
+            "tag": "Vmr2s",
+            "count": 8166
+          },
+          "3sg": {
+            "cyr": "жели",
+            "lat": "želi",
+            "tag": "Vmr3s",
+            "count": 76628
+          },
+          "1pl": {
+            "cyr": "желимо",
+            "lat": "želimo",
+            "tag": "Vmr1p",
+            "count": 35110
+          },
+          "2pl": {
+            "cyr": "желите",
+            "lat": "želite",
+            "tag": "Vmr2p",
+            "count": 42740
+          },
+          "3pl": {
+            "cyr": "желе",
+            "lat": "žele",
+            "tag": "Vmr3p",
+            "count": 70589
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "желећу",
+            "lat": "želeću",
+            "tag": "Vmf1s",
+            "count": 8
+          },
+          "2sg": {
+            "cyr": "желећеш",
+            "lat": "želećeš",
+            "tag": "Vmf2s",
+            "count": 7
+          },
+          "3sg": {
+            "cyr": "желеће",
+            "lat": "želeće",
+            "tag": "Vmf3s",
+            "count": 139
+          },
+          "1pl": {
+            "cyr": "желећемо",
+            "lat": "želećemo",
+            "tag": "Vmf1p",
+            "count": 14
+          },
+          "2pl": {
+            "cyr": "желећете",
+            "lat": "želećete",
+            "tag": "Vmf2p",
+            "count": 100
+          },
+          "3pl": {
+            "cyr": "желеће",
+            "lat": "želeće",
+            "tag": "Vmf3p",
+            "count": 7
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "жели",
+            "lat": "želi",
+            "tag": "Vmm2s",
+            "count": 2
+          },
+          "1pl": {
+            "cyr": "желимо",
+            "lat": "želimo",
+            "tag": "Vmm1p",
+            "count": 12
+          },
+          "2pl": {
+            "cyr": "желите",
+            "lat": "želite",
+            "tag": "Vmm2p",
+            "count": 255
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "желео",
+            "lat": "želeo",
+            "tag": "Vmp-sm",
+            "count": 27277,
+            "alternatives": [
+              {
+                "cyr": "желио",
+                "lat": "želio",
+                "tag": "Vmp-sm",
+                "count": 2097
+              }
+            ]
+          },
+          "sg_f": {
+            "cyr": "желела",
+            "lat": "želela",
+            "tag": "Vmp-sf",
+            "count": 11087,
+            "alternatives": [
+              {
+                "cyr": "жељела",
+                "lat": "željela",
+                "tag": "Vmp-sf",
+                "count": 644
+              }
+            ]
+          },
+          "sg_n": {
+            "cyr": "желело",
+            "lat": "želelo",
+            "tag": "Vmp-sn",
+            "count": 927,
+            "alternatives": [
+              {
+                "cyr": "жељело",
+                "lat": "željelo",
+                "tag": "Vmp-sn",
+                "count": 73
+              }
+            ]
+          },
+          "pl_m": {
+            "cyr": "желели",
+            "lat": "želeli",
+            "tag": "Vmp-pm",
+            "count": 19876,
+            "alternatives": [
+              {
+                "cyr": "жељели",
+                "lat": "željeli",
+                "tag": "Vmp-pm",
+                "count": 1065
+              }
+            ]
+          },
+          "pl_f": {
+            "cyr": "желеле",
+            "lat": "želele",
+            "tag": "Vmp-pf",
+            "count": 1327,
+            "alternatives": [
+              {
+                "cyr": "жељеле",
+                "lat": "željele",
+                "tag": "Vmp-pf",
+                "count": 76
+              }
+            ]
+          },
+          "pl_n": {
+            "cyr": "желела",
+            "lat": "želela",
+            "tag": "Vmp-pn",
+            "count": 27,
+            "alternatives": [
+              {
+                "cyr": "жељела",
+                "lat": "željela",
+                "tag": "Vmp-pn",
+                "count": 1
+              }
+            ]
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 35,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "govoriti",
+      "lemma": "govoriti",
+      "source": "говорить",
+      "labels": {
+        "ru": "говорить",
+        "en": "speak"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "communication",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "communication"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "govorim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "говорити",
+            "lat": "govoriti",
+            "tag": "Vmn",
+            "count": 19179
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "говорим",
+            "lat": "govorim",
+            "tag": "Vmr1s",
+            "count": 21388
+          },
+          "2sg": {
+            "cyr": "говориш",
+            "lat": "govoriš",
+            "tag": "Vmr2s",
+            "count": 2260
+          },
+          "3sg": {
+            "cyr": "говори",
+            "lat": "govori",
+            "tag": "Vmr3s",
+            "count": 99924
+          },
+          "1pl": {
+            "cyr": "говоримо",
+            "lat": "govorimo",
+            "tag": "Vmr1p",
+            "count": 20970
+          },
+          "2pl": {
+            "cyr": "говорите",
+            "lat": "govorite",
+            "tag": "Vmr2p",
+            "count": 3018
+          },
+          "3pl": {
+            "cyr": "говоре",
+            "lat": "govore",
+            "tag": "Vmr3p",
+            "count": 38660
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "говорићу",
+            "lat": "govoriću",
+            "tag": "Vmf1s",
+            "count": 385
+          },
+          "2sg": {
+            "cyr": "говорићеш",
+            "lat": "govorićeš",
+            "tag": "Vmf2s",
+            "count": 4
+          },
+          "3sg": {
+            "cyr": "говориће",
+            "lat": "govoriće",
+            "tag": "Vmf3s",
+            "count": 1391
+          },
+          "1pl": {
+            "cyr": "говорићемо",
+            "lat": "govorićemo",
+            "tag": "Vmf1p",
+            "count": 257
+          },
+          "2pl": {
+            "cyr": "говорићете",
+            "lat": "govorićete",
+            "tag": "Vmf2p",
+            "count": 9
+          },
+          "3pl": {
+            "cyr": "говориће",
+            "lat": "govoriće",
+            "tag": "Vmf3p",
+            "count": 63
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "говори",
+            "lat": "govori",
+            "tag": "Vmm2s",
+            "count": 21
+          },
+          "1pl": {
+            "cyr": "говоримо",
+            "lat": "govorimo",
+            "tag": "Vmm1p",
+            "count": 6
+          },
+          "2pl": {
+            "cyr": "говорите",
+            "lat": "govorite",
+            "tag": "Vmm2p",
+            "count": 4860
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "говорио",
+            "lat": "govorio",
+            "tag": "Vmp-sm",
+            "count": 32950
+          },
+          "sg_f": {
+            "cyr": "говорила",
+            "lat": "govorila",
+            "tag": "Vmp-sf",
+            "count": 8448
+          },
+          "sg_n": {
+            "cyr": "говорило",
+            "lat": "govorilo",
+            "tag": "Vmp-sn",
+            "count": 5974
+          },
+          "pl_m": {
+            "cyr": "говорили",
+            "lat": "govorili",
+            "tag": "Vmp-pm",
+            "count": 19289
+          },
+          "pl_f": {
+            "cyr": "говориле",
+            "lat": "govorile",
+            "tag": "Vmp-pf",
+            "count": 1416
+          },
+          "pl_n": {
+            "cyr": "говорила",
+            "lat": "govorila",
+            "tag": "Vmp-pn",
+            "count": 51
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "говорах",
+            "lat": "govorah",
+            "tag": "Vme1s",
+            "count": 5
+          },
+          "2sg": {
+            "cyr": "говораше",
+            "lat": "govoraše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "говораше",
+            "lat": "govoraše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "говорасмо",
+            "lat": "govorasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "говорасте",
+            "lat": "govoraste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "говораху",
+            "lat": "govorahu",
+            "tag": "Vme3p",
+            "count": 1
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "zvoniti",
+      "lemma": "zvoniti",
+      "source": "звонить",
+      "labels": {
+        "ru": "звонить",
+        "en": "ring/call"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "communication",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "communication"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "zvonim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "звонити",
+            "lat": "zvoniti",
+            "tag": "Vmn",
+            "count": 93
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "звоним",
+            "lat": "zvonim",
+            "tag": "Vmr1s",
+            "count": 34
+          },
+          "2sg": {
+            "cyr": "звониш",
+            "lat": "zvoniš",
+            "tag": "Vmr2s",
+            "count": 7
+          },
+          "3sg": {
+            "cyr": "звони",
+            "lat": "zvoni",
+            "tag": "Vmr3s",
+            "count": 1540
+          },
+          "1pl": {
+            "cyr": "звонимо",
+            "lat": "zvonimo",
+            "tag": "Vmr1p",
+            "count": 10
+          },
+          "2pl": {
+            "cyr": "звоните",
+            "lat": "zvonite",
+            "tag": "Vmr2p",
+            "count": 5
+          },
+          "3pl": {
+            "cyr": "звоне",
+            "lat": "zvone",
+            "tag": "Vmr3p",
+            "count": 544
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "звонићу",
+            "lat": "zvoniću",
+            "tag": "Vmf1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "звонићеш",
+            "lat": "zvonićeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "звониће",
+            "lat": "zvoniće",
+            "tag": "Vmf3s",
+            "count": 12
+          },
+          "1pl": {
+            "cyr": "звонићемо",
+            "lat": "zvonićemo",
+            "tag": "Vmf1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "звонићете",
+            "lat": "zvonićete",
+            "tag": "Vmf2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "звониће",
+            "lat": "zvoniće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "звони",
+            "lat": "zvoni",
+            "tag": "Vmm2s",
+            "count": 28
+          },
+          "1pl": {
+            "cyr": "звонимо",
+            "lat": "zvonimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "звоните",
+            "lat": "zvonite",
+            "tag": "Vmm2p",
+            "count": 13
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "звонио",
+            "lat": "zvonio",
+            "tag": "Vmp-sm",
+            "count": 272
+          },
+          "sg_f": {
+            "cyr": "звонила",
+            "lat": "zvonila",
+            "tag": "Vmp-sf",
+            "count": 94
+          },
+          "sg_n": {
+            "cyr": "звонило",
+            "lat": "zvonilo",
+            "tag": "Vmp-sn",
+            "count": 142
+          },
+          "pl_m": {
+            "cyr": "звонили",
+            "lat": "zvonili",
+            "tag": "Vmp-pm",
+            "count": 94
+          },
+          "pl_f": {
+            "cyr": "звониле",
+            "lat": "zvonile",
+            "tag": "Vmp-pf",
+            "count": 19
+          },
+          "pl_n": {
+            "cyr": "звонила",
+            "lat": "zvonila",
+            "tag": "Vmp-pn",
+            "count": 44
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "звоњах",
+            "lat": "zvonjah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "звоњаше",
+            "lat": "zvonjaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "звоњаше",
+            "lat": "zvonjaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "звоњасмо",
+            "lat": "zvonjasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "звоњасте",
+            "lat": "zvonjaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "звоњаху",
+            "lat": "zvonjahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "čitati",
+      "lemma": "čitati",
+      "source": "читать",
+      "labels": {
+        "ru": "читать",
+        "en": "read"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "literacy",
+        "about_locative",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "literacy"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "čitam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "читати",
+            "lat": "čitati",
+            "tag": "Vmn",
+            "count": 6252
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "читам",
+            "lat": "čitam",
+            "tag": "Vmr1s",
+            "count": 11718
+          },
+          "2sg": {
+            "cyr": "читаш",
+            "lat": "čitaš",
+            "tag": "Vmr2s",
+            "count": 1703
+          },
+          "3sg": {
+            "cyr": "чита",
+            "lat": "čita",
+            "tag": "Vmr3s",
+            "count": 12838
+          },
+          "1pl": {
+            "cyr": "читамо",
+            "lat": "čitamo",
+            "tag": "Vmr1p",
+            "count": 3399
+          },
+          "2pl": {
+            "cyr": "читате",
+            "lat": "čitate",
+            "tag": "Vmr2p",
+            "count": 4003
+          },
+          "3pl": {
+            "cyr": "читају",
+            "lat": "čitaju",
+            "tag": "Vmr3p",
+            "count": 8561
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "читаћу",
+            "lat": "čitaću",
+            "tag": "Vmf1s",
+            "count": 92
+          },
+          "2sg": {
+            "cyr": "читаћеш",
+            "lat": "čitaćeš",
+            "tag": "Vmf2s",
+            "count": 9
+          },
+          "3sg": {
+            "cyr": "читаће",
+            "lat": "čitaće",
+            "tag": "Vmf3s",
+            "count": 106
+          },
+          "1pl": {
+            "cyr": "читаћемо",
+            "lat": "čitaćemo",
+            "tag": "Vmf1p",
+            "count": 62
+          },
+          "2pl": {
+            "cyr": "читаћете",
+            "lat": "čitaćete",
+            "tag": "Vmf2p",
+            "count": 83
+          },
+          "3pl": {
+            "cyr": "читаће",
+            "lat": "čitaće",
+            "tag": "Vmf3p",
+            "count": 3
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "читај",
+            "lat": "čitaj",
+            "tag": "Vmm2s",
+            "count": 7070
+          },
+          "1pl": {
+            "cyr": "читајмо",
+            "lat": "čitajmo",
+            "tag": "Vmm1p",
+            "count": 43
+          },
+          "2pl": {
+            "cyr": "читајте",
+            "lat": "čitajte",
+            "tag": "Vmm2p",
+            "count": 4723
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "читао",
+            "lat": "čitao",
+            "tag": "Vmp-sm",
+            "count": 8154
+          },
+          "sg_f": {
+            "cyr": "читала",
+            "lat": "čitala",
+            "tag": "Vmp-sf",
+            "count": 2959
+          },
+          "sg_n": {
+            "cyr": "читало",
+            "lat": "čitalo",
+            "tag": "Vmp-sn",
+            "count": 156
+          },
+          "pl_m": {
+            "cyr": "читали",
+            "lat": "čitali",
+            "tag": "Vmp-pm",
+            "count": 3863
+          },
+          "pl_f": {
+            "cyr": "читале",
+            "lat": "čitale",
+            "tag": "Vmp-pf",
+            "count": 192
+          },
+          "pl_n": {
+            "cyr": "читала",
+            "lat": "čitala",
+            "tag": "Vmp-pn",
+            "count": 4
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "читах",
+            "lat": "čitah",
+            "tag": "Vme1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "читаше",
+            "lat": "čitaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "читаше",
+            "lat": "čitaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "читасмо",
+            "lat": "čitasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "читасте",
+            "lat": "čitaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "читаху",
+            "lat": "čitahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "pisati",
+      "lemma": "pisati",
+      "source": "писать",
+      "labels": {
+        "ru": "писать",
+        "en": "write"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "literacy",
+        "about_locative",
+        "present_1sg_em"
+      ],
+      "semantics": {
+        "semanticClass": "literacy"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "em",
+          "lat": "-em",
+          "cyr": "-ем",
+          "sourceForm": "pišem"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "писати",
+            "lat": "pisati",
+            "tag": "Vmn",
+            "count": 8420
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "пишем",
+            "lat": "pišem",
+            "tag": "Vmr1s",
+            "count": 13858
+          },
+          "2sg": {
+            "cyr": "пишеш",
+            "lat": "pišeš",
+            "tag": "Vmr2s",
+            "count": 3276
+          },
+          "3sg": {
+            "cyr": "пише",
+            "lat": "piše",
+            "tag": "Vmr3s",
+            "count": 79361
+          },
+          "1pl": {
+            "cyr": "пишемо",
+            "lat": "pišemo",
+            "tag": "Vmr1p",
+            "count": 2487
+          },
+          "2pl": {
+            "cyr": "пишете",
+            "lat": "pišete",
+            "tag": "Vmr2p",
+            "count": 4807
+          },
+          "3pl": {
+            "cyr": "пишу",
+            "lat": "pišu",
+            "tag": "Vmr3p",
+            "count": 17115
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "писаћу",
+            "lat": "pisaću",
+            "tag": "Vmf1s",
+            "count": 436
+          },
+          "2sg": {
+            "cyr": "писаћеш",
+            "lat": "pisaćeš",
+            "tag": "Vmf2s",
+            "count": 13
+          },
+          "3sg": {
+            "cyr": "писаће",
+            "lat": "pisaće",
+            "tag": "Vmf3s",
+            "count": 171
+          },
+          "1pl": {
+            "cyr": "писаћемо",
+            "lat": "pisaćemo",
+            "tag": "Vmf1p",
+            "count": 134
+          },
+          "2pl": {
+            "cyr": "писаћете",
+            "lat": "pisaćete",
+            "tag": "Vmf2p",
+            "count": 8
+          },
+          "3pl": {
+            "cyr": "писаће",
+            "lat": "pisaće",
+            "tag": "Vmf3p",
+            "count": 1
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "пиши",
+            "lat": "piši",
+            "tag": "Vmm2s",
+            "count": 1440
+          },
+          "1pl": {
+            "cyr": "пишимо",
+            "lat": "pišimo",
+            "tag": "Vmm1p",
+            "count": 21
+          },
+          "2pl": {
+            "cyr": "пишите",
+            "lat": "pišite",
+            "tag": "Vmm2p",
+            "count": 1595
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "писао",
+            "lat": "pisao",
+            "tag": "Vmp-sm",
+            "count": 19784
+          },
+          "sg_f": {
+            "cyr": "писала",
+            "lat": "pisala",
+            "tag": "Vmp-sf",
+            "count": 5115
+          },
+          "sg_n": {
+            "cyr": "писало",
+            "lat": "pisalo",
+            "tag": "Vmp-sn",
+            "count": 5139
+          },
+          "pl_m": {
+            "cyr": "писали",
+            "lat": "pisali",
+            "tag": "Vmp-pm",
+            "count": 8852
+          },
+          "pl_f": {
+            "cyr": "писале",
+            "lat": "pisale",
+            "tag": "Vmp-pf",
+            "count": 859
+          },
+          "pl_n": {
+            "cyr": "писала",
+            "lat": "pisala",
+            "tag": "Vmp-pn",
+            "count": 38
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "писах",
+            "lat": "pisah",
+            "tag": "Vme1s",
+            "count": 17
+          },
+          "2sg": {
+            "cyr": "писаше",
+            "lat": "pisaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "писаше",
+            "lat": "pisaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "писасмо",
+            "lat": "pisasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "писасте",
+            "lat": "pisaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "писаху",
+            "lat": "pisahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "raditi",
+      "lemma": "raditi",
+      "source": "работать",
+      "labels": {
+        "ru": "работать",
+        "en": "work"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "work",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "work"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "radim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "радити",
+            "lat": "raditi",
+            "tag": "Vmn",
+            "count": 39712
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "радим",
+            "lat": "radim",
+            "tag": "Vmr1s",
+            "count": 33430
+          },
+          "2sg": {
+            "cyr": "радиш",
+            "lat": "radiš",
+            "tag": "Vmr2s",
+            "count": 8752
+          },
+          "3sg": {
+            "cyr": "ради",
+            "lat": "radi",
+            "tag": "Vmr3s",
+            "count": 291607
+          },
+          "1pl": {
+            "cyr": "радимо",
+            "lat": "radimo",
+            "tag": "Vmr1p",
+            "count": 29373
+          },
+          "2pl": {
+            "cyr": "радите",
+            "lat": "radite",
+            "tag": "Vmr2p",
+            "count": 15932
+          },
+          "3pl": {
+            "cyr": "раде",
+            "lat": "rade",
+            "tag": "Vmr3p",
+            "count": 126811
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "радићу",
+            "lat": "radiću",
+            "tag": "Vmf1s",
+            "count": 210
+          },
+          "2sg": {
+            "cyr": "радићеш",
+            "lat": "radićeš",
+            "tag": "Vmf2s",
+            "count": 29
+          },
+          "3sg": {
+            "cyr": "радиће",
+            "lat": "radiće",
+            "tag": "Vmf3s",
+            "count": 3165
+          },
+          "1pl": {
+            "cyr": "радићемо",
+            "lat": "radićemo",
+            "tag": "Vmf1p",
+            "count": 928
+          },
+          "2pl": {
+            "cyr": "радићете",
+            "lat": "radićete",
+            "tag": "Vmf2p",
+            "count": 110
+          },
+          "3pl": {
+            "cyr": "радиће",
+            "lat": "radiće",
+            "tag": "Vmf3p",
+            "count": 21
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "ради",
+            "lat": "radi",
+            "tag": "Vmm2s",
+            "count": 19
+          },
+          "1pl": {
+            "cyr": "радимо",
+            "lat": "radimo",
+            "tag": "Vmm1p",
+            "count": 1
+          },
+          "2pl": {
+            "cyr": "радите",
+            "lat": "radite",
+            "tag": "Vmm2p",
+            "count": 6195
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "радио",
+            "lat": "radio",
+            "tag": "Vmp-sm",
+            "count": 51606
+          },
+          "sg_f": {
+            "cyr": "радила",
+            "lat": "radila",
+            "tag": "Vmp-sf",
+            "count": 20248
+          },
+          "sg_n": {
+            "cyr": "радило",
+            "lat": "radilo",
+            "tag": "Vmp-sn",
+            "count": 13490
+          },
+          "pl_m": {
+            "cyr": "радили",
+            "lat": "radili",
+            "tag": "Vmp-pm",
+            "count": 33004
+          },
+          "pl_f": {
+            "cyr": "радиле",
+            "lat": "radile",
+            "tag": "Vmp-pf",
+            "count": 4197
+          },
+          "pl_n": {
+            "cyr": "радила",
+            "lat": "radila",
+            "tag": "Vmp-pn",
+            "count": 86
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "рађах",
+            "lat": "rađah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "рађаше",
+            "lat": "rađaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "рађаше",
+            "lat": "rađaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "рађасмо",
+            "lat": "rađasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "рађасте",
+            "lat": "rađaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "рађаху",
+            "lat": "rađahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "učiti",
+      "lemma": "učiti",
+      "source": "учиться",
+      "labels": {
+        "ru": "учиться",
+        "en": "learn/study"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "learning",
+        "about_locative",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "learning"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "učim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "учити",
+            "lat": "učiti",
+            "tag": "Vmn",
+            "count": 4199
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "учим",
+            "lat": "učim",
+            "tag": "Vmr1s",
+            "count": 3007
+          },
+          "2sg": {
+            "cyr": "учиш",
+            "lat": "učiš",
+            "tag": "Vmr2s",
+            "count": 1162
+          },
+          "3sg": {
+            "cyr": "учи",
+            "lat": "uči",
+            "tag": "Vmr3s",
+            "count": 14561
+          },
+          "1pl": {
+            "cyr": "учимо",
+            "lat": "učimo",
+            "tag": "Vmr1p",
+            "count": 3073
+          },
+          "2pl": {
+            "cyr": "учите",
+            "lat": "učite",
+            "tag": "Vmr2p",
+            "count": 1076
+          },
+          "3pl": {
+            "cyr": "уче",
+            "lat": "uče",
+            "tag": "Vmr3p",
+            "count": 13683
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "учићу",
+            "lat": "učiću",
+            "tag": "Vmf1s",
+            "count": 47
+          },
+          "2sg": {
+            "cyr": "учићеш",
+            "lat": "učićeš",
+            "tag": "Vmf2s",
+            "count": 8
+          },
+          "3sg": {
+            "cyr": "учиће",
+            "lat": "učiće",
+            "tag": "Vmf3s",
+            "count": 143
+          },
+          "1pl": {
+            "cyr": "учићемо",
+            "lat": "učićemo",
+            "tag": "Vmf1p",
+            "count": 36
+          },
+          "2pl": {
+            "cyr": "учићете",
+            "lat": "učićete",
+            "tag": "Vmf2p",
+            "count": 49
+          },
+          "3pl": {
+            "cyr": "учиће",
+            "lat": "učiće",
+            "tag": "Vmf3p",
+            "count": 8
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "учи",
+            "lat": "uči",
+            "tag": "Vmm2s",
+            "count": 32
+          },
+          "1pl": {
+            "cyr": "учимо",
+            "lat": "učimo",
+            "tag": "Vmm1p",
+            "count": 1
+          },
+          "2pl": {
+            "cyr": "учите",
+            "lat": "učite",
+            "tag": "Vmm2p",
+            "count": 1351
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "учио",
+            "lat": "učio",
+            "tag": "Vmp-sm",
+            "count": 5085
+          },
+          "sg_f": {
+            "cyr": "учила",
+            "lat": "učila",
+            "tag": "Vmp-sf",
+            "count": 1692
+          },
+          "sg_n": {
+            "cyr": "учило",
+            "lat": "učilo",
+            "tag": "Vmp-sn",
+            "count": 298
+          },
+          "pl_m": {
+            "cyr": "учили",
+            "lat": "učili",
+            "tag": "Vmp-pm",
+            "count": 4454
+          },
+          "pl_f": {
+            "cyr": "училе",
+            "lat": "učile",
+            "tag": "Vmp-pf",
+            "count": 274
+          },
+          "pl_n": {
+            "cyr": "учила",
+            "lat": "učila",
+            "tag": "Vmp-pn",
+            "count": 7
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "учах",
+            "lat": "učah",
+            "tag": "Vme1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "учаше",
+            "lat": "učaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "учаше",
+            "lat": "učaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "учасмо",
+            "lat": "učasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "участе",
+            "lat": "učaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "учаху",
+            "lat": "učahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "živeti",
+      "lemma": "živeti",
+      "source": "жить",
+      "labels": {
+        "ru": "жить",
+        "en": "live"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "residence",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "residence"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "živim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "живети",
+            "lat": "živeti",
+            "tag": "Vmn",
+            "count": 11439
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "живим",
+            "lat": "živim",
+            "tag": "Vmr1s",
+            "count": 14409
+          },
+          "2sg": {
+            "cyr": "живиш",
+            "lat": "živiš",
+            "tag": "Vmr2s",
+            "count": 3024
+          },
+          "3sg": {
+            "cyr": "живи",
+            "lat": "živi",
+            "tag": "Vmr3s",
+            "count": 65507
+          },
+          "1pl": {
+            "cyr": "живимо",
+            "lat": "živimo",
+            "tag": "Vmr1p",
+            "count": 21720
+          },
+          "2pl": {
+            "cyr": "живите",
+            "lat": "živite",
+            "tag": "Vmr2p",
+            "count": 4006
+          },
+          "3pl": {
+            "cyr": "живе",
+            "lat": "žive",
+            "tag": "Vmr3p",
+            "count": 56159
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "живећу",
+            "lat": "živeću",
+            "tag": "Vmf1s",
+            "count": 103
+          },
+          "2sg": {
+            "cyr": "живећеш",
+            "lat": "živećeš",
+            "tag": "Vmf2s",
+            "count": 36
+          },
+          "3sg": {
+            "cyr": "живеће",
+            "lat": "živeće",
+            "tag": "Vmf3s",
+            "count": 421
+          },
+          "1pl": {
+            "cyr": "живећемо",
+            "lat": "živećemo",
+            "tag": "Vmf1p",
+            "count": 189
+          },
+          "2pl": {
+            "cyr": "живећете",
+            "lat": "živećete",
+            "tag": "Vmf2p",
+            "count": 89
+          },
+          "3pl": {
+            "cyr": "живеће",
+            "lat": "živeće",
+            "tag": "Vmf3p",
+            "count": 35
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "живи",
+            "lat": "živi",
+            "tag": "Vmm2s",
+            "count": 3
+          },
+          "1pl": {
+            "cyr": "живимо",
+            "lat": "živimo",
+            "tag": "Vmm1p",
+            "count": 8
+          },
+          "2pl": {
+            "cyr": "живите",
+            "lat": "živite",
+            "tag": "Vmm2p",
+            "count": 1724
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "живео",
+            "lat": "živeo",
+            "tag": "Vmp-sm",
+            "count": 13863,
+            "alternatives": [
+              {
+                "cyr": "живио",
+                "lat": "živio",
+                "tag": "Vmp-sm",
+                "count": 1595
+              }
+            ]
+          },
+          "sg_f": {
+            "cyr": "живела",
+            "lat": "živela",
+            "tag": "Vmp-sf",
+            "count": 6832,
+            "alternatives": [
+              {
+                "cyr": "живјела",
+                "lat": "živjela",
+                "tag": "Vmp-sf",
+                "count": 563
+              }
+            ]
+          },
+          "sg_n": {
+            "cyr": "живело",
+            "lat": "živelo",
+            "tag": "Vmp-sn",
+            "count": 3108,
+            "alternatives": [
+              {
+                "cyr": "живјело",
+                "lat": "živjelo",
+                "tag": "Vmp-sn",
+                "count": 321
+              }
+            ]
+          },
+          "pl_m": {
+            "cyr": "живели",
+            "lat": "živeli",
+            "tag": "Vmp-pm",
+            "count": 13213,
+            "alternatives": [
+              {
+                "cyr": "живјели",
+                "lat": "živjeli",
+                "tag": "Vmp-pm",
+                "count": 1407
+              }
+            ]
+          },
+          "pl_f": {
+            "cyr": "живеле",
+            "lat": "živele",
+            "tag": "Vmp-pf",
+            "count": 1191,
+            "alternatives": [
+              {
+                "cyr": "живјеле",
+                "lat": "živjele",
+                "tag": "Vmp-pf",
+                "count": 112
+              }
+            ]
+          },
+          "pl_n": {
+            "cyr": "живела",
+            "lat": "živela",
+            "tag": "Vmp-pn",
+            "count": 89,
+            "alternatives": [
+              {
+                "cyr": "живјела",
+                "lat": "živjela",
+                "tag": "Vmp-pn",
+                "count": 8
+              }
+            ]
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "живљах",
+            "lat": "življah",
+            "tag": "Vme1s",
+            "count": 2
+          },
+          "2sg": {
+            "cyr": "живљаше",
+            "lat": "življaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "живљаше",
+            "lat": "življaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "живљасмо",
+            "lat": "življasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "живљасте",
+            "lat": "življaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "живљаху",
+            "lat": "življahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 41,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "stanovati",
+      "lemma": "stanovati",
+      "source": "проживать",
+      "labels": {
+        "ru": "проживать",
+        "en": "reside/live"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "residence",
+        "present_1sg_em"
+      ],
+      "semantics": {
+        "semanticClass": "residence"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "em",
+          "lat": "-em",
+          "cyr": "-ем",
+          "sourceForm": "stanujem"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "становати",
+            "lat": "stanovati",
+            "tag": "Vmn",
+            "count": 199
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "станујем",
+            "lat": "stanujem",
+            "tag": "Vmr1s",
+            "count": 609
+          },
+          "2sg": {
+            "cyr": "станујеш",
+            "lat": "stanuješ",
+            "tag": "Vmr2s",
+            "count": 65
+          },
+          "3sg": {
+            "cyr": "станује",
+            "lat": "stanuje",
+            "tag": "Vmr3s",
+            "count": 1883
+          },
+          "1pl": {
+            "cyr": "станујемо",
+            "lat": "stanujemo",
+            "tag": "Vmr1p",
+            "count": 124
+          },
+          "2pl": {
+            "cyr": "станујете",
+            "lat": "stanujete",
+            "tag": "Vmr2p",
+            "count": 107
+          },
+          "3pl": {
+            "cyr": "станују",
+            "lat": "stanuju",
+            "tag": "Vmr3p",
+            "count": 1266
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "становаћу",
+            "lat": "stanovaću",
+            "tag": "Vmf1s",
+            "count": 2
+          },
+          "2sg": {
+            "cyr": "становаћеш",
+            "lat": "stanovaćeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "становаће",
+            "lat": "stanovaće",
+            "tag": "Vmf3s",
+            "count": 13
+          },
+          "1pl": {
+            "cyr": "становаћемо",
+            "lat": "stanovaćemo",
+            "tag": "Vmf1p",
+            "count": 1
+          },
+          "2pl": {
+            "cyr": "становаћете",
+            "lat": "stanovaćete",
+            "tag": "Vmf2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "становаће",
+            "lat": "stanovaće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "стануј",
+            "lat": "stanuj",
+            "tag": "Vmm2s",
+            "count": 4
+          },
+          "1pl": {
+            "cyr": "станујмо",
+            "lat": "stanujmo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "станујте",
+            "lat": "stanujte",
+            "tag": "Vmm2p",
+            "count": 2
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "становао",
+            "lat": "stanovao",
+            "tag": "Vmp-sm",
+            "count": 747
+          },
+          "sg_f": {
+            "cyr": "становала",
+            "lat": "stanovala",
+            "tag": "Vmp-sf",
+            "count": 267
+          },
+          "sg_n": {
+            "cyr": "становало",
+            "lat": "stanovalo",
+            "tag": "Vmp-sn",
+            "count": 52
+          },
+          "pl_m": {
+            "cyr": "становали",
+            "lat": "stanovali",
+            "tag": "Vmp-pm",
+            "count": 485
+          },
+          "pl_f": {
+            "cyr": "становале",
+            "lat": "stanovale",
+            "tag": "Vmp-pf",
+            "count": 57
+          },
+          "pl_n": {
+            "cyr": "становала",
+            "lat": "stanovala",
+            "tag": "Vmp-pn",
+            "count": 6
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "становах",
+            "lat": "stanovah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "становаше",
+            "lat": "stanovaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "становаше",
+            "lat": "stanovaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "становасмо",
+            "lat": "stanovasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "становасте",
+            "lat": "stanovaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "становаху",
+            "lat": "stanovahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "stizati",
+      "lemma": "stizati",
+      "source": "прибывать",
+      "labels": {
+        "ru": "прибывать",
+        "en": "arrive"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "motion",
+        "present_1sg_em"
+      ],
+      "semantics": {
+        "semanticClass": "motion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "em",
+          "lat": "-em",
+          "cyr": "-ем",
+          "sourceForm": "stižem"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "стизати",
+            "lat": "stizati",
+            "tag": "Vmn",
+            "count": 667
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "стижем",
+            "lat": "stižem",
+            "tag": "Vmr1s",
+            "count": 837
+          },
+          "2sg": {
+            "cyr": "стижеш",
+            "lat": "stižeš",
+            "tag": "Vmr2s",
+            "count": 98
+          },
+          "3sg": {
+            "cyr": "стиже",
+            "lat": "stiže",
+            "tag": "Vmr3s",
+            "count": 19411
+          },
+          "1pl": {
+            "cyr": "стижемо",
+            "lat": "stižemo",
+            "tag": "Vmr1p",
+            "count": 1378
+          },
+          "2pl": {
+            "cyr": "стижете",
+            "lat": "stižete",
+            "tag": "Vmr2p",
+            "count": 384
+          },
+          "3pl": {
+            "cyr": "стижу",
+            "lat": "stižu",
+            "tag": "Vmr3p",
+            "count": 10219
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "стизаћу",
+            "lat": "stizaću",
+            "tag": "Vmf1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "стизаћеш",
+            "lat": "stizaćeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "стизаће",
+            "lat": "stizaće",
+            "tag": "Vmf3s",
+            "count": 87
+          },
+          "1pl": {
+            "cyr": "стизаћемо",
+            "lat": "stizaćemo",
+            "tag": "Vmf1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "стизаћете",
+            "lat": "stizaćete",
+            "tag": "Vmf2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "стизаће",
+            "lat": "stizaće",
+            "tag": "Vmf3p",
+            "count": 1
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "стижи",
+            "lat": "stiži",
+            "tag": "Vmm2s",
+            "count": 10
+          },
+          "1pl": {
+            "cyr": "стижимо",
+            "lat": "stižimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "стижите",
+            "lat": "stižite",
+            "tag": "Vmm2p",
+            "count": 0
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "стизао",
+            "lat": "stizao",
+            "tag": "Vmp-sm",
+            "count": 730
+          },
+          "sg_f": {
+            "cyr": "стизала",
+            "lat": "stizala",
+            "tag": "Vmp-sf",
+            "count": 702
+          },
+          "sg_n": {
+            "cyr": "стизало",
+            "lat": "stizalo",
+            "tag": "Vmp-sn",
+            "count": 456
+          },
+          "pl_m": {
+            "cyr": "стизали",
+            "lat": "stizali",
+            "tag": "Vmp-pm",
+            "count": 1281
+          },
+          "pl_f": {
+            "cyr": "стизале",
+            "lat": "stizale",
+            "tag": "Vmp-pf",
+            "count": 1181
+          },
+          "pl_n": {
+            "cyr": "стизала",
+            "lat": "stizala",
+            "tag": "Vmp-pn",
+            "count": 98
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "стизах",
+            "lat": "stizah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "стизаше",
+            "lat": "stizaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "стизаше",
+            "lat": "stizaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "стизасмо",
+            "lat": "stizasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "стизасте",
+            "lat": "stizaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "стизаху",
+            "lat": "stizahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "trenirati",
+      "lemma": "trenirati",
+      "source": "тренироваться",
+      "labels": {
+        "ru": "тренироваться",
+        "en": "train"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "activity",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "activity"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "treniram"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "тренирати",
+            "lat": "trenirati",
+            "tag": "Vmn",
+            "count": 958
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "тренирам",
+            "lat": "treniram",
+            "tag": "Vmr1s",
+            "count": 1470
+          },
+          "2sg": {
+            "cyr": "тренираш",
+            "lat": "treniraš",
+            "tag": "Vmr2s",
+            "count": 275
+          },
+          "3sg": {
+            "cyr": "тренира",
+            "lat": "trenira",
+            "tag": "Vmr3s",
+            "count": 3278
+          },
+          "1pl": {
+            "cyr": "тренирамо",
+            "lat": "treniramo",
+            "tag": "Vmr1p",
+            "count": 581
+          },
+          "2pl": {
+            "cyr": "тренирате",
+            "lat": "trenirate",
+            "tag": "Vmr2p",
+            "count": 568
+          },
+          "3pl": {
+            "cyr": "тренирају",
+            "lat": "treniraju",
+            "tag": "Vmr3p",
+            "count": 2238
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "тренираћу",
+            "lat": "treniraću",
+            "tag": "Vmf1s",
+            "count": 20
+          },
+          "2sg": {
+            "cyr": "тренираћеш",
+            "lat": "treniraćeš",
+            "tag": "Vmf2s",
+            "count": 1
+          },
+          "3sg": {
+            "cyr": "тренираће",
+            "lat": "treniraće",
+            "tag": "Vmf3s",
+            "count": 90
+          },
+          "1pl": {
+            "cyr": "тренираћемо",
+            "lat": "treniraćemo",
+            "tag": "Vmf1p",
+            "count": 26
+          },
+          "2pl": {
+            "cyr": "тренираћете",
+            "lat": "treniraćete",
+            "tag": "Vmf2p",
+            "count": 5
+          },
+          "3pl": {
+            "cyr": "тренираће",
+            "lat": "treniraće",
+            "tag": "Vmf3p",
+            "count": 3
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "тренирај",
+            "lat": "treniraj",
+            "tag": "Vmm2s",
+            "count": 111
+          },
+          "1pl": {
+            "cyr": "тренирајмо",
+            "lat": "trenirajmo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "тренирајте",
+            "lat": "trenirajte",
+            "tag": "Vmm2p",
+            "count": 156
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "тренирао",
+            "lat": "trenirao",
+            "tag": "Vmp-sm",
+            "count": 1949
+          },
+          "sg_f": {
+            "cyr": "тренирала",
+            "lat": "trenirala",
+            "tag": "Vmp-sf",
+            "count": 549
+          },
+          "sg_n": {
+            "cyr": "тренирало",
+            "lat": "treniralo",
+            "tag": "Vmp-sn",
+            "count": 87
+          },
+          "pl_m": {
+            "cyr": "тренирали",
+            "lat": "trenirali",
+            "tag": "Vmp-pm",
+            "count": 889
+          },
+          "pl_f": {
+            "cyr": "тренирале",
+            "lat": "trenirale",
+            "tag": "Vmp-pf",
+            "count": 91
+          },
+          "pl_n": {
+            "cyr": "тренирала",
+            "lat": "trenirala",
+            "tag": "Vmp-pn",
+            "count": 3
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "тренирах",
+            "lat": "trenirah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "тренираше",
+            "lat": "treniraše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "тренираше",
+            "lat": "treniraše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "тренирасмо",
+            "lat": "trenirasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "тренирасте",
+            "lat": "treniraste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "тренираху",
+            "lat": "trenirahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "znati",
+      "lemma": "znati",
+      "source": "знать",
+      "labels": {
+        "ru": "знать",
+        "en": "know"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "cognition",
+        "about_locative",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "cognition"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "znam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "знати",
+            "lat": "znati",
+            "tag": "Vmn",
+            "count": 23180
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "знам",
+            "lat": "znam",
+            "tag": "Vmr1s",
+            "count": 160100,
+            "alternatives": [
+              {
+                "cyr": "знадем",
+                "lat": "znadem",
+                "tag": "Vmr1s",
+                "count": 105
+              },
+              {
+                "cyr": "знем",
+                "lat": "znem",
+                "tag": "Vmr1s",
+                "count": 2
+              }
+            ]
+          },
+          "2sg": {
+            "cyr": "знаш",
+            "lat": "znaš",
+            "tag": "Vmr2s",
+            "count": 27555,
+            "alternatives": [
+              {
+                "cyr": "знадеш",
+                "lat": "znadeš",
+                "tag": "Vmr2s",
+                "count": 98
+              }
+            ]
+          },
+          "3sg": {
+            "cyr": "зна",
+            "lat": "zna",
+            "tag": "Vmr3s",
+            "count": 152568,
+            "alternatives": [
+              {
+                "cyr": "знаде",
+                "lat": "znade",
+                "tag": "Vmr3s",
+                "count": 375
+              },
+              {
+                "cyr": "зне",
+                "lat": "zne",
+                "tag": "Vmr3s",
+                "count": 86
+              }
+            ]
+          },
+          "1pl": {
+            "cyr": "знамо",
+            "lat": "znamo",
+            "tag": "Vmr1p",
+            "count": 56523,
+            "alternatives": [
+              {
+                "cyr": "знадемо",
+                "lat": "znademo",
+                "tag": "Vmr1p",
+                "count": 29
+              },
+              {
+                "cyr": "знемо",
+                "lat": "znemo",
+                "tag": "Vmr1p",
+                "count": 2
+              }
+            ]
+          },
+          "2pl": {
+            "cyr": "знате",
+            "lat": "znate",
+            "tag": "Vmr2p",
+            "count": 55706,
+            "alternatives": [
+              {
+                "cyr": "знадете",
+                "lat": "znadete",
+                "tag": "Vmr2p",
+                "count": 27
+              },
+              {
+                "cyr": "знете",
+                "lat": "znete",
+                "tag": "Vmr2p",
+                "count": 5
+              }
+            ]
+          },
+          "3pl": {
+            "cyr": "знају",
+            "lat": "znaju",
+            "tag": "Vmr3p",
+            "count": 72017,
+            "alternatives": [
+              {
+                "cyr": "знаду",
+                "lat": "znadu",
+                "tag": "Vmr3p",
+                "count": 256
+              },
+              {
+                "cyr": "зну",
+                "lat": "znu",
+                "tag": "Vmr3p",
+                "count": 25
+              }
+            ]
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "знаћу",
+            "lat": "znaću",
+            "tag": "Vmf1s",
+            "count": 187
+          },
+          "2sg": {
+            "cyr": "знаћеш",
+            "lat": "znaćeš",
+            "tag": "Vmf2s",
+            "count": 112
+          },
+          "3sg": {
+            "cyr": "знаће",
+            "lat": "znaće",
+            "tag": "Vmf3s",
+            "count": 1717
+          },
+          "1pl": {
+            "cyr": "знаћемо",
+            "lat": "znaćemo",
+            "tag": "Vmf1p",
+            "count": 631
+          },
+          "2pl": {
+            "cyr": "знаћете",
+            "lat": "znaćete",
+            "tag": "Vmf2p",
+            "count": 551
+          },
+          "3pl": {
+            "cyr": "знаће",
+            "lat": "znaće",
+            "tag": "Vmf3p",
+            "count": 7
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "знај",
+            "lat": "znaj",
+            "tag": "Vmm2s",
+            "count": 1341
+          },
+          "1pl": {
+            "cyr": "знајмо",
+            "lat": "znajmo",
+            "tag": "Vmm1p",
+            "count": 50
+          },
+          "2pl": {
+            "cyr": "знајте",
+            "lat": "znajte",
+            "tag": "Vmm2p",
+            "count": 2518
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "знао",
+            "lat": "znao",
+            "tag": "Vmp-sm",
+            "count": 33865
+          },
+          "sg_f": {
+            "cyr": "знала",
+            "lat": "znala",
+            "tag": "Vmp-sf",
+            "count": 13444
+          },
+          "sg_n": {
+            "cyr": "знало",
+            "lat": "znalo",
+            "tag": "Vmp-sn",
+            "count": 6332
+          },
+          "pl_m": {
+            "cyr": "знали",
+            "lat": "znali",
+            "tag": "Vmp-pm",
+            "count": 25433
+          },
+          "pl_f": {
+            "cyr": "знале",
+            "lat": "znale",
+            "tag": "Vmp-pf",
+            "count": 1414
+          },
+          "pl_n": {
+            "cyr": "знала",
+            "lat": "znala",
+            "tag": "Vmp-pn",
+            "count": 77
+          }
+        },
+        "aorist": {
+          "1sg": {
+            "cyr": "знадох",
+            "lat": "znadoh",
+            "tag": "Vma1s",
+            "count": 57
+          },
+          "2sg": {
+            "cyr": "знадо",
+            "lat": "znado",
+            "tag": "Vma2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "знадо",
+            "lat": "znado",
+            "tag": "Vma3s",
+            "count": 2
+          },
+          "1pl": {
+            "cyr": "знадосмо",
+            "lat": "znadosmo",
+            "tag": "Vma1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "знадосте",
+            "lat": "znadoste",
+            "tag": "Vma2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "знадоше",
+            "lat": "znadoše",
+            "tag": "Vma3p",
+            "count": 10
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "знах",
+            "lat": "znah",
+            "tag": "Vme1s",
+            "count": 3
+          },
+          "2sg": {
+            "cyr": "знаше",
+            "lat": "znaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "знаше",
+            "lat": "znaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "знасмо",
+            "lat": "znasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "знасте",
+            "lat": "znaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "знаху",
+            "lat": "znahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 52,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "gledati",
+      "lemma": "gledati",
+      "source": "смотреть",
+      "labels": {
+        "ru": "смотреть",
+        "en": "watch/look"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "perception",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "perception"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "gledam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "гледати",
+            "lat": "gledati",
+            "tag": "Vmn",
+            "count": 11815
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "гледам",
+            "lat": "gledam",
+            "tag": "Vmr1s",
+            "count": 17762
+          },
+          "2sg": {
+            "cyr": "гледаш",
+            "lat": "gledaš",
+            "tag": "Vmr2s",
+            "count": 3220
+          },
+          "3sg": {
+            "cyr": "гледа",
+            "lat": "gleda",
+            "tag": "Vmr3s",
+            "count": 25621
+          },
+          "1pl": {
+            "cyr": "гледамо",
+            "lat": "gledamo",
+            "tag": "Vmr1p",
+            "count": 9820
+          },
+          "2pl": {
+            "cyr": "гледате",
+            "lat": "gledate",
+            "tag": "Vmr2p",
+            "count": 6087
+          },
+          "3pl": {
+            "cyr": "гледају",
+            "lat": "gledaju",
+            "tag": "Vmr3p",
+            "count": 18460
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "гледаћу",
+            "lat": "gledaću",
+            "tag": "Vmf1s",
+            "count": 284
+          },
+          "2sg": {
+            "cyr": "гледаћеш",
+            "lat": "gledaćeš",
+            "tag": "Vmf2s",
+            "count": 13
+          },
+          "3sg": {
+            "cyr": "гледаће",
+            "lat": "gledaće",
+            "tag": "Vmf3s",
+            "count": 282
+          },
+          "1pl": {
+            "cyr": "гледаћемо",
+            "lat": "gledaćemo",
+            "tag": "Vmf1p",
+            "count": 459
+          },
+          "2pl": {
+            "cyr": "гледаћете",
+            "lat": "gledaćete",
+            "tag": "Vmf2p",
+            "count": 85
+          },
+          "3pl": {
+            "cyr": "гледаће",
+            "lat": "gledaće",
+            "tag": "Vmf3p",
+            "count": 6
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "гледај",
+            "lat": "gledaj",
+            "tag": "Vmm2s",
+            "count": 2732
+          },
+          "1pl": {
+            "cyr": "гледајмо",
+            "lat": "gledajmo",
+            "tag": "Vmm1p",
+            "count": 210
+          },
+          "2pl": {
+            "cyr": "гледајте",
+            "lat": "gledajte",
+            "tag": "Vmm2p",
+            "count": 3589
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "гледао",
+            "lat": "gledao",
+            "tag": "Vmp-sm",
+            "count": 16742
+          },
+          "sg_f": {
+            "cyr": "гледала",
+            "lat": "gledala",
+            "tag": "Vmp-sf",
+            "count": 6111
+          },
+          "sg_n": {
+            "cyr": "гледало",
+            "lat": "gledalo",
+            "tag": "Vmp-sn",
+            "count": 1334
+          },
+          "pl_m": {
+            "cyr": "гледали",
+            "lat": "gledali",
+            "tag": "Vmp-pm",
+            "count": 9576
+          },
+          "pl_f": {
+            "cyr": "гледале",
+            "lat": "gledale",
+            "tag": "Vmp-pf",
+            "count": 761
+          },
+          "pl_n": {
+            "cyr": "гледала",
+            "lat": "gledala",
+            "tag": "Vmp-pn",
+            "count": 24
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "гледах",
+            "lat": "gledah",
+            "tag": "Vme1s",
+            "count": 5
+          },
+          "2sg": {
+            "cyr": "гледаше",
+            "lat": "gledaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "гледаше",
+            "lat": "gledaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "гледасмо",
+            "lat": "gledasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "гледасте",
+            "lat": "gledaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "гледаху",
+            "lat": "gledahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "sedeti",
+      "lemma": "sedeti",
+      "source": "сидеть",
+      "labels": {
+        "ru": "сидеть",
+        "en": "sit"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "posture",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "posture"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "sedim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "седети",
+            "lat": "sedeti",
+            "tag": "Vmn",
+            "count": 2148
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "седим",
+            "lat": "sedim",
+            "tag": "Vmr1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "седиш",
+            "lat": "sediš",
+            "tag": "Vmr2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "седи",
+            "lat": "sedi",
+            "tag": "Vmr3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "седимо",
+            "lat": "sedimo",
+            "tag": "Vmr1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "седите",
+            "lat": "sedite",
+            "tag": "Vmr2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "седе",
+            "lat": "sede",
+            "tag": "Vmr3p",
+            "count": 0
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "седећу",
+            "lat": "sedeću",
+            "tag": "Vmf1s",
+            "count": 35
+          },
+          "2sg": {
+            "cyr": "седећеш",
+            "lat": "sedećeš",
+            "tag": "Vmf2s",
+            "count": 8
+          },
+          "3sg": {
+            "cyr": "седеће",
+            "lat": "sedeće",
+            "tag": "Vmf3s",
+            "count": 4
+          },
+          "1pl": {
+            "cyr": "седећемо",
+            "lat": "sedećemo",
+            "tag": "Vmf1p",
+            "count": 16
+          },
+          "2pl": {
+            "cyr": "седећете",
+            "lat": "sedećete",
+            "tag": "Vmf2p",
+            "count": 13
+          },
+          "3pl": {
+            "cyr": "седеће",
+            "lat": "sedeće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "седи",
+            "lat": "sedi",
+            "tag": "Vmm2s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "седимо",
+            "lat": "sedimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "седите",
+            "lat": "sedite",
+            "tag": "Vmm2p",
+            "count": 0
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "седео",
+            "lat": "sedeo",
+            "tag": "Vmp-sm",
+            "count": 4831
+          },
+          "sg_f": {
+            "cyr": "седела",
+            "lat": "sedela",
+            "tag": "Vmp-sf",
+            "count": 2199
+          },
+          "sg_n": {
+            "cyr": "седело",
+            "lat": "sedelo",
+            "tag": "Vmp-sn",
+            "count": 307
+          },
+          "pl_m": {
+            "cyr": "седели",
+            "lat": "sedeli",
+            "tag": "Vmp-pm",
+            "count": 3286
+          },
+          "pl_f": {
+            "cyr": "седеле",
+            "lat": "sedele",
+            "tag": "Vmp-pf",
+            "count": 378
+          },
+          "pl_n": {
+            "cyr": "седела",
+            "lat": "sedela",
+            "tag": "Vmp-pn",
+            "count": 54
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 70,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "misliti",
+      "lemma": "misliti",
+      "source": "думать",
+      "labels": {
+        "ru": "думать",
+        "en": "think"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "cognition",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "cognition"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "mislim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "мислити",
+            "lat": "misliti",
+            "tag": "Vmn",
+            "count": 6530
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "мислим",
+            "lat": "mislim",
+            "tag": "Vmr1s",
+            "count": 181419
+          },
+          "2sg": {
+            "cyr": "мислиш",
+            "lat": "misliš",
+            "tag": "Vmr2s",
+            "count": 12298
+          },
+          "3sg": {
+            "cyr": "мисли",
+            "lat": "misli",
+            "tag": "Vmr3s",
+            "count": 42229
+          },
+          "1pl": {
+            "cyr": "мислимо",
+            "lat": "mislimo",
+            "tag": "Vmr1p",
+            "count": 13274
+          },
+          "2pl": {
+            "cyr": "мислите",
+            "lat": "mislite",
+            "tag": "Vmr2p",
+            "count": 25029
+          },
+          "3pl": {
+            "cyr": "мисле",
+            "lat": "misle",
+            "tag": "Vmr3p",
+            "count": 29444
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "мислићу",
+            "lat": "misliću",
+            "tag": "Vmf1s",
+            "count": 51
+          },
+          "2sg": {
+            "cyr": "мислићеш",
+            "lat": "mislićeš",
+            "tag": "Vmf2s",
+            "count": 6
+          },
+          "3sg": {
+            "cyr": "мислиће",
+            "lat": "misliće",
+            "tag": "Vmf3s",
+            "count": 158
+          },
+          "1pl": {
+            "cyr": "мислићемо",
+            "lat": "mislićemo",
+            "tag": "Vmf1p",
+            "count": 24
+          },
+          "2pl": {
+            "cyr": "мислићете",
+            "lat": "mislićete",
+            "tag": "Vmf2p",
+            "count": 46
+          },
+          "3pl": {
+            "cyr": "мислиће",
+            "lat": "misliće",
+            "tag": "Vmf3p",
+            "count": 1
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "мисли",
+            "lat": "misli",
+            "tag": "Vmm2s",
+            "count": 37
+          },
+          "1pl": {
+            "cyr": "мислимо",
+            "lat": "mislimo",
+            "tag": "Vmm1p",
+            "count": 1
+          },
+          "2pl": {
+            "cyr": "мислите",
+            "lat": "mislite",
+            "tag": "Vmm2p",
+            "count": 3163
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "мислио",
+            "lat": "mislio",
+            "tag": "Vmp-sm",
+            "count": 21227
+          },
+          "sg_f": {
+            "cyr": "мислила",
+            "lat": "mislila",
+            "tag": "Vmp-sf",
+            "count": 7532
+          },
+          "sg_n": {
+            "cyr": "мислило",
+            "lat": "mislilo",
+            "tag": "Vmp-sn",
+            "count": 1926
+          },
+          "pl_m": {
+            "cyr": "мислили",
+            "lat": "mislili",
+            "tag": "Vmp-pm",
+            "count": 10421
+          },
+          "pl_f": {
+            "cyr": "мислиле",
+            "lat": "mislile",
+            "tag": "Vmp-pf",
+            "count": 360
+          },
+          "pl_n": {
+            "cyr": "мислила",
+            "lat": "mislila",
+            "tag": "Vmp-pn",
+            "count": 5
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "мишљах",
+            "lat": "mišljah",
+            "tag": "Vme1s",
+            "count": 4
+          },
+          "2sg": {
+            "cyr": "мишљаше",
+            "lat": "mišljaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "мишљаше",
+            "lat": "mišljaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "мишљасмо",
+            "lat": "mišljasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "мишљасте",
+            "lat": "mišljaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "мишљаху",
+            "lat": "mišljahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "pitati",
+      "lemma": "pitati",
+      "source": "спрашивать",
+      "labels": {
+        "ru": "спрашивать",
+        "en": "ask"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "communication",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "communication"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "pitam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "питати",
+            "lat": "pitati",
+            "tag": "Vmn",
+            "count": 5014
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "питам",
+            "lat": "pitam",
+            "tag": "Vmr1s",
+            "count": 27031
+          },
+          "2sg": {
+            "cyr": "питаш",
+            "lat": "pitaš",
+            "tag": "Vmr2s",
+            "count": 2748
+          },
+          "3sg": {
+            "cyr": "пита",
+            "lat": "pita",
+            "tag": "Vmr3s",
+            "count": 20161
+          },
+          "1pl": {
+            "cyr": "питамо",
+            "lat": "pitamo",
+            "tag": "Vmr1p",
+            "count": 5213
+          },
+          "2pl": {
+            "cyr": "питате",
+            "lat": "pitate",
+            "tag": "Vmr2p",
+            "count": 7220
+          },
+          "3pl": {
+            "cyr": "питају",
+            "lat": "pitaju",
+            "tag": "Vmr3p",
+            "count": 10679
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "питаћу",
+            "lat": "pitaću",
+            "tag": "Vmf1s",
+            "count": 322
+          },
+          "2sg": {
+            "cyr": "питаћеш",
+            "lat": "pitaćeš",
+            "tag": "Vmf2s",
+            "count": 17
+          },
+          "3sg": {
+            "cyr": "питаће",
+            "lat": "pitaće",
+            "tag": "Vmf3s",
+            "count": 314
+          },
+          "1pl": {
+            "cyr": "питаћемо",
+            "lat": "pitaćemo",
+            "tag": "Vmf1p",
+            "count": 100
+          },
+          "2pl": {
+            "cyr": "питаћете",
+            "lat": "pitaćete",
+            "tag": "Vmf2p",
+            "count": 166
+          },
+          "3pl": {
+            "cyr": "питаће",
+            "lat": "pitaće",
+            "tag": "Vmf3p",
+            "count": 1
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "питај",
+            "lat": "pitaj",
+            "tag": "Vmm2s",
+            "count": 2717
+          },
+          "1pl": {
+            "cyr": "питајмо",
+            "lat": "pitajmo",
+            "tag": "Vmm1p",
+            "count": 64
+          },
+          "2pl": {
+            "cyr": "питајте",
+            "lat": "pitajte",
+            "tag": "Vmm2p",
+            "count": 5447
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "питао",
+            "lat": "pitao",
+            "tag": "Vmp-sm",
+            "count": 15955
+          },
+          "sg_f": {
+            "cyr": "питала",
+            "lat": "pitala",
+            "tag": "Vmp-sf",
+            "count": 6047
+          },
+          "sg_n": {
+            "cyr": "питало",
+            "lat": "pitalo",
+            "tag": "Vmp-sn",
+            "count": 249
+          },
+          "pl_m": {
+            "cyr": "питали",
+            "lat": "pitali",
+            "tag": "Vmp-pm",
+            "count": 8389
+          },
+          "pl_f": {
+            "cyr": "питале",
+            "lat": "pitale",
+            "tag": "Vmp-pf",
+            "count": 255
+          },
+          "pl_n": {
+            "cyr": "питала",
+            "lat": "pitala",
+            "tag": "Vmp-pn",
+            "count": 10
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "питах",
+            "lat": "pitah",
+            "tag": "Vme1s",
+            "count": 4
+          },
+          "2sg": {
+            "cyr": "питаше",
+            "lat": "pitaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "питаше",
+            "lat": "pitaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "питасмо",
+            "lat": "pitasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "питасте",
+            "lat": "pitaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "питаху",
+            "lat": "pitahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "odgovarati",
+      "lemma": "odgovarati",
+      "source": "отвечать",
+      "labels": {
+        "ru": "отвечать",
+        "en": "answer/respond"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "communication",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "communication"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "odgovaram"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "одговарати",
+            "lat": "odgovarati",
+            "tag": "Vmn",
+            "count": 5148
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "одговарам",
+            "lat": "odgovaram",
+            "tag": "Vmr1s",
+            "count": 2032
+          },
+          "2sg": {
+            "cyr": "одговараш",
+            "lat": "odgovaraš",
+            "tag": "Vmr2s",
+            "count": 397
+          },
+          "3sg": {
+            "cyr": "одговара",
+            "lat": "odgovara",
+            "tag": "Vmr3s",
+            "count": 47495
+          },
+          "1pl": {
+            "cyr": "одговарамо",
+            "lat": "odgovaramo",
+            "tag": "Vmr1p",
+            "count": 683
+          },
+          "2pl": {
+            "cyr": "одговарате",
+            "lat": "odgovarate",
+            "tag": "Vmr2p",
+            "count": 990
+          },
+          "3pl": {
+            "cyr": "одговарају",
+            "lat": "odgovaraju",
+            "tag": "Vmr3p",
+            "count": 12875
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "одговараћу",
+            "lat": "odgovaraću",
+            "tag": "Vmf1s",
+            "count": 22
+          },
+          "2sg": {
+            "cyr": "одговараћеш",
+            "lat": "odgovaraćeš",
+            "tag": "Vmf2s",
+            "count": 8
+          },
+          "3sg": {
+            "cyr": "одговараће",
+            "lat": "odgovaraće",
+            "tag": "Vmf3s",
+            "count": 268
+          },
+          "1pl": {
+            "cyr": "одговараћемо",
+            "lat": "odgovaraćemo",
+            "tag": "Vmf1p",
+            "count": 18
+          },
+          "2pl": {
+            "cyr": "одговараћете",
+            "lat": "odgovaraćete",
+            "tag": "Vmf2p",
+            "count": 29
+          },
+          "3pl": {
+            "cyr": "одговараће",
+            "lat": "odgovaraće",
+            "tag": "Vmf3p",
+            "count": 14
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "одговарај",
+            "lat": "odgovaraj",
+            "tag": "Vmm2s",
+            "count": 84
+          },
+          "1pl": {
+            "cyr": "одговарајмо",
+            "lat": "odgovarajmo",
+            "tag": "Vmm1p",
+            "count": 3
+          },
+          "2pl": {
+            "cyr": "одговарајте",
+            "lat": "odgovarajte",
+            "tag": "Vmm2p",
+            "count": 142
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "одговарао",
+            "lat": "odgovarao",
+            "tag": "Vmp-sm",
+            "count": 5166
+          },
+          "sg_f": {
+            "cyr": "одговарала",
+            "lat": "odgovarala",
+            "tag": "Vmp-sf",
+            "count": 2256
+          },
+          "sg_n": {
+            "cyr": "одговарало",
+            "lat": "odgovaralo",
+            "tag": "Vmp-sn",
+            "count": 2949
+          },
+          "pl_m": {
+            "cyr": "одговарали",
+            "lat": "odgovarali",
+            "tag": "Vmp-pm",
+            "count": 2233
+          },
+          "pl_f": {
+            "cyr": "одговарале",
+            "lat": "odgovarale",
+            "tag": "Vmp-pf",
+            "count": 462
+          },
+          "pl_n": {
+            "cyr": "одговарала",
+            "lat": "odgovarala",
+            "tag": "Vmp-pn",
+            "count": 24
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "одговарах",
+            "lat": "odgovarah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "одговараше",
+            "lat": "odgovaraše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "одговараше",
+            "lat": "odgovaraše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "одговарасмо",
+            "lat": "odgovarasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "одговарасте",
+            "lat": "odgovaraste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "одговараху",
+            "lat": "odgovarahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "žuriti",
+      "lemma": "žuriti",
+      "source": "спешить",
+      "labels": {
+        "ru": "спешить",
+        "en": "hurry"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "motion",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "motion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "žurim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "журити",
+            "lat": "žuriti",
+            "tag": "Vmn",
+            "count": 648
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "журим",
+            "lat": "žurim",
+            "tag": "Vmr1s",
+            "count": 678
+          },
+          "2sg": {
+            "cyr": "журиш",
+            "lat": "žuriš",
+            "tag": "Vmr2s",
+            "count": 147
+          },
+          "3sg": {
+            "cyr": "жури",
+            "lat": "žuri",
+            "tag": "Vmr3s",
+            "count": 2400
+          },
+          "1pl": {
+            "cyr": "журимо",
+            "lat": "žurimo",
+            "tag": "Vmr1p",
+            "count": 371
+          },
+          "2pl": {
+            "cyr": "журите",
+            "lat": "žurite",
+            "tag": "Vmr2p",
+            "count": 263
+          },
+          "3pl": {
+            "cyr": "журе",
+            "lat": "žure",
+            "tag": "Vmr3p",
+            "count": 992
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "журићу",
+            "lat": "žuriću",
+            "tag": "Vmf1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "журићеш",
+            "lat": "žurićeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "журиће",
+            "lat": "žuriće",
+            "tag": "Vmf3s",
+            "count": 3
+          },
+          "1pl": {
+            "cyr": "журићемо",
+            "lat": "žurićemo",
+            "tag": "Vmf1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "журићете",
+            "lat": "žurićete",
+            "tag": "Vmf2p",
+            "count": 1
+          },
+          "3pl": {
+            "cyr": "журиће",
+            "lat": "žuriće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "жури",
+            "lat": "žuri",
+            "tag": "Vmm2s",
+            "count": 1
+          },
+          "1pl": {
+            "cyr": "журимо",
+            "lat": "žurimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "журите",
+            "lat": "žurite",
+            "tag": "Vmm2p",
+            "count": 344
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "журио",
+            "lat": "žurio",
+            "tag": "Vmp-sm",
+            "count": 553
+          },
+          "sg_f": {
+            "cyr": "журила",
+            "lat": "žurila",
+            "tag": "Vmp-sf",
+            "count": 210
+          },
+          "sg_n": {
+            "cyr": "журило",
+            "lat": "žurilo",
+            "tag": "Vmp-sn",
+            "count": 327
+          },
+          "pl_m": {
+            "cyr": "журили",
+            "lat": "žurili",
+            "tag": "Vmp-pm",
+            "count": 357
+          },
+          "pl_f": {
+            "cyr": "журиле",
+            "lat": "žurile",
+            "tag": "Vmp-pf",
+            "count": 29
+          },
+          "pl_n": {
+            "cyr": "журила",
+            "lat": "žurila",
+            "tag": "Vmp-pn",
+            "count": 0
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "журах",
+            "lat": "žurah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "жураше",
+            "lat": "žuraše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "жураше",
+            "lat": "žuraše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "журасмо",
+            "lat": "žurasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "журасте",
+            "lat": "žuraste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "жураху",
+            "lat": "žurahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "šetati",
+      "lemma": "šetati",
+      "source": "гулять",
+      "labels": {
+        "ru": "гулять",
+        "en": "walk/stroll"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "motion",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "motion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "šetam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "шетати",
+            "lat": "šetati",
+            "tag": "Vmn",
+            "count": 691
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "шетам",
+            "lat": "šetam",
+            "tag": "Vmr1s",
+            "count": 956,
+            "alternatives": [
+              {
+                "cyr": "шећем",
+                "lat": "šećem",
+                "tag": "Vmr1s",
+                "count": 10
+              }
+            ]
+          },
+          "2sg": {
+            "cyr": "шеташ",
+            "lat": "šetaš",
+            "tag": "Vmr2s",
+            "count": 216,
+            "alternatives": [
+              {
+                "cyr": "шећеш",
+                "lat": "šećeš",
+                "tag": "Vmr2s",
+                "count": 4
+              }
+            ]
+          },
+          "3sg": {
+            "cyr": "шета",
+            "lat": "šeta",
+            "tag": "Vmr3s",
+            "count": 2498,
+            "alternatives": [
+              {
+                "cyr": "шеће",
+                "lat": "šeće",
+                "tag": "Vmr3s",
+                "count": 65
+              }
+            ]
+          },
+          "1pl": {
+            "cyr": "шетамо",
+            "lat": "šetamo",
+            "tag": "Vmr1p",
+            "count": 531,
+            "alternatives": [
+              {
+                "cyr": "шећемо",
+                "lat": "šećemo",
+                "tag": "Vmr1p",
+                "count": 1
+              }
+            ]
+          },
+          "2pl": {
+            "cyr": "шетате",
+            "lat": "šetate",
+            "tag": "Vmr2p",
+            "count": 622,
+            "alternatives": [
+              {
+                "cyr": "шећете",
+                "lat": "šećete",
+                "tag": "Vmr2p",
+                "count": 2
+              }
+            ]
+          },
+          "3pl": {
+            "cyr": "шетају",
+            "lat": "šetaju",
+            "tag": "Vmr3p",
+            "count": 2500,
+            "alternatives": [
+              {
+                "cyr": "шећу",
+                "lat": "šeću",
+                "tag": "Vmr3p",
+                "count": 43
+              }
+            ]
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "шетаћу",
+            "lat": "šetaću",
+            "tag": "Vmf1s",
+            "count": 10
+          },
+          "2sg": {
+            "cyr": "шетаћеш",
+            "lat": "šetaćeš",
+            "tag": "Vmf2s",
+            "count": 1
+          },
+          "3sg": {
+            "cyr": "шетаће",
+            "lat": "šetaće",
+            "tag": "Vmf3s",
+            "count": 28
+          },
+          "1pl": {
+            "cyr": "шетаћемо",
+            "lat": "šetaćemo",
+            "tag": "Vmf1p",
+            "count": 7
+          },
+          "2pl": {
+            "cyr": "шетаћете",
+            "lat": "šetaćete",
+            "tag": "Vmf2p",
+            "count": 9
+          },
+          "3pl": {
+            "cyr": "шетаће",
+            "lat": "šetaće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "шетај",
+            "lat": "šetaj",
+            "tag": "Vmm2s",
+            "count": 92,
+            "alternatives": [
+              {
+                "cyr": "шећи",
+                "lat": "šeći",
+                "tag": "Vmm2s",
+                "count": 2
+              }
+            ]
+          },
+          "1pl": {
+            "cyr": "шетајмо",
+            "lat": "šetajmo",
+            "tag": "Vmm1p",
+            "count": 32
+          },
+          "2pl": {
+            "cyr": "шетајте",
+            "lat": "šetajte",
+            "tag": "Vmm2p",
+            "count": 339,
+            "alternatives": [
+              {
+                "cyr": "шећите",
+                "lat": "šećite",
+                "tag": "Vmm2p",
+                "count": 1
+              }
+            ]
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "шетао",
+            "lat": "šetao",
+            "tag": "Vmp-sm",
+            "count": 1056
+          },
+          "sg_f": {
+            "cyr": "шетала",
+            "lat": "šetala",
+            "tag": "Vmp-sf",
+            "count": 635
+          },
+          "sg_n": {
+            "cyr": "шетало",
+            "lat": "šetalo",
+            "tag": "Vmp-sn",
+            "count": 88
+          },
+          "pl_m": {
+            "cyr": "шетали",
+            "lat": "šetali",
+            "tag": "Vmp-pm",
+            "count": 1124
+          },
+          "pl_f": {
+            "cyr": "шетале",
+            "lat": "šetale",
+            "tag": "Vmp-pf",
+            "count": 158
+          },
+          "pl_n": {
+            "cyr": "шетала",
+            "lat": "šetala",
+            "tag": "Vmp-pn",
+            "count": 14
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "шетах",
+            "lat": "šetah",
+            "tag": "Vme1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "шеташе",
+            "lat": "šetaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "шеташе",
+            "lat": "šetaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "шетасмо",
+            "lat": "šetasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "шетасте",
+            "lat": "šetaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "шетаху",
+            "lat": "šetahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 37,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "zaboravljati",
+      "lemma": "zaboravljati",
+      "source": "забывать",
+      "labels": {
+        "ru": "забывать",
+        "en": "forget"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "cognition",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "cognition"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "zaboravljam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "заборављати",
+            "lat": "zaboravljati",
+            "tag": "Vmn",
+            "count": 229
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "заборављам",
+            "lat": "zaboravljam",
+            "tag": "Vmr1s",
+            "count": 414
+          },
+          "2sg": {
+            "cyr": "заборављаш",
+            "lat": "zaboravljaš",
+            "tag": "Vmr2s",
+            "count": 278
+          },
+          "3sg": {
+            "cyr": "заборавља",
+            "lat": "zaboravlja",
+            "tag": "Vmr3s",
+            "count": 3801
+          },
+          "1pl": {
+            "cyr": "заборављамо",
+            "lat": "zaboravljamo",
+            "tag": "Vmr1p",
+            "count": 1415
+          },
+          "2pl": {
+            "cyr": "заборављате",
+            "lat": "zaboravljate",
+            "tag": "Vmr2p",
+            "count": 713
+          },
+          "3pl": {
+            "cyr": "заборављају",
+            "lat": "zaboravljaju",
+            "tag": "Vmr3p",
+            "count": 2833
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "заборављаћу",
+            "lat": "zaboravljaću",
+            "tag": "Vmf1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "заборављаћеш",
+            "lat": "zaboravljaćeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "заборављаће",
+            "lat": "zaboravljaće",
+            "tag": "Vmf3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "заборављаћемо",
+            "lat": "zaboravljaćemo",
+            "tag": "Vmf1p",
+            "count": 1
+          },
+          "2pl": {
+            "cyr": "заборављаћете",
+            "lat": "zaboravljaćete",
+            "tag": "Vmf2p",
+            "count": 1
+          },
+          "3pl": {
+            "cyr": "заборављаће",
+            "lat": "zaboravljaće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "заборављај",
+            "lat": "zaboravljaj",
+            "tag": "Vmm2s",
+            "count": 53
+          },
+          "1pl": {
+            "cyr": "заборављајмо",
+            "lat": "zaboravljajmo",
+            "tag": "Vmm1p",
+            "count": 11
+          },
+          "2pl": {
+            "cyr": "заборављајте",
+            "lat": "zaboravljajte",
+            "tag": "Vmm2p",
+            "count": 69
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "заборављао",
+            "lat": "zaboravljao",
+            "tag": "Vmp-sm",
+            "count": 186
+          },
+          "sg_f": {
+            "cyr": "заборављала",
+            "lat": "zaboravljala",
+            "tag": "Vmp-sf",
+            "count": 101
+          },
+          "sg_n": {
+            "cyr": "заборављало",
+            "lat": "zaboravljalo",
+            "tag": "Vmp-sn",
+            "count": 49
+          },
+          "pl_m": {
+            "cyr": "заборављали",
+            "lat": "zaboravljali",
+            "tag": "Vmp-pm",
+            "count": 195
+          },
+          "pl_f": {
+            "cyr": "заборављале",
+            "lat": "zaboravljale",
+            "tag": "Vmp-pf",
+            "count": 16
+          },
+          "pl_n": {
+            "cyr": "заборављала",
+            "lat": "zaboravljala",
+            "tag": "Vmp-pn",
+            "count": 0
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "заборављах",
+            "lat": "zaboravljah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "заборављаше",
+            "lat": "zaboravljaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "заборављаше",
+            "lat": "zaboravljaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "заборављасмо",
+            "lat": "zaboravljasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "заборављасте",
+            "lat": "zaboravljaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "заборављаху",
+            "lat": "zaboravljahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "kasniti",
+      "lemma": "kasniti",
+      "source": "опаздывать",
+      "labels": {
+        "ru": "опаздывать",
+        "en": "be late"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "time",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "time"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "kasnim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "каснити",
+            "lat": "kasniti",
+            "tag": "Vmn",
+            "count": 433
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "касним",
+            "lat": "kasnim",
+            "tag": "Vmr1s",
+            "count": 374
+          },
+          "2sg": {
+            "cyr": "касниш",
+            "lat": "kasniš",
+            "tag": "Vmr2s",
+            "count": 135
+          },
+          "3sg": {
+            "cyr": "касни",
+            "lat": "kasni",
+            "tag": "Vmr3s",
+            "count": 2369
+          },
+          "1pl": {
+            "cyr": "каснимо",
+            "lat": "kasnimo",
+            "tag": "Vmr1p",
+            "count": 568
+          },
+          "2pl": {
+            "cyr": "касните",
+            "lat": "kasnite",
+            "tag": "Vmr2p",
+            "count": 103
+          },
+          "3pl": {
+            "cyr": "касне",
+            "lat": "kasne",
+            "tag": "Vmr3p",
+            "count": 681
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "каснићу",
+            "lat": "kasniću",
+            "tag": "Vmf1s",
+            "count": 3
+          },
+          "2sg": {
+            "cyr": "каснићеш",
+            "lat": "kasnićeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "касниће",
+            "lat": "kasniće",
+            "tag": "Vmf3s",
+            "count": 43
+          },
+          "1pl": {
+            "cyr": "каснићемо",
+            "lat": "kasnićemo",
+            "tag": "Vmf1p",
+            "count": 7
+          },
+          "2pl": {
+            "cyr": "каснићете",
+            "lat": "kasnićete",
+            "tag": "Vmf2p",
+            "count": 2
+          },
+          "3pl": {
+            "cyr": "касниће",
+            "lat": "kasniće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "касни",
+            "lat": "kasni",
+            "tag": "Vmm2s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "каснимо",
+            "lat": "kasnimo",
+            "tag": "Vmm1p",
+            "count": 1
+          },
+          "2pl": {
+            "cyr": "касните",
+            "lat": "kasnite",
+            "tag": "Vmm2p",
+            "count": 161
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "каснио",
+            "lat": "kasnio",
+            "tag": "Vmp-sm",
+            "count": 974
+          },
+          "sg_f": {
+            "cyr": "каснила",
+            "lat": "kasnila",
+            "tag": "Vmp-sf",
+            "count": 613
+          },
+          "sg_n": {
+            "cyr": "каснило",
+            "lat": "kasnilo",
+            "tag": "Vmp-sn",
+            "count": 364
+          },
+          "pl_m": {
+            "cyr": "каснили",
+            "lat": "kasnili",
+            "tag": "Vmp-pm",
+            "count": 553
+          },
+          "pl_f": {
+            "cyr": "касниле",
+            "lat": "kasnile",
+            "tag": "Vmp-pf",
+            "count": 174
+          },
+          "pl_n": {
+            "cyr": "каснила",
+            "lat": "kasnila",
+            "tag": "Vmp-pn",
+            "count": 9
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "кашњах",
+            "lat": "kašnjah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "кашњаше",
+            "lat": "kašnjaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "кашњаше",
+            "lat": "kašnjaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "кашњасмо",
+            "lat": "kašnjasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "кашњасте",
+            "lat": "kašnjaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "кашњаху",
+            "lat": "kašnjahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "tražiti",
+      "lemma": "tražiti",
+      "source": "искать",
+      "labels": {
+        "ru": "искать",
+        "en": "look for/search"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "action",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "action"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "tražim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "тражити",
+            "lat": "tražiti",
+            "tag": "Vmn",
+            "count": 17541
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "тражим",
+            "lat": "tražim",
+            "tag": "Vmr1s",
+            "count": 8814
+          },
+          "2sg": {
+            "cyr": "тражиш",
+            "lat": "tražiš",
+            "tag": "Vmr2s",
+            "count": 2302
+          },
+          "3sg": {
+            "cyr": "тражи",
+            "lat": "traži",
+            "tag": "Vmr3s",
+            "count": 54665
+          },
+          "1pl": {
+            "cyr": "тражимо",
+            "lat": "tražimo",
+            "tag": "Vmr1p",
+            "count": 10868
+          },
+          "2pl": {
+            "cyr": "тражите",
+            "lat": "tražite",
+            "tag": "Vmr2p",
+            "count": 4352
+          },
+          "3pl": {
+            "cyr": "траже",
+            "lat": "traže",
+            "tag": "Vmr3p",
+            "count": 38752
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "тражићу",
+            "lat": "tražiću",
+            "tag": "Vmf1s",
+            "count": 323
+          },
+          "2sg": {
+            "cyr": "тражићеш",
+            "lat": "tražićeš",
+            "tag": "Vmf2s",
+            "count": 10
+          },
+          "3sg": {
+            "cyr": "тражиће",
+            "lat": "tražiće",
+            "tag": "Vmf3s",
+            "count": 902
+          },
+          "1pl": {
+            "cyr": "тражићемо",
+            "lat": "tražićemo",
+            "tag": "Vmf1p",
+            "count": 731
+          },
+          "2pl": {
+            "cyr": "тражићете",
+            "lat": "tražićete",
+            "tag": "Vmf2p",
+            "count": 49
+          },
+          "3pl": {
+            "cyr": "тражиће",
+            "lat": "tražiće",
+            "tag": "Vmf3p",
+            "count": 17
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "тражи",
+            "lat": "traži",
+            "tag": "Vmm2s",
+            "count": 38
+          },
+          "1pl": {
+            "cyr": "тражимо",
+            "lat": "tražimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "тражите",
+            "lat": "tražite",
+            "tag": "Vmm2p",
+            "count": 3721
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "тражио",
+            "lat": "tražio",
+            "tag": "Vmp-sm",
+            "count": 19163
+          },
+          "sg_f": {
+            "cyr": "тражила",
+            "lat": "tražila",
+            "tag": "Vmp-sf",
+            "count": 7685
+          },
+          "sg_n": {
+            "cyr": "тражило",
+            "lat": "tražilo",
+            "tag": "Vmp-sn",
+            "count": 1709
+          },
+          "pl_m": {
+            "cyr": "тражили",
+            "lat": "tražili",
+            "tag": "Vmp-pm",
+            "count": 15933
+          },
+          "pl_f": {
+            "cyr": "тражиле",
+            "lat": "tražile",
+            "tag": "Vmp-pf",
+            "count": 1325
+          },
+          "pl_n": {
+            "cyr": "тражила",
+            "lat": "tražila",
+            "tag": "Vmp-pn",
+            "count": 18
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "тражах",
+            "lat": "tražah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "тражаше",
+            "lat": "tražaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "тражаше",
+            "lat": "tražaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "тражасмо",
+            "lat": "tražasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "тражасте",
+            "lat": "tražaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "тражаху",
+            "lat": "tražahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "čekati",
+      "lemma": "čekati",
+      "source": "ждать",
+      "labels": {
+        "ru": "ждать",
+        "en": "wait"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "time",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "time"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "čekam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "чекати",
+            "lat": "čekati",
+            "tag": "Vmn",
+            "count": 6129
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "чекам",
+            "lat": "čekam",
+            "tag": "Vmr1s",
+            "count": 9842
+          },
+          "2sg": {
+            "cyr": "чекаш",
+            "lat": "čekaš",
+            "tag": "Vmr2s",
+            "count": 1353
+          },
+          "3sg": {
+            "cyr": "чека",
+            "lat": "čeka",
+            "tag": "Vmr3s",
+            "count": 31707
+          },
+          "1pl": {
+            "cyr": "чекамо",
+            "lat": "čekamo",
+            "tag": "Vmr1p",
+            "count": 7430
+          },
+          "2pl": {
+            "cyr": "чекате",
+            "lat": "čekate",
+            "tag": "Vmr2p",
+            "count": 2289
+          },
+          "3pl": {
+            "cyr": "чекају",
+            "lat": "čekaju",
+            "tag": "Vmr3p",
+            "count": 17763
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "чекаћу",
+            "lat": "čekaću",
+            "tag": "Vmf1s",
+            "count": 190
+          },
+          "2sg": {
+            "cyr": "чекаћеш",
+            "lat": "čekaćeš",
+            "tag": "Vmf2s",
+            "count": 16
+          },
+          "3sg": {
+            "cyr": "чекаће",
+            "lat": "čekaće",
+            "tag": "Vmf3s",
+            "count": 314
+          },
+          "1pl": {
+            "cyr": "чекаћемо",
+            "lat": "čekaćemo",
+            "tag": "Vmf1p",
+            "count": 187
+          },
+          "2pl": {
+            "cyr": "чекаћете",
+            "lat": "čekaćete",
+            "tag": "Vmf2p",
+            "count": 22
+          },
+          "3pl": {
+            "cyr": "чекаће",
+            "lat": "čekaće",
+            "tag": "Vmf3p",
+            "count": 4
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "чекај",
+            "lat": "čekaj",
+            "tag": "Vmm2s",
+            "count": 2714
+          },
+          "1pl": {
+            "cyr": "чекајмо",
+            "lat": "čekajmo",
+            "tag": "Vmm1p",
+            "count": 51
+          },
+          "2pl": {
+            "cyr": "чекајте",
+            "lat": "čekajte",
+            "tag": "Vmm2p",
+            "count": 1531
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "чекао",
+            "lat": "čekao",
+            "tag": "Vmp-sm",
+            "count": 6329
+          },
+          "sg_f": {
+            "cyr": "чекала",
+            "lat": "čekala",
+            "tag": "Vmp-sf",
+            "count": 3871
+          },
+          "sg_n": {
+            "cyr": "чекало",
+            "lat": "čekalo",
+            "tag": "Vmp-sn",
+            "count": 2578
+          },
+          "pl_m": {
+            "cyr": "чекали",
+            "lat": "čekali",
+            "tag": "Vmp-pm",
+            "count": 6603
+          },
+          "pl_f": {
+            "cyr": "чекале",
+            "lat": "čekale",
+            "tag": "Vmp-pf",
+            "count": 650
+          },
+          "pl_n": {
+            "cyr": "чекала",
+            "lat": "čekala",
+            "tag": "Vmp-pn",
+            "count": 41
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "чеках",
+            "lat": "čekah",
+            "tag": "Vme1s",
+            "count": 5
+          },
+          "2sg": {
+            "cyr": "чекаше",
+            "lat": "čekaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "чекаше",
+            "lat": "čekaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "чекасмо",
+            "lat": "čekasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "чекасте",
+            "lat": "čekaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "чекаху",
+            "lat": "čekahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "trčati",
+      "lemma": "trčati",
+      "source": "бежать",
+      "labels": {
+        "ru": "бежать",
+        "en": "run"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "motion",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "motion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "trčim"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "трчати",
+            "lat": "trčati",
+            "tag": "Vmn",
+            "count": 1512
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "трчим",
+            "lat": "trčim",
+            "tag": "Vmr1s",
+            "count": 2083
+          },
+          "2sg": {
+            "cyr": "трчиш",
+            "lat": "trčiš",
+            "tag": "Vmr2s",
+            "count": 514
+          },
+          "3sg": {
+            "cyr": "трчи",
+            "lat": "trči",
+            "tag": "Vmr3s",
+            "count": 4084
+          },
+          "1pl": {
+            "cyr": "трчимо",
+            "lat": "trčimo",
+            "tag": "Vmr1p",
+            "count": 715
+          },
+          "2pl": {
+            "cyr": "трчите",
+            "lat": "trčite",
+            "tag": "Vmr2p",
+            "count": 939
+          },
+          "3pl": {
+            "cyr": "трче",
+            "lat": "trče",
+            "tag": "Vmr3p",
+            "count": 2805
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "трчаћу",
+            "lat": "trčaću",
+            "tag": "Vmf1s",
+            "count": 30
+          },
+          "2sg": {
+            "cyr": "трчаћеш",
+            "lat": "trčaćeš",
+            "tag": "Vmf2s",
+            "count": 4
+          },
+          "3sg": {
+            "cyr": "трчаће",
+            "lat": "trčaće",
+            "tag": "Vmf3s",
+            "count": 118
+          },
+          "1pl": {
+            "cyr": "трчаћемо",
+            "lat": "trčaćemo",
+            "tag": "Vmf1p",
+            "count": 12
+          },
+          "2pl": {
+            "cyr": "трчаћете",
+            "lat": "trčaćete",
+            "tag": "Vmf2p",
+            "count": 17
+          },
+          "3pl": {
+            "cyr": "трчаће",
+            "lat": "trčaće",
+            "tag": "Vmf3p",
+            "count": 3
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "трчи",
+            "lat": "trči",
+            "tag": "Vmm2s",
+            "count": 22
+          },
+          "1pl": {
+            "cyr": "трчимо",
+            "lat": "trčimo",
+            "tag": "Vmm1p",
+            "count": 1
+          },
+          "2pl": {
+            "cyr": "трчите",
+            "lat": "trčite",
+            "tag": "Vmm2p",
+            "count": 689
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "трчао",
+            "lat": "trčao",
+            "tag": "Vmp-sm",
+            "count": 1878
+          },
+          "sg_f": {
+            "cyr": "трчала",
+            "lat": "trčala",
+            "tag": "Vmp-sf",
+            "count": 807
+          },
+          "sg_n": {
+            "cyr": "трчало",
+            "lat": "trčalo",
+            "tag": "Vmp-sn",
+            "count": 275
+          },
+          "pl_m": {
+            "cyr": "трчали",
+            "lat": "trčali",
+            "tag": "Vmp-pm",
+            "count": 1195
+          },
+          "pl_f": {
+            "cyr": "трчале",
+            "lat": "trčale",
+            "tag": "Vmp-pf",
+            "count": 141
+          },
+          "pl_n": {
+            "cyr": "трчала",
+            "lat": "trčala",
+            "tag": "Vmp-pn",
+            "count": 19
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "трчах",
+            "lat": "trčah",
+            "tag": "Vme1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "трчаше",
+            "lat": "trčaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "трчаше",
+            "lat": "trčaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "трчасмо",
+            "lat": "trčasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "трчасте",
+            "lat": "trčaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "трчаху",
+            "lat": "trčahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "kupovati",
+      "lemma": "kupovati",
+      "source": "покупать",
+      "labels": {
+        "ru": "покупать",
+        "en": "buy"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "commerce",
+        "present_1sg_em"
+      ],
+      "semantics": {
+        "semanticClass": "commerce"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "em",
+          "lat": "-em",
+          "cyr": "-ем",
+          "sourceForm": "kupujem"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "куповати",
+            "lat": "kupovati",
+            "tag": "Vmn",
+            "count": 3807
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "купујем",
+            "lat": "kupujem",
+            "tag": "Vmr1s",
+            "count": 4193
+          },
+          "2sg": {
+            "cyr": "купујеш",
+            "lat": "kupuješ",
+            "tag": "Vmr2s",
+            "count": 1050
+          },
+          "3sg": {
+            "cyr": "купује",
+            "lat": "kupuje",
+            "tag": "Vmr3s",
+            "count": 11186
+          },
+          "1pl": {
+            "cyr": "купујемо",
+            "lat": "kupujemo",
+            "tag": "Vmr1p",
+            "count": 2274
+          },
+          "2pl": {
+            "cyr": "купујете",
+            "lat": "kupujete",
+            "tag": "Vmr2p",
+            "count": 3220
+          },
+          "3pl": {
+            "cyr": "купују",
+            "lat": "kupuju",
+            "tag": "Vmr3p",
+            "count": 14293
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "куповаћу",
+            "lat": "kupovaću",
+            "tag": "Vmf1s",
+            "count": 22
+          },
+          "2sg": {
+            "cyr": "куповаћеш",
+            "lat": "kupovaćeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "куповаће",
+            "lat": "kupovaće",
+            "tag": "Vmf3s",
+            "count": 101
+          },
+          "1pl": {
+            "cyr": "куповаћемо",
+            "lat": "kupovaćemo",
+            "tag": "Vmf1p",
+            "count": 34
+          },
+          "2pl": {
+            "cyr": "куповаћете",
+            "lat": "kupovaćete",
+            "tag": "Vmf2p",
+            "count": 4
+          },
+          "3pl": {
+            "cyr": "куповаће",
+            "lat": "kupovaće",
+            "tag": "Vmf3p",
+            "count": 1
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "купуј",
+            "lat": "kupuj",
+            "tag": "Vmm2s",
+            "count": 327
+          },
+          "1pl": {
+            "cyr": "купујмо",
+            "lat": "kupujmo",
+            "tag": "Vmm1p",
+            "count": 292
+          },
+          "2pl": {
+            "cyr": "купујте",
+            "lat": "kupujte",
+            "tag": "Vmm2p",
+            "count": 1070
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "куповао",
+            "lat": "kupovao",
+            "tag": "Vmp-sm",
+            "count": 2838
+          },
+          "sg_f": {
+            "cyr": "куповала",
+            "lat": "kupovala",
+            "tag": "Vmp-sf",
+            "count": 1042
+          },
+          "sg_n": {
+            "cyr": "куповало",
+            "lat": "kupovalo",
+            "tag": "Vmp-sn",
+            "count": 253
+          },
+          "pl_m": {
+            "cyr": "куповали",
+            "lat": "kupovali",
+            "tag": "Vmp-pm",
+            "count": 3258
+          },
+          "pl_f": {
+            "cyr": "куповале",
+            "lat": "kupovale",
+            "tag": "Vmp-pf",
+            "count": 389
+          },
+          "pl_n": {
+            "cyr": "куповала",
+            "lat": "kupovala",
+            "tag": "Vmp-pn",
+            "count": 19
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "куповах",
+            "lat": "kupovah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "куповаше",
+            "lat": "kupovaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "куповаше",
+            "lat": "kupovaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "куповасмо",
+            "lat": "kupovasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "куповасте",
+            "lat": "kupovaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "куповаху",
+            "lat": "kupovahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "ići",
+      "lemma": "ići",
+      "source": "идти",
+      "labels": {
+        "ru": "идти",
+        "en": "go"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "motion",
+        "present_1sg_em"
+      ],
+      "semantics": {
+        "semanticClass": "motion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "em",
+          "lat": "-em",
+          "cyr": "-ем",
+          "sourceForm": "idem"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "ићи",
+            "lat": "ići",
+            "tag": "Vmn",
+            "count": 22687
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "идем",
+            "lat": "idem",
+            "tag": "Vmr1s",
+            "count": 17280
+          },
+          "2sg": {
+            "cyr": "идеш",
+            "lat": "ideš",
+            "tag": "Vmr2s",
+            "count": 4199
+          },
+          "3sg": {
+            "cyr": "иде",
+            "lat": "ide",
+            "tag": "Vmr3s",
+            "count": 98798
+          },
+          "1pl": {
+            "cyr": "идемо",
+            "lat": "idemo",
+            "tag": "Vmr1p",
+            "count": 18242
+          },
+          "2pl": {
+            "cyr": "идете",
+            "lat": "idete",
+            "tag": "Vmr2p",
+            "count": 5840
+          },
+          "3pl": {
+            "cyr": "иду",
+            "lat": "idu",
+            "tag": "Vmr3p",
+            "count": 39477
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "иди",
+            "lat": "idi",
+            "tag": "Vmm2s",
+            "count": 6701
+          },
+          "1pl": {
+            "cyr": "идимо",
+            "lat": "idimo",
+            "tag": "Vmm1p",
+            "count": 47
+          },
+          "2pl": {
+            "cyr": "идите",
+            "lat": "idite",
+            "tag": "Vmm2p",
+            "count": 4695
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "ишао",
+            "lat": "išao",
+            "tag": "Vmp-sm",
+            "count": 14421
+          },
+          "sg_f": {
+            "cyr": "ишла",
+            "lat": "išla",
+            "tag": "Vmp-sf",
+            "count": 8224
+          },
+          "sg_n": {
+            "cyr": "ишло",
+            "lat": "išlo",
+            "tag": "Vmp-sn",
+            "count": 7419
+          },
+          "pl_m": {
+            "cyr": "ишли",
+            "lat": "išli",
+            "tag": "Vmp-pm",
+            "count": 10125
+          },
+          "pl_f": {
+            "cyr": "ишле",
+            "lat": "išle",
+            "tag": "Vmp-pf",
+            "count": 2111
+          },
+          "pl_n": {
+            "cyr": "ишла",
+            "lat": "išla",
+            "tag": "Vmp-pn",
+            "count": 277
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "иђах",
+            "lat": "iđah",
+            "tag": "Vme1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "иђаше",
+            "lat": "iđaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "иђаше",
+            "lat": "iđaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "иђасмо",
+            "lat": "iđasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "иђасте",
+            "lat": "iđaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "иђаху",
+            "lat": "iđahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 22,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "ponavljati",
+      "lemma": "ponavljati",
+      "source": "повторять",
+      "labels": {
+        "ru": "повторять",
+        "en": "repeat"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "learning",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "learning"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "ponavljam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "понављати",
+            "lat": "ponavljati",
+            "tag": "Vmn",
+            "count": 2078
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "понављам",
+            "lat": "ponavljam",
+            "tag": "Vmr1s",
+            "count": 7524
+          },
+          "2sg": {
+            "cyr": "понављаш",
+            "lat": "ponavljaš",
+            "tag": "Vmr2s",
+            "count": 197
+          },
+          "3sg": {
+            "cyr": "понавља",
+            "lat": "ponavlja",
+            "tag": "Vmr3s",
+            "count": 7693
+          },
+          "1pl": {
+            "cyr": "понављамо",
+            "lat": "ponavljamo",
+            "tag": "Vmr1p",
+            "count": 1218
+          },
+          "2pl": {
+            "cyr": "понављате",
+            "lat": "ponavljate",
+            "tag": "Vmr2p",
+            "count": 629
+          },
+          "3pl": {
+            "cyr": "понављају",
+            "lat": "ponavljaju",
+            "tag": "Vmr3p",
+            "count": 4096
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "понављаћу",
+            "lat": "ponavljaću",
+            "tag": "Vmf1s",
+            "count": 18
+          },
+          "2sg": {
+            "cyr": "понављаћеш",
+            "lat": "ponavljaćeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "понављаће",
+            "lat": "ponavljaće",
+            "tag": "Vmf3s",
+            "count": 40
+          },
+          "1pl": {
+            "cyr": "понављаћемо",
+            "lat": "ponavljaćemo",
+            "tag": "Vmf1p",
+            "count": 12
+          },
+          "2pl": {
+            "cyr": "понављаћете",
+            "lat": "ponavljaćete",
+            "tag": "Vmf2p",
+            "count": 1
+          },
+          "3pl": {
+            "cyr": "понављаће",
+            "lat": "ponavljaće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "понављај",
+            "lat": "ponavljaj",
+            "tag": "Vmm2s",
+            "count": 72
+          },
+          "1pl": {
+            "cyr": "понављајмо",
+            "lat": "ponavljajmo",
+            "tag": "Vmm1p",
+            "count": 5
+          },
+          "2pl": {
+            "cyr": "понављајте",
+            "lat": "ponavljajte",
+            "tag": "Vmm2p",
+            "count": 362
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "понављао",
+            "lat": "ponavljao",
+            "tag": "Vmp-sm",
+            "count": 1388
+          },
+          "sg_f": {
+            "cyr": "понављала",
+            "lat": "ponavljala",
+            "tag": "Vmp-sf",
+            "count": 648
+          },
+          "sg_n": {
+            "cyr": "понављало",
+            "lat": "ponavljalo",
+            "tag": "Vmp-sn",
+            "count": 239
+          },
+          "pl_m": {
+            "cyr": "понављали",
+            "lat": "ponavljali",
+            "tag": "Vmp-pm",
+            "count": 770
+          },
+          "pl_f": {
+            "cyr": "понављале",
+            "lat": "ponavljale",
+            "tag": "Vmp-pf",
+            "count": 205
+          },
+          "pl_n": {
+            "cyr": "понављала",
+            "lat": "ponavljala",
+            "tag": "Vmp-pn",
+            "count": 2
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "понављах",
+            "lat": "ponavljah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "понављаше",
+            "lat": "ponavljaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "понављаше",
+            "lat": "ponavljaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "понављасмо",
+            "lat": "ponavljasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "понављасте",
+            "lat": "ponavljaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "понављаху",
+            "lat": "ponavljahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "pričati",
+      "lemma": "pričati",
+      "source": "рассказывать",
+      "labels": {
+        "ru": "рассказывать",
+        "en": "tell/talk"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "communication",
+        "about_locative",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "communication"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "pričam"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "причати",
+            "lat": "pričati",
+            "tag": "Vmn",
+            "count": 6797
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "причам",
+            "lat": "pričam",
+            "tag": "Vmr1s",
+            "count": 13266
+          },
+          "2sg": {
+            "cyr": "причаш",
+            "lat": "pričaš",
+            "tag": "Vmr2s",
+            "count": 3994
+          },
+          "3sg": {
+            "cyr": "прича",
+            "lat": "priča",
+            "tag": "Vmr3s",
+            "count": 32509
+          },
+          "1pl": {
+            "cyr": "причамо",
+            "lat": "pričamo",
+            "tag": "Vmr1p",
+            "count": 11095
+          },
+          "2pl": {
+            "cyr": "причате",
+            "lat": "pričate",
+            "tag": "Vmr2p",
+            "count": 5948
+          },
+          "3pl": {
+            "cyr": "причају",
+            "lat": "pričaju",
+            "tag": "Vmr3p",
+            "count": 12820
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "причаћу",
+            "lat": "pričaću",
+            "tag": "Vmf1s",
+            "count": 190
+          },
+          "2sg": {
+            "cyr": "причаћеш",
+            "lat": "pričaćeš",
+            "tag": "Vmf2s",
+            "count": 10
+          },
+          "3sg": {
+            "cyr": "причаће",
+            "lat": "pričaće",
+            "tag": "Vmf3s",
+            "count": 413
+          },
+          "1pl": {
+            "cyr": "причаћемо",
+            "lat": "pričaćemo",
+            "tag": "Vmf1p",
+            "count": 301
+          },
+          "2pl": {
+            "cyr": "причаћете",
+            "lat": "pričaćete",
+            "tag": "Vmf2p",
+            "count": 13
+          },
+          "3pl": {
+            "cyr": "причаће",
+            "lat": "pričaće",
+            "tag": "Vmf3p",
+            "count": 8
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "причај",
+            "lat": "pričaj",
+            "tag": "Vmm2s",
+            "count": 957
+          },
+          "1pl": {
+            "cyr": "причајмо",
+            "lat": "pričajmo",
+            "tag": "Vmm1p",
+            "count": 68
+          },
+          "2pl": {
+            "cyr": "причајте",
+            "lat": "pričajte",
+            "tag": "Vmm2p",
+            "count": 1200
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "причао",
+            "lat": "pričao",
+            "tag": "Vmp-sm",
+            "count": 9463
+          },
+          "sg_f": {
+            "cyr": "причала",
+            "lat": "pričala",
+            "tag": "Vmp-sf",
+            "count": 3151
+          },
+          "sg_n": {
+            "cyr": "причало",
+            "lat": "pričalo",
+            "tag": "Vmp-sn",
+            "count": 2432
+          },
+          "pl_m": {
+            "cyr": "причали",
+            "lat": "pričali",
+            "tag": "Vmp-pm",
+            "count": 7707
+          },
+          "pl_f": {
+            "cyr": "причале",
+            "lat": "pričale",
+            "tag": "Vmp-pf",
+            "count": 579
+          },
+          "pl_n": {
+            "cyr": "причала",
+            "lat": "pričala",
+            "tag": "Vmp-pn",
+            "count": 3
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "причах",
+            "lat": "pričah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "причаше",
+            "lat": "pričaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "причаше",
+            "lat": "pričaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "причасмо",
+            "lat": "pričasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "причасте",
+            "lat": "pričaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "причаху",
+            "lat": "pričahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "razgovarati",
+      "lemma": "razgovarati",
+      "source": "разговаривать",
+      "labels": {
+        "ru": "разговаривать",
+        "en": "talk/converse"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "communication",
+        "about_locative",
+        "present_1sg_am"
+      ],
+      "semantics": {
+        "semanticClass": "communication"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "plain",
+        "present1sgClass": {
+          "id": "am",
+          "lat": "-am",
+          "cyr": "-ам",
+          "sourceForm": "razgovaram"
+        }
+      },
+      "clitics": [],
+      "notes": [],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "разговарати",
+            "lat": "razgovarati",
+            "tag": "Vmn",
+            "count": 7836
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "разговарам",
+            "lat": "razgovaram",
+            "tag": "Vmr1s",
+            "count": 2075
+          },
+          "2sg": {
+            "cyr": "разговараш",
+            "lat": "razgovaraš",
+            "tag": "Vmr2s",
+            "count": 340
+          },
+          "3sg": {
+            "cyr": "разговара",
+            "lat": "razgovara",
+            "tag": "Vmr3s",
+            "count": 7909
+          },
+          "1pl": {
+            "cyr": "разговарамо",
+            "lat": "razgovaramo",
+            "tag": "Vmr1p",
+            "count": 6003
+          },
+          "2pl": {
+            "cyr": "разговарате",
+            "lat": "razgovarate",
+            "tag": "Vmr2p",
+            "count": 1845
+          },
+          "3pl": {
+            "cyr": "разговарају",
+            "lat": "razgovaraju",
+            "tag": "Vmr3p",
+            "count": 4917
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "разговараћу",
+            "lat": "razgovaraću",
+            "tag": "Vmf1s",
+            "count": 117
+          },
+          "2sg": {
+            "cyr": "разговараћеш",
+            "lat": "razgovaraćeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "разговараће",
+            "lat": "razgovaraće",
+            "tag": "Vmf3s",
+            "count": 661
+          },
+          "1pl": {
+            "cyr": "разговараћемо",
+            "lat": "razgovaraćemo",
+            "tag": "Vmf1p",
+            "count": 478
+          },
+          "2pl": {
+            "cyr": "разговараћете",
+            "lat": "razgovaraćete",
+            "tag": "Vmf2p",
+            "count": 14
+          },
+          "3pl": {
+            "cyr": "разговараће",
+            "lat": "razgovaraće",
+            "tag": "Vmf3p",
+            "count": 50
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "разговарај",
+            "lat": "razgovaraj",
+            "tag": "Vmm2s",
+            "count": 111
+          },
+          "1pl": {
+            "cyr": "разговарајмо",
+            "lat": "razgovarajmo",
+            "tag": "Vmm1p",
+            "count": 50
+          },
+          "2pl": {
+            "cyr": "разговарајте",
+            "lat": "razgovarajte",
+            "tag": "Vmm2p",
+            "count": 1130
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "разговарао",
+            "lat": "razgovarao",
+            "tag": "Vmp-sm",
+            "count": 9018
+          },
+          "sg_f": {
+            "cyr": "разговарала",
+            "lat": "razgovarala",
+            "tag": "Vmp-sf",
+            "count": 2219
+          },
+          "sg_n": {
+            "cyr": "разговарало",
+            "lat": "razgovaralo",
+            "tag": "Vmp-sn",
+            "count": 2279
+          },
+          "pl_m": {
+            "cyr": "разговарали",
+            "lat": "razgovarali",
+            "tag": "Vmp-pm",
+            "count": 10483
+          },
+          "pl_f": {
+            "cyr": "разговарале",
+            "lat": "razgovarale",
+            "tag": "Vmp-pf",
+            "count": 352
+          },
+          "pl_n": {
+            "cyr": "разговарала",
+            "lat": "razgovarala",
+            "tag": "Vmp-pn",
+            "count": 18
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "разговарах",
+            "lat": "razgovarah",
+            "tag": "Vme1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "разговараше",
+            "lat": "razgovaraše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "разговараше",
+            "lat": "razgovaraše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "разговарасмо",
+            "lat": "razgovarasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "разговарасте",
+            "lat": "razgovaraste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "разговараху",
+            "lat": "razgovarahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    }
+  ],
+  "seVerbs": [
+    {
+      "id": "zvati_se",
+      "lemma": "zvati",
+      "source": "зваться",
+      "labels": {
+        "ru": "зваться / называться",
+        "en": "be called"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "identity",
+        "present_1sg_em"
+      ],
+      "semantics": {
+        "semanticClass": "identity"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "se",
+        "present1sgClass": {
+          "id": "em",
+          "lat": "-em",
+          "cyr": "-ем",
+          "sourceForm": "zovem"
+        }
+      },
+      "clitics": [
+        {
+          "lat": "se",
+          "cyr": "се",
+          "position": "after_verb"
+        }
+      ],
+      "notes": [
+        "Reserved for a separate se-construction exercise, e.g. zovem se."
+      ],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "звати",
+            "lat": "zvati",
+            "tag": "Vmn",
+            "count": 4142
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "зовем",
+            "lat": "zovem",
+            "tag": "Vmr1s",
+            "count": 4036
+          },
+          "2sg": {
+            "cyr": "зовеш",
+            "lat": "zoveš",
+            "tag": "Vmr2s",
+            "count": 919
+          },
+          "3sg": {
+            "cyr": "зове",
+            "lat": "zove",
+            "tag": "Vmr3s",
+            "count": 36330
+          },
+          "1pl": {
+            "cyr": "зовемо",
+            "lat": "zovemo",
+            "tag": "Vmr1p",
+            "count": 3103
+          },
+          "2pl": {
+            "cyr": "зовете",
+            "lat": "zovete",
+            "tag": "Vmr2p",
+            "count": 1333
+          },
+          "3pl": {
+            "cyr": "зову",
+            "lat": "zovu",
+            "tag": "Vmr3p",
+            "count": 12633
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "зваћу",
+            "lat": "zvaću",
+            "tag": "Vmf1s",
+            "count": 183
+          },
+          "2sg": {
+            "cyr": "зваћеш",
+            "lat": "zvaćeš",
+            "tag": "Vmf2s",
+            "count": 7
+          },
+          "3sg": {
+            "cyr": "зваће",
+            "lat": "zvaće",
+            "tag": "Vmf3s",
+            "count": 324
+          },
+          "1pl": {
+            "cyr": "зваћемо",
+            "lat": "zvaćemo",
+            "tag": "Vmf1p",
+            "count": 126
+          },
+          "2pl": {
+            "cyr": "зваћете",
+            "lat": "zvaćete",
+            "tag": "Vmf2p",
+            "count": 3
+          },
+          "3pl": {
+            "cyr": "зваће",
+            "lat": "zvaće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "зови",
+            "lat": "zovi",
+            "tag": "Vmm2s",
+            "count": 618
+          },
+          "1pl": {
+            "cyr": "зовимо",
+            "lat": "zovimo",
+            "tag": "Vmm1p",
+            "count": 54
+          },
+          "2pl": {
+            "cyr": "зовите",
+            "lat": "zovite",
+            "tag": "Vmm2p",
+            "count": 636
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "звао",
+            "lat": "zvao",
+            "tag": "Vmp-sm",
+            "count": 7776
+          },
+          "sg_f": {
+            "cyr": "звала",
+            "lat": "zvala",
+            "tag": "Vmp-sf",
+            "count": 4357
+          },
+          "sg_n": {
+            "cyr": "звало",
+            "lat": "zvalo",
+            "tag": "Vmp-sn",
+            "count": 1466
+          },
+          "pl_m": {
+            "cyr": "звали",
+            "lat": "zvali",
+            "tag": "Vmp-pm",
+            "count": 6416
+          },
+          "pl_f": {
+            "cyr": "звале",
+            "lat": "zvale",
+            "tag": "Vmp-pf",
+            "count": 416
+          },
+          "pl_n": {
+            "cyr": "звала",
+            "lat": "zvala",
+            "tag": "Vmp-pn",
+            "count": 14
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "звах",
+            "lat": "zvah",
+            "tag": "Vme1s",
+            "count": 3
+          },
+          "2sg": {
+            "cyr": "зваше",
+            "lat": "zvaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "зваше",
+            "lat": "zvaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "звасмо",
+            "lat": "zvasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "звасте",
+            "lat": "zvaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "зваху",
+            "lat": "zvahu",
+            "tag": "Vme3p",
+            "count": 5
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "baviti_se",
+      "lemma": "baviti",
+      "source": "заниматься",
+      "labels": {
+        "ru": "заниматься",
+        "en": "be engaged in / do"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "activity",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "activity"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "se",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "bavim"
+        }
+      },
+      "clitics": [
+        {
+          "lat": "se",
+          "cyr": "се",
+          "position": "after_verb"
+        }
+      ],
+      "notes": [
+        "Reserved for a separate se-construction exercise, e.g. bavim se."
+      ],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "бавити",
+            "lat": "baviti",
+            "tag": "Vmn",
+            "count": 8923
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "бавим",
+            "lat": "bavim",
+            "tag": "Vmr1s",
+            "count": 6967
+          },
+          "2sg": {
+            "cyr": "бавиш",
+            "lat": "baviš",
+            "tag": "Vmr2s",
+            "count": 1253
+          },
+          "3sg": {
+            "cyr": "бави",
+            "lat": "bavi",
+            "tag": "Vmr3s",
+            "count": 50786
+          },
+          "1pl": {
+            "cyr": "бавимо",
+            "lat": "bavimo",
+            "tag": "Vmr1p",
+            "count": 5743
+          },
+          "2pl": {
+            "cyr": "бавите",
+            "lat": "bavite",
+            "tag": "Vmr2p",
+            "count": 2683
+          },
+          "3pl": {
+            "cyr": "баве",
+            "lat": "bave",
+            "tag": "Vmr3p",
+            "count": 38006
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "бавићу",
+            "lat": "baviću",
+            "tag": "Vmf1s",
+            "count": 94
+          },
+          "2sg": {
+            "cyr": "бавићеш",
+            "lat": "bavićeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "бавиће",
+            "lat": "baviće",
+            "tag": "Vmf3s",
+            "count": 417
+          },
+          "1pl": {
+            "cyr": "бавићемо",
+            "lat": "bavićemo",
+            "tag": "Vmf1p",
+            "count": 206
+          },
+          "2pl": {
+            "cyr": "бавићете",
+            "lat": "bavićete",
+            "tag": "Vmf2p",
+            "count": 8
+          },
+          "3pl": {
+            "cyr": "бавиће",
+            "lat": "baviće",
+            "tag": "Vmf3p",
+            "count": 1
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "бави",
+            "lat": "bavi",
+            "tag": "Vmm2s",
+            "count": 8
+          },
+          "1pl": {
+            "cyr": "бавимо",
+            "lat": "bavimo",
+            "tag": "Vmm1p",
+            "count": 120
+          },
+          "2pl": {
+            "cyr": "бавите",
+            "lat": "bavite",
+            "tag": "Vmm2p",
+            "count": 1356
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "бавио",
+            "lat": "bavio",
+            "tag": "Vmp-sm",
+            "count": 9962
+          },
+          "sg_f": {
+            "cyr": "бавила",
+            "lat": "bavila",
+            "tag": "Vmp-sf",
+            "count": 4387
+          },
+          "sg_n": {
+            "cyr": "бавило",
+            "lat": "bavilo",
+            "tag": "Vmp-sn",
+            "count": 842
+          },
+          "pl_m": {
+            "cyr": "бавили",
+            "lat": "bavili",
+            "tag": "Vmp-pm",
+            "count": 5918
+          },
+          "pl_f": {
+            "cyr": "бавиле",
+            "lat": "bavile",
+            "tag": "Vmp-pf",
+            "count": 986
+          },
+          "pl_n": {
+            "cyr": "бавила",
+            "lat": "bavila",
+            "tag": "Vmp-pn",
+            "count": 40
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "бављах",
+            "lat": "bavljah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "бављаше",
+            "lat": "bavljaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "бављаше",
+            "lat": "bavljaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "бављасмо",
+            "lat": "bavljasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "бављасте",
+            "lat": "bavljaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "бављаху",
+            "lat": "bavljahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "šaliti_se",
+      "lemma": "šaliti",
+      "source": "шутить",
+      "labels": {
+        "ru": "шутить",
+        "en": "joke"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "communication",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "communication"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "se",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "šalim"
+        }
+      },
+      "clitics": [
+        {
+          "lat": "se",
+          "cyr": "се",
+          "position": "after_verb"
+        }
+      ],
+      "notes": [
+        "Reserved for a separate se-construction exercise, e.g. šalim se."
+      ],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "шалити",
+            "lat": "šaliti",
+            "tag": "Vmn",
+            "count": 237
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "шалим",
+            "lat": "šalim",
+            "tag": "Vmr1s",
+            "count": 1707
+          },
+          "2sg": {
+            "cyr": "шалиш",
+            "lat": "šališ",
+            "tag": "Vmr2s",
+            "count": 209
+          },
+          "3sg": {
+            "cyr": "шали",
+            "lat": "šali",
+            "tag": "Vmr3s",
+            "count": 867
+          },
+          "1pl": {
+            "cyr": "шалимо",
+            "lat": "šalimo",
+            "tag": "Vmr1p",
+            "count": 245
+          },
+          "2pl": {
+            "cyr": "шалите",
+            "lat": "šalite",
+            "tag": "Vmr2p",
+            "count": 198
+          },
+          "3pl": {
+            "cyr": "шале",
+            "lat": "šale",
+            "tag": "Vmr3p",
+            "count": 651
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "шалићу",
+            "lat": "šaliću",
+            "tag": "Vmf1s",
+            "count": 1
+          },
+          "2sg": {
+            "cyr": "шалићеш",
+            "lat": "šalićeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "шалиће",
+            "lat": "šaliće",
+            "tag": "Vmf3s",
+            "count": 1
+          },
+          "1pl": {
+            "cyr": "шалићемо",
+            "lat": "šalićemo",
+            "tag": "Vmf1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "шалићете",
+            "lat": "šalićete",
+            "tag": "Vmf2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "шалиће",
+            "lat": "šaliće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "шали",
+            "lat": "šali",
+            "tag": "Vmm2s",
+            "count": 4
+          },
+          "1pl": {
+            "cyr": "шалимо",
+            "lat": "šalimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "шалите",
+            "lat": "šalite",
+            "tag": "Vmm2p",
+            "count": 51
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "шалио",
+            "lat": "šalio",
+            "tag": "Vmp-sm",
+            "count": 538
+          },
+          "sg_f": {
+            "cyr": "шалила",
+            "lat": "šalila",
+            "tag": "Vmp-sf",
+            "count": 154
+          },
+          "sg_n": {
+            "cyr": "шалило",
+            "lat": "šalilo",
+            "tag": "Vmp-sn",
+            "count": 3
+          },
+          "pl_m": {
+            "cyr": "шалили",
+            "lat": "šalili",
+            "tag": "Vmp-pm",
+            "count": 344
+          },
+          "pl_f": {
+            "cyr": "шалиле",
+            "lat": "šalile",
+            "tag": "Vmp-pf",
+            "count": 26
+          },
+          "pl_n": {
+            "cyr": "шалила",
+            "lat": "šalila",
+            "tag": "Vmp-pn",
+            "count": 0
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "шаљах",
+            "lat": "šaljah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "шаљаше",
+            "lat": "šaljaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "шаљаше",
+            "lat": "šaljaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "шаљасмо",
+            "lat": "šaljasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "шаљасте",
+            "lat": "šaljaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "шаљаху",
+            "lat": "šaljahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    },
+    {
+      "id": "seliti_se",
+      "lemma": "seliti",
+      "source": "переезжать",
+      "labels": {
+        "ru": "переезжать",
+        "en": "move house"
+      },
+      "tags": [
+        "A1",
+        "basic",
+        "verb",
+        "motion",
+        "present_1sg_im"
+      ],
+      "semantics": {
+        "semanticClass": "motion"
+      },
+      "grammar": {
+        "aspect": "imperfective",
+        "type": "main",
+        "construction": "se",
+        "present1sgClass": {
+          "id": "im",
+          "lat": "-im",
+          "cyr": "-им",
+          "sourceForm": "selim"
+        }
+      },
+      "clitics": [
+        {
+          "lat": "se",
+          "cyr": "се",
+          "position": "after_verb"
+        }
+      ],
+      "notes": [
+        "Reserved for a separate se-construction exercise, e.g. selim se."
+      ],
+      "type": "verb",
+      "forms": {
+        "infinitive": {
+          "infinitive": {
+            "cyr": "селити",
+            "lat": "seliti",
+            "tag": "Vmn",
+            "count": 241
+          }
+        },
+        "present": {
+          "1sg": {
+            "cyr": "селим",
+            "lat": "selim",
+            "tag": "Vmr1s",
+            "count": 466
+          },
+          "2sg": {
+            "cyr": "селиш",
+            "lat": "seliš",
+            "tag": "Vmr2s",
+            "count": 53
+          },
+          "3sg": {
+            "cyr": "сели",
+            "lat": "seli",
+            "tag": "Vmr3s",
+            "count": 3530
+          },
+          "1pl": {
+            "cyr": "селимо",
+            "lat": "selimo",
+            "tag": "Vmr1p",
+            "count": 265
+          },
+          "2pl": {
+            "cyr": "селите",
+            "lat": "selite",
+            "tag": "Vmr2p",
+            "count": 116
+          },
+          "3pl": {
+            "cyr": "селе",
+            "lat": "sele",
+            "tag": "Vmr3p",
+            "count": 1648
+          }
+        },
+        "future": {
+          "1sg": {
+            "cyr": "селићу",
+            "lat": "seliću",
+            "tag": "Vmf1s",
+            "count": 2
+          },
+          "2sg": {
+            "cyr": "селићеш",
+            "lat": "selićeš",
+            "tag": "Vmf2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "селиће",
+            "lat": "seliće",
+            "tag": "Vmf3s",
+            "count": 11
+          },
+          "1pl": {
+            "cyr": "селићемо",
+            "lat": "selićemo",
+            "tag": "Vmf1p",
+            "count": 3
+          },
+          "2pl": {
+            "cyr": "селићете",
+            "lat": "selićete",
+            "tag": "Vmf2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "селиће",
+            "lat": "seliće",
+            "tag": "Vmf3p",
+            "count": 0
+          }
+        },
+        "imperative": {
+          "2sg": {
+            "cyr": "сели",
+            "lat": "seli",
+            "tag": "Vmm2s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "селимо",
+            "lat": "selimo",
+            "tag": "Vmm1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "селите",
+            "lat": "selite",
+            "tag": "Vmm2p",
+            "count": 63
+          }
+        },
+        "participle": {
+          "sg_m": {
+            "cyr": "селио",
+            "lat": "selio",
+            "tag": "Vmp-sm",
+            "count": 224
+          },
+          "sg_f": {
+            "cyr": "селила",
+            "lat": "selila",
+            "tag": "Vmp-sf",
+            "count": 137
+          },
+          "sg_n": {
+            "cyr": "селило",
+            "lat": "selilo",
+            "tag": "Vmp-sn",
+            "count": 33
+          },
+          "pl_m": {
+            "cyr": "селили",
+            "lat": "selili",
+            "tag": "Vmp-pm",
+            "count": 337
+          },
+          "pl_f": {
+            "cyr": "селиле",
+            "lat": "selile",
+            "tag": "Vmp-pf",
+            "count": 29
+          },
+          "pl_n": {
+            "cyr": "селила",
+            "lat": "selila",
+            "tag": "Vmp-pn",
+            "count": 0
+          }
+        },
+        "imperfect": {
+          "1sg": {
+            "cyr": "сељах",
+            "lat": "seljah",
+            "tag": "Vme1s",
+            "count": 0
+          },
+          "2sg": {
+            "cyr": "сељаше",
+            "lat": "seljaše",
+            "tag": "Vme2s",
+            "count": 0
+          },
+          "3sg": {
+            "cyr": "сељаше",
+            "lat": "seljaše",
+            "tag": "Vme3s",
+            "count": 0
+          },
+          "1pl": {
+            "cyr": "сељасмо",
+            "lat": "seljasmo",
+            "tag": "Vme1p",
+            "count": 0
+          },
+          "2pl": {
+            "cyr": "сељасте",
+            "lat": "seljaste",
+            "tag": "Vme2p",
+            "count": 0
+          },
+          "3pl": {
+            "cyr": "сељаху",
+            "lat": "seljahu",
+            "tag": "Vme3p",
+            "count": 0
+          }
+        }
+      },
+      "sourceInfo": {
+        "dictionary": "srLexv13",
+        "rowsUsed": 28,
+        "posFilter": "VERB",
+        "typeFilter": "main",
+        "primarySelection": "Forms are keyed by expanded grammatical features; Ekavian learner forms are preferred where variants exist."
+      }
+    }
+  ]
+}

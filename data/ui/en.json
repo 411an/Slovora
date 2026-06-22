@@ -14,7 +14,9 @@
     "full-answer": { "title": "Full answer", "desc": "Ja jesam student." },
     "false-friends": { "title": "False friends", "desc": "Words that mislead" },
     "shorts": { "title": "Short words", "desc": "Words of place and time: Serbian equivalents" },
-    "plural": { "title": "Plural Study", "desc": "Choose the correct plural form" }
+    "plural": { "title": "Plural Study", "desc": "Choose the correct plural form" },
+    "ownership": { "title": "Whose?", "desc": "Match whose, owner, and noun forms" },
+    "verb-construction": { "title": "Verbs with o + locative", "desc": "Build phrases like volim da čitam o mostu" }
   },
   "exercise_ui": {
     "check": "Check",
@@ -53,6 +55,15 @@
   "plural_ui": {
     "instruction": "Choose the correct plural form:",
     "help_title": "Plural Rules"
+  },
+  "ownership_ui": {
+    "question_column": "whose?",
+    "owner_column": "owner",
+    "noun_column": "noun"
+  },
+  "verb_construction_ui": {
+    "loading": "Loading verbs...",
+    "load_error": "The lesson could not be loaded."
   },
   "stats_ui": {
     "title": "Statistics",

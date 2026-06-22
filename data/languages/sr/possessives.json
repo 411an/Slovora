@@ -1,0 +1,101 @@
+{
+  "language": "sr",
+  "agreementKeys": [
+    "nom_sg_m", "gen_sg_m", "dat_sg_m", "acc_sg_m", "acc_sg_m_anim", "voc_sg_m", "ins_sg_m", "loc_sg_m",
+    "nom_sg_f", "gen_sg_f", "dat_sg_f", "acc_sg_f", "voc_sg_f", "ins_sg_f", "loc_sg_f",
+    "nom_sg_n", "gen_sg_n", "dat_sg_n", "acc_sg_n", "voc_sg_n", "ins_sg_n", "loc_sg_n",
+    "nom_pl_m", "gen_pl_m", "dat_pl_m", "acc_pl_m", "voc_pl_m", "ins_pl_m", "loc_pl_m",
+    "nom_pl_f", "gen_pl_f", "dat_pl_f", "acc_pl_f", "voc_pl_f", "ins_pl_f", "loc_pl_f",
+    "nom_pl_n", "gen_pl_n", "dat_pl_n", "acc_pl_n", "voc_pl_n", "ins_pl_n", "loc_pl_n"
+  ],
+  "question": {
+    "id": "whose",
+    "forms": {
+      "nom_sg_m": "čiji", "gen_sg_m": "čijeg", "dat_sg_m": "čijem", "acc_sg_m": "čiji", "acc_sg_m_anim": "čijeg", "voc_sg_m": "čiji", "ins_sg_m": "čijim", "loc_sg_m": "čijem",
+      "nom_sg_f": "čija", "gen_sg_f": "čije", "dat_sg_f": "čijoj", "acc_sg_f": "čiju", "voc_sg_f": "čija", "ins_sg_f": "čijom", "loc_sg_f": "čijoj",
+      "nom_sg_n": "čije", "gen_sg_n": "čijeg", "dat_sg_n": "čijem", "acc_sg_n": "čije", "voc_sg_n": "čije", "ins_sg_n": "čijim", "loc_sg_n": "čijem",
+      "nom_pl_m": "čiji", "gen_pl_m": "čijih", "dat_pl_m": "čijim", "acc_pl_m": "čije", "voc_pl_m": "čiji", "ins_pl_m": "čijim", "loc_pl_m": "čijim",
+      "nom_pl_f": "čije", "gen_pl_f": "čijih", "dat_pl_f": "čijim", "acc_pl_f": "čije", "voc_pl_f": "čije", "ins_pl_f": "čijim", "loc_pl_f": "čijim",
+      "nom_pl_n": "čija", "gen_pl_n": "čijih", "dat_pl_n": "čijim", "acc_pl_n": "čija", "voc_pl_n": "čija", "ins_pl_n": "čijim", "loc_pl_n": "čijim"
+    }
+  },
+  "owners": [
+    {
+      "id": "my",
+      "forms": {
+        "nom_sg_m": "moj", "gen_sg_m": "mog", "dat_sg_m": "mom", "acc_sg_m": "moj", "acc_sg_m_anim": "mog", "voc_sg_m": "moj", "ins_sg_m": "mojim", "loc_sg_m": "mom",
+        "nom_sg_f": "moja", "gen_sg_f": "moje", "dat_sg_f": "mojoj", "acc_sg_f": "moju", "voc_sg_f": "moja", "ins_sg_f": "mojom", "loc_sg_f": "mojoj",
+        "nom_sg_n": "moje", "gen_sg_n": "mog", "dat_sg_n": "mom", "acc_sg_n": "moje", "voc_sg_n": "moje", "ins_sg_n": "mojim", "loc_sg_n": "mom",
+        "nom_pl_m": "moji", "gen_pl_m": "mojih", "dat_pl_m": "mojim", "acc_pl_m": "moje", "voc_pl_m": "moji", "ins_pl_m": "mojim", "loc_pl_m": "mojim",
+        "nom_pl_f": "moje", "gen_pl_f": "mojih", "dat_pl_f": "mojim", "acc_pl_f": "moje", "voc_pl_f": "moje", "ins_pl_f": "mojim", "loc_pl_f": "mojim",
+        "nom_pl_n": "moja", "gen_pl_n": "mojih", "dat_pl_n": "mojim", "acc_pl_n": "moja", "voc_pl_n": "moja", "ins_pl_n": "mojim", "loc_pl_n": "mojim"
+      }
+    },
+    {
+      "id": "your_sg",
+      "forms": {
+        "nom_sg_m": "tvoj", "gen_sg_m": "tvog", "dat_sg_m": "tvom", "acc_sg_m": "tvoj", "acc_sg_m_anim": "tvog", "voc_sg_m": "tvoj", "ins_sg_m": "tvojim", "loc_sg_m": "tvom",
+        "nom_sg_f": "tvoja", "gen_sg_f": "tvoje", "dat_sg_f": "tvojoj", "acc_sg_f": "tvoju", "voc_sg_f": "tvoja", "ins_sg_f": "tvojom", "loc_sg_f": "tvojoj",
+        "nom_sg_n": "tvoje", "gen_sg_n": "tvog", "dat_sg_n": "tvom", "acc_sg_n": "tvoje", "voc_sg_n": "tvoje", "ins_sg_n": "tvojim", "loc_sg_n": "tvom",
+        "nom_pl_m": "tvoji", "gen_pl_m": "tvojih", "dat_pl_m": "tvojim", "acc_pl_m": "tvoje", "voc_pl_m": "tvoji", "ins_pl_m": "tvojim", "loc_pl_m": "tvojim",
+        "nom_pl_f": "tvoje", "gen_pl_f": "tvojih", "dat_pl_f": "tvojim", "acc_pl_f": "tvoje", "voc_pl_f": "tvoje", "ins_pl_f": "tvojim", "loc_pl_f": "tvojim",
+        "nom_pl_n": "tvoja", "gen_pl_n": "tvojih", "dat_pl_n": "tvojim", "acc_pl_n": "tvoja", "voc_pl_n": "tvoja", "ins_pl_n": "tvojim", "loc_pl_n": "tvojim"
+      }
+    },
+    {
+      "id": "his",
+      "forms": {
+        "nom_sg_m": "njegov", "gen_sg_m": "njegovog", "dat_sg_m": "njegovom", "acc_sg_m": "njegov", "acc_sg_m_anim": "njegovog", "voc_sg_m": "njegov", "ins_sg_m": "njegovim", "loc_sg_m": "njegovom",
+        "nom_sg_f": "njegova", "gen_sg_f": "njegove", "dat_sg_f": "njegovoj", "acc_sg_f": "njegovu", "voc_sg_f": "njegova", "ins_sg_f": "njegovom", "loc_sg_f": "njegovoj",
+        "nom_sg_n": "njegovo", "gen_sg_n": "njegovog", "dat_sg_n": "njegovom", "acc_sg_n": "njegovo", "voc_sg_n": "njegovo", "ins_sg_n": "njegovim", "loc_sg_n": "njegovom",
+        "nom_pl_m": "njegovi", "gen_pl_m": "njegovih", "dat_pl_m": "njegovim", "acc_pl_m": "njegove", "voc_pl_m": "njegovi", "ins_pl_m": "njegovim", "loc_pl_m": "njegovim",
+        "nom_pl_f": "njegove", "gen_pl_f": "njegovih", "dat_pl_f": "njegovim", "acc_pl_f": "njegove", "voc_pl_f": "njegove", "ins_pl_f": "njegovim", "loc_pl_f": "njegovim",
+        "nom_pl_n": "njegova", "gen_pl_n": "njegovih", "dat_pl_n": "njegovim", "acc_pl_n": "njegova", "voc_pl_n": "njegova", "ins_pl_n": "njegovim", "loc_pl_n": "njegovim"
+      }
+    },
+    {
+      "id": "her",
+      "forms": {
+        "nom_sg_m": "njen", "gen_sg_m": "njenog", "dat_sg_m": "njenom", "acc_sg_m": "njen", "acc_sg_m_anim": "njenog", "voc_sg_m": "njen", "ins_sg_m": "njenim", "loc_sg_m": "njenom",
+        "nom_sg_f": "njena", "gen_sg_f": "njene", "dat_sg_f": "njenoj", "acc_sg_f": "njenu", "voc_sg_f": "njena", "ins_sg_f": "njenom", "loc_sg_f": "njenoj",
+        "nom_sg_n": "njeno", "gen_sg_n": "njenog", "dat_sg_n": "njenom", "acc_sg_n": "njeno", "voc_sg_n": "njeno", "ins_sg_n": "njenim", "loc_sg_n": "njenom",
+        "nom_pl_m": "njeni", "gen_pl_m": "njenih", "dat_pl_m": "njenim", "acc_pl_m": "njene", "voc_pl_m": "njeni", "ins_pl_m": "njenim", "loc_pl_m": "njenim",
+        "nom_pl_f": "njene", "gen_pl_f": "njenih", "dat_pl_f": "njenim", "acc_pl_f": "njene", "voc_pl_f": "njene", "ins_pl_f": "njenim", "loc_pl_f": "njenim",
+        "nom_pl_n": "njena", "gen_pl_n": "njenih", "dat_pl_n": "njenim", "acc_pl_n": "njena", "voc_pl_n": "njena", "ins_pl_n": "njenim", "loc_pl_n": "njenim"
+      }
+    },
+    {
+      "id": "our",
+      "forms": {
+        "nom_sg_m": "naš", "gen_sg_m": "našeg", "dat_sg_m": "našem", "acc_sg_m": "naš", "acc_sg_m_anim": "našeg", "voc_sg_m": "naš", "ins_sg_m": "našim", "loc_sg_m": "našem",
+        "nom_sg_f": "naša", "gen_sg_f": "naše", "dat_sg_f": "našoj", "acc_sg_f": "našu", "voc_sg_f": "naša", "ins_sg_f": "našom", "loc_sg_f": "našoj",
+        "nom_sg_n": "naše", "gen_sg_n": "našeg", "dat_sg_n": "našem", "acc_sg_n": "naše", "voc_sg_n": "naše", "ins_sg_n": "našim", "loc_sg_n": "našem",
+        "nom_pl_m": "naši", "gen_pl_m": "naših", "dat_pl_m": "našim", "acc_pl_m": "naše", "voc_pl_m": "naši", "ins_pl_m": "našim", "loc_pl_m": "našim",
+        "nom_pl_f": "naše", "gen_pl_f": "naših", "dat_pl_f": "našim", "acc_pl_f": "naše", "voc_pl_f": "naše", "ins_pl_f": "našim", "loc_pl_f": "našim",
+        "nom_pl_n": "naša", "gen_pl_n": "naših", "dat_pl_n": "našim", "acc_pl_n": "naša", "voc_pl_n": "naša", "ins_pl_n": "našim", "loc_pl_n": "našim"
+      }
+    },
+    {
+      "id": "your_pl",
+      "forms": {
+        "nom_sg_m": "vaš", "gen_sg_m": "vašeg", "dat_sg_m": "vašem", "acc_sg_m": "vaš", "acc_sg_m_anim": "vašeg", "voc_sg_m": "vaš", "ins_sg_m": "vašim", "loc_sg_m": "vašem",
+        "nom_sg_f": "vaša", "gen_sg_f": "vaše", "dat_sg_f": "vašoj", "acc_sg_f": "vašu", "voc_sg_f": "vaša", "ins_sg_f": "vašom", "loc_sg_f": "vašoj",
+        "nom_sg_n": "vaše", "gen_sg_n": "vašeg", "dat_sg_n": "vašem", "acc_sg_n": "vaše", "voc_sg_n": "vaše", "ins_sg_n": "vašim", "loc_sg_n": "vašem",
+        "nom_pl_m": "vaši", "gen_pl_m": "vaših", "dat_pl_m": "vašim", "acc_pl_m": "vaše", "voc_pl_m": "vaši", "ins_pl_m": "vašim", "loc_pl_m": "vašim",
+        "nom_pl_f": "vaše", "gen_pl_f": "vaših", "dat_pl_f": "vašim", "acc_pl_f": "vaše", "voc_pl_f": "vaše", "ins_pl_f": "vašim", "loc_pl_f": "vašim",
+        "nom_pl_n": "vaša", "gen_pl_n": "vaših", "dat_pl_n": "vašim", "acc_pl_n": "vaša", "voc_pl_n": "vaša", "ins_pl_n": "vašim", "loc_pl_n": "vašim"
+      }
+    },
+    {
+      "id": "their",
+      "forms": {
+        "nom_sg_m": "njihov", "gen_sg_m": "njihovog", "dat_sg_m": "njihovom", "acc_sg_m": "njihov", "acc_sg_m_anim": "njihovog", "voc_sg_m": "njihov", "ins_sg_m": "njihovim", "loc_sg_m": "njihovom",
+        "nom_sg_f": "njihova", "gen_sg_f": "njihove", "dat_sg_f": "njihovoj", "acc_sg_f": "njihovu", "voc_sg_f": "njihova", "ins_sg_f": "njihovom", "loc_sg_f": "njihovoj",
+        "nom_sg_n": "njihovo", "gen_sg_n": "njihovog", "dat_sg_n": "njihovom", "acc_sg_n": "njihovo", "voc_sg_n": "njihovo", "ins_sg_n": "njihovim", "loc_sg_n": "njihovom",
+        "nom_pl_m": "njihovi", "gen_pl_m": "njihovih", "dat_pl_m": "njihovim", "acc_pl_m": "njihove", "voc_pl_m": "njihovi", "ins_pl_m": "njihovim", "loc_pl_m": "njihovim",
+        "nom_pl_f": "njihove", "gen_pl_f": "njihovih", "dat_pl_f": "njihovim", "acc_pl_f": "njihove", "voc_pl_f": "njihove", "ins_pl_f": "njihovim", "loc_pl_f": "njihovim",
+        "nom_pl_n": "njihova", "gen_pl_n": "njihovih", "dat_pl_n": "njihovim", "acc_pl_n": "njihova", "voc_pl_n": "njihova", "ins_pl_n": "njihovim", "loc_pl_n": "njihovim"
+      }
+    }
+  ]
+}

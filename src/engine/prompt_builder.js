@@ -9,8 +9,8 @@ export class PromptBuilder {
     this.language = lang;
     try {
       const [cResp, tResp] = await Promise.all([
-        fetch(`data/languages/native/${lang}/concepts.json`),
-        fetch(`data/languages/native/${lang}/promptTemplates.json`)
+        fetch(`data/languages/native/${lang}/concepts.json`, { cache: "no-store" }),
+        fetch(`data/languages/native/${lang}/promptTemplates.json`, { cache: "no-store" })
       ]);
       this.concepts = await cResp.json();
       this.templates = await tResp.json();

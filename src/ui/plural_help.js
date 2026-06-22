@@ -16,7 +16,7 @@ async function loadMarkdown(lang) {
   if (cachedMd[lang]) return cachedMd[lang];
   const url = HELP_FILES[lang] || HELP_FILES.ru;
   try {
-    const resp = await fetch(url);
+    const resp = await fetch(url, { cache: "no-store" });
     const text = await resp.text();
     cachedMd[lang] = text;
     return text;
@@ -39,7 +39,7 @@ function escapeHtml(value) {
  * Supports: h1-h4, tables, paragraphs, unordered lists, bold, italic, inline code,
  * code blocks (```), links.
  */
-function renderMarkdown(md) {
+export function renderMarkdown(md) {
   const root = document.createElement("div");
   root.className = "plural-help-content";
 

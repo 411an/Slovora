@@ -90,6 +90,19 @@
       "default": "city"
     }
   },
+  "hotel_m": {
+    "conceptId": "hotel_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "hotel",
+      "pl": "hotels",
+      "subject": "hotel"
+    },
+    "labels": {
+      "default": "hotel"
+    }
+  },
   "belgrade_m": {
     "conceptId": "belgrade_m",
     "language": "en",
@@ -1276,7 +1289,8 @@
     "type": "noun",
     "forms": {
       "sg": "job",
-      "pl": "job"
+      "pl": "jobs",
+      "subject": "job"
     },
     "labels": {
       "default": "job"
@@ -2128,10 +2142,10 @@
     "type": "noun",
     "forms": {
       "sg": "duckling",
-      "pl": "duckling"
+      "pl": "ducklings (brood)"
     },
     "labels": {
-      "default": "duckling"
+      "default": "duckling (brood)"
     }
   },
   "pl_unuče": {
@@ -2456,6 +2470,187 @@
     },
     "labels": {
       "default": "mouth"
+    }
+  },
+  "pl_pačić": {
+    "conceptId": "pl_pačić",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "duckling",
+      "pl": "ducklings (individual)"
+    },
+    "labels": {
+      "default": "duckling (indiv.)"
+    }
+  },
+  "family_f": {
+    "conceptId": "family_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "family",
+      "pl": "families",
+      "subject": "family"
+    },
+    "labels": {
+      "default": "family"
+    }
+  },
+  "parent_m": {
+    "conceptId": "parent_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "parent",
+      "pl": "parents",
+      "subject": "parent"
+    },
+    "labels": {
+      "default": "parent"
+    }
+  },
+  "foreigner_m": {
+    "conceptId": "foreigner_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "foreigner",
+      "pl": "foreigners",
+      "subject": "foreigner"
+    },
+    "labels": {
+      "default": "foreigner"
+    }
+  },
+  "foreigner_f": {
+    "conceptId": "foreigner_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "female foreigner",
+      "pl": "female foreigners",
+      "subject": "female foreigner"
+    },
+    "labels": {
+      "default": "female foreigner"
+    }
+  },
+  "journalist_m": {
+    "conceptId": "journalist_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "journalist",
+      "pl": "journalists",
+      "subject": "journalist"
+    },
+    "labels": {
+      "default": "journalist"
+    }
+  },
+  "journalist_f": {
+    "conceptId": "journalist_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "female journalist",
+      "pl": "female journalists",
+      "subject": "female journalist"
+    },
+    "labels": {
+      "default": "female journalist"
+    }
+  },
+  "bridge_m": {
+    "conceptId": "bridge_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bridge",
+      "pl": "bridges",
+      "subject": "bridge"
+    },
+    "labels": {
+      "default": "bridge"
+    }
+  },
+  "building_f": {
+    "conceptId": "building_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "building",
+      "pl": "buildings",
+      "subject": "building"
+    },
+    "labels": {
+      "default": "building"
+    }
+  },
+  "river_f": {
+    "conceptId": "river_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "river",
+      "pl": "rivers",
+      "subject": "river"
+    },
+    "labels": {
+      "default": "river"
+    }
+  },
+  "street_f": {
+    "conceptId": "street_f",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "street",
+      "pl": "streets",
+      "subject": "street"
+    },
+    "labels": {
+      "default": "street"
+    }
+  },
+  "floor_m": {
+    "conceptId": "floor_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "floor",
+      "pl": "floors",
+      "subject": "floor"
+    },
+    "labels": {
+      "default": "floor"
+    }
+  },
+  "bill_m": {
+    "conceptId": "bill_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "bill",
+      "pl": "bills",
+      "subject": "bill"
+    },
+    "labels": {
+      "default": "bill"
+    }
+  },
+  "language_m": {
+    "conceptId": "language_m",
+    "language": "en",
+    "type": "noun",
+    "forms": {
+      "sg": "language",
+      "pl": "languages",
+      "subject": "language"
+    },
+    "labels": {
+      "default": "language"
     }
   }
 }

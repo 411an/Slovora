@@ -14,8 +14,11 @@ venv/
 # Dependencies
 node_modules/
 
-# Dictionary (1GB, too large for git)
+# Local dictionary research assets
 srLexv13
+dictionary.txt
+local_srlex/
+tools/verify_against_dict.py
 
 # Tool outputs (generated reports, corrections)
 tools/dict_verify_report.txt

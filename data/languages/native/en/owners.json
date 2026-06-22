@@ -1,0 +1,54 @@
+{
+  "language": "en",
+  "question": {
+    "id": "whose",
+    "forms": {
+      "default": "whose"
+    }
+  },
+  "owners": [
+    {
+      "id": "my",
+      "srOwnerId": "my",
+      "label": "my",
+      "forms": { "default": "my" }
+    },
+    {
+      "id": "your_sg",
+      "srOwnerId": "your_sg",
+      "label": "your",
+      "forms": { "default": "your" }
+    },
+    {
+      "id": "his",
+      "srOwnerId": "his",
+      "label": "his",
+      "forms": { "default": "his" }
+    },
+    {
+      "id": "her",
+      "srOwnerId": "her",
+      "label": "her",
+      "forms": { "default": "her" }
+    },
+    {
+      "id": "our",
+      "srOwnerId": "our",
+      "label": "our",
+      "forms": { "default": "our" }
+    },
+    {
+      "id": "your_pl",
+      "srOwnerId": "your_pl",
+      "label": "your",
+      "clarifier": "plural/formal",
+      "forms": { "default": "your" }
+    },
+    {
+      "id": "their",
+      "srOwnerId": "their",
+      "label": "their",
+      "forms": { "default": "their" }
+    }
+  ]
+}

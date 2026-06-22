@@ -14,6 +14,8 @@ import { renderFalseFriends } from "./ui/false_friends.js";
 import { renderShorts } from "./ui/shorts.js";
 import { renderReadme } from "./ui/readme.js";
 import { renderPlural } from "./ui/plural.js";
+import { renderOwnership } from "./ui/ownership.js";
+import { renderVerbConstruction } from "./ui/verb_construction.js";
 import { PromptBuilder } from "./engine/prompt_builder.js";
 
 const app = document.getElementById("app");
@@ -50,6 +52,10 @@ function route() {
     renderShorts(app);
   } else if (hash === "#plural") {
     renderPlural(app, lexicon, promptBuilder);
+  } else if (hash === "#ownership") {
+    renderOwnership(app, lexicon, promptBuilder);
+  } else if (hash === "#verb-construction") {
+    renderVerbConstruction(app, lexicon, promptBuilder);
   } else if (hash === "#settings") {
     renderSettings(app);
   } else if (hash === "#stats") {

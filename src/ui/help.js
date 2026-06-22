@@ -1,5 +1,7 @@
 ﻿import { t, getCurrentLang } from "../i18n/i18n.js";
 
+import { renderMarkdown } from "./plural_help.js";
+
 let grammarData = null;
 
 async function loadGrammar() {
@@ -22,7 +24,8 @@ export async function renderHelp(exercise) {
   overlay.className = "modal-overlay";
 
   const content = document.createElement("div");
-  content.className = "modal-content";
+  content.className = "modal-content modal-content-wide";
+  content.style.maxWidth = "1000px";
   overlay.appendChild(content);
 
   const header = document.createElement("div");
@@ -51,7 +54,18 @@ export async function renderHelp(exercise) {
 
   // Tabs for available tables
   const lang = getCurrentLang();
-  let currentTableKey = exercise.defaultHelpTable || exercise.availableHelpTables[0];
+  const availableTableKeys = exercise.availableHelpTables.filter(key => grammar.tables[key]);
+  let currentTableKey = availableTableKeys.includes(exercise.defaultHelpTable)
+    ? exercise.defaultHelpTable
+    : availableTableKeys[0];
+
+  if (!currentTableKey) {
+    const p = document.createElement("p");
+    p.textContent = t("exercise_ui.help_missing");
+    content.appendChild(p);
+    document.body.appendChild(overlay);
+    return;
+  }
 
   const tabContainer = document.createElement("div");
   tabContainer.className = "tab-selector";
@@ -62,9 +76,8 @@ export async function renderHelp(exercise) {
 
   function renderTabs() {
     tabContainer.innerHTML = "";
-    exercise.availableHelpTables.forEach(key => {
+    availableTableKeys.forEach(key => {
       const tableData = grammar.tables[key];
-      if (!tableData) return;
 
       const btn = document.createElement("button");
       btn.textContent = tableData.title[lang] || tableData.title.ru;
@@ -83,6 +96,10 @@ export async function renderHelp(exercise) {
     tableContainer.innerHTML = "";
     const tableData = grammar.tables[currentTableKey];
     if (!tableData) return;
+    if (tableData.kind === "markdown") {
+      renderMarkdownTable(tableData);
+      return;
+    }
 
     const table = document.createElement("table");
     table.className = "grammar-table";
@@ -135,6 +152,42 @@ export async function renderHelp(exercise) {
     table.appendChild(tbody);
 
     tableContainer.appendChild(table);
+
+    if (Array.isArray(tableData.notes) && tableData.notes.length) {
+      const notes = document.createElement("div");
+      notes.className = "grammar-notes";
+      tableData.notes.forEach(note => {
+        const p = document.createElement("p");
+        if (typeof note === "string") {
+          p.textContent = note;
+        } else {
+          p.textContent = note[lang] || note.ru || note.en || "";
+        }
+        if (p.textContent) notes.appendChild(p);
+      });
+      tableContainer.appendChild(notes);
+    }
+  }
+
+  async function renderMarkdownTable(tableData) {
+    const url = tableData.files?.[lang] || tableData.files?.ru || tableData.files?.en;
+    if (!url) return;
+    const requestedTableKey = currentTableKey;
+
+    try {
+      const resp = await fetch(url, { cache: "no-store" });
+      if (!resp.ok) throw new Error(`${url}: HTTP ${resp.status}`);
+      const md = await resp.text();
+      if (currentTableKey !== requestedTableKey) return;
+      tableContainer.innerHTML = "";
+      tableContainer.appendChild(renderMarkdown(md));
+    } catch (e) {
+      if (currentTableKey !== requestedTableKey) return;
+      console.error("Failed to load help markdown:", e);
+      const p = document.createElement("p");
+      p.textContent = t("exercise_ui.help_missing");
+      tableContainer.appendChild(p);
+    }
   }
 
   renderTabs();

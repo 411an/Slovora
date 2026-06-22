@@ -565,6 +565,86 @@
     "conceptId": "city_m"
   },
   {
+    "id": "hotel",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "place",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "place",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "хотел",
+        "lat": "hotel"
+      },
+      "gen_sg": {
+        "cyr": "хотела",
+        "lat": "hotela"
+      },
+      "dat_sg": {
+        "cyr": "хотелу",
+        "lat": "hotelu"
+      },
+      "acc_sg": {
+        "cyr": "хотел",
+        "lat": "hotel"
+      },
+      "voc_sg": {
+        "cyr": "хотеле",
+        "lat": "hotele"
+      },
+      "ins_sg": {
+        "cyr": "хотелом",
+        "lat": "hotelom"
+      },
+      "loc_sg": {
+        "cyr": "хотелу",
+        "lat": "hotelu"
+      },
+      "nom_pl": {
+        "cyr": "хотели",
+        "lat": "hoteli"
+      },
+      "gen_pl": {
+        "cyr": "хотела",
+        "lat": "hotela"
+      },
+      "dat_pl": {
+        "cyr": "хотелима",
+        "lat": "hotelima"
+      },
+      "acc_pl": {
+        "cyr": "хотеле",
+        "lat": "hotele"
+      },
+      "voc_pl": {
+        "cyr": "хотели",
+        "lat": "hoteli"
+      },
+      "ins_pl": {
+        "cyr": "хотелима",
+        "lat": "hotelima"
+      },
+      "loc_pl": {
+        "cyr": "хотелима",
+        "lat": "hotelima"
+      }
+    },
+    "conceptId": "hotel_m"
+  },
+  {
     "id": "beograd",
     "type": "noun",
     "subtype": "proper",
@@ -2207,60 +2287,60 @@
     },
     "forms": {
       "nom_sg": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флаша",
+        "lat": "flaša"
       },
       "gen_sg": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флаше",
+        "lat": "flaše"
       },
       "dat_sg": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флаши",
+        "lat": "flaši"
       },
       "acc_sg": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флашу",
+        "lat": "flašu"
       },
       "voc_sg": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флашо",
+        "lat": "flašo"
       },
       "ins_sg": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флашом",
+        "lat": "flašom"
       },
       "loc_sg": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флаши",
+        "lat": "flaši"
       },
       "nom_pl": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флаше",
+        "lat": "flaše"
       },
       "gen_pl": {
         "cyr": "флаша",
         "lat": "flaša"
       },
       "dat_pl": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флашама",
+        "lat": "flašama"
       },
       "acc_pl": {
         "cyr": "флаше",
         "lat": "flaše"
       },
       "voc_pl": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флаше",
+        "lat": "flaše"
       },
       "ins_pl": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флашама",
+        "lat": "flašama"
       },
       "loc_pl": {
-        "cyr": "Флаш",
-        "lat": "Flaš"
+        "cyr": "флашама",
+        "lat": "flašama"
       }
     },
     "conceptId": "bottle_f"
@@ -3302,7 +3382,8 @@
     "tags": [
       "A1",
       "basic",
-      "plural"
+      "plural",
+      "dependent_noun"
     ],
     "grammar": {
       "gender": "m",
@@ -6444,7 +6525,7 @@
       "plural"
     ],
     "grammar": {
-      "gender": "n",
+      "gender": "m",
       "animate": false
     },
     "forms": {
@@ -6485,12 +6566,12 @@
         "lat": "poslova"
       },
       "dat_pl": {
-        "cyr": "послима",
-        "lat": "poslima"
+        "cyr": "пословима",
+        "lat": "poslovima"
       },
       "acc_pl": {
-        "cyr": "послие",
-        "lat": "poslie"
+        "cyr": "послове",
+        "lat": "poslove"
       },
       "voc_pl": {
         "cyr": "послови",
@@ -6505,7 +6586,13 @@
         "lat": "poslovima"
       }
     },
-    "conceptId": "pl_posao"
+    "conceptId": "pl_posao",
+    "semantics": {
+      "semanticClass": "work",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    }
   },
   {
     "id": "kabao",
@@ -6806,7 +6893,8 @@
     "tags": [
       "A1",
       "basic",
-      "plural"
+      "plural",
+      "dependent_noun"
     ],
     "grammar": {
       "gender": "n",
@@ -11186,7 +11274,8 @@
     "tags": [
       "A1",
       "basic",
-      "plural"
+      "plural",
+      "dependent_noun"
     ],
     "grammar": {
       "gender": "n",
@@ -11689,6 +11778,79 @@
       }
     },
     "conceptId": "pl_pače"
+  },
+  {
+    "id": "pačić",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": true
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "пачић",
+        "lat": "pačić"
+      },
+      "gen_sg": {
+        "cyr": "пачића",
+        "lat": "pačića"
+      },
+      "dat_sg": {
+        "cyr": "пачићу",
+        "lat": "pačiću"
+      },
+      "acc_sg": {
+        "cyr": "пачића",
+        "lat": "pačića"
+      },
+      "voc_sg": {
+        "cyr": "пачићу",
+        "lat": "pačiću"
+      },
+      "ins_sg": {
+        "cyr": "пачићем",
+        "lat": "pačićem"
+      },
+      "loc_sg": {
+        "cyr": "пачићу",
+        "lat": "pačiću"
+      },
+      "nom_pl": {
+        "cyr": "пачићи",
+        "lat": "pačići"
+      },
+      "gen_pl": {
+        "cyr": "пачића",
+        "lat": "pačića"
+      },
+      "dat_pl": {
+        "cyr": "пачићима",
+        "lat": "pačićima"
+      },
+      "acc_pl": {
+        "cyr": "пачиће",
+        "lat": "pačiće"
+      },
+      "voc_pl": {
+        "cyr": "пачићи",
+        "lat": "pačići"
+      },
+      "ins_pl": {
+        "cyr": "пачићима",
+        "lat": "pačićima"
+      },
+      "loc_pl": {
+        "cyr": "пачићима",
+        "lat": "pačićima"
+      }
+    },
+    "conceptId": "pl_pačić"
   },
   {
     "id": "unuče",
@@ -13660,5 +13822,1050 @@
       }
     },
     "conceptId": "pl_usta"
+  },
+  {
+    "id": "porodica",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "person",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "f",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "human_group",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "породица",
+        "lat": "porodica"
+      },
+      "gen_sg": {
+        "cyr": "породице",
+        "lat": "porodice"
+      },
+      "dat_sg": {
+        "cyr": "породици",
+        "lat": "porodici"
+      },
+      "acc_sg": {
+        "cyr": "породицу",
+        "lat": "porodicu"
+      },
+      "voc_sg": {
+        "cyr": "породице",
+        "lat": "porodice"
+      },
+      "ins_sg": {
+        "cyr": "породицом",
+        "lat": "porodicom"
+      },
+      "loc_sg": {
+        "cyr": "породици",
+        "lat": "porodici"
+      },
+      "nom_pl": {
+        "cyr": "породице",
+        "lat": "porodice"
+      },
+      "gen_pl": {
+        "cyr": "породица",
+        "lat": "porodica"
+      },
+      "dat_pl": {
+        "cyr": "породицама",
+        "lat": "porodicama"
+      },
+      "acc_pl": {
+        "cyr": "породице",
+        "lat": "porodice"
+      },
+      "voc_pl": {
+        "cyr": "породице",
+        "lat": "porodice"
+      },
+      "ins_pl": {
+        "cyr": "породицама",
+        "lat": "porodicama"
+      },
+      "loc_pl": {
+        "cyr": "породицама",
+        "lat": "porodicama"
+      }
+    },
+    "conceptId": "family_f"
+  },
+  {
+    "id": "roditelj",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "person",
+      "plural",
+      "predicate_nominal"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": true
+    },
+    "semantics": {
+      "semanticClass": "human_role",
+      "canPredicateFor": [
+        "human_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "родитељ",
+        "lat": "roditelj"
+      },
+      "gen_sg": {
+        "cyr": "родитеља",
+        "lat": "roditelja"
+      },
+      "dat_sg": {
+        "cyr": "родитељу",
+        "lat": "roditelju"
+      },
+      "acc_sg": {
+        "cyr": "родитеља",
+        "lat": "roditelja"
+      },
+      "voc_sg": {
+        "cyr": "родитељу",
+        "lat": "roditelju"
+      },
+      "ins_sg": {
+        "cyr": "родитељем",
+        "lat": "roditeljem"
+      },
+      "loc_sg": {
+        "cyr": "родитељу",
+        "lat": "roditelju"
+      },
+      "nom_pl": {
+        "cyr": "родитељи",
+        "lat": "roditelji"
+      },
+      "gen_pl": {
+        "cyr": "родитеља",
+        "lat": "roditelja"
+      },
+      "dat_pl": {
+        "cyr": "родитељима",
+        "lat": "roditeljima"
+      },
+      "acc_pl": {
+        "cyr": "родитеље",
+        "lat": "roditelje"
+      },
+      "voc_pl": {
+        "cyr": "родитељи",
+        "lat": "roditelji"
+      },
+      "ins_pl": {
+        "cyr": "родитељима",
+        "lat": "roditeljima"
+      },
+      "loc_pl": {
+        "cyr": "родитељима",
+        "lat": "roditeljima"
+      }
+    },
+    "conceptId": "parent_m"
+  },
+  {
+    "id": "stranac",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "person",
+      "plural",
+      "predicate_nominal"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": true
+    },
+    "semantics": {
+      "semanticClass": "human_role",
+      "canPredicateFor": [
+        "human_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "странац",
+        "lat": "stranac"
+      },
+      "gen_sg": {
+        "cyr": "странца",
+        "lat": "stranca"
+      },
+      "dat_sg": {
+        "cyr": "странцу",
+        "lat": "strancu"
+      },
+      "acc_sg": {
+        "cyr": "странца",
+        "lat": "stranca"
+      },
+      "voc_sg": {
+        "cyr": "странче",
+        "lat": "stranče"
+      },
+      "ins_sg": {
+        "cyr": "странцем",
+        "lat": "strancem"
+      },
+      "loc_sg": {
+        "cyr": "странцу",
+        "lat": "strancu"
+      },
+      "nom_pl": {
+        "cyr": "странци",
+        "lat": "stranci"
+      },
+      "gen_pl": {
+        "cyr": "странаца",
+        "lat": "stranaca"
+      },
+      "dat_pl": {
+        "cyr": "странцима",
+        "lat": "strancima"
+      },
+      "acc_pl": {
+        "cyr": "странце",
+        "lat": "strance"
+      },
+      "voc_pl": {
+        "cyr": "странци",
+        "lat": "stranci"
+      },
+      "ins_pl": {
+        "cyr": "странцима",
+        "lat": "strancima"
+      },
+      "loc_pl": {
+        "cyr": "странцима",
+        "lat": "strancima"
+      }
+    },
+    "conceptId": "foreigner_m"
+  },
+  {
+    "id": "strankinja",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "person",
+      "plural",
+      "predicate_nominal"
+    ],
+    "grammar": {
+      "gender": "f",
+      "animate": true
+    },
+    "semantics": {
+      "semanticClass": "human_role",
+      "canPredicateFor": [
+        "human_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "странкиња",
+        "lat": "strankinja"
+      },
+      "gen_sg": {
+        "cyr": "странкиње",
+        "lat": "strankinje"
+      },
+      "dat_sg": {
+        "cyr": "странкињи",
+        "lat": "strankinji"
+      },
+      "acc_sg": {
+        "cyr": "странкињу",
+        "lat": "strankinju"
+      },
+      "voc_sg": {
+        "cyr": "странкињо",
+        "lat": "strankinjo"
+      },
+      "ins_sg": {
+        "cyr": "странкињом",
+        "lat": "strankinjom"
+      },
+      "loc_sg": {
+        "cyr": "странкињи",
+        "lat": "strankinji"
+      },
+      "nom_pl": {
+        "cyr": "странкиње",
+        "lat": "strankinje"
+      },
+      "gen_pl": {
+        "cyr": "странкиња",
+        "lat": "strankinja"
+      },
+      "dat_pl": {
+        "cyr": "странкињама",
+        "lat": "strankinjama"
+      },
+      "acc_pl": {
+        "cyr": "странкиње",
+        "lat": "strankinje"
+      },
+      "voc_pl": {
+        "cyr": "странкиње",
+        "lat": "strankinje"
+      },
+      "ins_pl": {
+        "cyr": "странкињама",
+        "lat": "strankinjama"
+      },
+      "loc_pl": {
+        "cyr": "странкињама",
+        "lat": "strankinjama"
+      }
+    },
+    "conceptId": "foreigner_f"
+  },
+  {
+    "id": "novinar",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "person",
+      "plural",
+      "predicate_nominal"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": true
+    },
+    "semantics": {
+      "semanticClass": "human_role",
+      "canPredicateFor": [
+        "human_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "новинар",
+        "lat": "novinar"
+      },
+      "gen_sg": {
+        "cyr": "новинара",
+        "lat": "novinara"
+      },
+      "dat_sg": {
+        "cyr": "новинару",
+        "lat": "novinaru"
+      },
+      "acc_sg": {
+        "cyr": "новинара",
+        "lat": "novinara"
+      },
+      "voc_sg": {
+        "cyr": "новинару",
+        "lat": "novinaru"
+      },
+      "ins_sg": {
+        "cyr": "новинаром",
+        "lat": "novinarom"
+      },
+      "loc_sg": {
+        "cyr": "новинару",
+        "lat": "novinaru"
+      },
+      "nom_pl": {
+        "cyr": "новинари",
+        "lat": "novinari"
+      },
+      "gen_pl": {
+        "cyr": "новинара",
+        "lat": "novinara"
+      },
+      "dat_pl": {
+        "cyr": "новинарима",
+        "lat": "novinarima"
+      },
+      "acc_pl": {
+        "cyr": "новинаре",
+        "lat": "novinare"
+      },
+      "voc_pl": {
+        "cyr": "новинари",
+        "lat": "novinari"
+      },
+      "ins_pl": {
+        "cyr": "новинарима",
+        "lat": "novinarima"
+      },
+      "loc_pl": {
+        "cyr": "новинарима",
+        "lat": "novinarima"
+      }
+    },
+    "conceptId": "journalist_m"
+  },
+  {
+    "id": "novinarka",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "person",
+      "plural",
+      "predicate_nominal"
+    ],
+    "grammar": {
+      "gender": "f",
+      "animate": true
+    },
+    "semantics": {
+      "semanticClass": "human_role",
+      "canPredicateFor": [
+        "human_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "новинарка",
+        "lat": "novinarka"
+      },
+      "gen_sg": {
+        "cyr": "новинарке",
+        "lat": "novinarke"
+      },
+      "dat_sg": {
+        "cyr": "новинарки",
+        "lat": "novinarki"
+      },
+      "acc_sg": {
+        "cyr": "новинарку",
+        "lat": "novinarku"
+      },
+      "voc_sg": {
+        "cyr": "новинарко",
+        "lat": "novinarko"
+      },
+      "ins_sg": {
+        "cyr": "новинарком",
+        "lat": "novinarkom"
+      },
+      "loc_sg": {
+        "cyr": "новинарки",
+        "lat": "novinarki"
+      },
+      "nom_pl": {
+        "cyr": "новинарке",
+        "lat": "novinarke"
+      },
+      "gen_pl": {
+        "cyr": "новинарки",
+        "lat": "novinarki"
+      },
+      "dat_pl": {
+        "cyr": "новинаркама",
+        "lat": "novinarkama"
+      },
+      "acc_pl": {
+        "cyr": "новинарке",
+        "lat": "novinarke"
+      },
+      "voc_pl": {
+        "cyr": "новинарке",
+        "lat": "novinarke"
+      },
+      "ins_pl": {
+        "cyr": "новинаркама",
+        "lat": "novinarkama"
+      },
+      "loc_pl": {
+        "cyr": "новинаркама",
+        "lat": "novinarkama"
+      }
+    },
+    "conceptId": "journalist_f"
+  },
+  {
+    "id": "most",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "place",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "place",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "мост",
+        "lat": "most"
+      },
+      "gen_sg": {
+        "cyr": "моста",
+        "lat": "mosta"
+      },
+      "dat_sg": {
+        "cyr": "мосту",
+        "lat": "mostu"
+      },
+      "acc_sg": {
+        "cyr": "мост",
+        "lat": "most"
+      },
+      "voc_sg": {
+        "cyr": "мосте",
+        "lat": "moste"
+      },
+      "ins_sg": {
+        "cyr": "мостом",
+        "lat": "mostom"
+      },
+      "loc_sg": {
+        "cyr": "мосту",
+        "lat": "mostu"
+      },
+      "nom_pl": {
+        "cyr": "мостови",
+        "lat": "mostovi"
+      },
+      "gen_pl": {
+        "cyr": "мостова",
+        "lat": "mostova"
+      },
+      "dat_pl": {
+        "cyr": "мостовима",
+        "lat": "mostovima"
+      },
+      "acc_pl": {
+        "cyr": "мостове",
+        "lat": "mostove"
+      },
+      "voc_pl": {
+        "cyr": "мостови",
+        "lat": "mostovi"
+      },
+      "ins_pl": {
+        "cyr": "мостовима",
+        "lat": "mostovima"
+      },
+      "loc_pl": {
+        "cyr": "мостовима",
+        "lat": "mostovima"
+      }
+    },
+    "conceptId": "bridge_m"
+  },
+  {
+    "id": "zgrada",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "place",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "f",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "place",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "зграда",
+        "lat": "zgrada"
+      },
+      "gen_sg": {
+        "cyr": "зграде",
+        "lat": "zgrade"
+      },
+      "dat_sg": {
+        "cyr": "згради",
+        "lat": "zgradi"
+      },
+      "acc_sg": {
+        "cyr": "зграду",
+        "lat": "zgradu"
+      },
+      "voc_sg": {
+        "cyr": "зградо",
+        "lat": "zgrado"
+      },
+      "ins_sg": {
+        "cyr": "зградом",
+        "lat": "zgradom"
+      },
+      "loc_sg": {
+        "cyr": "згради",
+        "lat": "zgradi"
+      },
+      "nom_pl": {
+        "cyr": "зграде",
+        "lat": "zgrade"
+      },
+      "gen_pl": {
+        "cyr": "зграда",
+        "lat": "zgrada"
+      },
+      "dat_pl": {
+        "cyr": "зградама",
+        "lat": "zgradama"
+      },
+      "acc_pl": {
+        "cyr": "зграде",
+        "lat": "zgrade"
+      },
+      "voc_pl": {
+        "cyr": "зграде",
+        "lat": "zgrade"
+      },
+      "ins_pl": {
+        "cyr": "зградама",
+        "lat": "zgradama"
+      },
+      "loc_pl": {
+        "cyr": "зградама",
+        "lat": "zgradama"
+      }
+    },
+    "conceptId": "building_f"
+  },
+  {
+    "id": "reka",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "place",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "f",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "place",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "река",
+        "lat": "reka"
+      },
+      "gen_sg": {
+        "cyr": "реке",
+        "lat": "reke"
+      },
+      "dat_sg": {
+        "cyr": "реци",
+        "lat": "reci"
+      },
+      "acc_sg": {
+        "cyr": "реку",
+        "lat": "reku"
+      },
+      "voc_sg": {
+        "cyr": "реко",
+        "lat": "reko"
+      },
+      "ins_sg": {
+        "cyr": "реком",
+        "lat": "rekom"
+      },
+      "loc_sg": {
+        "cyr": "реци",
+        "lat": "reci"
+      },
+      "nom_pl": {
+        "cyr": "реке",
+        "lat": "reke"
+      },
+      "gen_pl": {
+        "cyr": "река",
+        "lat": "reka"
+      },
+      "dat_pl": {
+        "cyr": "рекама",
+        "lat": "rekama"
+      },
+      "acc_pl": {
+        "cyr": "реке",
+        "lat": "reke"
+      },
+      "voc_pl": {
+        "cyr": "реке",
+        "lat": "reke"
+      },
+      "ins_pl": {
+        "cyr": "рекама",
+        "lat": "rekama"
+      },
+      "loc_pl": {
+        "cyr": "рекама",
+        "lat": "rekama"
+      }
+    },
+    "conceptId": "river_f"
+  },
+  {
+    "id": "ulica",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "place",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "f",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "place",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "улица",
+        "lat": "ulica"
+      },
+      "gen_sg": {
+        "cyr": "улице",
+        "lat": "ulice"
+      },
+      "dat_sg": {
+        "cyr": "улици",
+        "lat": "ulici"
+      },
+      "acc_sg": {
+        "cyr": "улицу",
+        "lat": "ulicu"
+      },
+      "voc_sg": {
+        "cyr": "улице",
+        "lat": "ulice"
+      },
+      "ins_sg": {
+        "cyr": "улицом",
+        "lat": "ulicom"
+      },
+      "loc_sg": {
+        "cyr": "улици",
+        "lat": "ulici"
+      },
+      "nom_pl": {
+        "cyr": "улице",
+        "lat": "ulice"
+      },
+      "gen_pl": {
+        "cyr": "улица",
+        "lat": "ulica"
+      },
+      "dat_pl": {
+        "cyr": "улицама",
+        "lat": "ulicama"
+      },
+      "acc_pl": {
+        "cyr": "улице",
+        "lat": "ulice"
+      },
+      "voc_pl": {
+        "cyr": "улице",
+        "lat": "ulice"
+      },
+      "ins_pl": {
+        "cyr": "улицама",
+        "lat": "ulicama"
+      },
+      "loc_pl": {
+        "cyr": "улицама",
+        "lat": "ulicama"
+      }
+    },
+    "conceptId": "street_f"
+  },
+  {
+    "id": "sprat",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "place",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "place",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "спрат",
+        "lat": "sprat"
+      },
+      "gen_sg": {
+        "cyr": "спрата",
+        "lat": "sprata"
+      },
+      "dat_sg": {
+        "cyr": "спрату",
+        "lat": "spratu"
+      },
+      "acc_sg": {
+        "cyr": "спрат",
+        "lat": "sprat"
+      },
+      "voc_sg": {
+        "cyr": "спрате",
+        "lat": "sprate"
+      },
+      "ins_sg": {
+        "cyr": "спратом",
+        "lat": "spratom"
+      },
+      "loc_sg": {
+        "cyr": "спрату",
+        "lat": "spratu"
+      },
+      "nom_pl": {
+        "cyr": "спратови",
+        "lat": "spratovi"
+      },
+      "gen_pl": {
+        "cyr": "спратова",
+        "lat": "spratova"
+      },
+      "dat_pl": {
+        "cyr": "спратовима",
+        "lat": "spratovima"
+      },
+      "acc_pl": {
+        "cyr": "спратове",
+        "lat": "spratove"
+      },
+      "voc_pl": {
+        "cyr": "спратови",
+        "lat": "spratovi"
+      },
+      "ins_pl": {
+        "cyr": "спратовима",
+        "lat": "spratovima"
+      },
+      "loc_pl": {
+        "cyr": "спратовима",
+        "lat": "spratovima"
+      }
+    },
+    "conceptId": "floor_m"
+  },
+  {
+    "id": "racun",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "object",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "object",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "рачун",
+        "lat": "račun"
+      },
+      "gen_sg": {
+        "cyr": "рачуна",
+        "lat": "računa"
+      },
+      "dat_sg": {
+        "cyr": "рачуну",
+        "lat": "računu"
+      },
+      "acc_sg": {
+        "cyr": "рачун",
+        "lat": "račun"
+      },
+      "voc_sg": {
+        "cyr": "рачуне",
+        "lat": "račune"
+      },
+      "ins_sg": {
+        "cyr": "рачуном",
+        "lat": "računom"
+      },
+      "loc_sg": {
+        "cyr": "рачуну",
+        "lat": "računu"
+      },
+      "nom_pl": {
+        "cyr": "рачуни",
+        "lat": "računi"
+      },
+      "gen_pl": {
+        "cyr": "рачуна",
+        "lat": "računa"
+      },
+      "dat_pl": {
+        "cyr": "рачунима",
+        "lat": "računima"
+      },
+      "acc_pl": {
+        "cyr": "рачуне",
+        "lat": "račune"
+      },
+      "voc_pl": {
+        "cyr": "рачуни",
+        "lat": "računi"
+      },
+      "ins_pl": {
+        "cyr": "рачунима",
+        "lat": "računima"
+      },
+      "loc_pl": {
+        "cyr": "рачунима",
+        "lat": "računima"
+      }
+    },
+    "conceptId": "bill_m"
+  },
+  {
+    "id": "jezik",
+    "type": "noun",
+    "subtype": "common",
+    "tags": [
+      "A1",
+      "basic",
+      "object",
+      "plural"
+    ],
+    "grammar": {
+      "gender": "m",
+      "animate": false
+    },
+    "semantics": {
+      "semanticClass": "language",
+      "canPredicateFor": [
+        "demonstrative_subject"
+      ]
+    },
+    "forms": {
+      "nom_sg": {
+        "cyr": "језик",
+        "lat": "jezik"
+      },
+      "gen_sg": {
+        "cyr": "језика",
+        "lat": "jezika"
+      },
+      "dat_sg": {
+        "cyr": "језику",
+        "lat": "jeziku"
+      },
+      "acc_sg": {
+        "cyr": "језик",
+        "lat": "jezik"
+      },
+      "voc_sg": {
+        "cyr": "језиче",
+        "lat": "jeziče"
+      },
+      "ins_sg": {
+        "cyr": "језиком",
+        "lat": "jezikom"
+      },
+      "loc_sg": {
+        "cyr": "језику",
+        "lat": "jeziku"
+      },
+      "nom_pl": {
+        "cyr": "језици",
+        "lat": "jezici"
+      },
+      "gen_pl": {
+        "cyr": "језика",
+        "lat": "jezika"
+      },
+      "dat_pl": {
+        "cyr": "језицима",
+        "lat": "jezicima"
+      },
+      "acc_pl": {
+        "cyr": "језике",
+        "lat": "jezike"
+      },
+      "voc_pl": {
+        "cyr": "језици",
+        "lat": "jezici"
+      },
+      "ins_pl": {
+        "cyr": "језицима",
+        "lat": "jezicima"
+      },
+      "loc_pl": {
+        "cyr": "језицима",
+        "lat": "jezicima"
+      }
+    },
+    "conceptId": "language_m"
   }
 ]

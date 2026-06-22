@@ -10,6 +10,8 @@ const ICONS = {
   "full-answer": "📝",
   "false-friends": "🎭",
   "shorts": "⏳",
+  "ownership": "🔑",
+  "verb-construction": "🗣️",
   "readme": "📖",
 };
 
@@ -112,6 +114,36 @@ export function renderMenu(container) {
     location.hash = "#plural";
   });
   grid.appendChild(pluralCard);
+
+  const ownershipCard = document.createElement("div");
+  ownershipCard.className = "menu-card";
+  const ownershipData = t("exercises.ownership") || {};
+  ownershipCard.innerHTML = `
+      <div class="menu-card-icon">${ICONS.ownership}</div>
+      <div class="menu-card-text">
+        <h3>${ownershipData.title || "Ownership"}</h3>
+        <p>${ownershipData.desc || ""}</p>
+      </div>
+    `;
+  ownershipCard.addEventListener("click", () => {
+    location.hash = "#ownership";
+  });
+  grid.appendChild(ownershipCard);
+
+  const verbCard = document.createElement("div");
+  verbCard.className = "menu-card";
+  const verbData = t("exercises.verb-construction") || {};
+  verbCard.innerHTML = `
+      <div class="menu-card-icon">${ICONS["verb-construction"]}</div>
+      <div class="menu-card-text">
+        <h3>${verbData.title || "Verb Construction"}</h3>
+        <p>${verbData.desc || ""}</p>
+      </div>
+    `;
+  verbCard.addEventListener("click", () => {
+    location.hash = "#verb-construction";
+  });
+  grid.appendChild(verbCard);
 
   const readmeCard = document.createElement("div");
   readmeCard.className = "menu-card";

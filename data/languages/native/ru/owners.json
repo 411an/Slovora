@@ -1,0 +1,86 @@
+{
+  "language": "ru",
+  "question": {
+    "id": "whose",
+    "forms": {
+      "nom_sg_m": "чей", "gen_sg_m": "чьего", "dat_sg_m": "чьему", "acc_sg_m": "чей", "acc_sg_m_anim": "чьего", "voc_sg_m": "чей", "ins_sg_m": "чьим", "loc_sg_m": "чьём",
+      "nom_sg_f": "чья", "gen_sg_f": "чьей", "dat_sg_f": "чьей", "acc_sg_f": "чью", "voc_sg_f": "чья", "ins_sg_f": "чьей", "loc_sg_f": "чьей",
+      "nom_sg_n": "чьё", "gen_sg_n": "чьего", "dat_sg_n": "чьему", "acc_sg_n": "чьё", "voc_sg_n": "чьё", "ins_sg_n": "чьим", "loc_sg_n": "чьём",
+      "nom_pl_m": "чьи", "gen_pl_m": "чьих", "dat_pl_m": "чьим", "acc_pl_m": "чьи", "voc_pl_m": "чьи", "ins_pl_m": "чьими", "loc_pl_m": "чьих",
+      "nom_pl_f": "чьи", "gen_pl_f": "чьих", "dat_pl_f": "чьим", "acc_pl_f": "чьи", "voc_pl_f": "чьи", "ins_pl_f": "чьими", "loc_pl_f": "чьих",
+      "nom_pl_n": "чьи", "gen_pl_n": "чьих", "dat_pl_n": "чьим", "acc_pl_n": "чьи", "voc_pl_n": "чьи", "ins_pl_n": "чьими", "loc_pl_n": "чьих"
+    }
+  },
+  "owners": [
+    {
+      "id": "my",
+      "srOwnerId": "my",
+      "label": "мой",
+      "forms": {
+        "nom_sg_m": "мой", "gen_sg_m": "моего", "dat_sg_m": "моему", "acc_sg_m": "мой", "acc_sg_m_anim": "моего", "voc_sg_m": "мой", "ins_sg_m": "моим", "loc_sg_m": "моём",
+        "nom_sg_f": "моя", "gen_sg_f": "моей", "dat_sg_f": "моей", "acc_sg_f": "мою", "voc_sg_f": "моя", "ins_sg_f": "моей", "loc_sg_f": "моей",
+        "nom_sg_n": "моё", "gen_sg_n": "моего", "dat_sg_n": "моему", "acc_sg_n": "моё", "voc_sg_n": "моё", "ins_sg_n": "моим", "loc_sg_n": "моём",
+        "nom_pl_m": "мои", "gen_pl_m": "моих", "dat_pl_m": "моим", "acc_pl_m": "мои", "voc_pl_m": "мои", "ins_pl_m": "моими", "loc_pl_m": "моих",
+        "nom_pl_f": "мои", "gen_pl_f": "моих", "dat_pl_f": "моим", "acc_pl_f": "мои", "voc_pl_f": "мои", "ins_pl_f": "моими", "loc_pl_f": "моих",
+        "nom_pl_n": "мои", "gen_pl_n": "моих", "dat_pl_n": "моим", "acc_pl_n": "мои", "voc_pl_n": "мои", "ins_pl_n": "моими", "loc_pl_n": "моих"
+      }
+    },
+    {
+      "id": "your_sg",
+      "srOwnerId": "your_sg",
+      "label": "твой",
+      "forms": {
+        "nom_sg_m": "твой", "gen_sg_m": "твоего", "dat_sg_m": "твоему", "acc_sg_m": "твой", "acc_sg_m_anim": "твоего", "voc_sg_m": "твой", "ins_sg_m": "твоим", "loc_sg_m": "твоём",
+        "nom_sg_f": "твоя", "gen_sg_f": "твоей", "dat_sg_f": "твоей", "acc_sg_f": "твою", "voc_sg_f": "твоя", "ins_sg_f": "твоей", "loc_sg_f": "твоей",
+        "nom_sg_n": "твоё", "gen_sg_n": "твоего", "dat_sg_n": "твоему", "acc_sg_n": "твоё", "voc_sg_n": "твоё", "ins_sg_n": "твоим", "loc_sg_n": "твоём",
+        "nom_pl_m": "твои", "gen_pl_m": "твоих", "dat_pl_m": "твоим", "acc_pl_m": "твои", "voc_pl_m": "твои", "ins_pl_m": "твоими", "loc_pl_m": "твоих",
+        "nom_pl_f": "твои", "gen_pl_f": "твоих", "dat_pl_f": "твоим", "acc_pl_f": "твои", "voc_pl_f": "твои", "ins_pl_f": "твоими", "loc_pl_f": "твоих",
+        "nom_pl_n": "твои", "gen_pl_n": "твоих", "dat_pl_n": "твоим", "acc_pl_n": "твои", "voc_pl_n": "твои", "ins_pl_n": "твоими", "loc_pl_n": "твоих"
+      }
+    },
+    {
+      "id": "his",
+      "srOwnerId": "his",
+      "label": "его",
+      "forms": { "default": "его" }
+    },
+    {
+      "id": "her",
+      "srOwnerId": "her",
+      "label": "её",
+      "forms": { "default": "её" }
+    },
+    {
+      "id": "our",
+      "srOwnerId": "our",
+      "label": "наш",
+      "forms": {
+        "nom_sg_m": "наш", "gen_sg_m": "нашего", "dat_sg_m": "нашему", "acc_sg_m": "наш", "acc_sg_m_anim": "нашего", "voc_sg_m": "наш", "ins_sg_m": "нашим", "loc_sg_m": "нашем",
+        "nom_sg_f": "наша", "gen_sg_f": "нашей", "dat_sg_f": "нашей", "acc_sg_f": "нашу", "voc_sg_f": "наша", "ins_sg_f": "нашей", "loc_sg_f": "нашей",
+        "nom_sg_n": "наше", "gen_sg_n": "нашего", "dat_sg_n": "нашему", "acc_sg_n": "наше", "voc_sg_n": "наше", "ins_sg_n": "нашим", "loc_sg_n": "нашем",
+        "nom_pl_m": "наши", "gen_pl_m": "наших", "dat_pl_m": "нашим", "acc_pl_m": "наши", "voc_pl_m": "наши", "ins_pl_m": "нашими", "loc_pl_m": "наших",
+        "nom_pl_f": "наши", "gen_pl_f": "наших", "dat_pl_f": "нашим", "acc_pl_f": "наши", "voc_pl_f": "наши", "ins_pl_f": "нашими", "loc_pl_f": "наших",
+        "nom_pl_n": "наши", "gen_pl_n": "наших", "dat_pl_n": "нашим", "acc_pl_n": "наши", "voc_pl_n": "наши", "ins_pl_n": "нашими", "loc_pl_n": "наших"
+      }
+    },
+    {
+      "id": "your_pl",
+      "srOwnerId": "your_pl",
+      "label": "ваш",
+      "forms": {
+        "nom_sg_m": "ваш", "gen_sg_m": "вашего", "dat_sg_m": "вашему", "acc_sg_m": "ваш", "acc_sg_m_anim": "вашего", "voc_sg_m": "ваш", "ins_sg_m": "вашим", "loc_sg_m": "вашем",
+        "nom_sg_f": "ваша", "gen_sg_f": "вашей", "dat_sg_f": "вашей", "acc_sg_f": "вашу", "voc_sg_f": "ваша", "ins_sg_f": "вашей", "loc_sg_f": "вашей",
+        "nom_sg_n": "ваше", "gen_sg_n": "вашего", "dat_sg_n": "вашему", "acc_sg_n": "ваше", "voc_sg_n": "ваше", "ins_sg_n": "вашим", "loc_sg_n": "вашем",
+        "nom_pl_m": "ваши", "gen_pl_m": "ваших", "dat_pl_m": "вашим", "acc_pl_m": "ваши", "voc_pl_m": "ваши", "ins_pl_m": "вашими", "loc_pl_m": "ваших",
+        "nom_pl_f": "ваши", "gen_pl_f": "ваших", "dat_pl_f": "вашим", "acc_pl_f": "ваши", "voc_pl_f": "ваши", "ins_pl_f": "вашими", "loc_pl_f": "ваших",
+        "nom_pl_n": "ваши", "gen_pl_n": "ваших", "dat_pl_n": "вашим", "acc_pl_n": "ваши", "voc_pl_n": "ваши", "ins_pl_n": "вашими", "loc_pl_n": "ваших"
+      }
+    },
+    {
+      "id": "their",
+      "srOwnerId": "their",
+      "label": "их",
+      "forms": { "default": "их" }
+    }
+  ]
+}

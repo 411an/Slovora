@@ -38,6 +38,122 @@
         { "pronoun_cyr": "они/оне/она", "pronoun_lat": "oni/one/ona", "form_cyr": "јесу", "form_lat": "jesu" }
       ]
     },
+    "sr.verbs.present.patterns": {
+      "title": { "ru": "Глаголы: настоящее время", "en": "Verbs: present tense" },
+      "columns": {
+        "subject_ru": { "ru": "Значение", "en": "Meaning" },
+        "subject_en": { "ru": "Значение", "en": "Meaning" },
+        "pronoun": { "ru": "Местоимение", "en": "Pronoun" },
+        "im": { "ru": "-им: учити", "en": "-im: učiti" },
+        "em": { "ru": "-ем: писати", "en": "-em: pisati" },
+        "am": { "ru": "-ам: читати", "en": "-am: čitati" }
+      },
+      "rows": [
+        { "subject_ru": "я", "subject_en": "I", "pronoun": "ја / ja", "im": "учим / učim", "em": "пишем / pišem", "am": "читам / čitam" },
+        { "subject_ru": "ты", "subject_en": "you (sg)", "pronoun": "ти / ti", "im": "учиш / učiš", "em": "пишеш / pišeš", "am": "читаш / čitaš" },
+        { "subject_ru": "мы", "subject_en": "we", "pronoun": "ми / mi", "im": "учимо / učimo", "em": "пишемо / pišemo", "am": "читамо / čitamo" },
+        { "subject_ru": "вы", "subject_en": "you (pl)", "pronoun": "ви / vi", "im": "учите / učite", "em": "пишете / pišete", "am": "читате / čitate" },
+        { "subject_ru": "он/она/оно", "subject_en": "he/she/it", "pronoun": "он/она/оно / on/ona/ono", "im": "учи / uči", "em": "пише / piše", "am": "чита / čita" },
+        { "subject_ru": "они/оне/она (мн.)", "subject_en": "they (m/f/n)", "pronoun": "они/оне/она / oni/one/ona", "im": "уче / uče", "em": "пишу / pišu", "am": "читају / čitaju" }
+      ]
+    },
+    "sr.nouns.locative.basic": {
+      "title": { "ru": "Локатив: о ком? где?", "en": "Locative: about what? where?" },
+      "columns": {
+        "pattern_ru": { "ru": "Тип", "en": "Pattern" },
+        "pattern_en": { "ru": "Тип", "en": "Pattern" },
+        "one": { "ru": "Один", "en": "One" },
+        "many": { "ru": "Много", "en": "Many" }
+      },
+      "rows": [
+        {
+          "pattern_ru": "Он / Оно",
+          "pattern_en": "Masculine / Neuter",
+          "one": "-у: град / grad → о граду / o gradu; дрво / drvo → о дрву / o drvu; мост / most → на мосту / na mostu",
+          "many": "-има, -овима: дрва / drva → о дрвима / o drvima; мостови / mostovi → о мостовима / o mostovima; комшије / komšije → о комшијама / o komšijama; хотели / hoteli → о хотелима / o hotelima; села / sela → о селима / o selima"
+        },
+        {
+          "pattern_ru": "Она",
+          "pattern_en": "Feminine",
+          "one": "-и: река / reka → о реци / o reci; улица / ulica → у улици / u ulici; зграда / zgrada → у згради / u zgradi",
+          "many": "-ама: реке / reke → о рекама / o rekama; улице / ulice → о улицама / o ulicama; торбе / torbe → о торбама / o torbama; оловке / olovke → о оловкама / o olovkama"
+        }
+      ],
+      "notes": [
+        {
+          "ru": "Вопросы: о ком? о чём? / o kome? o čemu?; где? / gde?",
+          "en": "Questions: about whom? about what? / o kome? o čemu?; where? / gde?"
+        },
+        {
+          "ru": "Предлог о / o нужен для темы разговора, чтения, письма, знания или изучения: о мосту / o mostu (ед. ч.), о улицама / o ulicama (мн. ч.).",
+          "en": "The preposition o marks the topic of speaking, reading, writing, knowing, or studying: o mostu (singular), o ulicama (plural)."
+        },
+        {
+          "ru": "Предлог у / u чаще значит внутри физического объёма или в стране/регионе: у Србији / u Srbiji, у кући / u kući, у биоскопу / u bioskopu.",
+          "en": "The preposition u usually means inside a physical volume or in a country/region: u Srbiji, u kući, u bioskopu."
+        },
+        {
+          "ru": "Предлог на / na часто используется для открытых пространств, плоских поверхностей и конструкций: на мосту / na mostu, на реци / na reci, на столу / na stolu.",
+          "en": "The preposition na is common for open spaces, flat surfaces, and structures: na mostu, na reci, na stolu."
+        },
+        {
+          "ru": "В единственном числе окончание часто -у для Он/Оно и -и для Она. Перед окончанием может меняться согласная или основа: река / reka → реци / reci; орах / orah → орасима / orasima; књига / knjiga → књизи / knjizi; посао / posao → послу / poslu.",
+          "en": "In singular, the ending is often -u for masculine/neuter and -i for feminine. A consonant or stem can change before the ending: reka → reci; orah → orasima; knjiga → knjizi; posao → poslu."
+        },
+        {
+          "ru": "О смене согласных в сложных формах множественного числа см. соседнюю вкладку.",
+          "en": "For consonant changes in harder plural forms, see the neighboring tab."
+        }
+      ]
+    },
+    "sr.nouns.locative.plural": {
+      "title": { "ru": "Локатив мн. числа", "en": "Plural locative" },
+      "columns": {
+        "pattern_ru": { "ru": "Тип", "en": "Pattern" },
+        "pattern_en": { "ru": "Тип", "en": "Pattern" },
+        "examples": { "ru": "Примеры", "en": "Examples" },
+        "note_ru": { "ru": "Комментарий", "en": "Note" },
+        "note_en": { "ru": "Комментарий", "en": "Note" }
+      },
+      "rows": [
+        {
+          "pattern_ru": "Женский род на -а",
+          "pattern_en": "Feminine -a nouns",
+          "examples": "река → рекама; улица → улицама",
+          "note_ru": "Форма на -ама: о рекама, о улицама.",
+          "note_en": "The form uses -ama: o rekama, o ulicama."
+        },
+        {
+          "pattern_ru": "Мужской род с расширением множественного",
+          "pattern_en": "Masculine nouns with expanded plural",
+          "examples": "мост → мостовима; град → градовима",
+          "note_ru": "Если множественное имеет -ов-/-ев-, локатив множественного обычно сохраняет это расширение.",
+          "note_en": "If the plural has -ov-/-ev-, plural locative usually keeps that expansion."
+        },
+        {
+          "pattern_ru": "Средний род",
+          "pattern_en": "Neuter nouns",
+          "examples": "дрво → дрвима",
+          "note_ru": "Часто форма на -има.",
+          "note_en": "The form often uses -ima."
+        },
+        {
+          "pattern_ru": "Согласная меняется во множественном",
+          "pattern_en": "Consonant changes in plural",
+          "examples": "орах → орасима",
+          "note_ru": "Эта соседняя вкладка показывает только нужные формы для локатива. Подробные правила замен вроде х → с см. в базовой справке по множественному числу.",
+          "note_en": "This neighboring tab shows only the forms needed for locative use. See the basic plural help for more detail on changes such as h → s."
+        }
+      ]
+    },
+    "sr.nouns.plural.full": {
+      "kind": "markdown",
+      "title": { "ru": "Множественное число", "en": "Plural rules" },
+      "files": {
+        "ru": "data/languages/sr/serbian_plural_rules_latin_ru.md",
+        "en": "data/languages/sr/serbian_plural_rules_latin_en.md"
+      }
+    },
     "sr.demonstratives.basic": {
       "title": { "ru": "Ово", "en": "Ovo" },
       "columns": {

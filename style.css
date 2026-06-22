@@ -528,7 +528,7 @@ body {
   border: 1px solid var(--border);
   border-radius: var(--radius-xl);
   padding: 24px;
-  max-width: 500px;
+  max-width: 1000px;
   width: 100%;
   max-height: 80vh;
   overflow-y: auto;
@@ -603,6 +603,24 @@ body {
 
 .grammar-table tr:hover td {
   background: rgba(108, 92, 231, 0.05);
+}
+
+.grammar-notes {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+  color: var(--text-secondary);
+  font-family: var(--font-content);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.grammar-notes p {
+  margin: 0 0 8px;
+}
+
+.grammar-notes p:last-child {
+  margin-bottom: 0;
 }
 
 /* ── README Viewer ────────────────────────────────────────────── */
@@ -962,10 +980,136 @@ body {
   font-weight: 600;
 }
 
+/* Ownership Exercise */
+
+.ownership-native-prompt {
+  margin-bottom: 16px;
+  padding: 14px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  font-family: var(--font-content);
+}
+
+.ownership-native-line {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.5;
+}
+
+.ownership-native-line.answer {
+  margin-top: 4px;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.ownership-sentence {
+  margin-bottom: 18px;
+  padding: 16px;
+  background: var(--bg-answer-zone);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  font-family: var(--font-content);
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 2.25;
+  color: var(--text-primary);
+}
+
+.ownership-slot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 72px;
+  min-height: 32px;
+  padding: 3px 9px;
+  margin: 0 2px;
+  border: 1px dashed rgba(108, 92, 231, 0.35);
+  border-radius: var(--radius-sm);
+  color: var(--text-dim);
+  background: rgba(108, 92, 231, 0.06);
+  vertical-align: middle;
+}
+
+.ownership-slot.filled {
+  color: var(--text-primary);
+  border-style: solid;
+  border-color: var(--accent);
+  background: rgba(108, 92, 231, 0.16);
+}
+
+.ownership-columns {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.ownership-column {
+  min-width: 0;
+}
+
+.ownership-column-title {
+  margin-bottom: 8px;
+  font-size: 0.76rem;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+
+.ownership-option {
+  width: 100%;
+  min-height: 44px;
+  margin-bottom: 8px;
+  padding: 9px 8px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  font-family: var(--font-content);
+  font-size: 0.98rem;
+  font-weight: 600;
+  text-align: center;
+  word-break: break-word;
+  cursor: pointer;
+  transition: all var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.ownership-option:hover:not(:disabled) {
+  background: var(--bg-card-hover);
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.ownership-option:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.ownership-option.selected {
+  border-color: var(--accent);
+  background: linear-gradient(135deg, rgba(108, 92, 231, 0.18), rgba(108, 92, 231, 0.06));
+  box-shadow: 0 0 12px var(--accent-glow);
+}
+
+.ownership-option.correct {
+  border-color: var(--success) !important;
+  background: rgba(0, 206, 201, 0.12) !important;
+  box-shadow: 0 0 14px var(--success-glow);
+  color: var(--success);
+}
+
+.ownership-option:disabled {
+  cursor: default;
+  opacity: 0.76;
+}
+
 /* ── Wide Help Modal ──────────────────────────────────────────── */
 
 .modal-content-wide {
-  max-width: 720px !important;
+  max-width: 1000px !important;
   max-height: 85vh;
 }
 
